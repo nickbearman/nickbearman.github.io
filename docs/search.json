@@ -67,7 +67,7 @@
     "href": "training-courses.html",
     "title": "Training Courses",
     "section": "",
-    "text": "This is a Quarto website about training.\nHere is some example text.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a Quarto website about training courses.\nHere is some example text.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "training-materials.html",

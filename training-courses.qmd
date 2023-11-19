@@ -2,7 +2,7 @@
   title: "Training Courses"
 ---
   
-  This is a Quarto website about training.
+  This is a Quarto website about training courses.
 
 Here is some example text.
 
