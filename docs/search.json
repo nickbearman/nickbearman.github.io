@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "blog/icc/index.html",
+    "href": "blog/icc/index.html",
+    "title": "ICC, Cape Town, South Africa – 3D Models and UN Acronym Soup",
+    "section": "",
+    "text": "A couple of weeks ago I spent a fantastic week in Cape Town, South Africa, attending the 2023 International Cartographic Conference. The ICC (not to be confused with the International Cricket Council!) is held every two years by the International Cartographic Association (ICA). It’s a global conference, and this is the second time it has taken place in South Africa, previously being hosted in Durban in 2003.\nThe conference covers everything under the umbrella of Cartography and GIScience, with papers ranging from user assessments to theoretical discussions, covering topics as wide as cartographic methods, generalisation, COVID, navigation, education, spatial data infrastructures and many many other topics. There is plenty of overlap with the Cartography and Geographic Information Science journal (CaGIS Journal), and a number of us from the academic board were attending to present our work, connect with authors and discover new articles. I work as Cartographic Editor for CaGIS, and it was great to see some published work presented, and discover new authors who might write for the journal."
+  },
+  {
+    "objectID": "blog/icc/index.html#d-models",
+    "href": "blog/icc/index.html#d-models",
+    "title": "ICC, Cape Town, South Africa – 3D Models and UN Acronym Soup",
+    "section": "3D Models",
+    "text": "3D Models\nI was particularly impressed by work developing methods to provide 3D models with interactive elements to people who are blind or visually impaired. Jakub Wabiński developed a 3D printed tactile model which has been published in CaGIS and Jan Brus and Radek Barvir presented a process to 3D print models with conductive elements so users can press on certain locations which then prompts a mobile phone to play a verbal recording describing that feature.\n\nThe 3D model uses conductive strips to link the touch on designated areas of the 3D model to the tablet underneath, which then pays the relevant audio narration. This allows many different relatively cheap 3D printed models to be used with one tablet."
+  },
+  {
+    "objectID": "blog/icc/index.html#un-acronym-soup",
+    "href": "blog/icc/index.html#un-acronym-soup",
+    "title": "ICC, Cape Town, South Africa – 3D Models and UN Acronym Soup",
+    "section": "UN Acronym Soup",
+    "text": "UN Acronym Soup\nThe ICA is quite a large organisation with a long history, and has good links with a number of United Nations (UN) groups and initiatives, including UN GGIM - UN Committee of Experts on Global Geospatial Information Management and UN IGIF - Integrated Geospatial Information Framework. The IGIF is a multidimensional framework that provides countries with a basis for developing, integrating, strengthening, and benefiting from geospatial information management. There is a risk of drowning in acronym soup when it comes to working with the UN, and I had some great discussions when asking a number of people how UN groups and initiatives like GGIM or IGIF have made an impact in the real world. I had a range of different answers, from ‘I have no idea!’ to ‘having these programmes is better than nothing, so they probably have some impact’ to some much more detailed responses (see below).\nTo me, it was certainly clear that the UN could do a better job of explaining what it is doing in the area of geospatial in a way that can be easily understood. However, there are some great outputs from a variety of UN departments. Firstly, there are the Sustainable Development Goals, which is probably one of their most well known activities:\n\nThe 17 Sustainable Development Goals are often illustrated using this image, or a variation of it. Originally from https://www.un.org/sustainabledevelopment/blog/2015/12/sustainable-development-goals-kick-off-with-start-of-new-year/.\nThese are something many people have heard of, and provide a series of targets to help all countries develop sustainably. Many others can describe them better than I can (see the UN, Concern, one of the keynote presentations at the conference from Greg Scott and even Google) but one striking image is the discussion of how to measure the progress in achieving these goals, and the fact that for a number of the goals some countries are actually going backwards. Managing the data for these is a key issue, and a number of goals are quite difficult to measure, with some countries not having the data to be able to measure the progress (or lack thereof). It is possible that in comes cases this may be deliberate (for example, China reducing the number of statistics they publish because they were showing a bad message) but I think in most of the cases it is because a) the goals are tricky to measure and b) they often require specific resources which may not be available.\nReturning to UN GGIM & IGIF, accessibility of data is one of the key focus areas of the UN GGIM. One of their core aims is helping all countries develop their spatial data infrastructures, that is the national organisations that manage, maintain and make accessible their spatial data. The UN IGIF is a framework that will help countries in this process - highlighting best practice and examples of how to do this. Of course every country is at a different stage in the process, but from discussions at the ICC, every country is keen to progress their work.\nGobe Hobona from the OGC (Open Geospatial Consortium) gave me a very good explanation of IGIF, which formed part of the description above. He also compared it to INSPIRE, which is the European Union (EU) initiative on spatial data infrastructure, and is probably 10-15 years ahead of IGIF. INSPIRE has provided a framework for structuring spatial data and metadata across the EU, and therefore making data (including spatial data) much more accessible by providing information about it in a structured way. Similar initiatives exist in the UK, for example on the data.gov.uk site - you can search for many different UK government related data sets there, and one of the key underpinning structures is Gemini which makes this possible. More specifically, the Gemini standard is a profile of the ISO 19115 standard that facilitates conformance to INSPIRE metadata implementing rules. A common thread across many of the geospatial data initiatives and frameworks is that they make use of OGC Standards."
+  },
+  {
+    "objectID": "blog/icc/index.html#mapping-for-a-sustainable-world",
+    "href": "blog/icc/index.html#mapping-for-a-sustainable-world",
+    "title": "ICC, Cape Town, South Africa – 3D Models and UN Acronym Soup",
+    "section": "Mapping for a Sustainable World",
+    "text": "Mapping for a Sustainable World\nAnother great output from the UN is Mapping for a Sustainable World, which is a fantastic publication from a collaboration from the UN and the ICA (ICC). It’s a free book, available as a PDF, covering two main aims. Firstly, it discusses how maps can be used to help monitor progress across all (13) sustainable development goals, for example Goal 5: Gender Equality.\n\nAs example of applying spatial data to the Sustaible Development Goals. Page 54 & 55 from Mapping for a Sustainable World.\nAs well as discussing the availability of spatial data, it also covers practically every key aspect of working with spatial data and GIS (projections, MAUP, classification, scale, generalisation, colour, typography and so on), it also gives examples of 14 different types of map (thematic, nominal, choropleth, etc.) and discusses different environments for map use (both in terms of audience and medium).\nI was fortunate enough to meet one of the co authors, Britta Ricker, at the CaGIS reception, and heard about some of the challenges in pulling this book together, including methods that are not well known, but potentially very useful (e.g. dasymetric mapping), and UN’s approach to boundaries (e.g how to show disputed areas such as Tiwain, Crimea, Israel/Palestine, etc.). This is a well known geographical issue, as discussed shown in MapTiler, Google, Apple Maps, and even as discussed by James Cheshire on Christmas decorations! The UN also has a standard detailing these issues, as well as maps people can use themselves, including officail UN boundaries in their web maps.\nThey had some print copies available in English and French at the conference, and both can be downloaded as PDFs for free from https://digitallibrary.un.org/record/3898826?ln=en0.\nAs well as seeing a wide range of presentations across the whole range of Cartography and GIScience (let me know if you’re interested in publishing in CaGIS!), it was great to meet and network with a whole range of people passionate about cartography and GIScience from around the world. This conference also included a record proportion of attendees from both the African continent (450 and South Africa itself (385), which was fantastic to see (stats from map of attendee home country on https://icc2023.org/). A number of those I spoke to said they would be unable to attend if the conference was outside Africa due to funding restrictions, so it was great for them to have this opportunity."
+  },
+  {
+    "objectID": "blog/post-with-code/index.html",
+    "href": "blog/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "blog/welcome/index.html",
+    "href": "blog/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome! Extra\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "ICC, Cape Town, South Africa – 3D Models and UN Acronym Soup\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nNick Bearman\n\n\nSep 5, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nNick Bearman\n\n\nNov 19, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nTristan O’Malley\n\n\nNov 16, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "consultancy.html",
+    "href": "consultancy.html",
+    "title": "Consultancy",
+    "section": "",
+    "text": "This is a Quarto website about training.\nHere is some example text.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nick Bearman",
+    "section": "",
+    "text": "I’m Dr Nick Bearman and deliver GIS training sessions and GIS consultancy for a variety of clients, primarily focused in the academic sector. I help people make use of GIS to answer their research questions, and get more answers from the data they already have.\nI think GIS is a great way to explore and communicate your data, and I have a range of training materials, training courses and books to help people do this. I am also a passionate supporter of Open Source software and am Chair of OSGeo:UK, the UK Local Chapter of the Open Source Geospatial Foundation."
+  },
+  {
+    "objectID": "training-courses.html",
+    "href": "training-courses.html",
+    "title": "Training Courses",
+    "section": "",
+    "text": "This is a Quarto website about training.\nHere is some example text.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "training-materials.html",
+    "href": "training-materials.html",
+    "title": "Training Materials",
+    "section": "",
+    "text": "This is a Quarto website about training.\nHere is some example text.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "writing.html",
+    "href": "writing.html",
+    "title": "Writing",
+    "section": "",
+    "text": "This is a Quarto website about training.\nHere is some example text.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  }
+]
