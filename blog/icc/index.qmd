@@ -2,7 +2,7 @@
 title: "ICC, Cape Town, South Africa – 3D Models and UN Acronym Soup"
 author: "Nick Bearman"
 date: "2023-09-05"
-categories: [news, code, analysis]
+categories: [conference, GIS, open source]
 image: "cape-town.jpg"
 ---
 
