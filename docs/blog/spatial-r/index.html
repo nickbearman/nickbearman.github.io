@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Nick Bearman">
+<meta name="dcterms.date" content="2022-02-25">
 
-<title>Nick Bearman - Consultancy</title>
+<title>Nick Bearman - Spatial R – Time to move from sp to sf</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,22 +25,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -60,7 +62,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -70,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Nick Bearman</span>
     </a>
   </div>
@@ -81,27 +83,27 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
+    <a class="nav-link" href="../../index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./training-courses.html" rel="" target="">
+    <a class="nav-link" href="../../training-courses.html" rel="" target="">
  <span class="menu-text">Training Courses</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./training-materials.html" rel="" target="">
+    <a class="nav-link" href="../../training-materials.html" rel="" target="">
  <span class="menu-text">Training Materials</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./consultancy.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="../../consultancy.html" rel="" target="">
  <span class="menu-text">Consultancy</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./writing.html" rel="" target="">
+    <a class="nav-link" href="../../writing.html" rel="" target="">
  <span class="menu-text">Writing</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./blog.html" rel="" target="">
+    <a class="nav-link" href="../../blog.html" rel="" target="">
  <span class="menu-text">Blog</span></a>
   </li>  
 </ul>
@@ -123,14 +125,31 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Consultancy</h1>
-</div>
+<h1 class="title">Spatial R – Time to move from sp to sf</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">open source</div>
+    <div class="quarto-category">R spatial</div>
+    <div class="quarto-category">teaching</div>
+  </div>
+  </div>
 
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Nick Bearman </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">February 25, 2022</p>
+    </div>
+  </div>
   
     
   </div>
@@ -138,14 +157,29 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>I can work with you to add geospatial analysis to your project and to develop your geospatial analysis toolset. I have worked with academics, universities, private sector and public sector, developing bespoke training, one-to-one tuition or project support to enable my clients to get the best from their geospatial data.</p>
-<pre><code>- case studies / testimonials
-- Carolyn / Exeter
-    - what I did
-    - outputs - report, code, plugins (ArcGIS and QGIS)
-- 2021-35-doug-specht-arcgis-online-dashboard
-- Emily / Uni of Birmingham
-- South West Coast Path?</code></pre>
+<p>It was about three years ago (2019) when I last wrote about the <a href="http://www.geospatialtrainingsolutions.co.uk/spatial-r-moving-from-sp-to-sf/">sp and sf libraries in R</a>. The R Spatial world has moved on since then, with sp heading close to retirement now. Since 2019 I have run Introduction to Spatial Data &amp; Using R as a GIS, and its companion course, Confident Spatial Analysis and Statistics in R &amp; GeoDa, around 12 times teaching over 150 students. At some point I needed to make the transition from sp to sf – the question was, when?</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="2019-06-13-12.26.53-students-at-desk_linkedin-1024x535.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Students at work, learning how to use R as a GIS</figcaption>
+</figure>
+</div>
+<p>Students at work, learning how to use R as a GIS A quick recap before we get into the details – there are two main libraries that allow us to handle spatial data in R – sp and sf. sp has been around for nearly 20 years now (it first came out in 2005) and is now entering retirement. sf is much newer – it initially came out in 2016, and ever since has been gaining new functions and new users.</p>
+<p>sp and sf work in fundamentally different ways, specifically revolving around how they store spatial data within R. sp uses something called S4 classes, where the different elements of spatial data (coordinates/geometry, attribute table, coordinate system, etc.) are split up into different ‘slots’ and accessed using the @ symbol. sf uses S3 classes and stores spatial data all within a standard data frame, with some extra header information and a geometry column.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="FGP1MWJWUAQYhWG-1024x571.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">A great table summarising the differences between sp and sf, from <a href="https://twitter.com/WeAreRLadies/status/1469287613060292613">WeAreRLadies</a> on Twitter.</figcaption>
+</figure>
+</div>
+<p>The practical upshot of all of this is that I have to choose which one to teach in my courses. Pre 2019, I taught everything in sp because that was the most well used library. In March 2019 (three years ago) I moved the first part of my course from sp to sf and introduced the tmap library. This actually made R much easier to teach – because it was quicker and easier to create a map, primarily as a result of the great tmap library and the simplicity that using sf brought.</p>
+<p>At this point sf was still developing, and I struggled to be able to do a point-in-polygon analysis in sf – see my <a href="http://www.geospatialtrainingsolutions.co.uk/spatial-r-moving-from-sp-to-sf/">previous blog post</a> for more details! Additionally, there were still many many examples of sp code on the web, and relatively few sf examples. Therefore I decided to keep my more advanced practical 3: point in polygon analysis in sp.</p>
+<p>By the time we got to Dec 2021 (last year) sf had come along way since 2019, and point in polygon analysis was now possible – so I updated my <a href="https://github.com/nickbearman/intro-r-spatial-analysis/commit/de56e5df9bee67c25c468eeb74b63ae132a0f9f9">practical to reflect this</a>. I’ve still kept the sp example, and in the introductory course I still mention sp in passing as I think it is important for any R spatial users to be aware of sp, even if they don’t actually use it. This is because I think for at least the next couple of years, there will be lots of sp examples still on Stack Exchange and elsewhere on the web, and when people find these examples, they need to be able to understand what they are any why they are different.</p>
+<p>Moving forward from now (2022) most of the packages that support sp (rgdal, rgeos, maptools) are being retired from the end of 2023, and everyone is being advised to move to sf. sp itself is still getting some maintenance updates, but this will only be for a limited period of time, and now everyone should be moving from sp to sf for new work. In addition, if you work with raster data, the raster library (which has many of the same dependents as sp) is transitioning to terra.</p>
+<p>The We Are R Ladies group on Twitter did a very good Twitter thread about these changes – do check it out at <a href="https://twitter.com/WeAreRLadies/status/1469286521874300939" class="uri">https://twitter.com/WeAreRLadies/status/1469286521874300939</a>.</p>
+<p><img src="twitter.png" class="img-fluid"></p>
+<p>My introductory course is now fully transitioned to sf, and the practical is available under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license at <a href="https://github.com/nickbearman/intro-r-spatial-analysis" class="uri">https://github.com/nickbearman/intro-r-spatial-analysis</a>. I will next be running this course as part of the <a href="https://www.geospatialtrainingsolutions.co.uk/training-courses/">GeoIgnite conference in Canada, on 9th March</a>. I will also be running this course again the future, please sign up to my mailing list to find out when I have confirmed more dates.</p>
+<p>Next on the list is updating the Advanced course, Confident Spatial Analysis and Statistics in R &amp; GeoDa and moving this from sp to sf, which is going to be quite a job. A summer project, perhaps….!</p>
 
 
 

@@ -15,6 +15,8 @@ about:
       href: https://github.com/nickbearman
 ---
 
-I'm Dr Nick Bearman and deliver GIS training sessions and GIS consultancy for a variety of clients, primarily focused in the academic sector. I help people make use of GIS to answer their research questions, and get more answers from the data they already have.
+I'm Dr Nick Bearman and deliver GIS training sessions and GIS consultancy for a variety of clients, primarily focused in the academic and not for profit sectors. I help people make use of GIS to answer their research questions, and get more answers from the data they already have.
 
-I think GIS is a great way to explore and communicate your data, and I have a range of training materials, training courses and books to help people do this. I am also a passionate supporter of Open Source software and am Chair of OSGeo:UK, the UK Local Chapter of the Open Source Geospatial Foundation.
+I think GIS is a great way to explore and communicate your data, and I have a range of [training materials](training-courses.html), [training courses](training-courses.html) and [books](writing.html) to help people do this.
+
+I am also a passionate supporter of Open Source software and am Chair of [OSGeo:UK](https://uk.osgeo.org/), the UK Local Chapter of the [Open Source Geospatial Foundation](https://osgeo.org/)).

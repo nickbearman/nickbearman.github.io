@@ -1,13 +1,69 @@
 ---
   title: "Training Courses"
 ---
-  
-  This is a Quarto website about training courses.
 
-Here is some example text.
+I offer a variety of training courses on GIS and spatial data, both in person and online. I offer Introductory and Advanced Training in QGIS and R. My training is designed to both teach you about GIS itself and how to use the software to do make maps and perform spatial analysis.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Below is a list of the courses coming up, and a link to sign up (where available). If you would like to participate in any of the courses, please either email nick\@geospatialtrainingsolutions.co.uk or use the contact form on this website.
 
-```{r}
-1 + 1
+-   Introductory
+
+    -   Introduction to QGIS: Spatial Data and Spatial Analysis
+    -   Introduction to Spatial Data & Using R as a GIS
+
+-   Advanced
+
+    -   Confident Spatial Analysis in QGIS
+    -   Confident Spatial Analysis and Statistics in R & GeoDa
+
+```         
+- in person / Zoom
+- Kalvin testomonial
+- Ed Stoddard / Plymouth
+- one to one sessions
+- grid of course options, with links to online material
+- sign up to mailing list
+```
+
+I run a variety of GIS and spatial data training courses both in person across the UK and online using Zoom. If you would like to participate in any of the courses listed below, please sign up following the link below.
+
+My courses are constantly being developed to take advantage of the latest changes in QGIS and R. If you would like a course run for a group of you, then please contact me discuss your needs and for a quote.
+
+If you have any questions please do [contact me]() or email nick\@nickbearman.com if you have any questions.
+
+|              | R                                                      | QGIS                                                            |
+|---------------------------|---------------------------|-------------------|
+| Introductory | Introduction to Spatial Data & Using R as a GIS        | Introduction to QGIS: Understanding and Presenting Spatial Data |
+| Advanced     | Confident Spatial Analysis and Statistics in R & GeoDa | Confident Spatial Analysis in QGIS                              |
+
+Introduction to QGIS: Spatial Data and Spatial Analysis
+
+```{=html}
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th><i>Introduction</i></th>
+            <th><i>Advanced</i></th>
+         
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>R</td>
+            <td>Introduction to Spatial Data & Using R as a GIS</td>
+            <td>Confident Spatial Analysis and Statistics in R & GeoDa</td>
+        </tr>
+        <tr>
+            <td>QGIS</td>
+            <td>Introduction to QGIS: Understanding and Presenting Spatial Data</td>
+            <td>Confident Spatial Analysis in QGIS</td>
+          <tr>
+             <td>QGIS (intro+adv)</td>
+             <td colspan=2>QGIS: Spatial Data and Spatial Analysis</td>
+          </tr>
+           
+        </tr>
+    </tbody>
+</table>
 ```

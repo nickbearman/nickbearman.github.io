@@ -2,12 +2,13 @@
   title: "Consultancy"
 ---
 
-This is a Quarto website about training.
+I can work with you to add geospatial analysis to your project and to develop your geospatial analysis toolset. I have worked with academics, universities, private sector and public sector, developing bespoke training, one-to-one tuition or project support to enable my clients to get the best from their geospatial data. 
 
-Here is some example text.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+    - case studies / testimonials
+    - Carolyn / Exeter
+        - what I did
+        - outputs - report, code, plugins (ArcGIS and QGIS)
+    - 2021-35-doug-specht-arcgis-online-dashboard
+	- Emily / Uni of Birmingham
+	- South West Coast Path?

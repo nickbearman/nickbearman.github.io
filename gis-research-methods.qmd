@@ -1,0 +1,23 @@
+---
+  title: "GIS: Research Methods"
+---
+
+My book, GIS: Research Methods, is an introduction to GIS, providing a non-technical overview of the science and tools behind geographic information systems and geographic information science. It is aimed at researchers, students and academics who do not have a GIS or Geography background. The book covers the history of GIS, from John Snow's Cholera map (1854) right up to today's software and data and cutting-edge analysis techniques.
+
+It goes on to cover how to find, use and evaluate the latest data sets to critiquing existing maps, highlighting limitations and common mistakes. This is the ideal book for anyone thinking about using GIS in their own research.
+
+[You can preview the first chapter here](https://bloomsburycp3.codemantra.com/viewer/5fd9ff26e21b8400014cbfa0), and there is a short video about the book below.
+
+https://www.youtube.com/watch?v=ewL6XdxBMTM
+
+You can order online from [Bloomsbury](https://www.bloomsbury.com/uk/gis-9781350129559/), with a 35% discount code at the end of the video above, which should give you a total price of £14.69, including UK delivery.
+
+12/12/2023: I do know [Blackwells](https://blackwells.co.uk/bookshop/product/What-Is-GIS-by-Nick-Bearman-author/9781350129559) also currently offer the book for £15.56 including delivery as well, with Amazon currently offering £16.39. If you see it anywhere cheaper, let me know!
+
+Reviews: William A. Wetherholt (2021) GIS: Research Methods, Journal of Geography, 120:5, 191, DOI: 10.1080/00221341.2021.1951818
+
+Gavin Schrock, GoGeomatics (2021)
+
+What is GIS?
+
+You might see references to a book called 'What is GIS?', this is in fact, the same book as GIS: Research Methods. The content is identical! Originally, the title was 'What is GIS?', it was a part of Bloomsburys' 'What is...?' series and I rather liked the title. However, just as I had finished writing the book, Bloomsbury decided to rebrand the series, and so now it is GIS: Research Methods.
