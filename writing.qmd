@@ -24,6 +24,8 @@ I have written 22 academic papers, a book (GIS: Research Methods) and given over
 
 **Bearman, N., Xu, R., Roddy, P. J., Gaboardi, J. D., Zhao, Q., Chen, H., and Wolf, L. (2023)** Developing capacitated *p*-median location-allocation model in the spopt library to allow UCL student teacher placements using public transport, AGILE GIScience Series., 4, 20, Paper <https://doi.org/10.5194/agile-giss-4-20-2023>, Details, Presentation  & Notebook: <https://github.com/UCL/ioe-student-school-allocation>.
 
+**Bearman, N. (2023)** Using GIS in Behavioural Science and Health: How you can use GIS in your research, Presented 18/05/2023 at Monthly Methods seminar, Department of Behavioural Science and Health, UCL, [PDF slides](files/Using-GIS-in-Behavioural-Science-and-Health-presentation.pdf).
+
 **Bearman, N. (2019)** PopChange: Creating Gridded Population Surfaces for Great Britain to enable the Analysis of Small Area Change, Presented 08/11/2019 at WorldPop and Flowminder offices, University of Southampton, Southampton, UK.\
 [![](http://www.nickbearman.me.uk/images/powerpoint.gif){alt=""} Presentation on SpeakerDeck](https://speakerdeck.com/nickbearman/popchange-creating-gridded-population-surfaces-for-great-britain-to-enable-the-analysis-of-small-area-change?slide=2).
 
