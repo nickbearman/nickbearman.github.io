@@ -1,5 +1,5 @@
 ---
-  title: "Writing"
+  title: "Writing & Presentations"
 ---
 
 I have written 22 academic papers, a book (GIS: Research Methods) and given over 20 presentations at a variety of conferences and seminars. I have also published in a number of magazines and industry journals, including [The Conversation](https://theconversation.com/uk), [xyHt](https://www.xyht.com/), and [GeoConnexionUK](https://www.geoconnexion.com/). Links are included below, but if you can't find anything please ask.
@@ -14,7 +14,7 @@ I have written 22 academic papers, a book (GIS: Research Methods) and given over
 
 **Bearman, N. (2021)** Census 2021: why are some people completing it online and others have paper forms?, The Conversation, 18th March 2021, <https://theconversation.com/census-2021-why-are-some-people-completing-it-online-and-others-have-paper-forms-157380>, [extended version on nickbearman.me.uk](https://www.nickbearman.me.uk/2021/03/census-2021-who-gets-a-letter-and-who-gets-a-paper-form/).
 
-**Bearman, N. (2018)** Scotland\'s most remote islands don\'t want to be in \'inset maps\' any more, The Conversation, 6th Nov 2018, <https://theconversation.com/scotlands-most-remote-islands-dont-want-to-be-in-inset-maps-any-more-106139>.
+**Bearman, N. (2018)** Scotland's most remote islands don't want to be in 'inset maps' any more, The Conversation, 6th Nov 2018, <https://theconversation.com/scotlands-most-remote-islands-dont-want-to-be-in-inset-maps-any-more-106139>.
 
 **Lloyd, C. D., Catney, G., Williamson, P. and Bearman, N. (2017)** Exploring the utility of grids for analysing long term population change. Computers, Environment and Urban Systems, 66, 1--12. [doi:10.1016/j.compenvurbsys.2017.07.003](https://doi.org/10.1016/j.compenvurbsys.2017.07.003)*, Open Access.*
 
@@ -53,7 +53,7 @@ I have written 22 academic papers, a book (GIS: Research Methods) and given over
 **Bearman, N., Osborne, N.J. & Sabel, C. (2013)** Analysing the Impact of MAUP on the March Atopy in England using Hospital Admission Data, Presented 03/04/2013 at GISRUK 2013 Conference, University of Liverpool, UK.\
 [![](http://www.nickbearman.me.uk/images/pdf.gif){alt=""} (Paper, 439 KB)](http://www.nickbearman.me.uk/academic/bearman_et_al_2013_gisruk/paper.pdf), [![](http://www.nickbearman.me.uk/images/powerpoint.gif){alt=""} Presentation (PowerPoint, 2.1 MB)](http://www.nickbearman.me.uk/academic/bearman_et_al_2013_gisruk/presentation.pptx).
 
-**Bearman, N. & Brown, E. (2012)** Who\'s Sonifying Data and How are they doing it? A comparison of ICAD and other venues since 2009, Presented 18/06/2012 at The 18th International Conference on Auditory Display (ICAD-2012), Atlanta, USA.\
+**Bearman, N. & Brown, E. (2012)** Who's Sonifying Data and How are they doing it? A comparison of ICAD and other venues since 2009, Presented 18/06/2012 at The 18th International Conference on Auditory Display (ICAD-2012), Atlanta, USA.\
 Presentation ([![](http://www.nickbearman.me.uk/images/powerpoint.gif){alt=""} PowerPoint, 8.2 MB](http://www.nickbearman.me.uk/academic/bearman_brown_2012_icad/presentation.pptx)), ([Paper, 79 KB](http://www.nickbearman.me.uk/academic/bearman_brown_2012_icad/paper.pdf)), ([Papers in Review.xls, 107KB](http://www.nickbearman.me.uk/twe/wp-content/uploads/2015/07/Sonifications%20Literature%20Analysis.xls)), (Sonification of Tools Graph [MP3 626 KB](http://www.nickbearman.me.uk/academic/bearman_brown_2012_icad/toolsgraph.mp3), [WAV 6.7MB](http://www.nickbearman.me.uk/academic/bearman_brown_2012_icad/toolsgraph.wav))
 
 **Bearman, N. & Lovett, A. (2012)** Can Sound Help Represent Distance in a Landscape Visualisation Setting? Poster presented 11-13/04/2012 at GISRUK2012 Conference, University of Lancaster, UK.\
@@ -65,7 +65,7 @@ Presentation ([![](http://www.nickbearman.me.uk/images/powerpoint.gif){alt=""} 
 **Bearman, N. (2011)** Using Sound to Represent Uncertainty in Future Climate Predictions for the UK, Presented 23/06/2011 at The 17th International Conference on Auditory Display (ICAD-2011), Budapest, Hungary.\
 Presentation ([![](http://www.nickbearman.me.uk/images/powerpoint.gif){alt=""} PowerPoint, no video, 8 MB](http://www.nickbearman.me.uk/academic/bearman_2011_icad/presentation.ppt)), ![](http://www.nickbearman.me.uk/images/pdf.gif){alt=""} ([PDF, no video, 545 KB](http://www.nickbearman.me.uk/academic/bearman_2011_icad/paper.pdf)), ([Zip, presentation with video, 16 MB](http://www.nickbearman.me.uk/academic/bearman_2011_icad/presentation.zip)), Video [1](http://www.vimeo.com/17029341) and [2](http://www.vimeo.com/17029358) on Viemo.
 
-**Bearman, N. (2011)** Using Sound to Augment \'the Image\', Presented 09/06/2011 at The British Cartographic Society Annual Symposium 2011, Cheshire, UK.\
+**Bearman, N. (2011)** Using Sound to Augment 'the Image', Presented 09/06/2011 at The British Cartographic Society Annual Symposium 2011, Cheshire, UK.\
 Presentation ([![](http://www.nickbearman.me.uk/images/powerpoint.gif){alt=""} PowerPoint, no video, 11 MB](http://www.nickbearman.me.uk/academic/bearman_2011_bcs/presentation.ppt)), ![](http://www.nickbearman.me.uk/images/pdf.gif){alt=""} ([PDF, no video, 4 MB](http://www.nickbearman.me.uk/academic/bearman_2011_bcs/presentation.pdf)), ([Zip, presentation with video, 22 MB](http://www.nickbearman.me.uk/academic/bearman_2011_bcs/presentation.zip)), [Abstract and Biography (Word, 26 KB)](http://www.nickbearman.me.uk/academic/bearman_2011_bcs/abstract_biography.doc), Video [1](http://www.vimeo.com/17029341) and [2](http://www.vimeo.com/17029358) on Viemo.
 
 **Bearman, N. & Appleton, K. (2011)** Using Google Maps to collect spatial responses in a survey environment, Presented 28/04/2011 at GISRUK 2011 Conference, University of Portsmouth, UK.*I would like to thank the Quantitative Methods Research Group of the RGS-IBG for financial support towards the cost of presenting at the conference.*\
@@ -152,13 +152,13 @@ Liverpool: Centre for Spatial Demographics Research, University of Liverpool. <
 
 **Bearman, N. (2020)** PDR and the Pandemic, xyHt Magazine, November 2020, [https://www.xyht.com/education/pdr-and-the-pandemic/.](https://www.xyht.com/education/pdr-and-the-pandemic/)
 
-**Bearman, N. (2020)** Let\'s Be Colleagues: New Settings for GIS Mentoring, January 2020, <https://www.xyht.com/spatial-itgis/lets-be-colleagues-new-settings-for-gis-mentoring/>.
+**Bearman, N. (2020)** Let's Be Colleagues: New Settings for GIS Mentoring, January 2020, <https://www.xyht.com/spatial-itgis/lets-be-colleagues-new-settings-for-gis-mentoring/>.
 
 **Bearman, N. (2019)** The Program R, xyHt Magazine, October 2019, <https://www.xyht.com/spatial-itgis/the-program-r/>.
 
 **Bearman, N. (2019)** GEO Business 2019: BIM, AR, Digital Twins and the Future, xyHt magazine, October 2019, <https://www.xyht.com/spatial-itgis/geo-business-2019/>
 
-**Bearman, N. (2018)** Scotland\'s most remote islands don\'t want to be in \'inset maps\' any more, The Conversation, 6th Nov 2018, <https://theconversation.com/scotlands-most-remote-islands-dont-want-to-be-in-inset-maps-any-more-106139>.
+**Bearman, N. (2018)** Scotland's most remote islands don't want to be in 'inset maps' any more, The Conversation, 6th Nov 2018, <https://theconversation.com/scotlands-most-remote-islands-dont-want-to-be-in-inset-maps-any-more-106139>.
 
 **Bearman, N. (2018)** QGIS: What Is It and How Does It Work?, xyHt magazine, September 2018, <https://www.xyht.com/spatial-itgis/qgis-what-is-it-and-how-does-it-work/>
 

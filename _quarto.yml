@@ -11,7 +11,7 @@ website:
       - training-courses.qmd
       - training-materials.qmd
       - consultancy.qmd
-      - writing.qmd
+      - writing-presentations.qmd
       - blog.qmd
 
 format:
