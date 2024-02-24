@@ -74,7 +74,7 @@
     "href": "consultancy.html",
     "title": "Consultancy",
     "section": "",
-    "text": "I can work with you to add geospatial analysis to your project and to develop your geospatial analysis toolset. I have worked with academics, universities, private sector and public sector, developing bespoke training, one-to-one tuition or project support to enable my clients to get the best from their geospatial data.\n- case studies / testimonials\n- Carolyn / Exeter\n    - what I did\n    - outputs - report, code, plugins (ArcGIS and QGIS)\n- 2021-35-doug-specht-arcgis-online-dashboard\n- Emily / Uni of Birmingham\n- South West Coast Path?"
+    "text": "I can work with you to add geospatial analysis to your project and to develop your geospatial analysis toolset. I have worked with academics, universities, private sector and public sector organisations, developing bespoke training, one-to-one tuition or project support to enable my clients to get the best from their geospatial data.\n\n\n\nGeospatial Analysis Capacity Building - University of Portsmouth\n“Working with Nick has been really great. His classes and consultancy have been extremely professional and instrumental in rapidly upscaling our abilities in both geo-spatial analysis and in the R programming language. We are far more effective now than we were before our engagement with him. Thanks Nick!”\nDr Ed Stoddard, Associate Professor in International Security and Dr Melita Lazell, Principal Lecturer in Global Political Economy and Associate Head (Research), School of Area Studies, History, Politics and Literature University of Portsmouth\nImages - RedBull, Netflix\n\n\n\nAdmissions Dashboard - University of Westminster\n“The work Nick has carried out has helped us to greatly enhance the way we work with schools. The dashboard he has helped us build allows us to quickly find points of collaboration as well as key demographic and student population data.”\nDr Doug Specht, Senior Lecturer, Director of Teaching and Learning, School of Media and Communication, University of Westminster\nScreenshot"
   },
   {
     "objectID": "index.html",
@@ -88,14 +88,14 @@
     "href": "training-courses.html",
     "title": "Training Courses",
     "section": "",
-    "text": "I offer a variety of training courses on GIS and spatial data, both in person and online. I offer Introductory and Advanced Training in QGIS and R. My training is designed to both teach you about GIS itself and how to use the software to do make maps and perform spatial analysis.\nBelow is a list of the courses coming up, and a link to sign up (where available). If you would like to participate in any of the courses, please either email nick@geospatialtrainingsolutions.co.uk or use the contact form on this website.\n\nIntroductory\n\nIntroduction to QGIS: Spatial Data and Spatial Analysis\nIntroduction to Spatial Data & Using R as a GIS\n\nAdvanced\n\nConfident Spatial Analysis in QGIS\nConfident Spatial Analysis and Statistics in R & GeoDa\n\n\n- in person / Zoom\n- Kalvin testomonial\n- Ed Stoddard / Plymouth\n- one to one sessions\n- grid of course options, with links to online material\n- sign up to mailing list\nI run a variety of GIS and spatial data training courses both in person across the UK and online using Zoom. If you would like to participate in any of the courses listed below, please sign up following the link below.\nMy courses are constantly being developed to take advantage of the latest changes in QGIS and R. If you would like a course run for a group of you, then please contact me discuss your needs and for a quote.\nIf you have any questions please do contact me or email nick@nickbearman.com if you have any questions.\n\n\n\n\n\n\n\n\n\nR\nQGIS\n\n\n\n\nIntroductory\nIntroduction to Spatial Data & Using R as a GIS\nIntroduction to QGIS: Understanding and Presenting Spatial Data\n\n\nAdvanced\nConfident Spatial Analysis and Statistics in R & GeoDa\nConfident Spatial Analysis in QGIS\n\n\n\nIntroduction to QGIS: Spatial Data and Spatial Analysis\n\n\n    \n        \n            \n            Introduction\n            Advanced\n         \n        \n    \n    \n        \n            R\n            Introduction to Spatial Data & Using R as a GIS\n            Confident Spatial Analysis and Statistics in R & GeoDa\n        \n        \n            QGIS\n            Introduction to QGIS: Understanding and Presenting Spatial Data\n            Confident Spatial Analysis in QGIS\n          \n             QGIS (intro+adv)\n             QGIS: Spatial Data and Spatial Analysis"
+    "text": "I offer a variety of training courses on GIS and spatial data, both in person and online using Zoom. I offer Introductory and Advanced Training in QGIS and R. My training is designed to both teach you about GIS itself and how to use the software to do make maps and perform spatial analysis. My courses are constantly being developed to take advantage of the latest changes in QGIS and R. If you would like a course run for a group of you, then please contact me discuss your needs and for a quote.\nBelow is a list of the courses coming up, and a link to sign up (where available). If you would like to participate in any of the courses, please either email nick@geospatialtrainingsolutions.co.uk or use the contact form on this website. If a course does not have a date, then please join my mailing list to hear when new dates are confirmed.\n“Nice balance of theory and practice. Also useful to learn what to look for if things go wrong. Content was flexible to include what might be useful for our work.” Vickie, Analyst, Public Health Wales.\n&lt;!– file:///C:/Users/nick/Documents/work/2022-37-public-health-wales-gis-training/feedback-forms.pdf –&gt;\nIf you have any questions please do contact me or email nick@nickbearman.com if you have any questions.\n*often presented together as “Introduction to QGIS: Spatial Data and Spatial Analysis” over 4 half-day sessions.\n“I love having a workbook to go through, it’s how I learn best. Also, perfect balance between presentation and practical work.” Yes (with my name and affiliation) Harriet Ann Patrick PhD Researcher University of Sheffield"
   },
   {
     "objectID": "training-materials.html",
     "href": "training-materials.html",
     "title": "Training Materials",
     "section": "",
-    "text": "This is a Quarto website about training.\nHere is some example text.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "As well as my [Training Courses] which you can attend in person or online, I have some stand along training materials which you might find useful. Some of these are updated regularly, and some of them are older; I hope all of them are useful. If you have any comments, suggestions or feedback, please let me know.\n\nMaterial from my Training Courses\nSome of the workbooks from my training courses are freely available for you to use, under a Creative Commons license. Please feel free to use and pass on!\n\nIntro to QGIS\nIntro to R\n\n\n\nFreely Available Trainig Materials\nI also have some other material that I have created myself, or created with colleagues, which is freely available for anyone to use:\nInclude link to NCRM / Vernon gayle video clips - what is Consumer Data? (image)\nCDRC -"
   },
   {
     "objectID": "writing.html",
@@ -194,5 +194,40 @@
     "title": "Writing & Presentations",
     "section": "Sonification",
     "text": "Sonification\nMy PhD research focused on the use of sonification, or using sound to represent data. I was particularly interested in using sound to represent spatial data, and how it could be best combined with visual representations of data. Below are some videos showing how the sonification could work, in ArcGIS and Google Maps. The code for both is available to download. Remember the ArcGIS code is written in VBA, so you need the VBA extension activated to run it. Check the readme.txt file for details.\nSonification in ArcGIS\nArcGIS code download.\nSonification in Google Maps API\nGoogle Maps API code download."
+  },
+  {
+    "objectID": "consultancy.html#north-devon-biosphere-university-of-exeter",
+    "href": "consultancy.html#north-devon-biosphere-university-of-exeter",
+    "title": "Consultancy",
+    "section": "North Devon Biosphere & University of Exeter",
+    "text": "North Devon Biosphere & University of Exeter"
+  },
+  {
+    "objectID": "consultancy.html#university-of-portsmouth---geospatial-analysis-in-r",
+    "href": "consultancy.html#university-of-portsmouth---geospatial-analysis-in-r",
+    "title": "Consultancy",
+    "section": "University of Portsmouth - Geospatial Analysis in R",
+    "text": "University of Portsmouth - Geospatial Analysis in R\n“Working with Nick has been really great. His classes and consultancy have been extremely professional and instrumental in rapidly upscaling our abilities in both geo-spatial analysis and in the R programming language. We are far more effective now than we were before our engagement with him. Thanks Nick!\nDr Ed Stoddard, Associate Professor in International Security and Dr Melita Lazell, Principal Lecturer in Global Political Economy and Associate Head (Research), School of Area Studies, History, Politics and Literature University of Portsmouth”"
+  },
+  {
+    "objectID": "consultancy.html#south-west-coast-path",
+    "href": "consultancy.html#south-west-coast-path",
+    "title": "Consultancy",
+    "section": "South West Coast Path",
+    "text": "South West Coast Path"
+  },
+  {
+    "objectID": "consultancy.html#admissions-dashboard---university-of-westminster",
+    "href": "consultancy.html#admissions-dashboard---university-of-westminster",
+    "title": "Consultancy",
+    "section": "Admissions Dashboard - University of Westminster",
+    "text": "Admissions Dashboard - University of Westminster\n“The work Nick has carried out has helped us to greatly enhance the way we work with schools. The dashboard he has helped us build allows us to quickly find points of collaboration as well as key demographic and student population data.”\nDoug Specht Senior Lecturer Director of Teaching and Learning School of Media and Communication University of Westminster \nRedBull Netflix"
+  },
+  {
+    "objectID": "training-courses.html#other-courses",
+    "href": "training-courses.html#other-courses",
+    "title": "Training Courses",
+    "section": "Other Courses",
+    "text": "Other Courses\nI have also run a number of other courses, usually based on the four courses above and tweaked for a bespoke audience (examples include Public Health Wales, Essex Summer School, UEA International Development). If you are interested in a bespoke course, please Contact Me for a discussion and a quote."
   }
 ]
