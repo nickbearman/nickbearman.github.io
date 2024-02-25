@@ -2,15 +2,15 @@
   title: "Training Materials"
 ---
 
-As well as my [Training Courses] which you can attend in person or online, I have some stand along training materials which you might find useful. Some of these are updated regularly, and some of them are older; I hope all of them are useful. If you have any comments, suggestions or feedback, please [let me know](). 
+As well as my \[Training Courses\] which you can attend in person or online, I have some stand alone training materials which you might find useful. Some of these are updated regularly, and some of them are older; I hope all of them are useful. If you have any comments, suggestions or feedback, please [let me know]().
 
 ### Material from my Training Courses
 
 Some of the workbooks from my training courses are freely available for you to use, under a Creative Commons license. Please feel free to use and pass on!
 
-- Intro to QGIS
+-   Intro to QGIS
 
-- Intro to R
+-   Intro to R
 
 ### Freely Available Trainig Materials
 
@@ -18,7 +18,6 @@ I also have some other material that I have created myself, or created with coll
 
 Include link to NCRM / Vernon gayle video clips - what is Consumer Data? (image)
 
-CDRC - 
+CDRC -
 
 <!-- SODA training materials -->
-
