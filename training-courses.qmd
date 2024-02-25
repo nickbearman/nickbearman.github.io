@@ -21,22 +21,22 @@ Below is a list of the courses coming up, and a link to sign up (where available
 
 If you have any questions please do [contact me]() or email nick\@nickbearman.com if you have any questions.
 
-|              | R                                                                   | QGIS                                                                              |
-|---------------------------|---------------------------|-------------------|
-| Introductory | [Introduction to Spatial Data & Using R as a GIS] 09/01/2024 CC     | [Introduction to QGIS: Understanding and Presenting Spatial Data]\* 09/01/2025 CC |
-| Advanced     | [Confident Spatial Analysis and Statistics in R & GeoDa] 09/02/2025 | [Confident Spatial Analysis in QGIS]\* 09/01/2025                                 |
+|              | R                                                                                                                          | QGIS                                                                              |
+|--------------|----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| Introductory | [Introduction to Spatial Data & Using R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis) 09/01/2024 CC            | [Introduction to QGIS: Understanding and Presenting Spatial Data]\* 09/01/2025 CC |
+| Advanced     | [Confident Spatial Analysis and Statistics in R & GeoDa](#confident-spatial-analysis-and-statistics-in-r-geoda) 09/02/2025 | [Confident Spatial Analysis in QGIS]\* 09/01/2025                                 |
 
 *\*often presented together as "Introduction to QGIS: Spatial Data and Spatial Analysis" over 4 half-day sessions.*
 
 "I love having a workbook to go through, it's how I learn best. Also, perfect balance between presentation and practical work." Yes (with my name and affiliation) Harriet Ann Patrick PhD Researcher University of Sheffield
 
-### Introduction to Spatial Data & Using R as a GIS
+### Introduction to Spatial Data & Using R as a GIS {#introduction-to-spatial-data-using-r-as-a-gis}
 
 <existing text>
 
 \<text\>
 
-### Confident Spatial Analysis and Statistics in R & GeoDa
+### Confident Spatial Analysis and Statistics in R & GeoDa {#confident-spatial-analysis-and-statistics-in-r-geoda}
 
 <existing text>
 
