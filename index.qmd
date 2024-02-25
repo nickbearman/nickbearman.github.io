@@ -4,19 +4,25 @@ about:
   template: solana
   image: images/nickbearman-profile-picture.jpg
   links:
+    - icon: envelope
+      text: Email
+      href: mailto:nick@nickbearman.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/nickbearman/
+    - icon: github
+      text: GitHub
+      href: https://github.com/nickbearman
     - icon: mastodon
       text: Mastodon
       href: https://fosstodon.org/@nickbearman
     - icon: twitter
       text: Twitter
       href: https://twitter.com/nickbearmanuk
-    - icon: github
-      text: GitHub
-      href: https://github.com/nickbearman
 ---
 
 I'm Dr Nick Bearman and deliver GIS training sessions and GIS consultancy for a variety of clients, primarily focused in the academic and not for profit sectors. I help people make use of GIS to answer their research questions, and get more answers from the data they already have.
 
-I think GIS is a great way to explore and communicate your data, and I have a range of [training materials](training-courses.html), [training courses](training-courses.html) and [books](writing.html) to help people do this.
+I think GIS is a great way to explore and communicate your data, and I have a range of [training courses](training-courses.html), [training materials](training-courses.html), and [books](writing-presentations.html) to help people do this.
 
 I am also a passionate supporter of Open Source software and am Chair of [OSGeo:UK](https://uk.osgeo.org/), the UK Local Chapter of the [Open Source Geospatial Foundation](https://osgeo.org/)).

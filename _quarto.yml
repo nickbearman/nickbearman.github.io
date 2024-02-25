@@ -5,6 +5,7 @@ project:
 website:
   title: "Nick Bearman"
   navbar:
+    pinned: TRUE
     left:
       - href: index.qmd
         text: Home
@@ -20,5 +21,4 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
 
