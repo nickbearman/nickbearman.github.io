@@ -89,6 +89,8 @@ From the Workshop: [Agenda](http://www.virart.nottingham.ac.uk/GI%20Usability/i
 
 ## Papers
 
+**Nagkoulis, N., Nalmpantis, D., and Bearman, N. (2024)** KASSANDRA Model: Detecting Dangerous Traffic Conditions By Modeling Drivers’ Internal Stress Energy. Open Transplant Journal, 18: [doi:10.2174/0126671212296402240313055936](http://dx.doi.org/10.2174/0126671212296402240313055936), *Open Access*.
+
 **Lloyd, C. D., Catney, G., Williamson, P. and Bearman, N. (2017)** Exploring the utility of grids for analysing long term population change. Computers, Environment and Urban Systems, 66, 1--12. [doi:10.1016/j.compenvurbsys.2017.07.003](https://doi.org/10.1016/j.compenvurbsys.2017.07.003)*, Open Access.*
 
 **Lloyd, C. D., Bearman, N., Catney, G, Singleton, A. and Williamson, P. (2016)** PopChange.\
