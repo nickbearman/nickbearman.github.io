@@ -2,62 +2,145 @@
   title: "Training Courses"
 ---
 
+::: columns
+:::: {.column width="55%"}
+
 I offer a variety of training courses on GIS and spatial data, including introductory and advanced training using QGIS and R. My training is designed to both teach you about GIS itself and how to use the software to do make maps and perform spatial analysis.
+
+::::
+:::: {.column width="35%"}
+
+![](images/2019-06-13 12.26.53-students-at-desk.jpg){width=500}
+
+::::
+:::
 
 My courses are constantly being developed to take advantage of the latest changes in QGIS and R. Below is a list of the courses coming up, and a link to sign up (where available). If you would like a course run for a group of you, then please [contact me](index.html) discuss your needs and for a quote.
 
-If a course does not have a date, then please join my [mailing list](mailing-list.html) to hear when new dates are confirmed.
+If a course does not have a date, then please join my [mailing list](mailing-list.html) to hear when new dates are confirmed. If you have any questions please do [contact me](index.html) or email [nick\@nickbearman.com](mailto:nick\@nickbearman.com).
 
-```         
+----
 
-- Kalvin testomonial
-- Ed Stoddard / Plymouth
-- one to one sessions
-- grid of course options, with links to online material
-- sign up to mailing list
-```
-
-"Nice balance of theory and practice. Also useful to learn what to look for if things go wrong. Content was flexible to include what might be useful for our work." Vickie, Analyst, Public Health Wales.
-
-\<!-- <file:///C:/Users/nick/Documents/work/2022-37-public-health-wales-gis-training/feedback-forms.pdf> –\>
-
-If you have any questions please do [contact me]() or email nick\@nickbearman.com if you have any questions.
-
-|              | R                                                                                                                          | QGIS                                                                              |
+|              | Introductory         | Advanced                               |
 |--------------|-----------------------------------|-----------------------|
-| Introductory | [Introduction to Spatial Data and Using R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis) 09/01/2024 CC          | [Introduction to QGIS: Understanding and Presenting Spatial Data]\* 09/01/2025 CC |
-| Advanced     | [Confident Spatial Analysis and Statistics in R & GeoDa](#confident-spatial-analysis-and-statistics-in-r-geoda) 09/02/2025 | [Confident Spatial Analysis in QGIS]\* 09/01/2025                                 |
+| R | [Introduction to Spatial Data and Using R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis) June 2024       | [Confident Spatial Analysis and Statistics in R & GeoDa](#confident-spatial-analysis-and-statistics-in-r-geoda) July 2024 | [Confident Spatial Analysis and Statistics in R & GeoDa](#confident-spatial-analysis-and-statistics-in-r-geoda) 09/02/2025 
+| QGIS     |  [Introduction to QGIS: Understanding and Presenting Spatial Data]\*               | [Confident Spatial Analysis in QGIS](#confident-spatial-analysis-in-qgis)\*     |
 
-*\*often presented together as "Introduction to QGIS: Spatial Data and Spatial Analysis" over 4 half-day sessions.*
 
-"I love having a workbook to go through, it's how I learn best. Also, perfect balance between presentation and practical work." Yes (with my name and affiliation) Harriet Ann Patrick PhD Researcher University of Sheffield
+\*often presented together as "[Introduction to QGIS: Spatial Data and Spatial Analysis](#introduction-to-qgis-spatial-data-and-spatial-analysis)" over 4 half-day sessions.
+
+----
 
 ### Introduction to Spatial Data and Using R as a GIS {#introduction-to-spatial-data-using-r-as-a-gis}
 
-<existing text>
+::: columns
+:::: {.column width="58%"}
 
-\<text\>
+In this one day course we will explore how to use R to import, manage and process spatial data. We will also cover the process of making choropleth maps, as well as some basic spatial analysis. Finally, we will cover the use of loops to make multiple maps quickly and easily, one of the major benefits of using a scripting language to make maps, rather than traditional graphic point-and-click interface.
+
+No previous experience of coding is required, although participants would benefit from some experience of using spatial data (e.g. Google Maps).
+
+[Tue 25th and Wed 26th June 2024, 10am – 1pm, online.](https://www.ncrm.ac.uk/training/show.php?article=13142)
+
+::::
+:::: {.column width="42%"}
+
+![](images/r-map-output.png)
+::::
+:::
+
+:::{.callout-tip}
+## "Nice balance of theory and practice. Also useful to learn what to look for if things go wrong. Content was flexible to include what might be useful for our work."
+*Vickie, Analyst, Public Health Wales*
+
+:::
+
+----
 
 ### Confident Spatial Analysis and Statistics in R & GeoDa {#confident-spatial-analysis-and-statistics-in-r-geoda}
 
-<existing text>
+::: columns
+:::: {.column width="45%"}
 
-\<text\>
+![](images\spatial-overlay.png)
 
-### Introduction to QGIS: Understanding and Presenting Spatial Data
+::::
+:::: {.column width="55%"}
 
-\<text\>
+In this two part course we will show you how to prepare and conduct spatial analysis on a variety of spatial data in R, including a range of spatial overlays and data processing techniques. We will also cover how to use GeoDa to perform exploratory spatial data analysis, including making use of linked displays and measures of spatial autocorrelation and clustering.
 
-### Confident Spatial Analysis in QGIS
+*This course can follow-on from the [Introduction to Spatial Data & Using R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis) course above, or be run independently if participants have some previous knowledge of R / RStudio and spatial data.*
 
-\<text\>
+[Tue 16th and Wed 17th July, 2024, 10am – 1pm, online.](https://tinyurl.com/mr2y9de6)
+
+::::
+:::
+
+
+
+
+----
 
 ### Introduction to QGIS: Spatial Data and Spatial Analysis
 
-*This course is Introdudction to QGIS and Confidielt Spatial Analysis in QGIS run back to back.*
+*This course is [Introduction to QGIS](#introduction-to-qgis-understanding-and-presenting-spatial-data) and [Confident Spatial Analysis in QGIS](#confident-spatial-analysis-in-qgis) run back to back.*
 
-\<text\>
+[No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html)
 
-## Other Courses
+----
 
-I have also run a number of other courses, usually based on the four courses above and tweaked for a bespoke audience (examples include Public Health Wales, Essex Summer School, UEA International Development). If you are interested in a bespoke course, please Contact Me for a discussion and a quote.
+### Introduction to QGIS: Understanding and Presenting Spatial Data
+
+In this two part introductory course we will give you an overview on how GIS works, and what we can and can’t do with spatial data. We assume no prior knowledge of GIS and will explain how to get data into the GIS as well as how to produce maps using your own data.
+
+*This course requires no prior knowledge of GIS or spatial data. A level of basic computer experience is required; such as using websites, Word and saving & moving files.*
+
+*Attendees on this course can choose to receive a Certificate of Completion, certified by QGIS for a donation of €20. Geospatial Training Solutions is a QGIS approved training organisation, and a donation of €20 for each participant will be made to the QGIS Foundation, supporting the development of QGIS.*
+
+[No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html)
+
+![](images/qgis-screenshot.png)
+
+:::{.callout-tip}
+## "I love having a workbook to go through, it's how I learn best. Also, perfect balance between presentation and practical work."
+*Harriet Ann Patrick, PhD Researcher, University of Sheffield*
+
+:::
+
+----
+
+### Confident Spatial Analysis in QGIS
+
+This intermediate two part course will develop your skills of using spatial data, including collating data from a variety of sources including XY coordinate data and address or postcode based data. We will also cover using spatial overlays, point-in-polygon analysis and spatial joins.
+
+*This course can follow-on from the Introduction to QGIS course above, or be run independently if the participants have some previous knowledge of QGIS and spatial data.*
+
+*Attendees on this course can choose to receive a Certificate of Completion, certified by QGIS for a donation of €20. Geospatial Training Solutions is a QGIS approved training organisation, and a donation of €20 for each participant will be made to the QGIS Foundation, supporting the development of QGIS.* 
+
+[No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html)
+
+![](images/pip-spatial-overlays.png)
+
+----
+
+### Essex Summer School
+
+#### Introduction to GIS, Geospatial Data and Spatial Analysis
+
+In this week long (17.5 hours) course at the Essex Summer School, you will gain an in-depth knowledge of spatial data, and how it can be used in a variety of social science applications. You will learn how spatial data is structured, how and where it can be used and how and where it cannot be used. By the end of the course you will be able to apply the skills you have learnt in your own area of study, and there will be time during the course provided to start this with me available to help.
+
+*This course is a combination of the four courses listed above.*
+
+[Mon 22nd – Fri 26th July, 2024, 10am – 1:30pm, hybrid.](https://essexsummerschool.com/summer-school-facts/courses/ess-2024-course-list/1p-introduction-to-gis-geospatial-data-and-spatial-analysis/)
+
+----
+
+
+### Other Courses
+
+I have also run a number of other courses, usually based on the four courses above and tweaked for a bespoke audience (example clients include Public Health Wales, Red Bull, National Trails UK and UEA International Development). 
+
+I also deliever bespoke GIS training one-to-one and small groups on a [consultancy](consultancy.html) basis. 
+
+If you are interested in a bespoke course, please [contact me](index.html) for a discussion and a quote.
+
