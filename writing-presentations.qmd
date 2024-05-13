@@ -89,7 +89,7 @@ From the Workshop: [Agenda](http://www.virart.nottingham.ac.uk/GI%20Usability/i
 
 ## Papers
 
-**Delmelle, E., Bearman, N., and Yao, X. A. (2024)** Developing geospatial analytical methods to explore and communicate the spread of COVID19. Cartography and Geographic Information Science, 51(2), 193–199, [doi:doi:10.1080/15230406.2024.2325495](https://doi.org/10.1080/15230406.2024.2325495), *Editorial*.
+**Delmelle, E., Bearman, N., and Yao, X. A. (2024)** Developing geospatial analytical methods to explore and communicate the spread of COVID19. Cartography and Geographic Information Science, 51(2), 193–199, [doi:10.1080/15230406.2024.2325495](https://doi.org/10.1080/15230406.2024.2325495), *Editorial*.
 
 **Nagkoulis, N., Nalmpantis, D., and Bearman, N. (2024)** KASSANDRA Model: Detecting Dangerous Traffic Conditions By Modeling Drivers’ Internal Stress Energy. Open Transplant Journal, 18: [doi:10.2174/0126671212296402240313055936](http://dx.doi.org/10.2174/0126671212296402240313055936), *Open Access*.
 
