@@ -2,20 +2,38 @@
   title: "Consultancy"
 ---
 
-I can work with you to add geospatial analysis to your project and to develop your geospatial analysis toolset. I have worked with academics, universities, private sector and public sector organisations, developing bespoke training, one-to-one tuition or project support to enable my clients to get the best from their geospatial data.
+I can work with you to add geospatial analysis to your project and to develop your geospatial analysis toolset. I have worked with academics, universities, private sector and public sector organisations, developing bespoke training, one-to-one tuition or project support to enable my clients to get the best from their geospatial data. [Contact me](index.html) to have a chat about your project. 
 
 <!-- Emily / Uni of Birmingham -->
 
 <!-- ### South West Coast Path -->
 
+----
 
 ### Geospatial Analysis Capacity Building - University of Portsmouth
 
 "Working with Nick has been really great. His classes and consultancy have been extremely professional and instrumental in rapidly upscaling our abilities in both geo-spatial analysis and in the R programming language. We are far more effective now than we were before our engagement with him. Thanks Nick!"
 
-*Dr Ed Stoddard, Associate Professor in International Security and Dr Melita Lazell, Principal Lecturer in Global Political Economy and Associate Head (Research), School of Area Studies, History, Politics and Literature University of Portsmouth*
+*Dr Ed Stoddard, Associate Professor in International Security and 
+<br> Dr Melita Lazell, Principal Lecturer in Global Political Economy and Associate Head (Research), 
+<br> School of Area Studies, History, Politics and Literature University of Portsmouth*
 
-Images - RedBull, Netflix
+----
+
+::: columns
+:::: {.column width="45%"}
+
+![](images/netflix.png)
+![](images/Westminster-University-logo.jpg)
+::::
+:::: {.column width="45%"}
+
+![](images/Red-Bull-logo.jpg)
+![](images/portsmouth-logo.png)
+::::
+:::
+
+----
 
 <!--
 ### North Devon Biosphere & University of Exeter
@@ -30,11 +48,11 @@ Images - RedBull, Netflix
 
 “The work Nick has carried out has helped us to greatly enhance the way we work with schools. The dashboard he has helped us build allows us to quickly find points of collaboration as well as key demographic and student population data.”
 
-*Dr Doug Specht, Senior Lecturer, Director of Teaching and Learning, School of Media and Communication, University of Westminster*
+*Dr Doug Specht, Senior Lecturer, Director of Teaching and Learning, 
+<br>School of Media and Communication, University of Westminster*
 
-Screenshot
+![](images/school-admissions.png)
 
-<!-- 14/09/2021, 2021-35-doug-specht-arcgis-online-dashboard -->
 
 
 
