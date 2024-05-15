@@ -1,0 +1,31 @@
+---
+title: "Matrix: What's it all about?"
+author: "Nick Bearman"
+date: "2021-09-12"
+categories: [open source, teaching, remote, communication]
+image: "chat_systems.png"
+---
+
+I’ve recently come across a new piece of software that could revolutionise communication – and yes, you have probably heard that before, in many articles on the Internet! However this one might actually be useful (although maybe not revolutionary yet), and be a significant improvement on the many different systems we have for instant messaging (IM). At the last count I regularly use Teams, Slack, WhatsApp and Signal and also sometimes use texts, Skype, Facebook Messenger, Telegram for IM, and there are probably some others I have forgotten as well.
+
+This is really helpful, to avoid situations like [this](https://xkcd.com/1810/):
+
+![XKCD explaining why a system like Matrix is important](chat_systems.png)
+
+Matrix is something that might be able to replace all of these, and bring them into one interface, so you can have all of your IM communication in one piece of software. Matrix is an open source, distributed protocol for instant message communication. It’s a bit like email, but for IM. The email analogy works really well – because Matrix is the protocol (like email) and you can get many different clients, like you can for email (Outlook, Thunderbird, Gmail, …). You also have a Matrix address, much like an email address.
+
+Within Matrix you also can have specific chat rooms (think like Slack Channels, IRC rooms, Teams teams, etc.) as well as 1 to 1 messaging. The big advantages for me are that it is open source (the only open source option for this, I believe) as well as being end-to-end encrypted. It also has bridges which allow you to join in other platforms from your Matrix account, and this is the big thing for me. Now when people send me messages in WhatsApp, Signal, Teams, Slack or anywhere else, I can a) actually find their message easily when I hear a sound and b) reply to it all in one place!
+
+The other key bit of the puzzle is the client. I use a program called Element, which is one of the main clients for Matrix. There are [others](https://matrix.org/clients/) available as well, and you can use whichever one you like. You can also switch between platforms and all your messages and rooms you have joined will still be there.
+
+This is my Matrix address: @nick:nickbearman.ems.host and if you go to [https://matrix.to/#/#nick:nickbearman.ems.host](https://matrix.to/#/#nick:nickbearman.ems.host) in your web browser, this will open up the (Matrix) client of your choice (Element by default), give you the option of signing up for an account on Matrix and then allow you to send me an instant message.
+
+You can also join rooms in a similar manner, e.g. the recently created OSGeoUK chat room on Matrix, to discuss Open Source Geo things: [https://matrix.to/#/#OSGeoUK:matrix.org](https://matrix.to/#/#OSGeoUK:matrix.org). If you are in to open source Geo, please join us there!
+
+There are also lots of other resources including Matrix’s [FAQ page](https://matrix.org/faq/), this post explaining [what Matrix is](https://blog.ergaster.org/post/20210602-matrix-for-im/), and this much longer post discussing [how Matrix could be really useful in open source software development,](https://ansible.github.io/community/posts/matrix_and_ansible.html) and some background info on IRC too.
+
+Matrix also updated the XKCD comic above with their current bridges, so you can talk to all of these through Matrix!
+
+Give it a go and let me know how you get on!
+
+*For bridging to other environments, you need admin access in Teams / Slack to set this up, which requires the organisation who admins the system to allow you to use the bridges on their system!
