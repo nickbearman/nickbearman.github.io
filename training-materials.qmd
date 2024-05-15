@@ -2,7 +2,18 @@
   title: "Training Materials"
 ---
 
+::: columns
+:::: {.column width="55%"}
 As well as my [Training Courses](training-courses.html) which you can attend in person or online, I have some stand alone training materials which you might find useful. Some of these are updated regularly, and some of them are older; I hope all of them are useful. If you have any comments, suggestions or feedback, please [let me know](index.html).
+::::
+:::: {.column width="45%"}
+![](images/workbook.png)
+::::
+:::
+
+
+
+
 
 ### Material from my Training Courses
 
@@ -16,6 +27,9 @@ Some of the workbooks from my training courses are freely available for you to u
 
 I also have some other material that I have created myself, or created with colleagues, which is freely available for anyone to use:
 
+::: columns
+:::: {.column width="60%"}
+
 - [Using Consumer Data in Research, NCRM (2022)](https://www.dementiaresearcher.nihr.ac.uk/using-consumer-data-in-r) *3 x ~18 min videos*
 
 - [Short Course on Using R as a GIS](https://data.cdrc.ac.uk/dataset/short-course-using-r-gis) *workbook & videos, free registration required*
@@ -27,3 +41,11 @@ I also have some other material that I have created myself, or created with coll
 - [Advanced GIS Methods Training: Retail Centres and Catchment Areas (2020)](https://data.cdrc.ac.uk/dataset/advanced-gis-methods-training-retail-centres-and-catchment-areas) *workbook, free registration required*
 
 <!-- SODA training materials -->
+::::
+:::: {.column width="40%"}
+{{< video https://www.youtube.com/watch?v=IRP1OChrFKY >}}
+::::
+:::
+
+
+
