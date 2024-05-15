@@ -8,7 +8,16 @@ I can work with you to add geospatial analysis to your project and to develop yo
 
 <!-- ### South West Coast Path -->
 
-----
+
+::: columns
+:::: {.column width="45%"}
+![](images/portsmouth-logo.png)
+::::
+:::: {.column width="45%"}
+![](images/netflix.png)
+::::
+:::
+
 
 ### Geospatial Analysis Capacity Building - University of Portsmouth
 
@@ -18,22 +27,20 @@ I can work with you to add geospatial analysis to your project and to develop yo
 <br> Dr Melita Lazell, Principal Lecturer in Global Political Economy and Associate Head (Research), 
 <br> School of Area Studies, History, Politics and Literature University of Portsmouth*
 
-----
+
 
 ::: columns
 :::: {.column width="45%"}
 
-![](images/netflix.png)
 ![](images/Westminster-University-logo.jpg)
 ::::
 :::: {.column width="45%"}
 
 ![](images/Red-Bull-logo.jpg)
-![](images/portsmouth-logo.png)
 ::::
 :::
 
-----
+
 
 <!--
 ### North Devon Biosphere & University of Exeter
