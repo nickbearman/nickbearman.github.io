@@ -3,23 +3,20 @@
 ---
 
 ::: columns
-:::: {.column width="55%"}
+::: {.column width="55%"}
 As well as my [Training Courses](training-courses.html) which you can attend in person or online, I have some stand alone training materials which you might find useful. Some of these are updated regularly, and some of them are older; I hope all of them are useful. If you have any comments, suggestions or feedback, please [let me know](index.html).
-::::
-:::: {.column width="45%"}
-![](images/workbook.png)
-::::
 :::
 
-
-
-
+::: {.column width="45%"}
+![](images/workbook.png)
+:::
+:::
 
 ### Material from my Training Courses
 
 Some of the workbooks from my training courses are freely available for you to use, under a Creative Commons license. Please feel free to use and pass on!
 
--   [Introduction to Spatial Data and Using R as a GIS](https://github.com/nickbearman/intro-r-spatial-analysis/#introduction-to-spatial-data--using-r-as-a-gis)
+-   [Introduction to Spatial Data and Using R as a GIS](https://github.com/nickbearman/intro-r-spatial-analysis/#introduction-to-spatial-data--using-r-as-a-gis) *[YouTube vidoes](https://www.youtube.com/watch?v=GeC3vX3eSdQ&list=PL2cx4rRovg3yDLudxo6SxjMuY1-HJu7AP)*
 
 -   [Introduction to QGIS: Spatial Data and Spatial Analysis](https://github.com/nickbearman/intro-qgis-spatial-data?tab=readme-ov-file#introduction-to-qgis-spatial-data-and-spatial-analysis)
 
@@ -28,24 +25,21 @@ Some of the workbooks from my training courses are freely available for you to u
 I also have some other material that I have created myself, or created with colleagues, which is freely available for anyone to use:
 
 ::: columns
-:::: {.column width="60%"}
+::: {.column width="60%"}
+-   [Using Consumer Data in Research, NCRM (2022)](https://www.dementiaresearcher.nihr.ac.uk/using-consumer-data-in-r) *3 x \~18 min videos*
 
-- [Using Consumer Data in Research, NCRM (2022)](https://www.dementiaresearcher.nihr.ac.uk/using-consumer-data-in-r) *3 x ~18 min videos*
+-   [Short Course on Using R as a GIS](https://data.cdrc.ac.uk/dataset/short-course-using-r-gis) *workbook & videos, free registration required*
 
-- [Short Course on Using R as a GIS](https://data.cdrc.ac.uk/dataset/short-course-using-r-gis) *workbook & videos, free registration required*
+-   [Advanced GIS Methods Training: AHAH and Multi-Dimensional Indices (2020)](https://data.cdrc.ac.uk/dataset/advanced-gis-methods-training-ahah-and-multi-dimensional-indices) *workbook, free registration required*
 
-- [Advanced GIS Methods Training: AHAH and Multi-Dimensional Indices (2020)](https://data.cdrc.ac.uk/dataset/advanced-gis-methods-training-ahah-and-multi-dimensional-indices) *workbook, free registration required*
+-   [Advanced GIS Methods Training: IUC and K-Means Clustering (2020)](https://data.cdrc.ac.uk/dataset/advanced-gis-methods-training-iuc-and-k-means-clustering) *workbook, free registration required*
 
-- [Advanced GIS Methods Training: IUC and K-Means Clustering (2020)](https://data.cdrc.ac.uk/dataset/advanced-gis-methods-training-iuc-and-k-means-clustering) *workbook, free registration required*
-
-- [Advanced GIS Methods Training: Retail Centres and Catchment Areas (2020)](https://data.cdrc.ac.uk/dataset/advanced-gis-methods-training-retail-centres-and-catchment-areas) *workbook, free registration required*
+-   [Advanced GIS Methods Training: Retail Centres and Catchment Areas (2020)](https://data.cdrc.ac.uk/dataset/advanced-gis-methods-training-retail-centres-and-catchment-areas) *workbook, free registration required*
 
 <!-- SODA training materials -->
-::::
-:::: {.column width="40%"}
-{{< video https://www.youtube.com/watch?v=IRP1OChrFKY >}}
-::::
 :::
 
-
-
+::: {.column width="40%"}
+{{< video https://www.youtube.com/watch?v=IRP1OChrFKY >}}
+:::
+:::
