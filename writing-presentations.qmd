@@ -2,7 +2,7 @@
   title: "Writing & Presentations"
 ---
 
-I have written 22 academic papers, a book ([GIS: Research Methods](gis-research-methods.html)) and given over 20 presentations at a variety of conferences and seminars. I have also published in a number of magazines and industry journals, including [The Conversation](https://theconversation.com/uk), [xyHt](https://www.xyht.com/), and [GeoConnexionUK](https://www.geoconnexion.com/). Links are included below, but if you can't find anything please ask.
+I have written 24 academic papers, a book ([GIS: Research Methods](gis-research-methods.html)) and given over 25 presentations at a variety of conferences and seminars. I have also published in a number of magazines and industry journals, including [The Conversation](https://theconversation.com/uk), [xyHt](https://www.xyht.com/), and [GeoConnexionUK](https://www.geoconnexion.com/). Links are included below, but if you can't find anything, [please ask](http://nickbearman.github.io).
 
 ## Recent Publications
 
@@ -19,6 +19,8 @@ I have written 22 academic papers, a book ([GIS: Research Methods](gis-research-
 **Lloyd, C. D., Catney, G., Williamson, P. and Bearman, N. (2017)** Exploring the utility of grids for analysing long term population change. Computers, Environment and Urban Systems, 66, 1--12. [doi:10.1016/j.compenvurbsys.2017.07.003](https://doi.org/10.1016/j.compenvurbsys.2017.07.003)*, Open Access.*
 
 ## Presentations
+
+**Bearman, N. (2024)** Reproducibility and Replicability in Geospatial Data Science, invited presentation for students in CPLN 6800 Capstone Project/Advanced Topics in GIS at University of Pennsylvania, 18th April 2024, [Slides](https://nickbearman.github.io/reproducibility-replicability-gds-penn), [Source](https://github.com/nickbearman/reproducibility-replicability-gds-penn), [PDF](files/2024-05-18-Reproducibility-and-Replicability-in-Geospatial-Data-Science.pdf). 
 
 **Bearman, N. (2023)** What is GIS?, Presented 09/11/2023 at NCRM 2023 Research Methods e-Festival, [PDF slides](https://www.nickbearman.me.uk/twe/wp-content/uploads/2023/11/presentation-ncrm.pdf), [YouTube video (pre-recorded)](https://youtu.be/H9xO20wiqTs).
 
