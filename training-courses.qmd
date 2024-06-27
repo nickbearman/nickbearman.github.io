@@ -23,7 +23,7 @@ If a course does not have a date, then please join my [mailing list](mailing-lis
 
 |              | Introductory         | Advanced                               |
 |--------------|-----------------------------------|-----------------------|
-| R | [Introduction to Spatial Data and Using R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis) June 2024       | [Confident Spatial Analysis and Statistics in R & GeoDa](#confident-spatial-analysis-and-statistics-in-r-geoda) July 2024 | [Confident Spatial Analysis and Statistics in R & GeoDa](#confident-spatial-analysis-and-statistics-in-r-geoda) 09/02/2025 
+| R | [Introduction to Spatial Data and Using R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis)   | [Confident Spatial Analysis and Statistics in R & GeoDa](#confident-spatial-analysis-and-statistics-in-r-geoda) July 2024 | [Confident Spatial Analysis and Statistics in R & GeoDa](#confident-spatial-analysis-and-statistics-in-r-geoda) 09/02/2025 
 | QGIS     |  [Introduction to QGIS: Understanding and Presenting Spatial Data]\*               | [Confident Spatial Analysis in QGIS](#confident-spatial-analysis-in-qgis)\*     |
 
 
@@ -40,7 +40,9 @@ In this one day course we will explore how to use R to import, manage and proces
 
 No previous experience of coding is required, although participants would benefit from some experience of using spatial data (e.g. Google Maps).
 
-[Tue 25th and Wed 26th June 2024, 10am – 1pm, online.](https://www.ncrm.ac.uk/training/show.php?article=13142)
+<!-- [Tue 25th and Wed 26th June 2024, 10am – 1pm, online.](https://www.ncrm.ac.uk/training/show.php?article=13142) -->
+
+[No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html)
 
 ::::
 :::: {.column width="42%"}
