@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/blog/ogc-code-sprint/index.html",
       "/blog/arcmap-1999-2024/index.html",
       "/blog/icc/index.html",
       "/blog/geoai-digital-twins/index.html",
