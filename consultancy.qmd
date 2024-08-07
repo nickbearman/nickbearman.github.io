@@ -6,8 +6,14 @@ I can work with you to add geospatial analysis to your project and to develop yo
 
 <!-- Emily / Uni of Birmingham -->
 
-<!-- ### South West Coast Path -->
+----
 
+### Protected Landscapes Partnership
+
+"Our team organised a bespoke GIS training course with Nick, and it was incredibly helpful. Nick asked us about our experience and what we hoped to use GIS for and designed a bespoke training course to suit our needs. During the training we were able to ask questions and use examples specific to our work area. Nick was able to guide us through a real example of a project we wanted to develop, and teach us how best to go about completing it.  Nick’s training has given us all much more confidence to use GIS in our work."
+<br>*Dr Harriet Knafler, Evidence Coordinator, Protected Landscapes Partnership*
+
+----
 
 ::: columns
 :::: {.column width="45%"}
@@ -18,16 +24,37 @@ I can work with you to add geospatial analysis to your project and to develop yo
 ::::
 :::
 
+----
 
-### Geospatial Analysis Capacity Building - University of Portsmouth
+### University of Portsmouth
 
 "Working with Nick has been really great. His classes and consultancy have been extremely professional and instrumental in rapidly upscaling our abilities in both geo-spatial analysis and in the R programming language. We are far more effective now than we were before our engagement with him. Thanks Nick!"
-
+<br>
 *Dr Ed Stoddard, Associate Professor in International Security and 
 <br> Dr Melita Lazell, Principal Lecturer in Global Political Economy and Associate Head (Research), 
 <br> School of Area Studies, History, Politics and Literature University of Portsmouth*
 
+----
 
+::: columns
+:::: {.column width="45%"}
+![](images/NTUK_Primary Logo_Black.png)
+::::
+:::: {.column width="45%"}
+
+::::
+:::
+
+----
+
+
+### National Trails UK
+
+"Nick provided the Team with an introductory GIS session and an advanced training session. The introductory session was a great refresher for members of the team that had GIS experience and a fantastic introduction for those that were new to GIS. The advanced training session was tailored to the teams needs and provided us with a really good understanding of how we can use GIS to pull out our data requirements. Nick provided us all with the confidence to progress and develop our spatial analysis skills and was communicative and engaging throughout. I’d highly recommend working with Nick."
+<br>
+*Jennifer Manning, Policy and Research Officer, National Trails UK*
+
+----
 
 ::: columns
 :::: {.column width="45%"}
@@ -40,7 +67,7 @@ I can work with you to add geospatial analysis to your project and to develop yo
 ::::
 :::
 
-
+----
 
 <!--
 ### North Devon Biosphere & University of Exeter
@@ -51,10 +78,10 @@ I can work with you to add geospatial analysis to your project and to develop yo
 
 -->
 
-### Admissions Dashboard - University of Westminster
+### University of Westminster
 
-“The work Nick has carried out has helped us to greatly enhance the way we work with schools. The dashboard he has helped us build allows us to quickly find points of collaboration as well as key demographic and student population data.”
-
+“The work Nick has carried out has helped us to greatly enhance the way we work with schools. The admissions dashboard he has helped us build allows us to quickly find points of collaboration as well as key demographic and student population data.”
+<br>
 *Dr Doug Specht, Senior Lecturer, Director of Teaching and Learning, 
 <br>School of Media and Communication, University of Westminster*
 
