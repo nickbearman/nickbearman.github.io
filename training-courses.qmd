@@ -73,7 +73,9 @@ In this two part course we will show you how to prepare and conduct spatial anal
 
 *This course can follow-on from the [Introduction to Spatial Data & Using R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis) course above, or be run independently if participants have some previous knowledge of R / RStudio and spatial data.*
 
-[Tue 16th and Wed 17th July, 2024, 10am – 1pm, online.](https://tinyurl.com/mr2y9de6)
+<!-- [Tue 16th and Wed 17th July, 2024, 10am – 1pm, online.](https://tinyurl.com/mr2y9de6) -->
+
+[No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html)
 
 ::::
 :::
