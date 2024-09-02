@@ -26,7 +26,7 @@ I also have some other material that I have created myself, or created with coll
 
 ::: columns
 ::: {.column width="60%"}
--   [Using Consumer Data in Research, NCRM (2022)](https://www.dementiaresearcher.nihr.ac.uk/using-consumer-data-in-r) *3 x \~18 min videos*
+-   [A Geographer's Introduction to QGIS & R](https://www.rgs.org/research/higher-education-resources/a-geographers-introduction-to-qgis) *7 lessons on mapping and spatial data analysis, available in QGIS and R* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13626798.svg)](https://doi.org/10.5281/zenodo.13626798)
 
 -   [Short Course on Using R as a GIS](https://data.cdrc.ac.uk/dataset/short-course-using-r-gis) *workbook & videos, free registration required*
 
@@ -41,5 +41,8 @@ I also have some other material that I have created myself, or created with coll
 
 ::: {.column width="40%"}
 {{< video https://www.youtube.com/watch?v=IRP1OChrFKY >}}
+
+-   [Using Consumer Data in Research, NCRM (2022)](https://www.dementiaresearcher.nihr.ac.uk/using-consumer-data-in-r) *3 x \~18 min videos*
+
 :::
 :::
