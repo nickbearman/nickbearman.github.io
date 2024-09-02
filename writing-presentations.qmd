@@ -6,6 +6,8 @@ I have written 24 academic papers, a book ([GIS: Research Methods](gis-research-
 
 ## Recent Publications
 
+**Bearman, N., Musah, A. and Cheshire, J. (2024)** A Geographer's Introduction to QGIS & R, [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13626798.svg)](https://doi.org/10.5281/zenodo.13626798) [training materials](https://www.rgs.org/research/higher-education-resources/a-geographers-introduction-to-qgis), [GitHub](https://github.com/UCL/SODA/tree/main/geographers-introduction-QGIS) 
+
 **Bearman, N., Xu, R., Roddy, P. J., Gaboardi, J. D., Zhao, Q., Chen, H., and Wolf, L. (2023)** Developing capacitated *p*-median location-allocation model in the spopt library to allow UCL student teacher placements using public transport, AGILE GIScience Series., 4, 20, Paper <https://doi.org/10.5194/agile-giss-4-20-2023>, Details, Presentation  & Notebook: <https://github.com/UCL/ioe-student-school-allocation>.
 
 **Bearman, N. (2023)** Chapter 21. The Geovisualisation of Big Data, In Kent, A.J. & Specht, D. (eds.) , [The Routledge Handbook of Geospatial Technologies and Society](https://www.routledge.com/The-Routledge-Handbook-of-Geospatial-Technologies-and-Society/Kent-Specht/p/book/9780367428877), Routledge.
