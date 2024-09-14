@@ -1,0 +1,15 @@
+---
+  title: "Using R as a GIS"
+---
+
+::: {layout="[30,70]"}
+
+![](images/rgis.png)
+
+ **Using R as a GIS** shows you how the R programming language can transform your GIS journey, empowering you to create stunning maps, analyse spatial data, and unlock advanced geospatial insights–no prior experience needed! <br /> <br /> This book shows you how to use R as a GIS, enabling you to all the spatial analysis you want to, with the reproducibility and benefits of working with a scripting language. <br /> <br /> This book is designed for people who are new to R, or even new to scripting and programming. No prior knowledge is needed! Ideally, you will know a little bit of GIS already, and maybe have opened QGIS or ArcGIS. However don't worry if you haven't, we will cover the key GIS terminology that you need to know.
+ 
+:::
+
+Check out more details and buy a copy on the [Locate Press](https://locatepress.com/book/rgis) website. You can also [download the first chapter](https://locatepress.com/files/rgis/rgis1_preview.pdf) for free!
+
+[Data files for book *138 MB*](https://locatepress.com/files/rgis/rgis_data.zip) 

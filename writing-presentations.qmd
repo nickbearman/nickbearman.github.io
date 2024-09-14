@@ -2,9 +2,11 @@
   title: "Writing & Presentations"
 ---
 
-I have written 24 academic papers, a book ([GIS: Research Methods](gis-research-methods.html)) and given over 25 presentations at a variety of conferences and seminars. I have also published in a number of magazines and industry journals, including [The Conversation](https://theconversation.com/uk), [xyHt](https://www.xyht.com/), and [GeoConnexionUK](https://www.geoconnexion.com/). Links are included below, but if you can't find anything, [please ask](http://nickbearman.github.io).
+I have written 24 academic papers, two books ([Using R as a GIS](rgis.html) and [GIS: ](gis-research-methods.html)) and given over 25 presentations at a variety of conferences and seminars. I have also published in a number of magazines and industry journals, including [The Conversation](https://theconversation.com/uk), [xyHt](https://www.xyht.com/), and [GeoConnexionUK](https://www.geoconnexion.com/). Links are included below, but if you can't find anything, [please ask](http://nickbearman.github.io).
 
 ## Recent Publications
+
+**Bearman, N. (2024)** [Using R as a GIS](rgis.html), Locate Press.
 
 **Bearman, N., Musah, A. and Cheshire, J. (2024)** A Geographer's Introduction to QGIS & R, [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13626798.svg)](https://doi.org/10.5281/zenodo.13626798) [training materials](https://www.rgs.org/research/higher-education-resources/a-geographers-introduction-to-qgis), [GitHub](https://github.com/UCL/SODA/tree/main/geographers-introduction-QGIS) 
 
@@ -12,7 +14,7 @@ I have written 24 academic papers, a book ([GIS: Research Methods](gis-research-
 
 **Bearman, N. (2023)** Chapter 21. The Geovisualisation of Big Data, In Kent, A.J. & Specht, D. (eds.) , [The Routledge Handbook of Geospatial Technologies and Society](https://www.routledge.com/The-Routledge-Handbook-of-Geospatial-Technologies-and-Society/Kent-Specht/p/book/9780367428877), Routledge.
 
-**Bearman, N. (2021)** [GIS: Research Methods](https://www.nickbearman.me.uk/gis-research-methods/), Bloomsbury: London.
+**Bearman, N. (2021)** [GIS: Research Methods](gis-research-methods.html), Bloomsbury: London.
 
 **Bearman, N. (2021)** Census 2021: why are some people completing it online and others have paper forms?, The Conversation, 18th March 2021, <https://theconversation.com/census-2021-why-are-some-people-completing-it-online-and-others-have-paper-forms-157380>, [extended version on nickbearman.me.uk](https://www.nickbearman.me.uk/2021/03/census-2021-who-gets-a-letter-and-who-gets-a-paper-form/).
 
@@ -151,6 +153,12 @@ Liverpool: Centre for Spatial Demographics Research, University of Liverpool. <
 
 **Bearman, N. & Lovett, A. (2010)** Using Sound to Represent Positional Accuracy of Address Locations, The Cartographic Journal, Volume 47, Number 4, pp. 308-314(7).\
 [doi:10.1179/000870410X12911302296833](http://dx.doi.org/10.1179/000870410X12911302296833), ![](http://www.nickbearman.me.uk/images/pdf.gif){alt=""} [Postprint version (822 KB)](http://www.nickbearman.me.uk/academic/bearman_lovett_2010/bearman_lovett_2010_postprint.pdf), [Videos and further information](http://www.nickbearman.me.uk/academic/bearman_lovett_2010/index.htm).
+
+## Books
+
+**Bearman, N. (2024)** [Using R as a GIS](rgis.html), Locate Press.
+
+**Bearman, N. (2021)** [GIS: Research Methods](gis-research-methods.html), Bloomsbury: London.
 
 ## Magazine Articles & Book Chapters
 
