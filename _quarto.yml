@@ -17,8 +17,8 @@ website:
 
 format:
   html:
-    theme: cosmo
     css: styles.css
+    theme: lumen
     toc: true
 
 

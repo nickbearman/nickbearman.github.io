@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.340">
+<meta name="generator" content="quarto-1.4.550">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -46,7 +46,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -55,8 +61,10 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 <script>
@@ -92,6 +100,33 @@ ul.task-list li input[type="checkbox"] {
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
 <link rel="stylesheet" href="styles.css">
 </head>
 
@@ -99,9 +134,9 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Nick Bearman</span>
     </a>
@@ -113,33 +148,33 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
- <span class="menu-text">Home</span></a>
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./training-courses.html" rel="" target="">
- <span class="menu-text">Training Courses</span></a>
+    <a class="nav-link" href="./training-courses.html"> 
+<span class="menu-text">Training Courses</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./training-materials.html" rel="" target="">
- <span class="menu-text">Training Materials</span></a>
+    <a class="nav-link" href="./training-materials.html"> 
+<span class="menu-text">Training Materials</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./consultancy.html" rel="" target="">
- <span class="menu-text">Consultancy</span></a>
+    <a class="nav-link" href="./consultancy.html"> 
+<span class="menu-text">Consultancy</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./writing-presentations.html" rel="" target="">
- <span class="menu-text">Writing &amp; Presentations</span></a>
+    <a class="nav-link" href="./writing-presentations.html"> 
+<span class="menu-text">Writing &amp; Presentations</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./blog.html" rel="" target="" aria-current="page">
- <span class="menu-text">Blog</span></a>
+    <a class="nav-link active" href="./blog.html" aria-current="page"> 
+<span class="menu-text">Blog</span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools ms-auto">
-</div>
           </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -160,7 +195,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -168,7 +203,9 @@ ul.task-list li input[type="checkbox"] {
   </div>
   
 
+
 </header>
+
 
 <p>A blog on my teaching, open source GIS, travel and life</p>
 
@@ -183,7 +220,7 @@ ul.task-list li input[type="checkbox"] {
     </div>
 </div>
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="GIS,open source,R spatial,in person" data-listing-date-sort="1720998000000" data-listing-file-modified-sort="1721038721223" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8">
+<div class="g-col-1" data-index="0" data-categories="GIS,open source,R spatial,in person" data-listing-date-sort="1720998000000" data-listing-file-modified-sort="1721038722000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1535">
 <a href="./blog/ogc-code-sprint/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -208,7 +245,7 @@ in person
 </div>
 </div>
 <div class="card-text listing-description">
-In July I spent three days at Geovation in London attending the OGC Open Standards Code Sprint. OGC, the Open Geospatial Consortium manage and approve standards for geospatial data. Many people working in geospatial have heard of them, and have at least a vague idea that they do geospatial standards…
+In July I spent three days at Geovation in London attending the OGC Open Standards Code Sprint. OGC, the Open Geospatial Consortium manage and approve standards for…
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -222,7 +259,7 @@ Jul 15, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="ESRI,GIS,teaching" data-listing-date-sort="1705536000000" data-listing-file-modified-sort="1710837356415" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
+<div class="g-col-1" data-index="1" data-categories="ESRI,GIS,teaching" data-listing-date-sort="1705536000000" data-listing-file-modified-sort="1710837358000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="630">
 <a href="./blog/arcmap-1999-2024/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -244,7 +281,7 @@ teaching
 </div>
 </div>
 <div class="card-text listing-description">
-We finally have an end date for ArcMap! This has been something that has been a long time coming, but I would say is certainly due now. ArcMap final date of support…
+We finally have an end date for ArcMap! This has been something that has been a long time coming, but I would say is certainly due now. ArcMap final date of support for…
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -258,7 +295,7 @@ Jan 18, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="conference,GIS,open source" data-listing-date-sort="1693868400000" data-listing-file-modified-sort="1700405830000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7">
+<div class="g-col-1" data-index="2" data-categories="conference,GIS,open source" data-listing-date-sort="1693868400000" data-listing-file-modified-sort="1700405828481" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1337">
 <a href="./blog/icc/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -280,7 +317,7 @@ open source
 </div>
 </div>
 <div class="card-text listing-description">
-A couple of weeks ago I spent a fantastic week in Cape Town, South Africa, attending the 2023 International Cartographic Conference. The ICC (not to be confused with the International Cricket Council!) is held every two years by the International Cartographic Association (ICA). It’s a global conference…
+A couple of weeks ago I spent a fantastic week in Cape Town, South Africa, attending the 2023 International Cartographic Conference. The ICC (not to be confused with the…
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -294,7 +331,7 @@ Sep 5, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="conference,GIS,networking,GeoBusiness,ESRI" data-listing-date-sort="1684364400000" data-listing-file-modified-sort="1710837356425" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6">
+<div class="g-col-1" data-index="3" data-categories="conference,GIS,networking,GeoBusiness,ESRI" data-listing-date-sort="1684364400000" data-listing-file-modified-sort="1710837358000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1044">
 <a href="./blog/geoai-digital-twins/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -322,7 +359,7 @@ ESRI
 </div>
 </div>
 <div class="card-text listing-description">
-Along with many other people from the geospatial community, I was up in London earlier this week for ESRI UK Annual Conference, GeoBusiness and Spatial…
+Along with many other people from the geospatial community, I was up in London earlier this week for ESRI UK Annual Conference, GeoBusiness and Spatial Data Science…
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -336,7 +373,7 @@ May 18, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="4" data-categories="conference,low carbon,train,travelling" data-listing-date-sort="1669248000000" data-listing-file-modified-sort="1710837356418" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
+<div class="g-col-1" data-index="4" data-categories="conference,low carbon,train,travelling" data-listing-date-sort="1669248000000" data-listing-file-modified-sort="1710837358000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="675">
 <a href="./blog/foss4g-2022/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -375,7 +412,7 @@ Nov 24, 2022
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="5" data-categories="conference,FOSS4G:UK,GIS,in person,open source,remote" data-listing-date-sort="1669075200000" data-listing-file-modified-sort="1710837356418" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<div class="g-col-1" data-index="5" data-categories="conference,FOSS4G:UK,GIS,in person,open source,remote" data-listing-date-sort="1669075200000" data-listing-file-modified-sort="1710837358000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="408">
 <a href="./blog/foss4guklocal2022/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -406,7 +443,7 @@ remote
 </div>
 </div>
 <div class="card-text listing-description">
-On PostGIS day last week, Thurs 17th Nov, we ran FOSS4G:UK Local 2022. We were trying out a new model, with the conference distributed over 9 different physical venues (and online). I chaired three amazing keynotes, which were streamed to all…
+On PostGIS day last week, Thurs 17th Nov, we ran FOSS4G:UK Local 2022. We were trying out a new model, with the conference distributed over 9 different physical venues (and…
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -420,7 +457,7 @@ Nov 22, 2022
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="6" data-categories="conference,CPD,ESRI,GeoBusiness" data-listing-date-sort="1653260400000" data-listing-file-modified-sort="1710837356418" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5">
+<div class="g-col-1" data-index="6" data-categories="conference,CPD,ESRI,GeoBusiness" data-listing-date-sort="1653260400000" data-listing-file-modified-sort="1710837358000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="933">
 <a href="./blog/digital-twins/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -459,7 +496,7 @@ May 23, 2022
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="7" data-categories="open source,R spatial,teaching" data-listing-date-sort="1645747200000" data-listing-file-modified-sort="1710837356428" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
+<div class="g-col-1" data-index="7" data-categories="open source,R spatial,teaching" data-listing-date-sort="1645747200000" data-listing-file-modified-sort="1710837358000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="752">
 <a href="./blog/spatial-r/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -481,7 +518,7 @@ teaching
 </div>
 </div>
 <div class="card-text listing-description">
-It was about three years ago (2019) when I last wrote about the sp and sf libraries in R. The R Spatial world has moved on since then, with sp heading close to retirement now. Since 2019 I have run Introduction to Spatial Data &amp; Using R as a GIS, and its…
+It was about three years ago (2019) when I last wrote about the sp and sf libraries in R. The R Spatial world has moved on since then, with sp heading close to retirement…
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -495,7 +532,7 @@ Feb 25, 2022
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="8" data-categories="open source,teaching,remote,communication" data-listing-date-sort="1631401200000" data-listing-file-modified-sort="1715862524186" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<div class="g-col-1" data-index="8" data-categories="open source,teaching,remote,communication" data-listing-date-sort="1631401200000" data-listing-file-modified-sort="1715862526000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="555">
 <a href="./blog/matrix/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -534,7 +571,7 @@ Sep 12, 2021
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="9" data-categories="open source,teaching,conference,online,remote" data-listing-date-sort="1625180400000" data-listing-file-modified-sort="1715862524192" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5">
+<div class="g-col-1" data-index="9" data-categories="open source,teaching,conference,online,remote" data-listing-date-sort="1625180400000" data-listing-file-modified-sort="1715862526000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="853">
 <a href="./blog/video/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -660,10 +697,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -673,8 +709,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -687,6 +732,125 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -730,6 +894,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -755,6 +920,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -815,6 +1006,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+
 
 
 
