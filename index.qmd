@@ -19,12 +19,23 @@ about:
     - icon: twitter
       text: Twitter / X
       href: https://twitter.com/nickbearmanuk
+    - icon: telephone
+      text: "+44 (0)1209 808910"
+
 ---
 
 I'm Dr Nick Bearman and deliver GIS training sessions and GIS consultancy for a variety of clients, primarily focused in the academic and not for profit sectors. I help people make use of GIS to answer their research questions, and get more answers from the data they already have.
 
-I think GIS is a great way to explore and communicate your data, and I have a range of [training courses](training-courses.html), [training materials](training-materials.html), and [books](writing-presentations.html) to help people do this.
+I think GIS is a great way to explore and communicate your data, and I have a range of [training courses](training-courses.html), [training materials](training-materials.html), and [books](writing-presentations.html) to help people do this. I also offer [consultancy](consultancy.html) services to help you.
 
-I am also a passionate supporter of Open Source software and am Chair of [OSGeo:UK](https://uk.osgeo.org/), the UK Local Chapter of the [Open Source Geospatial Foundation](https://osgeo.org/)).
+Contact me using one of the methods above for more details. 
 
-Contact me using one of the methods above if you would like any more details. 
+**Experience**
+
+I am currently working freelance, and I have previous experience of working for a number of UK universities, including [UCL](https://www.ucl.ac.uk/geography/), [Liverpool](https://www.liverpool.ac.uk/geographic-data-science/) and [Exeter](https://www.ecehh.org/). I completed my PhD at [University of East Anglia](https://www.uea.ac.uk/about/school-of-environmental-sciences) in 2011. 
+
+I am a passionate supporter of Open Source software and am Chair of [OSGeo:UK](https://uk.osgeo.org/), the UK Local Chapter of the [Open Source Geospatial Foundation](https://osgeo.org/).
+
+I am a Fellow of the [Royal Geographical Society](https://rgs.org/), a [Chartered Geographer (GIS)](https://www.rgs.org/professionals/chartered-geographer) and a Fellow of [Advanced HE (previously Higher Education Academy)](https://advance-he.ac.uk/), with a range of teaching experience including undergraduate, post-graduate and continuing professional development. 
+
+

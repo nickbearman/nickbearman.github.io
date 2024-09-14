@@ -15,15 +15,14 @@ I offer a variety of training courses on GIS and spatial data, including introdu
 ::::
 :::
 
-My courses are constantly being developed to take advantage of the latest changes in QGIS and R. Below is a list of the courses coming up, and a link to sign up (where available). If you would like a course run for a group of you, then please [contact me](index.html) discuss your needs and for a quote.
+My courses are constantly being developed to take advantage of the latest changes in QGIS and R. Below is a list of the courses coming up, and a link to sign up (where available). If a course does not have a date, then please join my [mailing list](mailing-list.html) to hear when new dates are confirmed.
 
-If a course does not have a date, then please join my [mailing list](mailing-list.html) to hear when new dates are confirmed. If you have any questions please do [contact me](index.html) or email [nick\@nickbearman.com](mailto:nick\@nickbearman.com).
+If you would like a course run for a group of you, or have any questions, then please do [contact me](index.html) or email [nick\@nickbearman.com](mailto:nick\@nickbearman.com) to discuss your needs and get a quote.
 
-----
 
 |              | Introductory         | Advanced                               |
 |--------------|-----------------------------------|-----------------------|
-| R | [Introduction to Spatial Data and Using R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis)   | [Confident Spatial Analysis and Statistics in R & GeoDa](#confident-spatial-analysis-and-statistics-in-r-geoda) July 2024 | [Confident Spatial Analysis and Statistics in R & GeoDa](#confident-spatial-analysis-and-statistics-in-r-geoda) 09/02/2025 
+| R | [Introduction to Spatial Data and Using R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis)   | [Advanced R as a GIS: Spatial Analysis and Statistics](#advanced-R-as-a-gis:-spatial-analysis-and-statistics)  | [Advanced R as a GIS: Spatial Analysis and Statistics](#advanced-R-as-a-gis:-spatial-analysis-and-statistics)  
 | QGIS     |  [Introduction to QGIS: Understanding and Presenting Spatial Data]\*               | [Confident Spatial Analysis in QGIS](#confident-spatial-analysis-in-qgis)\*     |
 
 
@@ -59,35 +58,32 @@ No previous experience of coding is required, although participants would benefi
 
 ----
 
-### Confident Spatial Analysis and Statistics in R & GeoDa {#confident-spatial-analysis-and-statistics-in-r-geoda}
+### Advanced R as a GIS: Spatial Analysis and Statistics {#advanced-R-as-a-gis:-spatial-analysis-and-statistics}
 
 ::: columns
-:::: {.column width="45%"}
-
-![](images\spatial-overlay.png)
-
-::::
 :::: {.column width="55%"}
 
 In this two part course we will show you how to prepare and conduct spatial analysis on a variety of spatial data in R, including a range of spatial overlays and data processing techniques. We will also cover how to use GeoDa to perform exploratory spatial data analysis, including making use of linked displays and measures of spatial autocorrelation and clustering.
 
 *This course can follow-on from the [Introduction to Spatial Data & Using R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis) course above, or be run independently if participants have some previous knowledge of R / RStudio and spatial data.*
 
-<!-- [Tue 16th and Wed 17th July, 2024, 10am – 1pm, online.](https://tinyurl.com/mr2y9de6) -->
+::::
+:::: {.column width="45%"}
 
-[No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html)
+![](images\spatial-overlay.png)
 
 ::::
 :::
 
+<!-- [Tue 16th and Wed 17th July, 2024, 10am – 1pm, online.](https://tinyurl.com/mr2y9de6) -->
 
-
+[No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html)
 
 ----
 
 ### Introduction to QGIS: Spatial Data and Spatial Analysis
 
-*This course is [Introduction to QGIS](#introduction-to-qgis-understanding-and-presenting-spatial-data) and [Confident Spatial Analysis in QGIS](#confident-spatial-analysis-in-qgis) run back to back.*
+*This course is the [Introduction to QGIS](#introduction-to-qgis-understanding-and-presenting-spatial-data) and [Confident Spatial Analysis in QGIS](#confident-spatial-analysis-in-qgis) courses run back to back.*
 
 [No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html)
 
@@ -99,7 +95,7 @@ In this two part introductory course we will give you an overview on how GIS wor
 
 *This course requires no prior knowledge of GIS or spatial data. A level of basic computer experience is required; such as using websites, Word and saving & moving files.*
 
-*Attendees on this course can choose to receive a Certificate of Completion, certified by QGIS for a donation of €20. Geospatial Training Solutions is a QGIS approved training organisation, and a donation of €20 for each participant will be made to the QGIS Foundation, supporting the development of QGIS.*
+*Attendees on this course can choose to receive a [Certificate of Completion](https://www.qgis.org/community/certification/), certified by QGIS for a donation of €20. [Geospatial Training Solutions / Nick Bearman](https://changelog.qgis.org/en/qgis/certifyingorganisation/geospatial-training-solutions/) is a QGIS approved training organisation, and a donation of €20 for each participant will be made to the QGIS Foundation, supporting the development of QGIS.*
 
 [No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html)
 
@@ -119,7 +115,7 @@ This intermediate two part course will develop your skills of using spatial data
 
 *This course can follow-on from the Introduction to QGIS course above, or be run independently if the participants have some previous knowledge of QGIS and spatial data.*
 
-*Attendees on this course can choose to receive a Certificate of Completion, certified by QGIS for a donation of €20. Geospatial Training Solutions is a QGIS approved training organisation, and a donation of €20 for each participant will be made to the QGIS Foundation, supporting the development of QGIS.* 
+*Attendees on this course can choose to receive a [Certificate of Completion](https://www.qgis.org/community/certification/), certified by QGIS for a donation of €20. [Geospatial Training Solutions / Nick Bearman](https://changelog.qgis.org/en/qgis/certifyingorganisation/geospatial-training-solutions/) is a QGIS approved training organisation, and a donation of €20 for each participant will be made to the QGIS Foundation, supporting the development of QGIS.*
 
 [No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html)
 
@@ -133,18 +129,17 @@ This intermediate two part course will develop your skills of using spatial data
 
 In this week long (17.5 hours) course at the Essex Summer School, you will gain an in-depth knowledge of spatial data, and how it can be used in a variety of social science applications. You will learn how spatial data is structured, how and where it can be used and how and where it cannot be used. By the end of the course you will be able to apply the skills you have learnt in your own area of study, and there will be time during the course provided to start this with me available to help.
 
-*This course is a combination of the four courses listed above.*
+*This course is a combination of the four courses listed above, plus some additional material.*
 
 [No dates for 2025 yet, but check out 2024 for more details](https://essexsummerschool.com/summer-school-facts/courses/ess-2024-course-list/1p-introduction-to-gis-geospatial-data-and-spatial-analysis/)
 
 ----
 
-
 ### Other Courses
 
-I have also run a number of other courses, usually based on the four courses above and tweaked for a bespoke audience (example clients include Public Health Wales, Red Bull, National Trails UK and UEA International Development). 
+I have also run a number of other courses, based around the four courses above and tweaked for a bespoke audience. I have delivered bespoke courses to a wide variety of clients including Public Health Wales, Red Bull, National Trails UK and UEA International Development. 
 
-I also deliever bespoke GIS training one-to-one and small groups on a [consultancy](consultancy.html) basis. 
+I also deliver bespoke GIS training one-to-one and small groups on a [consultancy](consultancy.html) basis. 
 
 If you are interested in a bespoke course, please [contact me](index.html) for a discussion and a quote.
 
