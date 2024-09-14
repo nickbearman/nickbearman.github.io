@@ -2,7 +2,7 @@
   title: "Writing & Presentations"
 ---
 
-I have written 24 academic papers, two books ([Using R as a GIS](rgis.html) and [GIS: ](gis-research-methods.html)) and given over 25 presentations at a variety of conferences and seminars. I have also published in a number of magazines and industry journals, including [The Conversation](https://theconversation.com/uk), [xyHt](https://www.xyht.com/), and [GeoConnexionUK](https://www.geoconnexion.com/). Links are included below, but if you can't find anything, [please ask](http://nickbearman.github.io).
+I have written 24 academic papers, two books ([Using R as a GIS](rgis.html) and [GIS: Research Methods ](gis-research-methods.html)) and given over 25 presentations at a variety of conferences and seminars. I have also published in a number of magazines and industry journals, including [The Conversation](https://theconversation.com/uk), [xyHt](https://www.xyht.com/), and [GeoConnexionUK](https://www.geoconnexion.com/). Links are included below, but if you can't find anything, [please ask](http://nickbearman.github.io).
 
 ## Recent Publications
 
