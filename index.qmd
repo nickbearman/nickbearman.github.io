@@ -7,6 +7,11 @@ about:
     - icon: envelope
       text: Email
       href: mailto:nick@nickbearman.com
+    - icon: telephone
+      text: "+44 (0)1209 808910"
+    - icon: envelope-fill
+      text: Contact Form
+      href: https://forms.gle/S95f1L8cNZQH5Th76
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/nickbearman/
@@ -19,8 +24,7 @@ about:
     - icon: twitter
       text: Twitter / X
       href: https://twitter.com/nickbearmanuk
-    - icon: telephone
-      text: "+44 (0)1209 808910"
+
 
 ---
 
