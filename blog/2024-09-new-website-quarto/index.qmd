@@ -9,9 +9,9 @@ image: "website-homepage-header.png"
 
 I've been thinking for a bit of time that I need to redo my website as some of the pages had evolved a bit, and were getting a bit too long. What you see now is what I have come up with:
 
-![](website-homepage.png)
+[![](website-homepage.png)](../../index.htm)
 
-I also took the opportunity to 'rebrand' myself. Previously I'd used the name Geospatial Training Solutions to market myself. I was never completely happy with the name - it was a bit long and a bit generic - and after some thought I decided I would be better trading under my name - Nick Bearman - as that is a name already known in the GIS community and it is me that I am selling. I am freelance and have no current plans to expand or to hire other people - I am just me!
+I also took the opportunity to 'rebrand' myself. Previously I'd used the name Geospatial Training Solutions to market my freelance work. I was never completely happy with the name - it was a bit long and a bit generic - and after some thought I decided I would be better trading under my own name - Nick Bearman - as that is a name already known in the GIS community and it is me that I am selling. I am freelance and have no current plans to expand or to hire other people - I am just me!
 
 Anyway, once I'd made that decision, the question was how to make my new website. I've been using WordPress which worked reasonably well, but it has a relatively complex infrastructure under the hood (database, etc.) which:
 
@@ -37,15 +37,13 @@ At this point, Quarto had been released and they had some interesting possibilit
 
 Quarto also has a very good website, with lots of examples including creating a website [https://quarto.org/docs/websites/](https://quarto.org/docs/websites/) and you can also choose from a variety of different themes [https://bootswatch.com/](https://bootswatch.com/). 
 
-After various rounds of development, I came up with this site, https://nickbearman.github.io/. It is (I hope) a simple site which has what I need on it. It also supports blogs, which I do contribute to semi-regularly. It is also all static pages, so once it is updated it can just sit there and doesn't need any database provision or anything else to run. 
+After various rounds of development, I came up with this site, https://nickbearman.github.io/. It is (I hope) a simple site which has what I need on it. It also supports blogs, which I do contribute to semi-regularly. It is also all static pages, so once it is updated it can just sit there and doesn't need any database provision or anything else to run. The new site also incorporated a search, which is handy. 
 
-You can host it through GitHub Pages, and there are various options to automatically compile it using continuous integration, but I decided to keep things simple, to complie the site locally and the push to GitHub. Sometimes the potential to automate things isn't worth the time to set it up!
+You can host it through GitHub Pages, and there are various options to automatically compile it using continuous integration, but I decided to keep things simple, to compile the site locally and the push to GitHub. Sometimes the potential to automate things isn't worth the time to set it up!
 
 ![from [https://xkcd.com/1205](https://xkcd.com/1205) CC license](https://imgs.xkcd.com/comics/is_it_worth_the_time.png)
 
-
-
-Transferring my blog posts from WordPress (geospatialtrainingsolutions.co.uk and nickbearman.me.uk) was a bit of a faff but it is getting there. If anyone can recommend an automated way of doing this, please let me know! The new site incorporated a search, which is handy. 
+Transferring my blog posts from WordPress (geospatialtrainingsolutions.co.uk and nickbearman.me.uk) was a bit of a faff but it is getting there. It is a work in progress. I have found a [semi-automated](https://johnowhitaker.dev/tils/2023-08-11-convert_wordpress_to_quarto.html#:~:text=I%20used%20https%3A%2F%2Fgithub,folder%20in%20your%20quarto%20blog) way of doing this, but it will still take some time. I'm also trying to extract a static copy of the WordPress sites for archiving, with the [Simpy Static](https://wordpress.org/plugins/simply-static/) WordPress plugin looking useful. 
 
 I also used to have a [contact form](https://docs.google.com/forms/d/e/1FAIpQLSckfjf0U43ysotj4sS68bZ85DHijqTSy3vJcdBa5oC275TwUg/viewform), which I received some useful contacts through so I wanted to include this. Quarto as such doesn't include such a form, as there is no interaction, but I had a brainwave and decided to use a Google Forms instead. We've used these a lot at OSGeo:UK and they work really well. 
 
