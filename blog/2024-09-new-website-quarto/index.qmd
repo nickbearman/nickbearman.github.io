@@ -9,7 +9,7 @@ image: "website-homepage-header.png"
 
 I've been thinking for a bit of time that I need to redo my website as some of the pages had evolved a bit, and were getting a bit too long. What you see now is what I have come up with:
 
-[![](website-homepage.png)](../../index.htm)
+[![](website-homepage.png)](../../)
 
 I also took the opportunity to 'rebrand' myself. Previously I'd used the name Geospatial Training Solutions to market my freelance work. I was never completely happy with the name - it was a bit long and a bit generic - and after some thought I decided I would be better trading under my own name - Nick Bearman - as that is a name already known in the GIS community and it is me that I am selling. I am freelance and have no current plans to expand or to hire other people - I am just me!
 

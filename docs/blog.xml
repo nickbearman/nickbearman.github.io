@@ -21,7 +21,7 @@
 
 
 <p>I’ve been thinking for a bit of time that I need to redo my website as some of the pages had evolved a bit, and were getting a bit too long. What you see now is what I have come up with:</p>
-<p><a href="../../index.htm"><img src="https://nickbearman.github.io/blog.html/blog/2024-09-new-website-quarto/website-homepage.png" class="img-fluid"></a></p>
+<p><a href="../../"><img src="https://nickbearman.github.io/blog.html/blog/2024-09-new-website-quarto/website-homepage.png" class="img-fluid"></a></p>
 <p>I also took the opportunity to ‘rebrand’ myself. Previously I’d used the name Geospatial Training Solutions to market my freelance work. I was never completely happy with the name - it was a bit long and a bit generic - and after some thought I decided I would be better trading under my own name - Nick Bearman - as that is a name already known in the GIS community and it is me that I am selling. I am freelance and have no current plans to expand or to hire other people - I am just me!</p>
 <p>Anyway, once I’d made that decision, the question was how to make my new website. I’ve been using WordPress which worked reasonably well, but it has a relatively complex infrastructure under the hood (database, etc.) which:</p>
 <ol type="a">
