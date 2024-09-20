@@ -33,56 +33,56 @@ I have written 24 academic papers, two books ([Using R as a GIS](rgis.html) and 
 **Bearman, N. (2023)** Using GIS in Behavioural Science and Health: How you can use GIS in your research, Presented 18/05/2023 at Monthly Methods seminar, Department of Behavioural Science and Health, UCL, [PDF slides](files/Using-GIS-in-Behavioural-Science-and-Health-presentation.pdf).
 
 **Bearman, N. (2019)** PopChange: Creating Gridded Population Surfaces for Great Britain to enable the Analysis of Small Area Change, Presented 08/11/2019 at WorldPop and Flowminder offices, University of Southampton, Southampton, UK.\
-[![](http://www.nickbearman.me.uk/images/powerpoint.gif){alt=""} Presentation on SpeakerDeck](https://speakerdeck.com/nickbearman/popchange-creating-gridded-population-surfaces-for-great-britain-to-enable-the-analysis-of-small-area-change?slide=2).
+[![](images/powerpoint.gif){alt=""} Presentation on SpeakerDeck](https://speakerdeck.com/nickbearman/popchange-creating-gridded-population-surfaces-for-great-britain-to-enable-the-analysis-of-small-area-change?slide=2).
 
 **Bearman, N. (2018)** PopChange and geostatistical ways of looking at segregation, Presented 04/07/2018 in session on Multiscale measures of segregation data at ESRC Research Methods Festival, University of Bath, Bath, UK.\
-[![](http://www.nickbearman.me.uk/images/powerpoint.gif){alt=""} Presentation on SpeakerDeck](https://speakerdeck.com/nickbearman/popchange-and-geostatistical-ways-of-looking-at-segregation).
+[![](images/powerpoint.gif){alt=""} Presentation on SpeakerDeck](https://speakerdeck.com/nickbearman/popchange-and-geostatistical-ways-of-looking-at-segregation).
 
 **Bearman, N. (2016)** PopChange -- Improving access to UK wide census data, Presented 18/11/2016 at ODI Lunchtime Seminar Series, Open Data Institute, London, UK.\
-[![](http://www.nickbearman.me.uk/images/powerpoint.gif){alt=""} Presentation on SpeakerDeck](https://speakerdeck.com/nickbearman/popchange-creating-access-to-uk-wide-census-data), [YouTube Video](https://www.youtube.com/watch?v=fl95fGey7SM&index=2&list=PL6DDzoHu1cx1ozmghXXCgzwHF8Ln8Tlv8).
+[![](images/powerpoint.gif){alt=""} Presentation on SpeakerDeck](https://speakerdeck.com/nickbearman/popchange-creating-access-to-uk-wide-census-data), [YouTube Video](https://www.youtube.com/watch?v=fl95fGey7SM&index=2&list=PL6DDzoHu1cx1ozmghXXCgzwHF8Ln8Tlv8).
 
 **Bearman, N. & Lloyd, C.D. (2016)** Creating Population Surfaces for the Analysis of Small Area Change, Presented 07/09/2015 at British Society for Population Studies, University of Leeds.\
-[![](http://www.nickbearman.me.uk/images/powerpoint.gif){alt=""} Presentation on SpeakerDeck](https://speakerdeck.com/nickbearman/creating-population-surfaces-for-the-analysis-of-small-area-change).
+[![](images/powerpoint.gif){alt=""} Presentation on SpeakerDeck](https://speakerdeck.com/nickbearman/creating-population-surfaces-for-the-analysis-of-small-area-change).
 
 **Bearman, N. (2015)** GIS Innovations in Mapping for Planning Support Staff, Presented 12/02/2015 at RTPI North West Update for Support Staff, Manchester, UK.
 
 **Bearman, N. & Singleton, A. (2015)** TravelOAC: development of travel geodemographic classifications for England and Wales based on open data, Presented 15/04/2015 at GISRUK2015 Conference, University of Leeds, UK.\
-[![](http://www.nickbearman.me.uk/images/pdf.gif){alt=""} Paper, 2.1 MB](http://www.nickbearman.me.uk/academic/bearman_singleton_2015_gisruk.pdf), [![](http://www.nickbearman.me.uk/images/powerpoint.gif){alt=""} Presentation on SpeakerDeck](https://speakerdeck.com/nickbearman/traveloac-development-of-travel-geodemographic-classifications-for-england-and-wales-based-on-open-data).
+[![](images/pdf.gif){alt=""} Paper, 2.1 MB](http://www.nickbearman.me.uk/academic/bearman_singleton_2015_gisruk.pdf), [![](images/powerpoint.gif){alt=""} Presentation on SpeakerDeck](https://speakerdeck.com/nickbearman/traveloac-development-of-travel-geodemographic-classifications-for-england-and-wales-based-on-open-data).
 
 **Bearman, N. & Singleton, A. (2014)** Modelling home to school travel for state pupils in England, 2008-2011, Presented 18/04/2014 at GISRUK 2014 Conference, University of Glasgow, UK.\
-[![](http://www.nickbearman.me.uk/images/pdf.gif){alt=""} Paper, 429 KB](http://www.nickbearman.me.uk/academic/bearman_singleton_2014_gisruk/paper.pdf), [![](http://www.nickbearman.me.uk/images/powerpoint.gif){alt=""} Presentation on SpeakerDeck](https://speakerdeck.com/nickbearman/modelling-home-to-school-travel-for-state-pupils-in-england-2008-2011-gisruk-2014).
+[![](images/pdf.gif){alt=""} Paper, 429 KB](http://www.nickbearman.me.uk/academic/bearman_singleton_2014_gisruk/paper.pdf), [![](images/powerpoint.gif){alt=""} Presentation on SpeakerDeck](https://speakerdeck.com/nickbearman/modelling-home-to-school-travel-for-state-pupils-in-england-2008-2011-gisruk-2014).
 
 **Bearman, N. (2014)** Sonification of spatial data: combining vision and sound, Presented 10/10/2014 at Hearing-in: Philosophical perspectives on sonification, Institute of Philosophy, School of Advanced Study, University of London, London, UK.
 
 **Bearman, N., Wheeler, B. & Sabel, C. (2013)** Small-area geographies of mental health in England, Presented 19/06/2013 at URISA GIS in Public Health conference, Miami, USA.
 
 **Bearman, N., Osborne, N.J. & Sabel, C. (2013)** Analysing the Impact of MAUP on the March Atopy in England using Hospital Admission Data, Presented 03/04/2013 at GISRUK 2013 Conference, University of Liverpool, UK.\
-[![](http://www.nickbearman.me.uk/images/pdf.gif){alt=""} (Paper, 439 KB)](http://www.nickbearman.me.uk/academic/bearman_et_al_2013_gisruk/paper.pdf), [![](http://www.nickbearman.me.uk/images/powerpoint.gif){alt=""} Presentation (PowerPoint, 2.1 MB)](http://www.nickbearman.me.uk/academic/bearman_et_al_2013_gisruk/presentation.pptx).
+[![](images/pdf.gif){alt=""} (Paper, 439 KB)](http://www.nickbearman.me.uk/academic/bearman_et_al_2013_gisruk/paper.pdf), [![](images/powerpoint.gif){alt=""} Presentation (PowerPoint, 2.1 MB)](http://www.nickbearman.me.uk/academic/bearman_et_al_2013_gisruk/presentation.pptx).
 
 **Bearman, N. & Brown, E. (2012)** Who's Sonifying Data and How are they doing it? A comparison of ICAD and other venues since 2009, Presented 18/06/2012 at The 18th International Conference on Auditory Display (ICAD-2012), Atlanta, USA.\
-Presentation ([![](http://www.nickbearman.me.uk/images/powerpoint.gif){alt=""} PowerPoint, 8.2 MB](http://www.nickbearman.me.uk/academic/bearman_brown_2012_icad/presentation.pptx)), ([Paper, 79 KB](http://www.nickbearman.me.uk/academic/bearman_brown_2012_icad/paper.pdf)), ([Papers in Review.xls, 107KB](http://www.nickbearman.me.uk/twe/wp-content/uploads/2015/07/Sonifications%20Literature%20Analysis.xls)), (Sonification of Tools Graph [MP3 626 KB](http://www.nickbearman.me.uk/academic/bearman_brown_2012_icad/toolsgraph.mp3), [WAV 6.7MB](http://www.nickbearman.me.uk/academic/bearman_brown_2012_icad/toolsgraph.wav))
+Presentation ([![](images/powerpoint.gif){alt=""} PowerPoint, 8.2 MB](http://www.nickbearman.me.uk/academic/bearman_brown_2012_icad/presentation.pptx)), ([Paper, 79 KB](http://www.nickbearman.me.uk/academic/bearman_brown_2012_icad/paper.pdf)), ([Papers in Review.xls, 107KB](http://www.nickbearman.me.uk/twe/wp-content/uploads/2015/07/Sonifications%20Literature%20Analysis.xls)), (Sonification of Tools Graph [MP3 626 KB](http://www.nickbearman.me.uk/academic/bearman_brown_2012_icad/toolsgraph.mp3), [WAV 6.7MB](http://www.nickbearman.me.uk/academic/bearman_brown_2012_icad/toolsgraph.wav))
 
 **Bearman, N. & Lovett, A. (2012)** Can Sound Help Represent Distance in a Landscape Visualisation Setting? Poster presented 11-13/04/2012 at GISRUK2012 Conference, University of Lancaster, UK.\
 [Poster download, media & further information](http://www.nickbearman.me.uk/academic/bearman_lovett_2012_gisruk/index.htm).
 
 **Bearman, N., Jones, P. & Lovett, A. (2011)** Using Sound to Represent Uncertainty in UK Climate Predictions 2009 Data: Communication of Uncertainty, From Climate Research to Climate Services workshop, Presented 29/06/2011 at Royal Meteorological Society Conference, Exeter, UK.\
-Presentation ([![](http://www.nickbearman.me.uk/images/powerpoint.gif){alt=""} PowerPoint, no video, 4.4 MB](http://www.nickbearman.me.uk/academic/bearman_et_al_2011_rms/presentation.ppt)), ([Abstract, 26 KB](http://www.nickbearman.me.uk/academic/bearman_et_al_2011_rms/abstract.doc)), ([Zip, presentation with video, 12 MB](http://www.nickbearman.me.uk/academic/bearman_et_al_2011_rms/presentation.zip)), Video [1](http://www.vimeo.com/17029341) and [2](http://www.vimeo.com/17029358) on Viemo.
+Presentation ([![](images/powerpoint.gif){alt=""} PowerPoint, no video, 4.4 MB](http://www.nickbearman.me.uk/academic/bearman_et_al_2011_rms/presentation.ppt)), ([Abstract, 26 KB](http://www.nickbearman.me.uk/academic/bearman_et_al_2011_rms/abstract.doc)), ([Zip, presentation with video, 12 MB](http://www.nickbearman.me.uk/academic/bearman_et_al_2011_rms/presentation.zip)), Video [1](http://www.vimeo.com/17029341) and [2](http://www.vimeo.com/17029358) on Viemo.
 
 **Bearman, N. (2011)** Using Sound to Represent Uncertainty in Future Climate Predictions for the UK, Presented 23/06/2011 at The 17th International Conference on Auditory Display (ICAD-2011), Budapest, Hungary.\
-Presentation ([![](http://www.nickbearman.me.uk/images/powerpoint.gif){alt=""} PowerPoint, no video, 8 MB](http://www.nickbearman.me.uk/academic/bearman_2011_icad/presentation.ppt)), ![](http://www.nickbearman.me.uk/images/pdf.gif){alt=""} ([PDF, no video, 545 KB](http://www.nickbearman.me.uk/academic/bearman_2011_icad/paper.pdf)), ([Zip, presentation with video, 16 MB](http://www.nickbearman.me.uk/academic/bearman_2011_icad/presentation.zip)), Video [1](http://www.vimeo.com/17029341) and [2](http://www.vimeo.com/17029358) on Viemo.
+Presentation ([![](images/powerpoint.gif){alt=""} PowerPoint, no video, 8 MB](http://www.nickbearman.me.uk/academic/bearman_2011_icad/presentation.ppt)), ![](images/pdf.gif){alt=""} ([PDF, no video, 545 KB](http://www.nickbearman.me.uk/academic/bearman_2011_icad/paper.pdf)), ([Zip, presentation with video, 16 MB](http://www.nickbearman.me.uk/academic/bearman_2011_icad/presentation.zip)), Video [1](http://www.vimeo.com/17029341) and [2](http://www.vimeo.com/17029358) on Viemo.
 
 **Bearman, N. (2011)** Using Sound to Augment 'the Image', Presented 09/06/2011 at The British Cartographic Society Annual Symposium 2011, Cheshire, UK.\
-Presentation ([![](http://www.nickbearman.me.uk/images/powerpoint.gif){alt=""} PowerPoint, no video, 11 MB](http://www.nickbearman.me.uk/academic/bearman_2011_bcs/presentation.ppt)), ![](http://www.nickbearman.me.uk/images/pdf.gif){alt=""} ([PDF, no video, 4 MB](http://www.nickbearman.me.uk/academic/bearman_2011_bcs/presentation.pdf)), ([Zip, presentation with video, 22 MB](http://www.nickbearman.me.uk/academic/bearman_2011_bcs/presentation.zip)), [Abstract and Biography (Word, 26 KB)](http://www.nickbearman.me.uk/academic/bearman_2011_bcs/abstract_biography.doc), Video [1](http://www.vimeo.com/17029341) and [2](http://www.vimeo.com/17029358) on Viemo.
+Presentation ([![](images/powerpoint.gif){alt=""} PowerPoint, no video, 11 MB](http://www.nickbearman.me.uk/academic/bearman_2011_bcs/presentation.ppt)), ![](images/pdf.gif){alt=""} ([PDF, no video, 4 MB](http://www.nickbearman.me.uk/academic/bearman_2011_bcs/presentation.pdf)), ([Zip, presentation with video, 22 MB](http://www.nickbearman.me.uk/academic/bearman_2011_bcs/presentation.zip)), [Abstract and Biography (Word, 26 KB)](http://www.nickbearman.me.uk/academic/bearman_2011_bcs/abstract_biography.doc), Video [1](http://www.vimeo.com/17029341) and [2](http://www.vimeo.com/17029358) on Viemo.
 
 **Bearman, N. & Appleton, K. (2011)** Using Google Maps to collect spatial responses in a survey environment, Presented 28/04/2011 at GISRUK 2011 Conference, University of Portsmouth, UK.*I would like to thank the Quantitative Methods Research Group of the RGS-IBG for financial support towards the cost of presenting at the conference.*\
-[![](http://www.nickbearman.me.uk/images/pdf.gif){alt=""} (Paper, 507 KB)](http://www.nickbearman.me.uk/academic/bearman_appleton_2011_gisruk/paper.pdf), [![](http://www.nickbearman.me.uk/images/powerpoint.gif){alt=""} Presentation (PowerPoint, 6.9 MB)](http://www.nickbearman.me.uk/academic/bearman_appleton_2011_gisruk/presentation.ppt), [Video (3.1 MB)](http://www.nickbearman.me.uk/academic/bearman_appleton_2011_gisruk/video.wmv)
+[![](images/pdf.gif){alt=""} (Paper, 507 KB)](http://www.nickbearman.me.uk/academic/bearman_appleton_2011_gisruk/paper.pdf), [![](images/powerpoint.gif){alt=""} Presentation (PowerPoint, 6.9 MB)](http://www.nickbearman.me.uk/academic/bearman_appleton_2011_gisruk/presentation.ppt), [Video (3.1 MB)](http://www.nickbearman.me.uk/academic/bearman_appleton_2011_gisruk/video.wmv)
 
 **Bearman, N. & Lovett, A. (2010)** Using Sound to Represent Positional Accuracy of Address Locations, Presented 23/07/2010 at Accuracy 2010 Conference, University of Leicester, Leicester, UK.\
-[![](http://www.nickbearman.me.uk/images/pdf.gif){alt=""} (Paper, 815 KB)](http://www.nickbearman.me.uk/academic/bearman_lovett2010_accuracy.pdf), [![](http://www.nickbearman.me.uk/images/powerpoint.gif){alt=""} Presentation (PowerPoint, 8.2 MB)](http://www.nickbearman.me.uk/academic/bearman_lovett2010_accuracy.ppt)\
+[![](images/pdf.gif){alt=""} (Paper, 815 KB)](http://www.nickbearman.me.uk/academic/bearman_lovett2010_accuracy.pdf), [![](images/powerpoint.gif){alt=""} Presentation (PowerPoint, 8.2 MB)](http://www.nickbearman.me.uk/academic/bearman_lovett2010_accuracy.ppt)\
 Video of Sonification Demo on Viemo ([with](http://www.vimeo.com/14502940) and [without](http://www.vimeo.com/14502978) narration, apologies for the poor quality).
 
 **Bearman, N. & Lovett, A. (2010)** Using Sound to Represent Uncertainty in Address Locations, Presented 16/04/2010 at GISRUK 2010 Conference, UCL, London, UK. *I would like to thank the GISc Research Group of the RGS-IBG for financial support towards the cost of presenting at the GISRUK 2010 conference in London*\
-[![](http://www.nickbearman.me.uk/images/pdf.gif){alt=""} (Paper, 611 KB)](http://www.nickbearman.me.uk/academic/bearman_lovett2010.pdf), [Presentation (SlideShare)](http://www.slideshare.net/gisruk/8b2using-sound-to-represent-uncertainty-in-address-locations)
+[![](images/pdf.gif){alt=""} (Paper, 611 KB)](http://www.nickbearman.me.uk/academic/bearman_lovett2010.pdf), [Presentation (SlideShare)](http://www.slideshare.net/gisruk/8b2using-sound-to-represent-uncertainty-in-address-locations)
 
 **Bearman, N. (2010)** Usability of GI -- Case Study using Address Locations, Presented 23/03/2010 at 2nd Workshop on Usability of Geographic Information, London, UK.\
 [Presentation (SlideShare)](http://www.slideshare.net/mukih/usability-of-gi-case-study-using-address-locations), Demostration Video, [Paper](http://www.virart.nottingham.ac.uk/GI%20Usability/Workshop%20papers%20pdfs/Nick%20Bearman.pdf).\
@@ -91,7 +91,7 @@ From the Workshop: [Agenda](http://www.virart.nottingham.ac.uk/GI%20Usability/i
 **Bearman, N. (2008)** Using Sound to Represent Spatial Data in ArcGIS, Presented 12/09/2008 at Ordnance Survey MSc Programme 2008 Day, Southampton, UK. *Joint Second Prize*
 
 **Bearman, N. & Tate, N. (2007)** Representing Spatial Geographical Data via variations of Volume and Tempo in Sound, Presented at GISRUK 2007 Conference, Maynooth, Dublin, Ireland. *CADCORP/AGI Best Student Paper*\
-[![](http://www.nickbearman.me.uk/images/pdf.gif){alt=""} (PDF, 75KB)](http://www.nickbearman.me.uk/academic/bearman&tate2007.pdf)
+[![](images/pdf.gif){alt=""} (PDF, 75KB)](http://www.nickbearman.me.uk/academic/bearman&tate2007.pdf)
 
 ## Papers
 
@@ -106,10 +106,10 @@ Liverpool: Centre for Spatial Demographics Research, University of Liverpool. <
 
 **Bearman, N., Jones, N., Margarida De Almeida Andrè, I., Cachinho, H., and DeMers, M. (2016)** What should be the role of GIS education in creating critical spatial thinkers?, Journal of Geography in Higher Education, [doi:10.1080/03098265.2016.1144729](http://dx.doi.org/10.1080/03098265.2016.1144729), *Open Access*.
 
-**Bearman, N., Dyer, S., Walkington, H. and Wyse, S. (2015)** Letter to the editor: The power of collective tactics: response to Peters and Turner, Environment and Planning A, 47(4) p 1015 -- 1016, [doi:10.1068/a4704l](http://dx.doi.org/10.1068/a4704l), [![](http://www.nickbearman.me.uk/images/pdf.gif){alt=""}](http://dx.doi.org/10.1080/03098265.2015.1010146) [Preprint version (208 KB)](http://www.nickbearman.me.uk/twe/wp-content/uploads/2015/05/bearman_et_al_2015_epa_preprint.pdf)
+**Bearman, N., Dyer, S., Walkington, H. and Wyse, S. (2015)** Letter to the editor: The power of collective tactics: response to Peters and Turner, Environment and Planning A, 47(4) p 1015 -- 1016, [doi:10.1068/a4704l](http://dx.doi.org/10.1068/a4704l), [![](images/pdf.gif){alt=""}](http://dx.doi.org/10.1080/03098265.2015.1010146) [Preprint version (208 KB)](http://www.nickbearman.me.uk/twe/wp-content/uploads/2015/05/bearman_et_al_2015_epa_preprint.pdf)
 
 **Bearman, N., Munday, P. & McAvoy, D. (2015)** Teaching GIS outside of geography: a case study in the School of International Development, University of East Anglia, Journal of Geography in Higher Education, 39(2) p. 237-244.\
-[doi:10.1080/03098265.2015.1010146,](http://dx.doi.org/10.1080/03098265.2015.1010146) [![](http://www.nickbearman.me.uk/images/pdf.gif){alt=""} ](http://dx.doi.org/10.1080/03098265.2015.1010146)[Postprint version (160 KB)](http://www.nickbearman.me.uk/twe/wp-content/uploads/2015/02/bearman_et_al_2015_postprint.pdf)
+[doi:10.1080/03098265.2015.1010146,](http://dx.doi.org/10.1080/03098265.2015.1010146) [![](images/pdf.gif){alt=""} ](http://dx.doi.org/10.1080/03098265.2015.1010146)[Postprint version (160 KB)](http://www.nickbearman.me.uk/twe/wp-content/uploads/2015/02/bearman_et_al_2015_postprint.pdf)
 
 **Shiue, I., Perkins, D.R., & Bearman, N. (2015)** Hospital admissions due to diseases of arteries and veins peaked at physiological equivalent temperature −10 to 10 °C in Germany in 2009--2011, Environmental Science and Pollution Research, [doi:10.1007/s11356-015-5791-x](http://dx.doi.org/10.1007/s11356-015-5791-x). Impact Factor: 2.757
 
@@ -130,29 +130,31 @@ Liverpool: Centre for Spatial Demographics Research, University of Liverpool. <
 [doi:10.1016/j.ijcard.2014.10.127](http://dx.doi.org/10.1016/j.ijcard.2014.10.127).
 
 **Sharpe, R.A., Bearman, N., Thornton, C.R., Husk, K. & Osborne, N.J.** **(2014)** Indoor fungal diversity and asthma: A meta-analysis and systematic review of risk factors, Journal of Allergy and Clinical Immunology.\
-[doi:10.1016/j.jaci.2014.07.002](http://dx.doi.org/10.1016/j.jaci.2014.07.002), ![](http://www.nickbearman.me.uk/images/pdf.gif){alt=""} [Postprint version (1.5 MB)](http://www.nickbearman.me.uk/twe/wp-content/uploads/2014/08/postprint-JACI-S-14-00380.pdf)
+[doi:10.1016/j.jaci.2014.07.002](http://dx.doi.org/10.1016/j.jaci.2014.07.002), ![](images/pdf.gif){alt=""} [Postprint version (1.5 MB)](http://www.nickbearman.me.uk/twe/wp-content/uploads/2014/08/postprint-JACI-S-14-00380.pdf)
 
 **Shiue, I., Perkins, D.R. & Bearman, N. (2014)** Valve disease and hypotension hospital admissions peaked at physiologically equivalent temperature 0--5 °C in Germany in 2009--2011, International Journal of Cardiology, [doi.:10.1016/j.ijcard.2014.09.066](http://dx.doi.org/10.1016/j.ijcard.2014.09.066).
 
 **Shiue, I., Muthers, S. & Bearman, N. (2014)** The role of cold stress in predicting extra cardiovascular and respiratory admissions, International Journal of Cardiology, [doi:10.1016/j.ijcard.2013.12.122](http://dx.doi.org/10.1016/j.ijcard.2013.12.122).
 
 **Bearman, N., Jones, P. & Lovett, A. (2013)** Using Sound to Represent Uncertainty in UKCP09 Data with Google Maps API, Atmospheric Science Letters, 14(4) p. 220-226.\
-[doi: 10.1002/asl2.443](http://dx.doi.org/10.1002/asl2.443), ![](http://www.nickbearman.me.uk/images/pdf.gif){alt=""} [Postprint version (1.9 MB)](http://www.nickbearman.me.uk/academic/bearman_et_al_2013_asl/postprint.pdf), [Videos and further information](http://www.nickbearman.me.uk/academic/bearman_et_al_2013_asl/index.htm).
+[doi: 10.1002/asl2.443](http://dx.doi.org/10.1002/asl2.443), ![](images/pdf.gif){alt=""} [Postprint version (1.9 MB)](http://www.nickbearman.me.uk/academic/bearman_et_al_2013_asl/postprint.pdf), [Videos and further information](http://www.nickbearman.me.uk/academic/bearman_et_al_2013_asl/index.htm).
 
 **Brown, M., Sharples, S., Harding, J., Parker, C.J., Bearman, N., Maguire, M., Forrest, D., Haklay, M. & Jackson, M. (2013)** Usability of Geographic Information; Current Challenges and Future Directions, Applied Ergonomics, 44(6) p. 855-865.\
 [doi:10.1016/j.apergo.2012.10.013](http://dx.doi.org/10.1016/j.apergo.2012.10.013).
 
+**Bearman, N. (2013)** Using Sound to Represent Uncertainty in Spatial Data. PhD Thesis, University of East Anglia. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13809573.svg)](https://doi.org/10.5281/zenodo.13809573) ![](images/pdf.gif){alt=""} [Thesis (6.5 MB)](https://zenodo.org/records/13809573/files/2013BearmanNEPhD.pdf?download=1), [Data (201 MB)](https://zenodo.org/records/13809573/files/data_files.zip?download=1).
+
 **Brown, E. & Bearman, N. (2012)** Listening to uncertainty: Information that sings, Significance, 9(5) p. 14-17.\
-[doi:10.1111/j.1740-9713.2012.00601.x](http://onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2012.00601.x/abstract), ![](http://www.nickbearman.me.uk/images/pdf.gif){alt=""} [Postprint version (897 KB)](http://www.nickbearman.me.uk/academic/brown_bearman_2012_postprint.pdf), *Runner-up in Young Statisticians Group/Significance writing competition*.
+[doi:10.1111/j.1740-9713.2012.00601.x](http://onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2012.00601.x/abstract), ![](images/pdf.gif){alt=""} [Postprint version (897 KB)](http://www.nickbearman.me.uk/academic/brown_bearman_2012_postprint.pdf), *Runner-up in Young Statisticians Group/Significance writing competition*.
 
 **Bearman, N. & Appleton, K. (2012)** Using Google Maps to collect spatial responses in a survey environment, Area, 44(2) p. 160-169.\
-[doi:10.1111/j.1475-4762.2012.01081.x](http://dx.doi.org/10.1111/j.1475-4762.2012.01081.x), ![](http://www.nickbearman.me.uk/images/pdf.gif){alt=""} [Postprint version (1 MB)](http://www.nickbearman.me.uk/academic/bearman_appleton_2012_area/bearman_appleton_2012_postprint.pdf), [Videos and further information](http://www.nickbearman.me.uk/academic/bearman_appleton_2012_area/index.htm).
+[doi:10.1111/j.1475-4762.2012.01081.x](http://dx.doi.org/10.1111/j.1475-4762.2012.01081.x), ![](images/pdf.gif){alt=""} [Postprint version (1 MB)](http://www.nickbearman.me.uk/academic/bearman_appleton_2012_area/bearman_appleton_2012_postprint.pdf), [Videos and further information](http://www.nickbearman.me.uk/academic/bearman_appleton_2012_area/index.htm).
 
 **Bearman, N. & Fisher, P. F. (2012)** Using sound to represent spatial data in ArcGIS, Computers & Geosciences, 46 p. 157-163.\
-[doi:10.1016/j.cageo.2011.12.001](http://dx.doi.org/10.1016/j.cageo.2011.12.001), ![](http://www.nickbearman.me.uk/images/pdf.gif){alt=""} [Postprint version (671 KB)](http://www.nickbearman.me.uk/academic/bearman_fisher_2011/bearman_fisher_2011_postprint.pdf), [Videos and further information](http://www.nickbearman.me.uk/academic/bearman_fisher_2011/index.htm).
+[doi:10.1016/j.cageo.2011.12.001](http://dx.doi.org/10.1016/j.cageo.2011.12.001), ![](images/pdf.gif){alt=""} [Postprint version (671 KB)](http://www.nickbearman.me.uk/academic/bearman_fisher_2011/bearman_fisher_2011_postprint.pdf), [Videos and further information](http://www.nickbearman.me.uk/academic/bearman_fisher_2011/index.htm).
 
 **Bearman, N. & Lovett, A. (2010)** Using Sound to Represent Positional Accuracy of Address Locations, The Cartographic Journal, Volume 47, Number 4, pp. 308-314(7).\
-[doi:10.1179/000870410X12911302296833](http://dx.doi.org/10.1179/000870410X12911302296833), ![](http://www.nickbearman.me.uk/images/pdf.gif){alt=""} [Postprint version (822 KB)](http://www.nickbearman.me.uk/academic/bearman_lovett_2010/bearman_lovett_2010_postprint.pdf), [Videos and further information](http://www.nickbearman.me.uk/academic/bearman_lovett_2010/index.htm).
+[doi:10.1179/000870410X12911302296833](http://dx.doi.org/10.1179/000870410X12911302296833), ![](images/pdf.gif){alt=""} [Postprint version (822 KB)](http://www.nickbearman.me.uk/academic/bearman_lovett_2010/bearman_lovett_2010_postprint.pdf), [Videos and further information](http://www.nickbearman.me.uk/academic/bearman_lovett_2010/index.htm).
 
 ## Books
 
@@ -185,13 +187,21 @@ Liverpool: Centre for Spatial Demographics Research, University of Liverpool. <
 **Brown, E. & Bearman, N. (2012)** Listening to uncertainty: Information that sings, Significance, 9(5) p. 14-17. [doi:10.1111/j.1740-9713.2012.00601.x](https://doi.org/10.1111/j.1740-9713.2012.00601.x). Runner-up in Young Statisticians  Group/Significance writing competition.
 
 **Bearman, N. & Appleton, K. (2012)** Finding your way with Google Maps, GeoConnexionUK, 10(3) p. 54-55.\
-Published in <http://www.geoconnexion.com/publications/geo-uk/>, ![](http://www.nickbearman.me.uk/images/pdf.gif){alt=""} [Article (1.5 MB)](http://www.nickbearman.me.uk/academic/bearman_appleton_2012_geoconnexion.pdf).
+Published in <http://www.geoconnexion.com/publications/geo-uk/>, ![](images/pdf.gif){alt=""} [Article (1.5 MB)](http://www.nickbearman.me.uk/academic/bearman_appleton_2012_geoconnexion.pdf).
 
-## Sonification
+## Sonification - PhD
 
-My PhD research focused on the use of sonification, or using sound to represent data. I was particularly interested in using sound to represent spatial data, and how it could be best combined with visual representations of data. Below are some videos showing how the sonification could work, in ArcGIS and Google Maps. The code for both is available to download. **Remember** the ArcGIS code is written in VBA, so you need the VBA extension activated to run it. Check the readme.txt file for details.
+My PhD research focused on the use of sonification, or using sound to represent data. I was particularly interested in using sound to represent spatial data, and how it could be best combined with visual representations of data. 
+
+**Bearman, N. (2013)** Using Sound to Represent Uncertainty in Spatial Data. PhD Thesis, University of East Anglia. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13809573.svg)](https://doi.org/10.5281/zenodo.13809573) ![](images/pdf.gif){alt=""} [Thesis (6.5 MB)](https://zenodo.org/records/13809573/files/2013BearmanNEPhD.pdf?download=1), [Data (201 MB)](https://zenodo.org/records/13809573/files/data_files.zip?download=1).
+
+Alongside my these and related data files (above) I also have a range of resources and videos that might be useful. 
+
+Here are some videos showing how the sonification could work, in ArcGIS and Google Maps. The code for both is available to download. 
 
 **Sonification in ArcGIS**
+
+**Remember** the ArcGIS code is written in VBA, so you need the VBA extension activated to run it. Check the readme.txt file for details.
 
 [ArcGIS code download](http://www.nickbearman.me.uk/academic/bearman_fisher_2011/index.htm).
 
