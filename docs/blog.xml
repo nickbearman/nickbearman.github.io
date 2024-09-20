@@ -6,22 +6,22 @@
       version="2.0">
 <channel>
 <title>Nick Bearman</title>
-<link>https://nickbearman.github.io/blog/blog.html</link>
-<atom:link href="https://nickbearman.github.io/blog/blog.xml" rel="self" type="application/rss+xml"/>
+<link>https://nickbearman.github.io/blog.html</link>
+<atom:link href="https://nickbearman.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>A blog on my teaching, open source GIS, travel and life</description>
 <generator>quarto-1.4.550</generator>
 <lastBuildDate>Thu, 19 Sep 2024 23:00:00 GMT</lastBuildDate>
 <item>
   <title>New Website - Quarto</title>
   <dc:creator>Nick Bearman</dc:creator>
-  <link>https://nickbearman.github.io/blog/blog/2024-09-new-website-quarto/</link>
+  <link>https://nickbearman.github.io/blog/2024-09-new-website-quarto/</link>
   <description><![CDATA[ 
 
 
 
 
 <p>I’ve been thinking for a bit of time that I need to redo my website as some of the pages had evolved a bit, and were getting a bit too long. What you see now is what I have come up with:</p>
-<p><a href="../../"><img src="https://nickbearman.github.io/blog/blog/2024-09-new-website-quarto/website-homepage.png" class="img-fluid"></a></p>
+<p><a href="../../"><img src="https://nickbearman.github.io/blog/2024-09-new-website-quarto/website-homepage.png" class="img-fluid"></a></p>
 <p>I also took the opportunity to ‘rebrand’ myself. Previously I’d used the name Geospatial Training Solutions to market my freelance work. I was never completely happy with the name - it was a bit long and a bit generic - and after some thought I decided I would be better trading under my own name - Nick Bearman - as that is a name already known in the GIS community and it is me that I am selling. I am freelance and have no current plans to expand or to hire other people - I am just me!</p>
 <p>Anyway, once I’d made that decision, the question was how to make my new website. I’ve been using WordPress which worked reasonably well, but it has a relatively complex infrastructure under the hood (database, etc.) which:</p>
 <ol type="a">
@@ -41,7 +41,7 @@
 <p>I mostly used these to think about content, but it was also helpful to consider the different technologies as well. More people were using WordPress that I thought, and often they were not ‘obviously’ WordPress sites. I wanted something simple, and certainly something I could update easily. Easy of updating was a common theme! To quote Pokateo / Kate:</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://nickbearman.github.io/blog/blog/2024-09-new-website-quarto/pokateo-tweet.png" class="img-fluid figure-img"></p>
+<p><img src="https://nickbearman.github.io/blog/2024-09-new-website-quarto/pokateo-tweet.png" class="img-fluid figure-img"></p>
 <figcaption>From <a href="https://x.com/pokateo_maps/status/1473766842661539840">https://x.com/pokateo_maps/status/1473766842661539840</a></figcaption>
 </figure>
 </div>
@@ -67,14 +67,14 @@
   <category>GIS</category>
   <category>communication</category>
   <category>online</category>
-  <guid>https://nickbearman.github.io/blog/blog/2024-09-new-website-quarto/</guid>
+  <guid>https://nickbearman.github.io/blog/2024-09-new-website-quarto/</guid>
   <pubDate>Thu, 19 Sep 2024 23:00:00 GMT</pubDate>
-  <media:content url="https://nickbearman.github.io/blog/blog/2024-09-new-website-quarto/website-homepage-header.png" medium="image" type="image/png" height="72" width="144"/>
+  <media:content url="https://nickbearman.github.io/blog/2024-09-new-website-quarto/website-homepage-header.png" medium="image" type="image/png" height="72" width="144"/>
 </item>
 <item>
   <title>OCG Open Standards Code Sprint, Geovation, London, UK</title>
   <dc:creator>Nick Bearman</dc:creator>
-  <link>https://nickbearman.github.io/blog/blog/2024-07-ogc-code-sprint/</link>
+  <link>https://nickbearman.github.io/blog/2024-07-ogc-code-sprint/</link>
   <description><![CDATA[ 
 
 
@@ -88,8 +88,8 @@
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><img src="https://nickbearman.github.io/blog/blog/2024-07-ogc-code-sprint/nick-at-geovation.jpeg" class="img-fluid quarto-figure quarto-figure-left" style="width:100.0%" alt="At Geovation!"></td>
-<td><img src="https://nickbearman.github.io/blog/blog/2024-07-ogc-code-sprint/geovation.jpeg" class="img-fluid quarto-figure quarto-figure-right" style="width:87.0%" alt="Deck chairs at Geovation"></td>
+<td><img src="https://nickbearman.github.io/blog/2024-07-ogc-code-sprint/nick-at-geovation.jpeg" class="img-fluid quarto-figure quarto-figure-left" style="width:100.0%" alt="At Geovation!"></td>
+<td><img src="https://nickbearman.github.io/blog/2024-07-ogc-code-sprint/geovation.jpeg" class="img-fluid quarto-figure quarto-figure-right" style="width:87.0%" alt="Deck chairs at Geovation"></td>
 </tr>
 </tbody>
 </table>
@@ -109,7 +109,7 @@
 <p>Getting help from others is one of the big benefits of attending a code sprint and I got much further with the tutorial that I would have had I been on my own. Each day we also had a “stand up” at the beginning to say briefly what we were going to do and a “brief back” at the end to say what we had done. In these people shared their experiences and I think it’s fair to say most people progressed quite slowly. Many people didn’t get a huge amount done on the first day and it was reassuring that I wasn’t the only one not making a lot of progress! In fact, someone who had a reasonable amount of experience had essentially a days work that ended up being no use! He had two routes to take to develop a certain feature - the easy route or the hard route. He started off spending a day working on the easy route and then realised it was a dead end - so had to start again on next day with the hard route! It’s very reassuring that everyone goes through this process - newbie or experienced.</p>
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
-<p><img src="https://nickbearman.github.io/blog/blog/2024-07-ogc-code-sprint/codesprint.jpeg" class="img-fluid quarto-figure quarto-figure-left figure-img" alt="Getting help and networking at the code sprint"></p>
+<p><img src="https://nickbearman.github.io/blog/2024-07-ogc-code-sprint/codesprint.jpeg" class="img-fluid quarto-figure quarto-figure-left figure-img" alt="Getting help and networking at the code sprint"></p>
 </figure>
 </div>
 <p>Over the code sprint I learnt quite a bit more about Python and how it works with different packages and virtual environments. I also experience <a href="https://medium.com/knerd/the-nine-circles-of-python-dependency-hell-481d53e3e025">Python dependency hell</a>, with circular dependencies meaning we had to do various unpicking’s of both my setup and the library to work out what was going on.</p>
@@ -132,14 +132,14 @@
   <category>open source</category>
   <category>R spatial</category>
   <category>in person</category>
-  <guid>https://nickbearman.github.io/blog/blog/2024-07-ogc-code-sprint/</guid>
+  <guid>https://nickbearman.github.io/blog/2024-07-ogc-code-sprint/</guid>
   <pubDate>Sun, 14 Jul 2024 23:00:00 GMT</pubDate>
-  <media:content url="https://nickbearman.github.io/blog/blog/2024-07-ogc-code-sprint/codesprint.jpeg" medium="image" type="image/jpeg"/>
+  <media:content url="https://nickbearman.github.io/blog/2024-07-ogc-code-sprint/codesprint.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>ArcMap: 1999 to 2024</title>
   <dc:creator>Nick Bearman</dc:creator>
-  <link>https://nickbearman.github.io/blog/blog/2024-01-arcmap-1999-2024/</link>
+  <link>https://nickbearman.github.io/blog/2024-01-arcmap-1999-2024/</link>
   <description><![CDATA[ 
 
 
@@ -149,7 +149,7 @@
 <p>ArcMap holds a special place in my heart because it is the software that I learnt GIS on. I first came across it in my undergraduate Geography degree at University of Leicester in 2003 - introduced to me by a certain Prof.&nbsp;Nick Tate if I remember correctly. This was the first time I had come across the combination of Geography and Computer Science and the subject suited me down to the ground.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://nickbearman.github.io/blog/blog/2024-01-arcmap-1999-2024/arcmap-screenshot.png" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="I also spent a lot of time working with ArcMap 9.2 (shown in the picture), which I used in my programming skills to use VBA (Visual Basic Applications) code to create a map that made sounds – an area called sonification, which formed part of my early research interests."></p>
+<p><img src="https://nickbearman.github.io/blog/2024-01-arcmap-1999-2024/arcmap-screenshot.png" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="I also spent a lot of time working with ArcMap 9.2 (shown in the picture), which I used in my programming skills to use VBA (Visual Basic Applications) code to create a map that made sounds – an area called sonification, which formed part of my early research interests."></p>
 </figure>
 </div>
 <p>Later on, I also spent a lot of time working with ArcMap 9.2 (above), which I used in my programming skills to use VBA (Visual Basic Applications) code to create a map that made sounds - an area called <a href="https://www.nickbearman.me.uk/sonification/">sonification</a>, which formed part of my early research interests.</p>
@@ -158,7 +158,7 @@
 <p>I was saddened to hear that some students are still being taught ArcMap:</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://nickbearman.github.io/blog/blog/2024-01-arcmap-1999-2024/kate-quote-twitter.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<p><img src="https://nickbearman.github.io/blog/2024-01-arcmap-1999-2024/kate-quote-twitter.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
 <p><em>From</em> <a href="https://twitter.com/pokateo_maps/status/1747717333211373896"><em>https://twitter.com/pokateo_maps/status/1747717333211373896</em></a></p>
@@ -173,14 +173,14 @@
   <category>ESRI</category>
   <category>GIS</category>
   <category>teaching</category>
-  <guid>https://nickbearman.github.io/blog/blog/2024-01-arcmap-1999-2024/</guid>
+  <guid>https://nickbearman.github.io/blog/2024-01-arcmap-1999-2024/</guid>
   <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://nickbearman.github.io/blog/blog/2024-01-arcmap-1999-2024/arcmap-screenshot.png" medium="image" type="image/png" height="115" width="144"/>
+  <media:content url="https://nickbearman.github.io/blog/2024-01-arcmap-1999-2024/arcmap-screenshot.png" medium="image" type="image/png" height="115" width="144"/>
 </item>
 <item>
   <title>ICC, Cape Town, South Africa – 3D Models and UN Acronym Soup</title>
   <dc:creator>Nick Bearman</dc:creator>
-  <link>https://nickbearman.github.io/blog/blog/2023-09-icc/</link>
+  <link>https://nickbearman.github.io/blog/2023-09-icc/</link>
   <description><![CDATA[ 
 
 
@@ -191,14 +191,14 @@
 <section id="d-models" class="level2">
 <h2 class="anchored" data-anchor-id="d-models">3D Models</h2>
 <p>I was particularly impressed by work developing methods to provide 3D models with interactive elements to people who are blind or visually impaired. <a href="https://doi.org/10.1080/15230406.2022.2105747">Jakub Wabiński developed a 3D printed tactile model which has been published in CaGIS</a> and <a href="https://ica-abs.copernicus.org/articles/6/26/2023/ica-abs-6-26-2023.pdf">Jan Brus</a> and <a href="https://ica-abs.copernicus.org/articles/6/16/2023/ica-abs-6-16-2023.pdf">Radek Barvir</a> presented a process to 3D print models with conductive elements so users can press on certain locations which then prompts a mobile phone to play a verbal recording describing that feature.</p>
-<p><img src="https://nickbearman.github.io/blog/blog/2023-09-icc/2023-08-17-14.19.17-crop-1024x682.jpg" class="img-fluid"></p>
+<p><img src="https://nickbearman.github.io/blog/2023-09-icc/2023-08-17-14.19.17-crop-1024x682.jpg" class="img-fluid"></p>
 <p>The 3D model uses conductive strips to link the touch on designated areas of the 3D model to the tablet underneath, which then pays the relevant audio narration. This allows many different relatively cheap 3D printed models to be used with one tablet.</p>
 </section>
 <section id="un-acronym-soup" class="level2">
 <h2 class="anchored" data-anchor-id="un-acronym-soup">UN Acronym Soup</h2>
 <p>The ICA is quite a large organisation with a long history, and has good links with a number of United Nations (UN) groups and initiatives, including <a href="https://ggim.un.org/">UN GGIM - UN Committee of Experts on Global Geospatial Information Management</a> and <a href="https://ggim.un.org/IGIF/">UN IGIF - Integrated Geospatial Information Framework</a>. The IGIF is a multidimensional framework that provides countries with a basis for developing, integrating, strengthening, and benefiting from geospatial information management. There is a risk of drowning in acronym soup when it comes to working with the UN, and I had some great discussions when asking a number of people how UN groups and initiatives like GGIM or IGIF have made an impact in the real world. I had a range of different answers, from ‘I have no idea!’ to ‘having these programmes is better than nothing, so they probably have some impact’ to some much more detailed responses (see below).</p>
 <p>To me, it was certainly clear that the UN could do a better job of explaining what it is doing in the area of geospatial in a way that can be easily understood. However, there are some great outputs from a variety of UN departments. Firstly, there are the Sustainable Development Goals, which is probably one of their most well known activities:</p>
-<p><img src="https://nickbearman.github.io/blog/blog/2023-09-icc/english_SDG_17goals_poster_all_languages_with_UN_emblem_1.png" class="img-fluid"></p>
+<p><img src="https://nickbearman.github.io/blog/2023-09-icc/english_SDG_17goals_poster_all_languages_with_UN_emblem_1.png" class="img-fluid"></p>
 <p>The 17 Sustainable Development Goals are often illustrated using this image, or a variation of it. Originally from <a href="https://www.un.org/sustainabledevelopment/blog/2015/12/sustainable-development-goals-kick-off-with-start-of-new-year/" class="uri">https://www.un.org/sustainabledevelopment/blog/2015/12/sustainable-development-goals-kick-off-with-start-of-new-year/</a>.</p>
 <p>These are something many people have heard of, and provide a series of targets to help all countries develop sustainably. Many others can describe them better than I can (see the <a href="https://www.un.org/sustainabledevelopment/blog/2015/12/sustainable-development-goals-kick-off-with-start-of-new-year/">UN</a>, <a href="https://www.concern.org.uk/news/explained-sustainable-development-goals?gclid=Cj0KCQjwi7GnBhDXARIsAFLvH4lM4-bHBBC_fEf5it4RH2z7FtYKMrD4tblEeo2g38dO33BIUgiYMwwaAqsEEALw_wcB">Concern</a>), one of the keynote presentations at the conference from Greg Scott and even <a href="https://www.concern.org.uk/news/explained-sustainable-development-goals?gclid=Cj0KCQjwi7GnBhDXARIsAFLvH4lM4-bHBBC_fEf5it4RH2z7FtYKMrD4tblEeo2g38dO33BIUgiYMwwaAqsEEALw_wcB">Google</a>)) but one striking image is the discussion of how to measure the progress in achieving these goals, and the fact that for a number of the goals some countries are actually going backwards. Managing the data for these is a key issue, and a number of goals are quite difficult to measure, with some countries not having the data to be able to measure the progress (or lack thereof). It is possible that in comes cases this may be deliberate (<a href="https://www.reuters.com/world/white-house-raimondo-will-tell-china-that-us-is-not-seeking-decouple-2023-08-22/">for example, China reducing the number of statistics they publish because they were showing a bad message</a>) but I think in most of the cases it is because a) the goals are tricky to measure and b) they often require specific resources which may not be available.</p>
 <p>Returning to UN GGIM &amp; IGIF, accessibility of data is one of the key focus areas of the UN GGIM. One of their core aims is helping all countries develop their spatial data infrastructures, that is the national organisations that manage, maintain and make accessible their spatial data. The UN IGIF is a framework that will help countries in this process - highlighting best practice and examples of how to do this. Of course every country is at a different stage in the process, but from discussions at the ICC, every country is keen to progress their work.</p>
@@ -207,7 +207,7 @@
 <section id="mapping-for-a-sustainable-world" class="level2">
 <h2 class="anchored" data-anchor-id="mapping-for-a-sustainable-world">Mapping for a Sustainable World</h2>
 <p>Another great output from the UN is <a href="https://digitallibrary.un.org/record/3898826?ln=en0">Mapping for a Sustainable World</a>, which is a fantastic publication from a collaboration from the UN and the ICA (ICC). It’s a free book, available as a PDF, covering two main aims. Firstly, it discusses how maps can be used to help monitor progress across all (13) sustainable development goals, for example Goal 5: Gender Equality.</p>
-<p><img src="https://nickbearman.github.io/blog/blog/2023-09-icc/un-msw-gender-equality-1024x728.png" class="img-fluid"></p>
+<p><img src="https://nickbearman.github.io/blog/2023-09-icc/un-msw-gender-equality-1024x728.png" class="img-fluid"></p>
 <p>As example of applying spatial data to the Sustainable Development Goals. Page 54 &amp; 55 from <a href="https://digitallibrary.un.org/record/3898826?ln=en0">Mapping for a Sustainable World</a>.</p>
 <p>As well as discussing the availability of spatial data, it also covers practically every key aspect of working with spatial data and GIS (projections, MAUP, classification, scale, generalisation, colour, typography and so on), it also gives examples of 14 different types of map (thematic, nominal, choropleth, etc.) and discusses different environments for map use (both in terms of audience and medium).</p>
 <p>I was fortunate enough to meet one of the co authors, <a href="https://bricker0.github.io/">Britta Ricker</a>, at the CaGIS reception, and heard about some of the challenges in pulling this book together, including methods that are not well known, but potentially very useful (e.g.&nbsp;dasymetric mapping), and UN’s approach to boundaries (e.g how to show disputed areas such as Tiwain, Crimea, Israel/Palestine, etc.). This is a well known geographical issue, as discussed shown in <a href="https://documentation.maptiler.com/hc/en-us/articles/4405462162065-Disputed-borders-on-your-maps">MapTiler</a>, <a href="https://uxdesign.cc/how-does-google-maps-handle-disputed-territories-5544baa2a91b">Go</a>o<a href="https://www.theguardian.com/technology/shortcuts/2016/aug/10/google-maps-disputed-territories-palestineishere">gl</a>e, <a href="https://theworld.org/stories/2019-12-10/how-do-maps-handle-disputed-borders">Apple Maps</a>, and even as discussed by <a href="https://jcheshire.com/christmas/the-contested-borders-on-my-christmas-tree/">James Cheshire on Christmas decorations</a>! The UN also has a standard detailing these issues, as well as maps people can use themselves, including official UN boundaries in their web maps.</p>
@@ -221,14 +221,14 @@
   <category>conference</category>
   <category>GIS</category>
   <category>open source</category>
-  <guid>https://nickbearman.github.io/blog/blog/2023-09-icc/</guid>
+  <guid>https://nickbearman.github.io/blog/2023-09-icc/</guid>
   <pubDate>Mon, 04 Sep 2023 23:00:00 GMT</pubDate>
-  <media:content url="https://nickbearman.github.io/blog/blog/2023-09-icc/cape-town.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://nickbearman.github.io/blog/2023-09-icc/cape-town.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>ESRI UK &amp; GeoBusiness: GeoAI &amp; Digital Twins</title>
   <dc:creator>Nick Bearman</dc:creator>
-  <link>https://nickbearman.github.io/blog/blog/2023-05-geoai-digital-twins/</link>
+  <link>https://nickbearman.github.io/blog/2023-05-geoai-digital-twins/</link>
   <description><![CDATA[ 
 
 
@@ -239,7 +239,7 @@
 <p>Jurassic Fibre gave a great presentation about how their as-built survey validation process made use of in field tools to collect and verify data. They were comparing what was planned to be built against what was actually built, and had some great processes for managing this. It really shows not just how important data is, but also how important how linking different teams together is important to deliver a service.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://nickbearman.github.io/blog/blog/2023-05-geoai-digital-twins/esri-ac-crop-1024x415.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<p><img src="https://nickbearman.github.io/blog/2023-05-geoai-digital-twins/esri-ac-crop-1024x415.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 <figcaption>Discussions and catching-up at ESRI UK annual conference</figcaption>
 </figure>
 </div>
@@ -253,7 +253,7 @@
 </ul>
 <p>I also popped into the Spatial Data Science Conference party in Wednesday night, and it sounds like the conference was fantastic – next time perhaps!</p>
 <p>GeoBusiness followed ESRI AC UK, with a huge range of geo related businesses hosting stands and presenting talks. The stands were very equipment focused, with many new drones and surveying tool available to have a look at and discuss. However I was more interested in the talks and networking opportunities. The skills shortage was again raised as an issue, with not enough people available with geospatial skills. However speaking with those at the coal faces, new graduate with geospatial skills are being tempted away with starting salaries of £5k – £10k more for similar roles outside geospatial (e.g.&nbsp;programming) and even more for data science roles. It’s a hard ask for someone to give up £5k – £10k a year to stay in geospatial!</p>
-<p><img src="https://nickbearman.github.io/blog/blog/2023-05-geoai-digital-twins/geobusiness-crop-300x146.jpg" class="img-fluid"></p>
+<p><img src="https://nickbearman.github.io/blog/2023-05-geoai-digital-twins/geobusiness-crop-300x146.jpg" class="img-fluid"></p>
 <p>Developing skills of people coming into geospatial is something that is of particular interest to me, with a range of initiatives around training and skills development. While many users are big ESRI clients, there is certainly an increase in people wanting to use ESRI along side open source solutions – particularly QGIS. I see lots of potential for <a href="https://north-road.com/slyr/">North Road’s SLYR tool</a>, what they term: the ESRI to QGIS Compatibility Suite.</p>
 <p>There are so many novel applications of GI data and one in particular caught my eye – ClearSky, a product from <a href="https://aspiaspace.com/">Aspia Space</a>, have created a AI algorithm which converts uses cloud-penetrating Synthetic Aperture Radar (SAR) data to create cloudless multispectral imaging, right across the visible and short-wave infrared spectrum. This allows a ‘cloud-free’ view of satellite imagery – an interesting and valuable resource.</p>
 <p>A different, but potentially equally useful application of GIS data was presented by Christopher Jackson from <a href="https://www.geobusinessshow.com/programme/#mec-speaker-info-92282-713">Advanced Infrastructure</a> talking about geospatial tools for energy. They have created an application to help local councils estimate where it may be viable to install electric car charging points. The GIS analysis itself is not that ground breaking, as they are looking at a combination of IMD data, street width and electricity supply provision data to estimate feasibility and cost of electric car charging point installation – but the fact they think this is worth building into a product that can be sold is. It shows how vital geospatial data is and reminds me of the fact that there are still many people out there who don’t know what geospatial is. Communicating this is one thing we could all do better at.</p>
@@ -267,14 +267,14 @@
   <category>networking</category>
   <category>GeoBusiness</category>
   <category>ESRI</category>
-  <guid>https://nickbearman.github.io/blog/blog/2023-05-geoai-digital-twins/</guid>
+  <guid>https://nickbearman.github.io/blog/2023-05-geoai-digital-twins/</guid>
   <pubDate>Wed, 17 May 2023 23:00:00 GMT</pubDate>
-  <media:content url="https://nickbearman.github.io/blog/blog/2023-05-geoai-digital-twins/qeIIcentreview-660x495.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://nickbearman.github.io/blog/2023-05-geoai-digital-twins/qeIIcentreview-660x495.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>FOSS4G: Travelling by Train to Florence, Italy (from Weymouth, UK)</title>
   <dc:creator>Nick Bearman</dc:creator>
-  <link>https://nickbearman.github.io/blog/blog/2022-11-foss4g-2022/</link>
+  <link>https://nickbearman.github.io/blog/2022-11-foss4g-2022/</link>
   <description><![CDATA[ 
 
 
@@ -283,7 +283,7 @@
 <p>I recently attended my first international FOSS4G conference in Florence (Firenze), Italy, in August 2022. For those who don’t know, FOSS4G is Free and Open Source for (4) Geospatial, so all of the people involved in open source geospatial software (e.g.&nbsp;QGIS, R-Spatial, Geoserver, Mapserver, GRASS, etc. etc.) get together. It is a great opportunity to meet up with the community, get to know people who you might only have met online, and find out about the latest developments. There are some great write-ups online about the conference – <a href="https://t.co/L91NSeHc8n">check</a> <a href="https://experimentalcraft.wordpress.com/2022/09/01/reflections-on-foss4g-2022-firenze-italia/">them</a> out.</p>
 <p>I decided to travel from the UK by train to Florence, and this post is about that journey – in both senses of booking it, and travelling it. I wanted to do this a) to see if it was possible and how easy it was, and b) to reduce my carbon footprint by getting the train rather than flying. I’ve also got some photos of my trip on <a href="https://twitter.com/NickBearmanUK/status/1560967658111225857">Twitter</a>.</p>
 <p>The first place to spend a bit of time is seat61.com – this is a great website run by Mark Smith who does all sorts of train travel across the world. My trip to Florence is bit a tame compared to some of the trips on there, but it was a great resource. Seat61 directed me to Rail Europe, where I booked all of my trains beyond Paris. Working out the timings was a little complex, but with the help of suggested routes, I got something worked out.</p>
-<p><img src="https://nickbearman.github.io/blog/blog/2022-11-foss4g-2022/twitter.png" class="img-fluid"></p>
+<p><img src="https://nickbearman.github.io/blog/2022-11-foss4g-2022/twitter.png" class="img-fluid"></p>
 <p>My planned outbound itinerary was:</p>
 <ul>
 <li><p>Weymouth – London – Paris – Geneva</p></li>
@@ -321,7 +321,7 @@
 <p>My planned itinerary got slightly mangled because of the rail strikes in the UK, so I ended up having to travel from Exeter to London (rather than Weymouth) and have a extra night stay in London – but I managed to catch the ‘Back to the Future’ musical, so the extra night had some compensations.</p>
 <p>Beyond that, everything went as planned and I arrived in Florence on time, at 1400 on Monday.</p>
 <p>The SCNF Connect app – the equivalent of the National Rail app for France &amp; Italy. One thing to remember – when travelling on Eurostar, the queue at St Pancras was very very long, but they were very efficient so even though there were many people there, I had plenty of time for my train – I arrived and got through the queue, check-in, security and both sets of border control (leaving UK and entering France) in 45 min.</p>
-<p><img src="https://nickbearman.github.io/blog/blog/2022-11-foss4g-2022/signal-2022-11-24-121130_002-461x1024.png" class="img-fluid"></p>
+<p><img src="https://nickbearman.github.io/blog/2022-11-foss4g-2022/signal-2022-11-24-121130_002-461x1024.png" class="img-fluid"></p>
 <p>I’d also recommend the SCNF Connect app – a great app which will give you train details with updates and platforms.</p>
 <p>Check out the <a href="https://twitter.com/NickBearmanUK/status/1560967658111225857">Twitter thread</a> for some photos of the various different trains I was on.</p>
 <p>It was a great trip, and I really enjoyed it. It certainly took longer and cost more, but for me, it was worthwhile. Let me know about your train adventures!</p>
@@ -333,26 +333,26 @@
   <category>low carbon</category>
   <category>train</category>
   <category>travelling</category>
-  <guid>https://nickbearman.github.io/blog/blog/2022-11-foss4g-2022/</guid>
+  <guid>https://nickbearman.github.io/blog/2022-11-foss4g-2022/</guid>
   <pubDate>Thu, 24 Nov 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://nickbearman.github.io/blog/blog/2022-11-foss4g-2022/scnf-small.png" medium="image" type="image/png" height="143" width="144"/>
+  <media:content url="https://nickbearman.github.io/blog/2022-11-foss4g-2022/scnf-small.png" medium="image" type="image/png" height="143" width="144"/>
 </item>
 <item>
   <title>FOSS4G:UK Local 2022</title>
   <dc:creator>Nick Bearman</dc:creator>
-  <link>https://nickbearman.github.io/blog/blog/2022-11-foss4guklocal2022/</link>
+  <link>https://nickbearman.github.io/blog/2022-11-foss4guklocal2022/</link>
   <description><![CDATA[ 
 
 
 
 
 <p>On PostGIS day last week, Thurs 17th Nov, we ran <a href="https://uk.osgeo.org/foss4guk2022local/">FOSS4G:UK Local 2022</a>. We were trying out a new model, with the conference distributed over 9 different physical venues (and online). I chaired three amazing keynotes, which were streamed to all the venues and on the internet. We then had 38 local presentations across the nine venues, with most of them streamed and recorded.</p>
-<p><img src="https://nickbearman.github.io/blog/blog/2022-11-foss4guklocal2022/twitter.png" class="img-fluid"></p>
+<p><img src="https://nickbearman.github.io/blog/2022-11-foss4guklocal2022/twitter.png" class="img-fluid"></p>
 <p>Overall the day went really well, and we had some great feedback from participants and presenters. One great aspect was once the presentations were completed, they were available on YouTube more or less instantly.</p>
 <p>We had 246 people attending in person, and I think reached about another 50 online. Anyone could watch the streams online so it’s tricky to know exactly, but the first keynote had about 100 views as it finished, so assuming some double counting (people in the rooms who were on the YouTube stream) I think we can say we reached about 300 people. This is much greater than our usual in person conferences so I’m pleased to say we managed to increase our reach and get more people involved in FOSS4G:UK.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://nickbearman.github.io/blog/blog/2022-11-foss4guklocal2022/screenshot.png" class="img-fluid figure-img"></p>
+<p><img src="https://nickbearman.github.io/blog/2022-11-foss4guklocal2022/screenshot.png" class="img-fluid figure-img"></p>
 <figcaption>(Some of) the local venues, including Keyworth, Glasgow, Leeds, London, Cardiff and Southampton (we also had Bovey Tracy, Bristol and Manchester, not shown)</figcaption>
 </figure>
 </div>
@@ -370,14 +370,14 @@
   <category>in person</category>
   <category>open source</category>
   <category>remote</category>
-  <guid>https://nickbearman.github.io/blog/blog/2022-11-foss4guklocal2022/</guid>
+  <guid>https://nickbearman.github.io/blog/2022-11-foss4guklocal2022/</guid>
   <pubDate>Tue, 22 Nov 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://nickbearman.github.io/blog/blog/2022-11-foss4guklocal2022/screenshot.png" medium="image" type="image/png" height="77" width="144"/>
+  <media:content url="https://nickbearman.github.io/blog/2022-11-foss4guklocal2022/screenshot.png" medium="image" type="image/png" height="77" width="144"/>
 </item>
 <item>
   <title>ESRI UK &amp; GeoBusiness: Digital Twins or just Digial Offspring?</title>
   <dc:creator>Nick Bearman</dc:creator>
-  <link>https://nickbearman.github.io/blog/blog/2022-05-digital-twins/</link>
+  <link>https://nickbearman.github.io/blog/2022-05-digital-twins/</link>
   <description><![CDATA[ 
 
 
@@ -386,7 +386,7 @@
 <p>Last week I attended the first ESRI UK Annual Conference (17th May) and the first GEO Business conference (18th &amp; 19th May) for three years (although GEO Business had a conference last autumn, which I didn’t manage to attend). It was great to be back at the Queen Elizabeth II Centre for the ESRI UK Annual Conference – it is always a great opportunity to meet colleagues working in GIS in the UK across all industries. Clearly open source didn’t feature that much (!) but all of the ESRI tools were showcased and it was a great opportunity to see what is coming up over the next year.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://nickbearman.github.io/blog/blog/2022-05-digital-twins/2022-05-17-10.13.05-Copy-660x445.jpg" class="img-fluid figure-img"></p>
+<p><img src="https://nickbearman.github.io/blog/2022-05-digital-twins/2022-05-17-10.13.05-Copy-660x445.jpg" class="img-fluid figure-img"></p>
 <figcaption>ESRI UK Annual Conference at QEII Centre, Westminster, London</figcaption>
 </figure>
 </div>
@@ -397,7 +397,7 @@
 <p>GEO Business 2022 at ExCeL, London I also attended the GEO Business conference out at ExCeL on the following day. Again, this was a great networking opportunity, although with a slightly different subset of the geospatial community. I went to a couple of very interesting applications talks – including one from the Met Office by Anthony Veal, who was working on a pilot project to increase the rated capacity of overhead electricity lines depending on the weather. Currently, overhead lines are rated for their maximum capacity based on a worse case weather scenario, which is rarely reached. Heat is the main limiting factor on the lines, with wind being the primary mitigating factor. This project is working on moving from a static worst case scenario limit to dynamic limits based on the current wind conditions. It is still in relatively early stages, with one case study, but shows a potentially significant increase in capacity at certain times. This, arguably, could be considered a digital twin with its’ real time data but the Met Office didn’t use this term.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://nickbearman.github.io/blog/blog/2022-05-digital-twins/2022-05-18-09.47.39-660x495.jpg" class="img-fluid figure-img"></p>
+<p><img src="https://nickbearman.github.io/blog/2022-05-digital-twins/2022-05-18-09.47.39-660x495.jpg" class="img-fluid figure-img"></p>
 <figcaption>GEO Business 2022 at ExCeL, London</figcaption>
 </figure>
 </div>
@@ -418,14 +418,14 @@
   <category>CPD</category>
   <category>ESRI</category>
   <category>GeoBusiness</category>
-  <guid>https://nickbearman.github.io/blog/blog/2022-05-digital-twins/</guid>
+  <guid>https://nickbearman.github.io/blog/2022-05-digital-twins/</guid>
   <pubDate>Sun, 22 May 2022 23:00:00 GMT</pubDate>
-  <media:content url="https://nickbearman.github.io/blog/blog/2022-05-digital-twins/2022-05-17-10.13.05-Copy-660x445.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://nickbearman.github.io/blog/2022-05-digital-twins/2022-05-17-10.13.05-Copy-660x445.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Spatial R – Time to move from sp to sf</title>
   <dc:creator>Nick Bearman</dc:creator>
-  <link>https://nickbearman.github.io/blog/blog/2022-02-spatial-r/</link>
+  <link>https://nickbearman.github.io/blog/2022-02-spatial-r/</link>
   <description><![CDATA[ 
 
 
@@ -434,7 +434,7 @@
 <p>It was about three years ago (2019) when I last wrote about the <a href="http://www.geospatialtrainingsolutions.co.uk/spatial-r-moving-from-sp-to-sf/">sp and sf libraries in R</a>. The R Spatial world has moved on since then, with sp heading close to retirement now. Since 2019 I have run Introduction to Spatial Data &amp; Using R as a GIS, and its companion course, Confident Spatial Analysis and Statistics in R &amp; GeoDa, around 12 times teaching over 150 students. At some point I needed to make the transition from sp to sf – the question was, when?</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://nickbearman.github.io/blog/blog/2022-02-spatial-r/2019-06-13-12.26.53-students-at-desk_linkedin-1024x535.jpg" class="img-fluid figure-img"></p>
+<p><img src="https://nickbearman.github.io/blog/2022-02-spatial-r/2019-06-13-12.26.53-students-at-desk_linkedin-1024x535.jpg" class="img-fluid figure-img"></p>
 <figcaption>Students at work, learning how to use R as a GIS</figcaption>
 </figure>
 </div>
@@ -442,7 +442,7 @@
 <p>sp and sf work in fundamentally different ways, specifically revolving around how they store spatial data within R. sp uses something called S4 classes, where the different elements of spatial data (coordinates/geometry, attribute table, coordinate system, etc.) are split up into different ‘slots’ and accessed using the @ symbol. sf uses S3 classes and stores spatial data all within a standard data frame, with some extra header information and a geometry column.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://nickbearman.github.io/blog/blog/2022-02-spatial-r/FGP1MWJWUAQYhWG-1024x571.jpg" class="img-fluid figure-img"></p>
+<p><img src="https://nickbearman.github.io/blog/2022-02-spatial-r/FGP1MWJWUAQYhWG-1024x571.jpg" class="img-fluid figure-img"></p>
 <figcaption>A great table summarising the differences between sp and sf, from <a href="https://twitter.com/WeAreRLadies/status/1469287613060292613">WeAreRLadies</a> on Twitter.</figcaption>
 </figure>
 </div>
@@ -451,7 +451,7 @@
 <p>By the time we got to Dec 2021 (last year) sf had come along way since 2019, and point in polygon analysis was now possible – so I updated my <a href="https://github.com/nickbearman/intro-r-spatial-analysis/commit/de56e5df9bee67c25c468eeb74b63ae132a0f9f9">practical to reflect this</a>. I’ve still kept the sp example, and in the introductory course I still mention sp in passing as I think it is important for any R spatial users to be aware of sp, even if they don’t actually use it. This is because I think for at least the next couple of years, there will be lots of sp examples still on Stack Exchange and elsewhere on the web, and when people find these examples, they need to be able to understand what they are any why they are different.</p>
 <p>Moving forward from now (2022) most of the packages that support sp (rgdal, rgeos, maptools) are being retired from the end of 2023, and everyone is being advised to move to sf. sp itself is still getting some maintenance updates, but this will only be for a limited period of time, and now everyone should be moving from sp to sf for new work. In addition, if you work with raster data, the raster library (which has many of the same dependents as sp) is transitioning to terra.</p>
 <p>The We Are R Ladies group on Twitter did a very good Twitter thread about these changes – do check it out at <a href="https://twitter.com/WeAreRLadies/status/1469286521874300939" class="uri">https://twitter.com/WeAreRLadies/status/1469286521874300939</a>.</p>
-<p><img src="https://nickbearman.github.io/blog/blog/2022-02-spatial-r/twitter.png" class="img-fluid"></p>
+<p><img src="https://nickbearman.github.io/blog/2022-02-spatial-r/twitter.png" class="img-fluid"></p>
 <p>My introductory course is now fully transitioned to sf, and the practical is available under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license at <a href="https://github.com/nickbearman/intro-r-spatial-analysis" class="uri">https://github.com/nickbearman/intro-r-spatial-analysis</a>. I will next be running this course as part of the <a href="https://www.geospatialtrainingsolutions.co.uk/training-courses/">GeoIgnite conference in Canada, on 9th March</a>. I will also be running this course again the future, please sign up to my mailing list to find out when I have confirmed more dates.</p>
 <p>Next on the list is updating the Advanced course, Confident Spatial Analysis and Statistics in R &amp; GeoDa and moving this from sp to sf, which is going to be quite a job. A summer project, perhaps….!</p>
 
@@ -461,14 +461,14 @@
   <category>open source</category>
   <category>R spatial</category>
   <category>teaching</category>
-  <guid>https://nickbearman.github.io/blog/blog/2022-02-spatial-r/</guid>
+  <guid>https://nickbearman.github.io/blog/2022-02-spatial-r/</guid>
   <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://nickbearman.github.io/blog/blog/2022-02-spatial-r/2019-06-13-12.26.53-students-at-desk_linkedin-1024x535.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://nickbearman.github.io/blog/2022-02-spatial-r/2019-06-13-12.26.53-students-at-desk_linkedin-1024x535.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Matrix: What’s it all about?</title>
   <dc:creator>Nick Bearman</dc:creator>
-  <link>https://nickbearman.github.io/blog/blog/2021-09-matrix/</link>
+  <link>https://nickbearman.github.io/blog/2021-09-matrix/</link>
   <description><![CDATA[ 
 
 
@@ -478,7 +478,7 @@
 <p>This is really helpful, to avoid situations like <a href="https://xkcd.com/1810/">this</a>:</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://nickbearman.github.io/blog/blog/2021-09-matrix/chat_systems.png" class="img-fluid figure-img"></p>
+<p><img src="https://nickbearman.github.io/blog/2021-09-matrix/chat_systems.png" class="img-fluid figure-img"></p>
 <figcaption>XKCD explaining why a system like Matrix is important</figcaption>
 </figure>
 </div>
@@ -499,14 +499,14 @@
   <category>teaching</category>
   <category>remote</category>
   <category>communication</category>
-  <guid>https://nickbearman.github.io/blog/blog/2021-09-matrix/</guid>
+  <guid>https://nickbearman.github.io/blog/2021-09-matrix/</guid>
   <pubDate>Sat, 11 Sep 2021 23:00:00 GMT</pubDate>
-  <media:content url="https://nickbearman.github.io/blog/blog/2021-09-matrix/chat_systems.png" medium="image" type="image/png" height="104" width="144"/>
+  <media:content url="https://nickbearman.github.io/blog/2021-09-matrix/chat_systems.png" medium="image" type="image/png" height="104" width="144"/>
 </item>
 <item>
   <title>To video, or not to video</title>
   <dc:creator>Nick Bearman</dc:creator>
-  <link>https://nickbearman.github.io/blog/blog/2021-07-video/</link>
+  <link>https://nickbearman.github.io/blog/2021-07-video/</link>
   <description><![CDATA[ 
 
 
@@ -521,7 +521,7 @@
 <p>With this approach 9 out of 10 people usually put their video on and it makes it a much better experience for me (and, I think for them).</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://nickbearman.github.io/blog/blog/2021-07-video/screenshot-participants-1536x610.png" class="img-fluid figure-img"></p>
+<p><img src="https://nickbearman.github.io/blog/2021-07-video/screenshot-participants-1536x610.png" class="img-fluid figure-img"></p>
 <figcaption>Participants in one of my training courses sharing their videos</figcaption>
 </figure>
 </div>
@@ -529,14 +529,14 @@
 <p>However for these conferences, there was a choice (AGILE used a standard <a href="https://zoom.us/">Zoom</a> room, and Coding in the Open used <a href="https://bluejeans.com/">Bluejeans</a>). For AGILE, the organisers asked participants to turn on their cameras for a group photo! About two-thirds or so of people did turn their cameras on the for <a href="https://agile2021.senselab.tuc.gr/social-events/">photo</a>. However as soon as the photo was done, people turned their cameras off again.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://nickbearman.github.io/blog/blog/2021-07-video/Agile2021groupphoto1-1030x579-1.jpg" class="img-fluid figure-img"></p>
+<p><img src="https://nickbearman.github.io/blog/2021-07-video/Agile2021groupphoto1-1030x579-1.jpg" class="img-fluid figure-img"></p>
 <figcaption>Our AGILE group photo (1 of 2)</figcaption>
 </figure>
 </div>
 <p>There seems to be an unwritten rule that the audience have their cameras off, and I have seen this is many other conferences as well.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://nickbearman.github.io/blog/blog/2021-07-video/Screenshot-2021-06-17-132224-Copy-1536x879.png" class="img-fluid figure-img"></p>
+<p><img src="https://nickbearman.github.io/blog/2021-07-video/Screenshot-2021-06-17-132224-Copy-1536x879.png" class="img-fluid figure-img"></p>
 <figcaption>The blank boxes (with names and initials removed)</figcaption>
 </figure>
 </div>
@@ -558,9 +558,9 @@
   <category>conference</category>
   <category>online</category>
   <category>remote</category>
-  <guid>https://nickbearman.github.io/blog/blog/2021-07-video/</guid>
+  <guid>https://nickbearman.github.io/blog/2021-07-video/</guid>
   <pubDate>Thu, 01 Jul 2021 23:00:00 GMT</pubDate>
-  <media:content url="https://nickbearman.github.io/blog/blog/2021-07-video/Screenshot-2021-06-17-132224-Copy-1536x879.png" medium="image" type="image/png" height="82" width="144"/>
+  <media:content url="https://nickbearman.github.io/blog/2021-07-video/Screenshot-2021-06-17-132224-Copy-1536x879.png" medium="image" type="image/png" height="82" width="144"/>
 </item>
 </channel>
 </rss>
