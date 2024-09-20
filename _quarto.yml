@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Nick Bearman"
-  site-url: https://nickbearman.github.io/blog.html
+  site-url: https://nickbearman.github.io/
   description: "A blog on my teaching, open source GIS, travel and life"
   navbar:
     pinned: TRUE

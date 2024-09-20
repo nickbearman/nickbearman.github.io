@@ -1,1 +1,1 @@
-Sitemap: https://nickbearman.github.io/blog.html/sitemap.xml
+Sitemap: https://nickbearman.github.io/sitemap.xml
