@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Nick Bearman"
+  site-url: https://nickbearman.github.io/blog.html
+  description: "A blog on my teaching, open source GIS, travel and life"
   navbar:
     pinned: TRUE
     left:
@@ -14,6 +16,9 @@ website:
       - consultancy.qmd
       - writing-presentations.qmd
       - blog.qmd
+    right:
+      - icon: rss
+        href: blog.html
 
 format:
   html:
