@@ -2,17 +2,17 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/blog/new-website-quarto/index.html",
-      "/blog/ogc-code-sprint/index.html",
-      "/blog/arcmap-1999-2024/index.html",
-      "/blog/icc/index.html",
-      "/blog/geoai-digital-twins/index.html",
-      "/blog/foss4g-2022/index.html",
-      "/blog/foss4guklocal2022/index.html",
-      "/blog/digital-twins/index.html",
-      "/blog/spatial-r/index.html",
-      "/blog/matrix/index.html",
-      "/blog/video/index.html"
+      "/blog/2024-09-new-website-quarto/index.html",
+      "/blog/2024-07-ogc-code-sprint/index.html",
+      "/blog/2024-01-arcmap-1999-2024/index.html",
+      "/blog/2023-09-icc/index.html",
+      "/blog/2023-05-geoai-digital-twins/index.html",
+      "/blog/2022-11-foss4g-2022/index.html",
+      "/blog/2022-11-foss4guklocal2022/index.html",
+      "/blog/2022-05-digital-twins/index.html",
+      "/blog/2022-02-spatial-r/index.html",
+      "/blog/2021-09-matrix/index.html",
+      "/blog/2021-07-video/index.html"
     ]
   }
 ]
