@@ -22,11 +22,11 @@ If you would like a course run for a group of you, or have any questions, then p
 
 |              | Introductory         | Advanced                               |
 |--------------|-----------------------------------|-----------------------|
-| R | [Introduction to Spatial Data and Using R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis)   | [Advanced R as a GIS: Spatial Analysis and Statistics](#advanced-R-as-a-gis:-spatial-analysis-and-statistics)  | [Advanced R as a GIS: Spatial Analysis and Statistics](#advanced-R-as-a-gis:-spatial-analysis-and-statistics)  
-| QGIS     |  [Introduction to QGIS: Understanding and Presenting Spatial Data]\*               | [Confident Spatial Analysis in QGIS](#confident-spatial-analysis-in-qgis)\*     |
+| R | [Introduction to Spatial Data and Using R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis) *May 2025*   | [Advanced R as a GIS: Spatial Analysis and Statistics](#advanced-R-as-a-gis:-spatial-analysis-and-statistics) *June 2025* | [Advanced R as a GIS: Spatial Analysis and Statistics](#advanced-R-as-a-gis:-spatial-analysis-and-statistics)  
+| QGIS     |  [Introduction to QGIS: Understanding and Presenting Spatial Data]\* *April 2025*               | [Confident Spatial Analysis in QGIS](#confident-spatial-analysis-in-qgis)\* *April 2025*    |
 
 
-\*often presented together as "[Introduction to QGIS: Spatial Data and Spatial Analysis](#introduction-to-qgis-spatial-data-and-spatial-analysis)" over 4 half-day sessions.
+\*often presented together as "[Introduction to QGIS: Spatial Data and Spatial Analysis](#introduction-to-qgis-spatial-data-and-spatial-analysis)" over 4 half-day sessions. *April 2025*
 
 ----
 
@@ -39,9 +39,9 @@ In this one day course we will explore how to use R to import, manage and proces
 
 No previous experience of coding is required, although participants would benefit from some experience of using spatial data (e.g. Google Maps).
 
-<!-- [Tue 25th and Wed 26th June 2024, 10am – 1pm, online.](https://www.ncrm.ac.uk/training/show.php?article=13142) -->
+[Tue 27th and Wed 28th May 2025, 10am – 1pm, online.](https://www.ncrm.ac.uk/training/show.php?article=13706)
 
-[No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html)
+<!-- [No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
 
 ::::
 :::: {.column width="42%"}
@@ -67,6 +67,8 @@ In this two part course we will show you how to prepare and conduct spatial anal
 
 *This course can follow-on from the [Introduction to Spatial Data & Using R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis) course above, or be run independently if participants have some previous knowledge of R / RStudio and spatial data.*
 
+*This course used to be called **Confident Spatial Analysis and Statistics in R & GeoDa**, and is the same material with a new, better, less wordy name!*
+
 ::::
 :::: {.column width="45%"}
 
@@ -75,9 +77,9 @@ In this two part course we will show you how to prepare and conduct spatial anal
 ::::
 :::
 
-<!-- [Tue 16th and Wed 17th July, 2024, 10am – 1pm, online.](https://tinyurl.com/mr2y9de6) -->
+[Thu 26th and Fri 27th June 2025, 10am – 1pm, online.](https://www.ncrm.ac.uk/training/show.php?article=13707)
 
-[No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html)
+<!-- [No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
 
 ----
 
@@ -85,7 +87,9 @@ In this two part course we will show you how to prepare and conduct spatial anal
 
 *This course is the [Introduction to QGIS](#introduction-to-qgis-understanding-and-presenting-spatial-data) and [Confident Spatial Analysis in QGIS](#confident-spatial-analysis-in-qgis) courses run back to back.*
 
-[No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html)
+[Tue 1st, Wed 2nd, Tue 8th and Wed 9th April 2025, 10am – 1pm, online.](https://www.ncrm.ac.uk/training/show.php?article=13700)
+
+<!-- [No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
 
 ----
 
@@ -97,7 +101,9 @@ In this two part introductory course we will give you an overview on how GIS wor
 
 *Attendees on this course can choose to receive a [Certificate of Completion](https://www.qgis.org/community/certification/), certified by QGIS for a donation of €20. [Geospatial Training Solutions / Nick Bearman](https://changelog.qgis.org/en/qgis/certifyingorganisation/geospatial-training-solutions/) is a QGIS approved training organisation, and a donation of €20 for each participant will be made to the QGIS Foundation, supporting the development of QGIS.*
 
-[No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html)
+[*Being run as Introduction to QGIS: Spatial Data and Spatial Analysis on* Tue 1st, Wed 2nd, Tue 8th and Wed 9th April 2025, 10am – 1pm, online.](https://www.ncrm.ac.uk/training/show.php?article=13700)
+
+<!-- [No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
 
 ![](images/qgis-screenshot.png)
 
@@ -117,7 +123,9 @@ This intermediate two part course will develop your skills of using spatial data
 
 *Attendees on this course can choose to receive a [Certificate of Completion](https://www.qgis.org/community/certification/), certified by QGIS for a donation of €20. [Geospatial Training Solutions / Nick Bearman](https://changelog.qgis.org/en/qgis/certifyingorganisation/geospatial-training-solutions/) is a QGIS approved training organisation, and a donation of €20 for each participant will be made to the QGIS Foundation, supporting the development of QGIS.*
 
-[No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html)
+[*Being run as Introduction to QGIS: Spatial Data and Spatial Analysis on* Tue 1st, Wed 2nd, Tue 8th and Wed 9th April 2025, 10am – 1pm, online.](https://www.ncrm.ac.uk/training/show.php?article=13700)
+
+<!-- [No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
 
 ![](images/pip-spatial-overlays.png)
 
