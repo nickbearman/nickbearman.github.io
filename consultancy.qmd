@@ -4,23 +4,70 @@
 
 I can work with you to add geospatial analysis to your project and to develop your geospatial analysis toolset. 
 
-I have worked with academics, universities, private sector and public sector organisations, developing bespoke training soultions, one-to-one tuition or project support to enable my clients to get the best from their geospatial data. [Contact me](index.html) to have a chat about your project. 
+I have worked with academics, universities, private sector and public sector organisations, developing bespoke training soultions, one-to-one tuition or project support to enable my clients to get the best from their geospatial data. Please [contact me](index.html) to have a chat about your project. 
 
 
 <!-- Emily / Uni of Birmingham -->
 
 ----
 
-### Protected Landscapes Partnership
 
-"Our team organised a bespoke GIS training course with Nick, and it was incredibly helpful. Nick asked us about our experience and what we hoped to use GIS for and designed a bespoke training course to suit our needs. During the training we were able to ask questions and use examples specific to our work area. Nick was able to guide us through a real example of a project we wanted to develop, and teach us how best to go about completing it.  Nick’s training has given us all much more confidence to use GIS in our work."
-<br>*Dr Harriet Knafler, Evidence Coordinator, Protected Landscapes Partnership*
+
+::: columns
+:::: {.column width="55%"}
+[![](images/damian-map-1.png)](images/damian-map-1.png)
+
+"Nick is a great teacher, and I would recommend his excellent service."
+
+*Damian Rudge, MPhil Research Student, Newcastle University*
+::::
+:::: {.column width="5%"}
+
+::::
+:::: {.column width="40%"}
+
+### Damian Rudge
+
+ "I am a life-long learner, in my sixties completing a MPhil in archaeology at Newcastle University: this means that when GPS was declassified in the early 2000's, I was only just staring to use computers. The landscape archaeology which I am researching requires a repertoire of map-making skills. 
+ 
+I recently completed a 1-to-1 online QGIS mapping course with Nick Bearman. I was guided through the learning process which resulted in the production of three excellent bespoke maps for my thesis. The sessions were recorded which means I can review and replicate what we covered."
+
+::::
+:::
+
+----
+
+### University of Portsmouth
+
+::: columns
+:::: {.column width="60%"}
+
+
+"Working with Nick has been really great. His classes and consultancy have been extremely professional and instrumental in rapidly upscaling our abilities in both geo-spatial analysis and in the R programming language. We are far more effective now than we were before our engagement with him. Thanks Nick!"
+
+::::
+:::: {.column width="40%"}
+
+
+![](images/portsmouth-logo.png)
+
+
+::::
+:::
+*Dr Ed Stoddard, Associate Professor in International Security and 
+<br> Dr Melita Lazell, Principal Lecturer in Global Political Economy and Associate Head (Research), 
+<br> School of Area Studies, History, Politics and Literature University of Portsmouth*
+
+
 
 ----
 
 ::: columns
 :::: {.column width="45%"}
-![](images/portsmouth-logo.png)
+![](images/NTUK_Primary Logo_Black.png)
+::::
+:::: {.column width="10%"}
+
 ::::
 :::: {.column width="45%"}
 ![](images/netflix.png)
@@ -29,27 +76,30 @@ I have worked with academics, universities, private sector and public sector org
 
 ----
 
-### University of Portsmouth
 
-"Working with Nick has been really great. His classes and consultancy have been extremely professional and instrumental in rapidly upscaling our abilities in both geo-spatial analysis and in the R programming language. We are far more effective now than we were before our engagement with him. Thanks Nick!"
-<br>
-*Dr Ed Stoddard, Associate Professor in International Security and 
-<br> Dr Melita Lazell, Principal Lecturer in Global Political Economy and Associate Head (Research), 
-<br> School of Area Studies, History, Politics and Literature University of Portsmouth*
+### Protected Landscapes Partnership
+
+"Our team organised a bespoke GIS training course with Nick, and it was incredibly helpful. Nick asked us about our experience and what we hoped to use GIS for and designed a bespoke training course to suit our needs. During the training we were able to ask questions and use examples specific to our work area. Nick was able to guide us through a real example of a project we wanted to develop, and teach us how best to go about completing it.  Nick’s training has given us all much more confidence to use GIS in our work."
+<br>*Dr Harriet Knafler, Evidence Coordinator, Protected Landscapes Partnership*
 
 ----
 
+
 ::: columns
 :::: {.column width="45%"}
-![](images/NTUK_Primary Logo_Black.png)
+
+![](images/Westminster-University-logo - Copy.jpg)
+::::
+:::: {.column width="10%"}
+
 ::::
 :::: {.column width="45%"}
 
+![](images/Red-Bull-logo - Copy.jpg)
 ::::
 :::
 
 ----
-
 
 ### National Trails UK
 
@@ -57,18 +107,7 @@ I have worked with academics, universities, private sector and public sector org
 <br>
 *Jennifer Manning, Policy and Research Officer, National Trails UK*
 
-----
 
-::: columns
-:::: {.column width="45%"}
-
-![](images/Westminster-University-logo.jpg)
-::::
-:::: {.column width="45%"}
-
-![](images/Red-Bull-logo.jpg)
-::::
-:::
 
 ----
 
