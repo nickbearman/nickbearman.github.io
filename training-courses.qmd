@@ -35,7 +35,7 @@ If you would like a course run for a group of you, or have any questions, then p
 ::: columns
 :::: {.column width="58%"}
 
-In this one day course we will explore how to use R to import, manage and process spatial data. We will also cover the process of making choropleth maps, as well as some basic spatial analysis. Finally, we will cover the use of loops to make multiple maps quickly and easily, one of the major benefits of using a scripting language to make maps, rather than traditional graphic point-and-click interface.
+In this one day course we will explore how to use R to import, manage and process spatial data. We will also cover the process of making choropleth maps, as well as some basic spatial analysis. Finally, we will cover the use of loops to make multiple maps quickly and easily, one of the major benefits of using a scripting language to make maps, rather than traditional graphic point-and-click interface. *[More details](files/intro-to-r-promo.pdf)*.
 
 No previous experience of coding is required, although participants would benefit from some experience of using spatial data (e.g. Google Maps).
 
@@ -63,7 +63,7 @@ No previous experience of coding is required, although participants would benefi
 ::: columns
 :::: {.column width="55%"}
 
-In this two part course we will show you how to prepare and conduct spatial analysis on a variety of spatial data in R, including a range of spatial overlays and data processing techniques. We will also cover how to use GeoDa to perform exploratory spatial data analysis, including making use of linked displays and measures of spatial autocorrelation and clustering.
+In this two part course we will show you how to prepare and conduct spatial analysis on a variety of spatial data in R, including a range of spatial overlays and data processing techniques. We will also cover how to use GeoDa to perform exploratory spatial data analysis, including making use of linked displays and measures of spatial autocorrelation and clustering. *[More details](files/advanced-r-promo.pdf)*.
 
 *This course can follow-on from the [Introduction to Spatial Data & Using R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis) course above, or be run independently if participants have some previous knowledge of R / RStudio and spatial data.*
 
@@ -95,7 +95,7 @@ In this two part course we will show you how to prepare and conduct spatial anal
 
 ### Introduction to QGIS: Understanding and Presenting Spatial Data
 
-In this two part introductory course we will give you an overview on how GIS works, and what we can and can’t do with spatial data. We assume no prior knowledge of GIS and will explain how to get data into the GIS as well as how to produce maps using your own data.
+In this two part introductory course we will give you an overview on how GIS works, and what we can and can’t do with spatial data. We assume no prior knowledge of GIS and will explain how to get data into the GIS as well as how to produce maps using your own data. *[More details](files/intro-to-qgis-promo.pdf).*
 
 *This course requires no prior knowledge of GIS or spatial data. A level of basic computer experience is required; such as using websites, Word and saving & moving files.*
 
@@ -117,7 +117,7 @@ In this two part introductory course we will give you an overview on how GIS wor
 
 ### Confident Spatial Analysis in QGIS
 
-This intermediate two part course will develop your skills of using spatial data, including collating data from a variety of sources including XY coordinate data and address or postcode based data. We will also cover using spatial overlays, point-in-polygon analysis and spatial joins.
+This intermediate two part course will develop your skills of using spatial data, including collating data from a variety of sources including XY coordinate data and address or postcode based data. We will also cover using spatial overlays, point-in-polygon analysis and spatial joins. *[More details](files/confident-spatial-analysis-promo.pdf).*
 
 *This course can follow-on from the Introduction to QGIS course above, or be run independently if the participants have some previous knowledge of QGIS and spatial data.*
 
