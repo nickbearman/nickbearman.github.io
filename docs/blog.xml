@@ -10,7 +10,49 @@
 <atom:link href="https://nickbearman.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>A blog on my teaching, open source GIS, travel and life</description>
 <generator>quarto-1.4.550</generator>
-<lastBuildDate>Thu, 19 Sep 2024 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 12 Nov 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>FOSS4G:UK South West 2024 - Bristol</title>
+  <dc:creator>Nick Bearman</dc:creator>
+  <link>https://nickbearman.github.io/blog/2024-13-foss4guk-2024-sw/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>It was great to attend <a href="https://uk.osgeo.org/foss4guk2024/bristol.html">FOSS4G:UK South West 2024</a> in Bristol on 12th Nov, at OSGeo:UK’s now regular Bristol Venue, The Engine Shed. The event was a sell out and we had 62 people in the Engine Shed’s main room.</p>
+<p><img src="https://nickbearman.github.io/blog/2024-13-foss4guk-2024-sw/engine-shed-room.jpg" class="img-fluid"></p>
+<p>This was the first time in a while that I have been to a FOSS4G:UK as an attendee rather than as an organiser - and it made a nice difference! We had 14 great presentations, covering a whole range of topics including digitalization of railways, reproducible science, real time vessel monitoring, landscape heritage, open source funding, cloud native web apps and a whole variety of useful open source tools.</p>
+<p>Unfortunately I missed the first presentation - thanks Great Western Railways! - but one common theme that cropped up a lot was how social media as a tool for open source projects has changed dramatically. <a href="https://uk.osgeo.org/foss4guk2024/bristol.html">James Milner</a> said that social media used to be a great way to promote his program, Terra Draw, but know he gets no where near the same impact from using social media. It’s now a bit of a big unknown, and I particularly liked how he summarised this:</p>
+<p><img src="https://nickbearman.github.io/blog/2024-13-foss4guk-2024-sw/spiderman-meme.png" class="img-fluid"></p>
+<p>Interestingly, I sent out a number of social media posts to Twitter (X), Mastodon and LinkedIn, and LinkedIn got the most response, so make of that what you will! Although I think it’s fair to say LinkedIn is not universally loved, as it was memorably described as “Grinder for Business”!</p>
+<ul>
+<li><a href="https://x.com/NickBearmanUK/status/1856285815321612304">Twitter (X)</a> 1 retweet, 7 likes</li>
+<li><a href="https://fosstodon.org/deck/@osgeouk/113469557732201903">Mastodon</a> 3 boosts, 3 favorites</li>
+<li><a href="https://www.linkedin.com/feed/update/urn:li:activity:7262052154012581891/">LinkedIn</a> 6 comments, 4 reposts</li>
+</ul>
+<p>The presenters have also mastered the use of memes, with <a href="https://uk.osgeo.org/foss4guk2024/bristol.html">Matt Travis</a> hitting home with some of the perils of waiting for large data sets to load:</p>
+<p><img src="https://nickbearman.github.io/blog/2024-13-foss4guk-2024-sw/waiting.gif" class="img-fluid"></p>
+<p>and of course also</p>
+<p><img src="https://nickbearman.github.io/blog/2024-13-foss4guk-2024-sw/waiting-2.gif" class="img-fluid"></p>
+<p>It was also fantastic to get FAIR Open Science and FAIR workflows mentioned in the presentation by <a href="https://uk.osgeo.org/foss4guk2024/bristol.html">Richard Conway &amp; Garin Smith</a> from Telespazio, who are in the process of developing an exploration platform that allows researchers both to share their data, code and their methods in a reproducible form.</p>
+<p>I also had the opportunity to speak about GoFundGeo and talk about how OSGeo:UK is funding a range of open source geospatial projects that will have an impact in the UK. Join the <a href="https://lists.osgeo.org/mailman/listinfo/uk">OSGeo:UK mailing list</a> or check the <a href="https://uk.osgeo.org/gofundgeo.html">website</a> to find out more.</p>
+<p>Finally, as ever, it was great to meet new people and network again with old friends at these events. I know of at least one contract opportunity, as well a number of potential ones and also I think some new volunteers for OSGeo:UK!</p>
+<p>Thanks very much to all the organisers - <a href="https://uk.linkedin.com/in/pascalcoulon">Pascal Coulon</a>, <a href="https://social.vivaldi.net/@ajggeoger">Alastair Graham</a>, <a href="https://mapstodon.space/@samfranklin">Sam Franklin</a>, <a href="https://linkedin.com/in/danielormsby/">Dan Ormsby</a>, <a href="https://www.linkedin.com/in/illyasantos/">Illya Sparkes-Santos</a>, <a href="https://mastodon.social/@antscott">Ant Scott</a>, as well as everyone who came along and took part.</p>
+<p>If you want help or advice on any open source geospatial tool, or are interested in Introductory or Advanced GIS training in QGIS or R, please do <a href="https://nickbearman.github.io/">contact</a> <a href="https://docs.google.com/forms/d/e/1FAIpQLSckfjf0U43ysotj4sS68bZ85DHijqTSy3vJcdBa5oC275TwUg/viewform">me</a>.</p>
+
+
+
+ ]]></description>
+  <category>FOSS4G:UK</category>
+  <category>open source</category>
+  <category>GIS</category>
+  <category>conference</category>
+  <category>networking</category>
+  <guid>https://nickbearman.github.io/blog/2024-13-foss4guk-2024-sw/</guid>
+  <pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://nickbearman.github.io/blog/2024-13-foss4guk-2024-sw/engine-shed-room.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>New Website - Quarto</title>
   <dc:creator>Nick Bearman</dc:creator>
@@ -70,48 +112,6 @@
   <guid>https://nickbearman.github.io/blog/2024-09-new-website-quarto/</guid>
   <pubDate>Thu, 19 Sep 2024 23:00:00 GMT</pubDate>
   <media:content url="https://nickbearman.github.io/blog/2024-09-new-website-quarto/website-homepage-header.png" medium="image" type="image/png" height="72" width="144"/>
-</item>
-<item>
-  <title>FOSS4G:UK South West - Bristol</title>
-  <dc:creator>Nick Bearman</dc:creator>
-  <link>https://nickbearman.github.io/blog/2024-13-foss4guk-2024-sw/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>It was great to attend <a href="https://uk.osgeo.org/foss4guk2024/bristol.html">FOSS4G:UK South West</a> in Bristol on 12th Nov, at OSGeo:UK’s now regular Bristol Venue, The Engine Shed. The event was a sell out and we had 62 people in the Engine Shed’s main room.</p>
-<p><img src="https://nickbearman.github.io/blog/2024-13-foss4guk-2024-sw/engine-shed-room.jpg" class="img-fluid"></p>
-<p>This was the first time in a while that I have been to a FOSS4G:UK as an attendee rather than as an organiser - and it made a nice difference! We had 14 great presentations, covering a whole range of topics including digitalization of railways, reproducible science, real time vessel monitoring, landscape heritage, open source funding, cloud native web apps and a whole variety of useful open source tools.</p>
-<p>Unfortunately I missed the first presentation - thanks Great Western Railways! - but one common theme that cropped up a lot was how social media as a tool for open source projects has changed dramatically. <a href="https://uk.osgeo.org/foss4guk2024/bristol.html">James Milner</a> said that social media used to be a great way to promote his program, Terra Draw, but know he gets no where near the same impact from using social media. It’s now a bit of a big unknown, and I particularly liked how he summarised this:</p>
-<p><img src="https://nickbearman.github.io/blog/2024-13-foss4guk-2024-sw/spiderman-meme.png" class="img-fluid"></p>
-<p>I sent out a number of social media posts to Twitter (X), Mastodon and LinkedIn, and LinkedIn got the most response, so make of that what you will! Although I think it’s fair to say LinkedIn is not universally loved, as it was memorably described as “Grinder for Business”!</p>
-<ul>
-<li><a href="https://x.com/NickBearmanUK/status/1856285815321612304">Twitter (X)</a> 1 retweet, 7 likes</li>
-<li><a href="https://fosstodon.org/deck/@osgeouk/113469557732201903">Mastodon</a> 3 boosts, 3 favorites</li>
-<li><a href="https://www.linkedin.com/feed/update/urn:li:activity:7262052154012581891/">LinkedIn</a> 6 comments, 4 reposts</li>
-</ul>
-<p>The presenters have also mastered the use of memes, with <a href="https://uk.osgeo.org/foss4guk2024/bristol.html">Matt Travis</a> hitting home with some of the perils of waiting for large data sets to load:</p>
-<p><img src="https://nickbearman.github.io/blog/2024-13-foss4guk-2024-sw/waiting.gif" class="img-fluid"></p>
-<p>and of course also</p>
-<p><img src="https://nickbearman.github.io/blog/2024-13-foss4guk-2024-sw/waiting-2.gif" class="img-fluid"></p>
-<p>It was also fantastic to get FAIR Open Science and FAIR workflows mentioned in the presentation by <a href="https://uk.osgeo.org/foss4guk2024/bristol.html">Richard Conway &amp; Garin Smith</a> from Telespazio, who are in the process of developing an exploration platform that allows researchers both to share their data, code and their methods in a reproducible form.</p>
-<p>I also has the opportunity to speak about GoFundGeo and talk about how OSGeo:UK is funding a range of open source geospatial projects that will have impact in the UK. Join the <a href="https://lists.osgeo.org/mailman/listinfo/uk">OSGeo:UK mailing list</a> or check the <a href="https://uk.osgeo.org/gofundgeo.html">website</a> to find out more.</p>
-<p>Finally, as ever, it was great to meet new people and network again with old friends at these events. I know of at least one contract opportunity, as well a number of potential ones and also I think some new volunteers for OSGeo:UK!</p>
-<p>Thanks very much to all the organisers - <a href="https://uk.linkedin.com/in/pascalcoulon">Pascal Coulon</a>, <a href="https://social.vivaldi.net/@ajggeoger">Alastair Graham</a>, <a href="https://mapstodon.space/@samfranklin">Sam Franklin</a>, <a href="https://linkedin.com/in/danielormsby/">Dan Ormsby</a>, <a href="https://www.linkedin.com/in/illyasantos/">Illya Sparkes-Santos</a>, <a href="https://mastodon.social/@antscott">Ant Scott</a> as well as everyone who came along and took part.</p>
-<p>If you want help or advice on any open source geospatial tool, or are interested in Introductory or Advanced GIS training in QGIS or R, please do <a href="https://nickbearman.github.io/">contact</a> <a href="https://docs.google.com/forms/d/e/1FAIpQLSckfjf0U43ysotj4sS68bZ85DHijqTSy3vJcdBa5oC275TwUg/viewform">me</a>.</p>
-
-
-
- ]]></description>
-  <category>FOSS4G:UK</category>
-  <category>open source</category>
-  <category>GIS</category>
-  <category>conference</category>
-  <category>networking</category>
-  <guid>https://nickbearman.github.io/blog/2024-13-foss4guk-2024-sw/</guid>
-  <pubDate>Thu, 19 Sep 2024 23:00:00 GMT</pubDate>
-  <media:content url="https://nickbearman.github.io/blog/2024-13-foss4guk-2024-sw/engine-shed-room.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>OCG Open Standards Code Sprint, Geovation, London, UK</title>
