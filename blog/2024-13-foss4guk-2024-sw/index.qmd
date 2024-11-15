@@ -35,6 +35,8 @@ It was also fantastic to get FAIR Open Science and FAIR workflows mentioned in t
 
 I also had the opportunity to speak about GoFundGeo and talk about how OSGeo:UK is funding a range of open source geospatial projects that will have an impact in the UK. Join the [OSGeo:UK mailing list](https://lists.osgeo.org/mailman/listinfo/uk) or check the [website](https://uk.osgeo.org/gofundgeo.html) to find out more. 
 
+![Nick presenting GoFundGeo, thanks to Sam Franklin for the photo](nick-photo-by-sam.jpg)
+
 Finally, as ever, it was great to meet new people and network again with old friends at these events. I know of at least one contract opportunity, as well a number of potential ones and also I think some new volunteers for OSGeo:UK!
 
 Thanks very much to all the organisers - [Pascal Coulon](https://uk.linkedin.com/in/pascalcoulon), [Alastair Graham](https://social.vivaldi.net/@ajggeoger), [Sam Franklin](https://mapstodon.space/@samfranklin), [Dan Ormsby](https://linkedin.com/in/danielormsby/), [Illya Sparkes-Santos](https://www.linkedin.com/in/illyasantos/), [Ant Scott](https://mastodon.social/@antscott), as well as everyone who came along and took part. 

@@ -9,7 +9,7 @@
 <link>https://nickbearman.github.io/blog.html</link>
 <atom:link href="https://nickbearman.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>A blog on my teaching, open source GIS, travel and life</description>
-<generator>quarto-1.4.550</generator>
+<generator>quarto-1.5.57</generator>
 <lastBuildDate>Tue, 12 Nov 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>FOSS4G:UK South West 2024 - Bristol</title>
@@ -37,6 +37,12 @@
 <p><img src="https://nickbearman.github.io/blog/2024-13-foss4guk-2024-sw/waiting-2.gif" class="img-fluid"></p>
 <p>It was also fantastic to get FAIR Open Science and FAIR workflows mentioned in the presentation by <a href="https://uk.osgeo.org/foss4guk2024/bristol.html">Richard Conway &amp; Garin Smith</a> from Telespazio, who are in the process of developing an exploration platform that allows researchers both to share their data, code and their methods in a reproducible form.</p>
 <p>I also had the opportunity to speak about GoFundGeo and talk about how OSGeo:UK is funding a range of open source geospatial projects that will have an impact in the UK. Join the <a href="https://lists.osgeo.org/mailman/listinfo/uk">OSGeo:UK mailing list</a> or check the <a href="https://uk.osgeo.org/gofundgeo.html">website</a> to find out more.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://nickbearman.github.io/blog/2024-13-foss4guk-2024-sw/nick-photo-by-sam.jpg" class="img-fluid figure-img"></p>
+<figcaption>Nick presenting GoFundGeo, thanks to Sam Franklin for the photo</figcaption>
+</figure>
+</div>
 <p>Finally, as ever, it was great to meet new people and network again with old friends at these events. I know of at least one contract opportunity, as well a number of potential ones and also I think some new volunteers for OSGeo:UK!</p>
 <p>Thanks very much to all the organisers - <a href="https://uk.linkedin.com/in/pascalcoulon">Pascal Coulon</a>, <a href="https://social.vivaldi.net/@ajggeoger">Alastair Graham</a>, <a href="https://mapstodon.space/@samfranklin">Sam Franklin</a>, <a href="https://linkedin.com/in/danielormsby/">Dan Ormsby</a>, <a href="https://www.linkedin.com/in/illyasantos/">Illya Sparkes-Santos</a>, <a href="https://mastodon.social/@antscott">Ant Scott</a>, as well as everyone who came along and took part.</p>
 <p>If you want help or advice on any open source geospatial tool, or are interested in Introductory or Advanced GIS training in QGIS or R, please do <a href="https://nickbearman.github.io/">contact</a> <a href="https://docs.google.com/forms/d/e/1FAIpQLSckfjf0U43ysotj4sS68bZ85DHijqTSy3vJcdBa5oC275TwUg/viewform">me</a>.</p>
