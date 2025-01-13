@@ -10,7 +10,69 @@
 <atom:link href="https://nickbearman.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>A blog on my teaching, open source GIS, travel and life</description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Tue, 12 Nov 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 13 Jan 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>FOSS4G 2024 - Belém, Brazil</title>
+  <dc:creator>Nick Bearman</dc:creator>
+  <link>https://nickbearman.github.io/blog/2025-01-foss4g-belem-brazil/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I was very lucky to be able to attend <a href="https://2024.foss4g.org/en/">FOSS4G 2024</a>, in <a href="https://www.openstreetmap.org/relation/15986845">Belém, Brazil</a> on 2nd - 8th December 2024. Belém is a fantastic city, and due to host <a href="https://sdg.iisd.org/events/2025-un-climate-change-conference-unfccc-cop-30/">COP30</a> in November 2025, with lots of construction on going. FOSS4G has a wonderful community and a great variety of talks - have a look at the <a href="https://2024.foss4g.org/en/general-schedule/">agenda</a> to see the different topics under discussion.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://nickbearman.github.io/blog/2025-01-foss4g-belem-brazil/welcome.jpeg" class="img-fluid figure-img"></p>
+<figcaption>Tri-lingual welcome, in Portugese, Spanish and English at FOSS4G 2024</figcaption>
+</figure>
+</div>
+<p>The first two days were workshops, and I attended <a href="https://talks.osgeo.org/foss4g-2024-workshop/talk/SQNGBH/">XYZ Cloud MAPPing 101</a> presented by Dennis Bauszus, and <a href="https://talks.osgeo.org/foss4g-2024-workshop/talk/YTQJZ7/">Community Drone Mapping</a> by Ivan Buendía Gayton. In some ways I find the workshops the most useful element of the conference because it gives you time to dig in to a specific piece of software and learn some new skills, something I am quite poor at doing during my usual ‘day job’! I learnt some new useful skills in both workshops. Dennis has also shared the XYZ Mapping workshop materials if you have more discipline than me(!) and can work through it on your own:</p>
+<ul>
+<li>More details on the <a href="https://github.com/GEOLYTIX/xyz/">app itself</a></li>
+<li>Start with <a href="https://github.com/GEOLYTIX/xyz/wiki/Getting-started">Getting started</a></li>
+<li>Then look at the <a href="https://github.com/GEOLYTIX/mapp/tree/main/foss4g_workshop">workshop</a></li>
+</ul>
+<p>The Drone workshop was also fascinating, and Ivan did a great job of both teaching us how to fly a drone (easier than I thought) and how to help local communities leverage the power of drones (&amp; wider GIS skills) for their own benefit.</p>
+<p><img src="https://nickbearman.github.io/blog/2025-01-foss4g-belem-brazil/drone.jpeg" class="img-fluid"></p>
+<p>The main conference itself was in the Hanger Convention Centre and it was a great international conference. The laid back approach of FOSS4G always creates a lovely atmosphere and it was a great opportunity to get to know new people in the FOSS4G world, and catch up with people I have met at previous events. Community is one of the key things that I love about this group, with people very willing to help each other out. Uber is a key method of transportation in Brazil, and with a number of the evening social events in the city centre, we usually clubbed together at the hotel reception for an Uber to get us there, and back afterwards!</p>
+<p>The variety of talks was incredible, with fascinating applications of FOSS4G tools, discussions on the interaction of academia and FOSS4G and personal reflections on people’s FOSS4G journeys. I particularly Kim Durante’s talk on <a href="https://talks.osgeo.org/foss4g-2024/talk/NKBU8E/">FAIR Principles for Geospatial Data Curation</a> which might have some very useful ideas for a project I am working on at the moment, and Veronica Andreo’s talk, <a href="https://talks.osgeo.org/foss4g-2024/talk/VCNPKB/">From field biology to the GRASS GIS board - an open source journey</a> about how she got involved in the GRASS GIS project.</p>
+<p><img src="https://nickbearman.github.io/blog/2025-01-foss4g-belem-brazil/grass.jpeg" class="img-fluid"></p>
+<p>I met one lady from Brazil and this was her first international, English speaking conference. She was really enjoying herself and it was a great introduction to the FOSS4G community for her.</p>
+<p>One thing that came across to me was the variety of open source projects, and how some projects seem to be doing very similar things. Two examples that come to mind are <a href="https://qfield.org/">QField</a> and <a href="https://merginmaps.com/">Mergin Maps</a>, both of which allow users to collect data in a QGIS project in the field on their phone, and process that data back in the office. Another pair would be <a href="https://www.qgis.org/">QGIS</a> and <a href="https://grass.osgeo.org/">GRASS GIS</a>, both arguably great quality Desktop GIS tools, and there are many other examples too.</p>
+<p>Initially I wondered why there were so many similar tools like this, when it might make more sense to combine effort and focus on one tool, rather than splitting our effort over two? However after a bit of reflection I discovered a) that often two similar tools have differences that make them more useful to different audiences. For example, QField is a more flexible field data collection tool, and Mergin Maps is easier to get up and running with. Also, b) having multiple tools reflects the market approach of encouraging development and innovation, with the best tool ‘winning’. In this context winning is not by having the highest revenues or the highest profits, but by having communities of users and developers. If a project doesn’t have a good group of users and/or a good group of developers interested in keeping the project up to date, then gradually it will fall out of use. I was not expecting to see an example of a capitalist based market in the open source community, but here it is!</p>
+<p>I also had the opportunity to met Katja Haferkorn, who is the coordinator for FOSSGIS e.V. <a href="https://www.fossgis.de/">FOSSGIS e.V.</a> is the OSGeo Local Chapter for German-speaking countries - D-A-CH, i.e.&nbsp;Germany, Austria and the german speaking part of Switzerland. FOSSGIS e.V. is also the German local chapter for OpenStreetMap. FOSSGIS e.V. is quite unique in that they are a local chapter who has a paid coordinator - Katja - and it was fascinating to hear her experiences. As OSGeo:UK Chair, one of the questions I asked her was about diversity within Local Chapters, and OSGeo as a whole. This is an issue for them as well and it is a aspect of membership that has been challenging the whole community for a while. Katja has written a great <a href="https://www.fossgis.de/news/2024_12_07_bericht_foss4g-2024_belem/">blog post</a> about the conference. It is in German, but Google Translate does a reasonable job of translating it into English.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://nickbearman.github.io/blog/2025-01-foss4g-belem-brazil/code-sprint-felipe.jpeg" class="img-fluid figure-img"></p>
+<figcaption>Working at the Code Sprint, thanks to Felipe Barros for the photo</figcaption>
+</figure>
+</div>
+<p>The last two days of the conference was the Code Sprint. This is a chance to meet people working on different open source GIS projects and learn how to contribute to different elements of the projects. I had a great chat with Silvina Meritano and Andrés Duhour about using R as a GIS. Silvina was keen to develop her mapping skills in R, and Andrés had already developed an R package (which he presented at the conference: <a href="https://talks.osgeo.org/foss4g-2024/talk/GSBMGK/">osmlanduseR</a>) and spent a bit of time learning about and contributing to the new <code>tmap</code> library examples. <code>Tmap</code> version 4 is coming out (blog post coming soon!) and I needed to updated my material for this new version. I also spent some time looking at the <a href="https://geochicasosm.github.io/lascallesdelasmujeres/">Las Calles De Las Mujeres</a> project, which looks at the proportion of streets named after women (rather than men) in a range of Spanish speaking countries. Silvina and I had a go at creating a version in R that could automate some more of the process to apply this to different cities in English speaking countries.</p>
+<p>The internet connection at the code sprint was a little variable, so we had some challenges and had to resort to using the <a href="https://en.wikipedia.org/wiki/Sneakernet">“sneaker net”</a> occasionally - using a USB stick to transfer data between us! Fortunately we never had to resort to playing <a href="https://en.wikipedia.org/wiki/Truco">truco</a> - a card game played in Argentina when the internet doesn’t work and you have nothing else to do!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://nickbearman.github.io/blog/2025-01-foss4g-belem-brazil/group-photo.jpeg" class="img-fluid figure-img"></p>
+<figcaption>Conference group photo</figcaption>
+</figure>
+</div>
+<p>Thanks very much to everyone involved in organising the conference. Many more photos are on <a href="https://www.flickr.com/photos/narceliosapereira/albums/72177720322507002/">Flickr</a>. The conference was a fantastic experience, and if you ever have the opportunity to go to a FOSS4G conference, anywhere, do take it!</p>
+<p>If you want help or advice on any open source geospatial tool, or are interested in Introductory or Advanced GIS training in QGIS or R, please do <a href="https://nickbearman.github.io/">contact</a> <a href="https://docs.google.com/forms/d/e/1FAIpQLSckfjf0U43ysotj4sS68bZ85DHijqTSy3vJcdBa5oC275TwUg/viewform">me</a>.</p>
+
+
+
+ ]]></description>
+  <category>FOSS4G</category>
+  <category>open source</category>
+  <category>GIS</category>
+  <category>conference</category>
+  <category>networking</category>
+  <category>R spatial</category>
+  <category>in person</category>
+  <guid>https://nickbearman.github.io/blog/2025-01-foss4g-belem-brazil/</guid>
+  <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://nickbearman.github.io/blog/2025-01-foss4g-belem-brazil/welcome.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>FOSS4G:UK South West 2024 - Bristol</title>
   <dc:creator>Nick Bearman</dc:creator>
