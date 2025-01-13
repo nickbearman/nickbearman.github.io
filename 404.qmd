@@ -1,0 +1,12 @@
+---
+  title: Page Not Found
+---
+
+Sorry - this page can't be found. 
+
+I have recently (end 2024) launched a new website (see [blog post](blog/2024-09-new-website-quarto/)) so this may be an old link. 
+
+Please try using the search above ![](images/search.png) to find what you are looking for. 
+
+If you have followed a link, please let me know what link and I will see about getting it updated. 
+  
