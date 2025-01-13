@@ -1,5 +1,5 @@
 ---
-  title: Page Not Found
+  title: 404: Page Not Found
 ---
 
 Sorry - this page can't be found. 
@@ -8,5 +8,5 @@ I have recently (end 2024) launched a new website (see [blog post](blog/2024-09-
 
 Please try using the search above ![](images/search.png) to find what you are looking for. 
 
-If you have followed a link, please let me know what link and I will see about getting it updated. 
+If you have followed a link, please let [me](http://nickbearman.github.io) [know](https://forms.gle/S95f1L8cNZQH5Th76) what link it was and I will see about getting it updated. 
   
