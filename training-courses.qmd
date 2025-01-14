@@ -35,7 +35,7 @@ If you would like a course run for a group of you, or have any questions, then p
 ::: columns
 :::: {.column width="58%"}
 
-In this one day course we will explore how to use R to import, manage and process spatial data. We will also cover the process of making choropleth maps, as well as some basic spatial analysis. Finally, we will cover the use of loops to make multiple maps quickly and easily, one of the major benefits of using a scripting language to make maps, rather than traditional graphic point-and-click interface. *[More details](files/intro-to-r-promo.pdf)*.
+In this two half day course we will explore how to use R to import, manage and process spatial data. We will also cover the process of making choropleth maps, as well as some basic spatial analysis. Finally, we will cover the use of loops to make multiple maps quickly and easily, one of the major benefits of using a scripting language to make maps, rather than traditional graphic point-and-click interface. *[More details](files/intro-to-r-promo.pdf)*.
 
 No previous experience of coding is required, although participants would benefit from some experience of using spatial data (e.g. Google Maps).
 
