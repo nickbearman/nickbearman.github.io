@@ -133,6 +133,8 @@ This intermediate two part course will develop your skills of using spatial data
 
 ----
 
+<!--
+
 ### Essex Summer School
 
 #### Introduction to GIS, Geospatial Data and Spatial Analysis
@@ -144,6 +146,8 @@ In this week long (17.5 hours) course at the Essex Summer School, you will gain 
 [No dates for 2025 yet, but check out 2024 for more details](https://essexsummerschool.com/summer-school-facts/courses/ess-2024-course-list/1p-introduction-to-gis-geospatial-data-and-spatial-analysis/)
 
 ----
+
+-->
 
 ### Other Courses
 
