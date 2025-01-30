@@ -60,7 +60,7 @@ I have written 24 academic papers, two books ([Using R as a GIS](rgis.html) and 
 [![](images/pdf.gif){alt=""} (Paper, 439 KB)](files/academic/bearman_et_al_2013_gisruk/paper.pdf), [![](images/powerpoint.gif){alt=""} Presentation (PowerPoint, 2.1 MB)](files/academic/bearman_et_al_2013_gisruk/presentation.pptx).
 
 **Bearman, N. & Brown, E. (2012)** Who's Sonifying Data and How are they doing it? A comparison of ICAD and other venues since 2009, Presented 18/06/2012 at The 18th International Conference on Auditory Display (ICAD-2012), Atlanta, USA.\
-Presentation ([![](images/powerpoint.gif){alt=""} PowerPoint, 8.2 MB](files/academic/bearman_brown_2012_icad/presentation.pptx)), ([Paper, 79 KB](files/academic/bearman_brown_2012_icad/paper.pdf)), ([Papers in Review.xls, 107KB](files/twe/wp-content/uploads/2015/07/Sonifications%20Literature%20Analysis.xls)), (Sonification of Tools Graph [MP3 626 KB](files/academic/bearman_brown_2012_icad/toolsgraph.mp3), [WAV 6.7MB](files/academic/bearman_brown_2012_icad/toolsgraph.wav))
+Presentation ([![](images/powerpoint.gif){alt=""} PowerPoint, 8.2 MB](files/academic/bearman_brown_2012_icad/presentation.pptx)), ([Paper, 79 KB](files/academic/bearman_brown_2012_icad/paper.pdf)), ([Papers in Review.xls, 107KB](files/academic/2015-Sonifications%20Literature%20Analysis.xls)), (Sonification of Tools Graph [MP3 626 KB](files/academic/bearman_brown_2012_icad/toolsgraph.mp3), [WAV 6.7MB](files/academic/bearman_brown_2012_icad/toolsgraph.wav))
 
 **Bearman, N. & Lovett, A. (2012)** Can Sound Help Represent Distance in a Landscape Visualisation Setting? Poster presented 11-13/04/2012 at GISRUK2012 Conference, University of Lancaster, UK.\
 [Poster download, media & further information](files/academic/bearman_lovett_2012_gisruk/index.htm).
@@ -106,10 +106,10 @@ Liverpool: Centre for Spatial Demographics Research, University of Liverpool. <
 
 **Bearman, N., Jones, N., Margarida De Almeida Andrè, I., Cachinho, H., and DeMers, M. (2016)** What should be the role of GIS education in creating critical spatial thinkers?, Journal of Geography in Higher Education, [doi:10.1080/03098265.2016.1144729](http://dx.doi.org/10.1080/03098265.2016.1144729), *Open Access*.
 
-**Bearman, N., Dyer, S., Walkington, H. and Wyse, S. (2015)** Letter to the editor: The power of collective tactics: response to Peters and Turner, Environment and Planning A, 47(4) p 1015 -- 1016, [doi:10.1068/a4704l](http://dx.doi.org/10.1068/a4704l), [![](images/pdf.gif){alt=""}](http://dx.doi.org/10.1080/03098265.2015.1010146) [Preprint version (208 KB)](files/twe/wp-content/uploads/2015/05/bearman_et_al_2015_epa_preprint.pdf)
+**Bearman, N., Dyer, S., Walkington, H. and Wyse, S. (2015)** Letter to the editor: The power of collective tactics: response to Peters and Turner, Environment and Planning A, 47(4) p 1015 -- 1016, [doi:10.1068/a4704l](http://dx.doi.org/10.1068/a4704l), [![](images/pdf.gif){alt=""}](http://dx.doi.org/10.1080/03098265.2015.1010146) [Preprint version (208 KB)](files/academic/bearman_et_al_2015_epa_preprint.pdf)
 
 **Bearman, N., Munday, P. & McAvoy, D. (2015)** Teaching GIS outside of geography: a case study in the School of International Development, University of East Anglia, Journal of Geography in Higher Education, 39(2) p. 237-244.\
-[doi:10.1080/03098265.2015.1010146,](http://dx.doi.org/10.1080/03098265.2015.1010146) [![](images/pdf.gif){alt=""} ](http://dx.doi.org/10.1080/03098265.2015.1010146)[Postprint version (160 KB)](files/twe/wp-content/uploads/2015/02/bearman_et_al_2015_postprint.pdf)
+[doi:10.1080/03098265.2015.1010146,](http://dx.doi.org/10.1080/03098265.2015.1010146) [![](images/pdf.gif){alt=""} ](http://dx.doi.org/10.1080/03098265.2015.1010146)[Postprint version (160 KB)](files/academic/bearman_et_al_2015_postprint.pdf)
 
 **Shiue, I., Perkins, D.R., & Bearman, N. (2015)** Hospital admissions due to diseases of arteries and veins peaked at physiological equivalent temperature −10 to 10 °C in Germany in 2009--2011, Environmental Science and Pollution Research, [doi:10.1007/s11356-015-5791-x](http://dx.doi.org/10.1007/s11356-015-5791-x). Impact Factor: 2.757
 
@@ -130,7 +130,7 @@ Liverpool: Centre for Spatial Demographics Research, University of Liverpool. <
 [doi:10.1016/j.ijcard.2014.10.127](http://dx.doi.org/10.1016/j.ijcard.2014.10.127).
 
 **Sharpe, R.A., Bearman, N., Thornton, C.R., Husk, K. & Osborne, N.J.** **(2014)** Indoor fungal diversity and asthma: A meta-analysis and systematic review of risk factors, Journal of Allergy and Clinical Immunology.\
-[doi:10.1016/j.jaci.2014.07.002](http://dx.doi.org/10.1016/j.jaci.2014.07.002), ![](images/pdf.gif){alt=""} [Postprint version (1.5 MB)](http://www.nickbearman.me.uk/twe/wp-content/uploads/2014/08/postprint-JACI-S-14-00380.pdf)
+[doi:10.1016/j.jaci.2014.07.002](http://dx.doi.org/10.1016/j.jaci.2014.07.002), ![](images/pdf.gif){alt=""} [Postprint version (1.5 MB)](files/academic/2014-sharpe-postprint-JACI-S-14-00380.pdf)
 
 **Shiue, I., Perkins, D.R. & Bearman, N. (2014)** Valve disease and hypotension hospital admissions peaked at physiologically equivalent temperature 0--5 °C in Germany in 2009--2011, International Journal of Cardiology, [doi.:10.1016/j.ijcard.2014.09.066](http://dx.doi.org/10.1016/j.ijcard.2014.09.066).
 
