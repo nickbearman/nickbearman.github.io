@@ -39,9 +39,9 @@ In this two half day course we will explore how to use R to import, manage and p
 
 No previous experience of coding is required, although participants would benefit from some experience of using spatial data (e.g. Google Maps).
 
-[Tue 4th and Wed 5th March 2025, 10am - 1pm, online, InStats.](https://instats.org/seminar/introduction-to-spatial-data-and-r-as-a-2)
+[Tue 4th and Wed 5th March 2025, 10am - 1pm (UK/London), online, InStats.](https://instats.org/seminar/introduction-to-spatial-data-and-r-as-a-2)
 
-[Tue 27th and Wed 28th May 2025, 10am – 1pm, online, NCRM.](https://www.ncrm.ac.uk/training/show.php?article=13706)
+[Tue 27th and Wed 28th May 2025, 10am – 1pm (UK/London), online, NCRM.](https://www.ncrm.ac.uk/training/show.php?article=13706)
 
 <!-- [No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
 
@@ -79,7 +79,7 @@ In this two part course we will show you how to prepare and conduct spatial anal
 ::::
 :::
 
-[Tue 3rd and Wed 4th June 2025, 10am – 1pm, online.](https://www.ncrm.ac.uk/training/show.php?article=13707)
+[Tue 3rd and Wed 4th June 2025, 10am – 1pm (UK/London), online.](https://www.ncrm.ac.uk/training/show.php?article=13707)
 
 <!-- [No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
 
@@ -89,7 +89,7 @@ In this two part course we will show you how to prepare and conduct spatial anal
 
 *This course is the [Introduction to QGIS](#introduction-to-qgis-understanding-and-presenting-spatial-data) and [Confident Spatial Analysis in QGIS](#confident-spatial-analysis-in-qgis) courses run back to back.*
 
-[Tue 1st, Wed 2nd, Tue 8th and Wed 9th April 2025, 10am – 1pm, online.](https://www.ncrm.ac.uk/training/show.php?article=13700)
+[Tue 1st, Wed 2nd, Tue 8th and Wed 9th April 2025, 10am – 1pm (UK/London), online.](https://www.ncrm.ac.uk/training/show.php?article=13700)
 
 <!-- [No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
 
@@ -103,7 +103,7 @@ In this two part introductory course we will give you an overview on how GIS wor
 
 *Attendees on this course can choose to receive a [Certificate of Completion](https://www.qgis.org/community/certification/), certified by QGIS for a donation of €20. [Geospatial Training Solutions / Nick Bearman](https://changelog.qgis.org/en/qgis/certifyingorganisation/geospatial-training-solutions/) is a QGIS approved training organisation, and a donation of €20 for each participant will be made to the QGIS Foundation, supporting the development of QGIS.*
 
-[*Being run as Introduction to QGIS: Spatial Data and Spatial Analysis on* Tue 1st, Wed 2nd, Tue 8th and Wed 9th April 2025, 10am – 1pm, online.](https://www.ncrm.ac.uk/training/show.php?article=13700)
+[*Being run as Introduction to QGIS: Spatial Data and Spatial Analysis on* Tue 1st, Wed 2nd, Tue 8th and Wed 9th April 2025, 10am – 1pm (UK/London), online.](https://www.ncrm.ac.uk/training/show.php?article=13700)
 
 <!-- [No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
 
@@ -125,7 +125,7 @@ This intermediate two part course will develop your skills of using spatial data
 
 *Attendees on this course can choose to receive a [Certificate of Completion](https://www.qgis.org/community/certification/), certified by QGIS for a donation of €20. [Geospatial Training Solutions / Nick Bearman](https://changelog.qgis.org/en/qgis/certifyingorganisation/geospatial-training-solutions/) is a QGIS approved training organisation, and a donation of €20 for each participant will be made to the QGIS Foundation, supporting the development of QGIS.*
 
-[*Being run as Introduction to QGIS: Spatial Data and Spatial Analysis on* Tue 1st, Wed 2nd, Tue 8th and Wed 9th April 2025, 10am – 1pm, online.](https://www.ncrm.ac.uk/training/show.php?article=13700)
+[*Being run as Introduction to QGIS: Spatial Data and Spatial Analysis on* Tue 1st, Wed 2nd, Tue 8th and Wed 9th April 2025, 10am – 1pm (UK/London), online.](https://www.ncrm.ac.uk/training/show.php?article=13700)
 
 <!-- [No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
 
