@@ -137,7 +137,7 @@ Liverpool: Centre for Spatial Demographics Research, University of Liverpool. <
 **Shiue, I., Muthers, S. & Bearman, N. (2014)** The role of cold stress in predicting extra cardiovascular and respiratory admissions, International Journal of Cardiology, [doi:10.1016/j.ijcard.2013.12.122](http://dx.doi.org/10.1016/j.ijcard.2013.12.122).
 
 **Bearman, N., Jones, P. & Lovett, A. (2013)** Using Sound to Represent Uncertainty in UKCP09 Data with Google Maps API, Atmospheric Science Letters, 14(4) p. 220-226.\
-[doi: 10.1002/asl2.443](http://dx.doi.org/10.1002/asl2.443), ![](images/pdf.gif){alt=""} [Postprint version (1.9 MB)](files/academic/bearman_et_al_2013_asl/postprint.pdf), [Videos and further information](files/academic/bearman_et_al_2013_asl/index.htm).
+[doi: 10.1002/asl2.443](http://dx.doi.org/10.1002/asl2.443), ![](images/pdf.gif){alt=""} [PDF (0.8 MB)](files/academic/bearman_et_al_2013_asl/Atmospheric Science Letters - 2013 - Bearman.pdf), ![](images/pdf.gif){alt=""} [Postprint version (1.9 MB)](files/academic/bearman_et_al_2013_asl/postprint.pdf), [Videos and further information](files/academic/bearman_et_al_2013_asl/index.htm).
 
 **Brown, M., Sharples, S., Harding, J., Parker, C.J., Bearman, N., Maguire, M., Forrest, D., Haklay, M. & Jackson, M. (2013)** Usability of Geographic Information; Current Challenges and Future Directions, Applied Ergonomics, 44(6) p. 855-865.\
 [doi:10.1016/j.apergo.2012.10.013](http://dx.doi.org/10.1016/j.apergo.2012.10.013).
