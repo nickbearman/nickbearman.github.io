@@ -16,7 +16,7 @@ As well as my [Training Courses](training-courses.html) which you can attend in 
 
 Some of the workbooks from my training courses are freely available for you to use, under a Creative Commons license. Please feel free to use and pass on! [*CC BY-NC-SA*](http://creativecommons.org/licenses/by-nc-sa/4.0/) <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1">
 
--   [Introduction to Spatial Data and Using R as a GIS](https://github.com/nickbearman/intro-r-spatial-analysis/#introduction-to-spatial-data--using-r-as-a-gis) -  ![](images/youtube.png){height="15"} *[YouTube vidoes](https://www.youtube.com/watch?v=GeC3vX3eSdQ&list=PL2cx4rRovg3yDLudxo6SxjMuY1-HJu7AP)*
+-   [Introduction to Spatial Data and Using R as a GIS](https://github.com/nickbearman/intro-r-spatial-analysis/?tab=readme-ov-file#introduction-to-spatial-data-and-using-r-as-a-gis) -  ![](images/youtube.png){height="15"} *[YouTube vidoes](https://www.youtube.com/watch?v=GeC3vX3eSdQ&list=PL2cx4rRovg3yDLudxo6SxjMuY1-HJu7AP)*
 
 -   [Introduction to QGIS: Spatial Data and Spatial Analysis](https://github.com/nickbearman/intro-qgis-spatial-data?tab=readme-ov-file#introduction-to-qgis-spatial-data-and-spatial-analysis)
 
