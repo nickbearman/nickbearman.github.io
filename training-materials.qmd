@@ -20,7 +20,7 @@ Some of the workbooks from my training courses are freely available for you to u
 
 -   [Introduction to QGIS: Spatial Data and Spatial Analysis](https://github.com/nickbearman/intro-qgis-spatial-data?tab=readme-ov-file#introduction-to-qgis-spatial-data-and-spatial-analysis)
 
-### Freely Available Trainig Materials
+### Freely Available Training Materials
 
 I also have some other material that I have created myself, or created with colleagues, which is freely available for anyone to use:
 
