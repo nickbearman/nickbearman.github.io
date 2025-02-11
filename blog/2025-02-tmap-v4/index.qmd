@@ -150,5 +150,7 @@ The fact the tutorials (and the whole website) are built using `pkgdown` means t
 
 This also featured at the FOSS4G Code Sprint (Brazil) where Andrés Duhour and I [updated](https://github.com/r-tmap/tmap/pull/980) the [ggplot2 comparison article](https://r-tmap.github.io/tmap/articles/versus_ggplot2). 
 
+Tennekes M (2018). “tmap: Thematic Maps in R.” Journal of Statistical Software, **84**(6), 1–39. [doi:10.18637/jss.v084.i06](https://doi.org/10.18637/jss.v084.i06).
+
 If you want to learn how to use `tmap`, do have a look at my [Introductory or Advanced GIS training in  R](https://nickbearman.github.io/training-courses.html), or if you have any questions, please do [contact](https://nickbearman.github.io/) [me](https://docs.google.com/forms/d/e/1FAIpQLSckfjf0U43ysotj4sS68bZ85DHijqTSy3vJcdBa5oC275TwUg/viewform). 
 
