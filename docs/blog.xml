@@ -9,8 +9,436 @@
 <link>https://nickbearman.github.io/blog.html</link>
 <atom:link href="https://nickbearman.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>A blog on my teaching, open source GIS, travel and life</description>
-<generator>quarto-1.5.57</generator>
-<lastBuildDate>Mon, 13 Jan 2025 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.4.550</generator>
+<lastBuildDate>Tue, 11 Feb 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>tmap version 4 released!</title>
+  <dc:creator>Nick Bearman</dc:creator>
+  <link>https://nickbearman.github.io/blog/2025-02-tmap-v4/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>tmap version 4 has now been released, and is now available on <a href="https://cran.r-project.org/web/packages/tmap/index.html">CRAN</a>. It has a whole range of new features, which we will explore in this blog post.</p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<p><img src="https://nickbearman.github.io/blog/2025-02-tmap-v4/tmap.png" class="img-fluid"></p>
+</div><div class="column" style="width:50%;">
+<p><strong>If those words above mean nothing to you, a quick recap:</strong> <code>tmap</code> is a library used in R to make maps. I use it in my Introduction to Spatial Data and Using R as a GIS training course so if you have attended one of those, you have already used it. If you are interested in learning more, check out my <a href="training-courses.html">Training Courses</a> or my <a href="training-materials.html">Training Materials</a></p>
+</div>
+</div>
+<p>tmap’s maintainer, Martijn Tennekes, has been working on v4 for a number of years, and has quite a few changes under the hood.</p>
+<p>From our point of view (people who are new-ish to R, and/or <code>tmap</code>) the code to make maps has changed slightly. Martijn has put in a lot of ‘helper’ information for people transitioning from v3 to v4, so all your code will still work.</p>
+<p>For basic maps, <code>qtm()</code> hasn’t changed at all; although you will notice that the defaults have changed:</p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<center>
+<strong>tmap v3:</strong> <code>qtm(sthelens, fill="Burglary")</code>
+</center>
+<p><img src="https://nickbearman.github.io/blog/2025-02-tmap-v4/qtm-v3.png" class="img-fluid"></p>
+</div><div class="column" style="width:50%;">
+<center>
+<strong>tmap v4:</strong> <code>qtm(sthelens, fill="Burglary")</code>
+</center>
+<p><img src="https://nickbearman.github.io/blog/2025-02-tmap-v4/qtm-v4.png" class="img-fluid"></p>
+</div>
+</div>
+<p>Similarly, <code>tm_shape</code> and <code>tm_polygons</code> are the same for a basic map, but again the defaults have changed.</p>
+<p>However, when you get to doing slightly more advanced things with <code>tm_shape</code>, for example specifying colours, the code has changed slightly:</p>
+<p><strong>tmap v3:</strong></p>
+<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">tm_shape</span>(LSOA) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb1-2">    <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">tm_polygons</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Age00to04"</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">title =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Aged 0 to 4"</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">palette =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Greens"</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">style =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"jenks"</span>) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb1-3">    <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">tm_layout</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">legend.title.size =</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.8</span>)</span></code></pre></div>
+<p><strong>tmap v4:</strong></p>
+<div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">tm_shape</span>(LSOA) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb2-2">    <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">tm_polygons</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">fill =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Age00to04"</span>,</span>
+<span id="cb2-3">                <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">fill.scale =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">tm_scale_intervals</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">values =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"brewer.greens"</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">style =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"jenks"</span>),</span>
+<span id="cb2-4">                <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">fill.legend =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">tm_legend</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">title.size =</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.8</span>))</span></code></pre></div>
+<p>One specific thing of note is that there is a much wider selection of colour pallets available than the Brewer pallets. As such, we now need to specify <code>brewer.greens</code> rather than just <code>Greens</code>. However we do get a handy note if we forget:</p>
+<div class="sourceCode" id="cb3" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1">[cols4all] color palettes<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> use palettes from the R package cols4all. Run</span>
+<span id="cb3-2"><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">`</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">cols4all::c4a_gui()</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">`</span> to explore them. The old palette name <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Greens"</span> is</span>
+<span id="cb3-3">named <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"brewer.greens"</span></span>
+<span id="cb3-4">Multiple palettes called <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"greens"</span> found<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"brewer.greens"</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"matplotlib.greens"</span>. </span>
+<span id="cb3-5">The first one, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"brewer.greens"</span>, is returned.</span></code></pre></div>
+<p><img src="https://nickbearman.github.io/blog/2025-02-tmap-v4/cols4all2.jpg" class="img-fluid"></p>
+<p>Martijn has designed the library to be backwards compatible, and if you do try using some v3 code with v4, it will still run and create your map, and give you some handy advice:</p>
+<div class="sourceCode" id="cb4" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">tm_shape</span>(LSOA) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb4-2">   <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">tm_polygons</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Age00to04"</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">title =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Aged 0 to 4"</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">palette =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Greens"</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">style =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"jenks"</span>) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb4-3">   <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">tm_layout</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">legend.title.size =</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.8</span>)</span>
+<span id="cb4-4"></span>
+<span id="cb4-5">── tmap v3 code detected ────────────────────────────────────────────────</span>
+<span id="cb4-6">[v3<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">-&gt;</span>v4] <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">`</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">tm_polygons()</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">`</span><span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> instead of <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">`</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">style = "jenks"</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">`</span>, use fill.scale <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">=</span></span>
+<span id="cb4-7"><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">`</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">tm_scale_intervals()</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">`</span>.</span>
+<span id="cb4-8">ℹ Migrate the <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">argument</span>(s) <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">'style'</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">'palette'</span> (rename to <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">'values'</span>) to</span>
+<span id="cb4-9">  <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">'tm_scale_intervals(&lt;HERE&gt;)'</span></span>
+<span id="cb4-10">[v3<span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">-&gt;</span>v4] <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">`</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">tm_polygons()</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">`</span><span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> migrate the <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">argument</span>(s) related to the legend</span>
+<span id="cb4-11">of the visual variable <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">`</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">fill</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">`</span> namely <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">'title'</span> to <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">'fill.legend =</span></span>
+<span id="cb4-12"><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">tm_legend(&lt;HERE&gt;)'</span></span></code></pre></div>
+<p>Additionally, when dealing with the layout, legend and so on, things are a bit different:</p>
+<p><strong>tmap v3:</strong></p>
+<div class="sourceCode" id="cb5" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">tm_shape</span>(LSOA) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb5-2">    <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">#Set colours and classification methods</span></span>
+<span id="cb5-3">    <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">tm_polygons</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Total"</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">title =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Total Population"</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">palette =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Greens"</span>,</span>
+<span id="cb5-4">                <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">style =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"equal"</span>) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb5-5">    <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">#Add scale bar</span></span>
+<span id="cb5-6">    <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">tm_scale_bar</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">width =</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.22</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">position =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.05</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.18</span>)) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb5-7">    <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">#Add compass</span></span>
+<span id="cb5-8">    <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">tm_compass</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">position =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.3</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.07</span>)) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb5-9">    <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">#Set layout details</span></span>
+<span id="cb5-10">    <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">tm_layout</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">frame =</span> F, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">title =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Liverpool"</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">title.size =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2</span>,</span>
+<span id="cb5-11">              <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">title.position =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.7</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"top"</span>))</span></code></pre></div>
+<p><strong>tmap v4:</strong></p>
+<div class="sourceCode" id="cb6" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">tm_shape</span>(LSOA) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb6-2">    <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">#set column, colours and classification method</span></span>
+<span id="cb6-3">    <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">tm_polygons</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">fill =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Age00to04"</span>,</span>
+<span id="cb6-4">                <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">fill.scale =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">tm_scale_intervals</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">values =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"brewer.greens"</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">style =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"jenks"</span>),</span>
+<span id="cb6-5">                <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">fill.legend =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">tm_legend</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">title =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Aged 0 to 4"</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">size =</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.8</span>)) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb6-6">    <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">#add scale bar</span></span>
+<span id="cb6-7">    <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">tm_scalebar</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">position =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.1</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.1</span>)) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span> </span>
+<span id="cb6-8">    <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">#north arrow</span></span>
+<span id="cb6-9">    <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">tm_compass</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">size =</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1.5</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">position =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.1</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.3</span>)) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb6-10">    <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">#Set title details</span></span>
+<span id="cb6-11">    <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">tm_title</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Total Population of Liverpool, 2021"</span>)</span></code></pre></div>
+<p>All of this redesign is in aid of better flexibility. For example, in v3 we were limited to <code>tm_polygons()</code>, <code>tm_lines()</code>, <code>tm_symbols()</code>, and <code>tm_raster()</code> (and their derivatives such as <code>tm_borders()</code> and <code>tm_dots()</code>). But with v4, these are easily extendible - so we can have things like <code>tm_cartogram()</code>, <code>tm_donuts()</code> and so on. Many of these are still in development but it opens up a much wider range of options.</p>
+<p>In terms of how we show maps, v3 had <code>plot</code> and <code>view</code> modes, but this new framework makes it possible to add other modes as well.</p>
+<p>Equally, tmap is based on <code>sf</code> and <code>stars</code>, but the new framework will make it easier to work with other spatial classes, such as <code>SpatRaster</code> and <code>SpatVector</code> from <code>terra</code>.</p>
+<p>A nice overview for those already familiar with tmap is at <a href="http://mtennekes.github.io/tmap4/">http://mtennekes.github.io/tmap4/</a> (originally posted in 2021). The website also had a new range of <a href="https://r-tmap.github.io/tmap/">tutorials</a> under <strong>Basics</strong> and <strong>Advanced</strong> which are in the process of being developed.</p>
+<p>The fact the tutorials (and the whole website) are built using <code>pkgdown</code> means that it is very easy to open the relevant page on GitHub and make changes. For example, I added a <a href="https://github.com/r-tmap/tmap/pull/1033">fixed breaks example</a> to the <a href="https://r-tmap.github.io/tmap/articles/basics_scales">Basic Scales</a> page.</p>
+<p>This also featured at the FOSS4G Code Sprint (Brazil) where Andrés Duhour and I <a href="https://github.com/r-tmap/tmap/pull/980">updated</a> the <a href="https://r-tmap.github.io/tmap/articles/versus_ggplot2">ggplot2 comparison article</a>.</p>
+<p>If you want to learn how to use <code>tmap</code>, do have a look at my <a href="https://nickbearman.github.io/training-courses.html">Introductory or Advanced GIS training in R</a>, or if you have any questions, please do <a href="https://nickbearman.github.io/">contact</a> <a href="https://docs.google.com/forms/d/e/1FAIpQLSckfjf0U43ysotj4sS68bZ85DHijqTSy3vJcdBa5oC275TwUg/viewform">me</a>.</p>
+
+
+
+ ]]></description>
+  <category>open source</category>
+  <category>GIS</category>
+  <category>teaching</category>
+  <category>R spatial</category>
+  <guid>https://nickbearman.github.io/blog/2025-02-tmap-v4/</guid>
+  <pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://nickbearman.github.io/blog/2025-02-tmap-v4/tmap.png" medium="image" type="image/png" height="74" width="144"/>
+</item>
 <item>
   <title>FOSS4G 2024 - Belém, Brazil</title>
   <dc:creator>Nick Bearman</dc:creator>

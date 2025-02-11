@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Nick Bearman">
-<meta name="dcterms.date" content="2025-01-13">
+<meta name="dcterms.date" content="2025-02-11">
 
-<title>Nick Bearman - FOSS4G 2024 - Belém, Brazil</title>
+<title>Nick Bearman - tmap version 4 released!</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -21,6 +21,40 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -139,15 +173,12 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">FOSS4G 2024 - Belém, Brazil</h1>
+<h1 class="title">tmap version 4 released!</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">FOSS4G</div>
     <div class="quarto-category">open source</div>
     <div class="quarto-category">GIS</div>
-    <div class="quarto-category">conference</div>
-    <div class="quarto-category">networking</div>
+    <div class="quarto-category">teaching</div>
     <div class="quarto-category">R spatial</div>
-    <div class="quarto-category">in person</div>
   </div>
   </div>
 
@@ -165,7 +196,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">January 13, 2025</p>
+      <p class="date">February 11, 2025</p>
     </div>
   </div>
   
@@ -177,44 +208,93 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>I was very lucky to be able to attend <a href="https://2024.foss4g.org/en/">FOSS4G 2024</a>, in <a href="https://www.openstreetmap.org/relation/15986845">Belém, Brazil</a> on 2nd - 8th December 2024. Belém is a fantastic city, and due to host <a href="https://sdg.iisd.org/events/2025-un-climate-change-conference-unfccc-cop-30/">COP30</a> in November 2025, with lots of construction on going. FOSS4G has a wonderful community and a great variety of talks - have a look at the <a href="https://2024.foss4g.org/en/general-schedule/">agenda</a> to see the different topics under discussion.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="welcome.jpeg" class="img-fluid figure-img"></p>
-<figcaption>Tri-lingual welcome, in Portugese, Spanish and English at FOSS4G 2024</figcaption>
-</figure>
+<p>tmap version 4 has now been released, and is now available on <a href="https://cran.r-project.org/web/packages/tmap/index.html">CRAN</a>. It has a whole range of new features, which we will explore in this blog post.</p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<p><img src="tmap.png" class="img-fluid"></p>
+</div><div class="column" style="width:50%;">
+<p><strong>If those words above mean nothing to you, a quick recap:</strong> <code>tmap</code> is a library used in R to make maps. I use it in my Introduction to Spatial Data and Using R as a GIS training course so if you have attended one of those, you have already used it. If you are interested in learning more, check out my <a href="training-courses.html">Training Courses</a> or my <a href="training-materials.html">Training Materials</a></p>
 </div>
-<p>The first two days were workshops, and I attended <a href="https://talks.osgeo.org/foss4g-2024-workshop/talk/SQNGBH/">XYZ Cloud MAPPing 101</a> presented by Dennis Bauszus, and <a href="https://talks.osgeo.org/foss4g-2024-workshop/talk/YTQJZ7/">Community Drone Mapping</a> by Ivan Buendía Gayton. In some ways I find the workshops the most useful element of the conference because it gives you time to dig in to a specific piece of software and learn some new skills, something I am quite poor at doing during my usual ‘day job’! I learnt some new useful skills in both workshops. Dennis has also shared the XYZ Mapping workshop materials if you have more discipline than me(!) and can work through it on your own:</p>
-<ul>
-<li>More details on the <a href="https://github.com/GEOLYTIX/xyz/">app itself</a></li>
-<li>Start with <a href="https://github.com/GEOLYTIX/xyz/wiki/Getting-started">Getting started</a></li>
-<li>Then look at the <a href="https://github.com/GEOLYTIX/mapp/tree/main/foss4g_workshop">workshop</a></li>
-</ul>
-<p>The Drone workshop was also fascinating, and Ivan did a great job of both teaching us how to fly a drone (easier than I thought) and how to help local communities leverage the power of drones (&amp; wider GIS skills) for their own benefit.</p>
-<p><img src="drone.jpeg" class="img-fluid"></p>
-<p>The main conference itself was in the Hanger Convention Centre and it was a great international conference. The laid back approach of FOSS4G always creates a lovely atmosphere and it was a great opportunity to get to know new people in the FOSS4G world, and catch up with people I have met at previous events. Community is one of the key things that I love about this group, with people very willing to help each other out. Uber is a key method of transportation in Brazil, and with a number of the evening social events in the city centre, we usually clubbed together at the hotel reception for an Uber to get us there, and back afterwards!</p>
-<p>The variety of talks was incredible, with fascinating applications of FOSS4G tools, discussions on the interaction of academia and FOSS4G and personal reflections on people’s FOSS4G journeys. I particularly Kim Durante’s talk on <a href="https://talks.osgeo.org/foss4g-2024/talk/NKBU8E/">FAIR Principles for Geospatial Data Curation</a> which might have some very useful ideas for a project I am working on at the moment, and Veronica Andreo’s talk, <a href="https://talks.osgeo.org/foss4g-2024/talk/VCNPKB/">From field biology to the GRASS GIS board - an open source journey</a> about how she got involved in the GRASS GIS project.</p>
-<p><img src="grass.jpeg" class="img-fluid"></p>
-<p>I met one lady from Brazil and this was her first international, English speaking conference. She was really enjoying herself and it was a great introduction to the FOSS4G community for her.</p>
-<p>One thing that came across to me was the variety of open source projects, and how some projects seem to be doing very similar things. Two examples that come to mind are <a href="https://qfield.org/">QField</a> and <a href="https://merginmaps.com/">Mergin Maps</a>, both of which allow users to collect data in a QGIS project in the field on their phone, and process that data back in the office. Another pair would be <a href="https://www.qgis.org/">QGIS</a> and <a href="https://grass.osgeo.org/">GRASS GIS</a>, both arguably great quality Desktop GIS tools, and there are many other examples too.</p>
-<p>Initially I wondered why there were so many similar tools like this, when it might make more sense to combine effort and focus on one tool, rather than splitting our effort over two? However after a bit of reflection I discovered a) that often two similar tools have differences that make them more useful to different audiences. For example, QField is a more flexible field data collection tool, and Mergin Maps is easier to get up and running with. Also, b) having multiple tools reflects the market approach of encouraging development and innovation, with the best tool ‘winning’. In this context winning is not by having the highest revenues or the highest profits, but by having communities of users and developers. If a project doesn’t have a good group of users and/or a good group of developers interested in keeping the project up to date, then gradually it will fall out of use. I was not expecting to see an example of a capitalist based market in the open source community, but here it is!</p>
-<p>I also had the opportunity to met Katja Haferkorn, who is the coordinator for FOSSGIS e.V. <a href="https://www.fossgis.de/">FOSSGIS e.V.</a> is the OSGeo Local Chapter for German-speaking countries - D-A-CH, i.e.&nbsp;Germany, Austria and the german speaking part of Switzerland. FOSSGIS e.V. is also the German local chapter for OpenStreetMap. FOSSGIS e.V. is quite unique in that they are a local chapter who has a paid coordinator - Katja - and it was fascinating to hear her experiences. As OSGeo:UK Chair, one of the questions I asked her was about diversity within Local Chapters, and OSGeo as a whole. This is an issue for them as well and it is a aspect of membership that has been challenging the whole community for a while. Katja has written a great <a href="https://www.fossgis.de/news/2024_12_07_bericht_foss4g-2024_belem/">blog post</a> about the conference. It is in German, but Google Translate does a reasonable job of translating it into English.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="code-sprint-felipe.jpeg" class="img-fluid figure-img"></p>
-<figcaption>Working at the Code Sprint, thanks to Felipe Barros for the photo</figcaption>
-</figure>
 </div>
-<p>The last two days of the conference was the Code Sprint. This is a chance to meet people working on different open source GIS projects and learn how to contribute to different elements of the projects. I had a great chat with Silvina Meritano and Andrés Duhour about using R as a GIS. Silvina was keen to develop her mapping skills in R, and Andrés had already developed an R package (which he presented at the conference: <a href="https://talks.osgeo.org/foss4g-2024/talk/GSBMGK/">osmlanduseR</a>) and spent a bit of time learning about and contributing to the new <code>tmap</code> library examples. <code>Tmap</code> version 4 is coming out (blog post coming soon!) and I needed to updated my material for this new version. I also spent some time looking at the <a href="https://geochicasosm.github.io/lascallesdelasmujeres/">Las Calles De Las Mujeres</a> project, which looks at the proportion of streets named after women (rather than men) in a range of Spanish speaking countries. Silvina and I had a go at creating a version in R that could automate some more of the process to apply this to different cities in English speaking countries.</p>
-<p>The internet connection at the code sprint was a little variable, so we had some challenges and had to resort to using the <a href="https://en.wikipedia.org/wiki/Sneakernet">“sneaker net”</a> occasionally - using a USB stick to transfer data between us! Fortunately we never had to resort to playing <a href="https://en.wikipedia.org/wiki/Truco">truco</a> - a card game played in Argentina when the internet doesn’t work and you have nothing else to do!</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="group-photo.jpeg" class="img-fluid figure-img"></p>
-<figcaption>Conference group photo</figcaption>
-</figure>
+<p>tmap’s maintainer, Martijn Tennekes, has been working on v4 for a number of years, and has quite a few changes under the hood.</p>
+<p>From our point of view (people who are new-ish to R, and/or <code>tmap</code>) the code to make maps has changed slightly. Martijn has put in a lot of ‘helper’ information for people transitioning from v3 to v4, so all your code will still work.</p>
+<p>For basic maps, <code>qtm()</code> hasn’t changed at all; although you will notice that the defaults have changed:</p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<center>
+<strong>tmap v3:</strong> <code>qtm(sthelens, fill="Burglary")</code>
+</center>
+<p><img src="qtm-v3.png" class="img-fluid"></p>
+</div><div class="column" style="width:50%;">
+<center>
+<strong>tmap v4:</strong> <code>qtm(sthelens, fill="Burglary")</code>
+</center>
+<p><img src="qtm-v4.png" class="img-fluid"></p>
 </div>
-<p>Thanks very much to everyone involved in organising the conference. Many more photos are on <a href="https://www.flickr.com/photos/narceliosapereira/albums/72177720322507002/">Flickr</a>. The conference was a fantastic experience, and if you ever have the opportunity to go to a FOSS4G conference, anywhere, do take it!</p>
-<p>If you want help or advice on any open source geospatial tool, or are interested in <a href="https://nickbearman.github.io/training-courses.html">Introductory or Advanced GIS training in QGIS or R</a>, please do <a href="https://nickbearman.github.io/">contact</a> <a href="https://docs.google.com/forms/d/e/1FAIpQLSckfjf0U43ysotj4sS68bZ85DHijqTSy3vJcdBa5oC275TwUg/viewform">me</a>.</p>
+</div>
+<p>Similarly, <code>tm_shape</code> and <code>tm_polygons</code> are the same for a basic map, but again the defaults have changed.</p>
+<p>However, when you get to doing slightly more advanced things with <code>tm_shape</code>, for example specifying colours, the code has changed slightly:</p>
+<p><strong>tmap v3:</strong></p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">tm_shape</span>(LSOA) <span class="sc">+</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>    <span class="fu">tm_polygons</span>(<span class="st">"Age00to04"</span>, <span class="at">title =</span> <span class="st">"Aged 0 to 4"</span>, <span class="at">palette =</span> <span class="st">"Greens"</span>, <span class="at">style =</span> <span class="st">"jenks"</span>) <span class="sc">+</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>    <span class="fu">tm_layout</span>(<span class="at">legend.title.size =</span> <span class="fl">0.8</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p><strong>tmap v4:</strong></p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>  <span class="fu">tm_shape</span>(LSOA) <span class="sc">+</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>    <span class="fu">tm_polygons</span>(<span class="at">fill =</span> <span class="st">"Age00to04"</span>,</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>                <span class="at">fill.scale =</span> <span class="fu">tm_scale_intervals</span>(<span class="at">values =</span> <span class="st">"brewer.greens"</span>, <span class="at">style =</span> <span class="st">"jenks"</span>),</span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>                <span class="at">fill.legend =</span> <span class="fu">tm_legend</span>(<span class="at">title.size =</span> <span class="fl">0.8</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>One specific thing of note is that there is a much wider selection of colour pallets available than the Brewer pallets. As such, we now need to specify <code>brewer.greens</code> rather than just <code>Greens</code>. However we do get a handy note if we forget:</p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>[cols4all] color palettes<span class="sc">:</span> use palettes from the R package cols4all. Run</span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="st">`</span><span class="at">cols4all::c4a_gui()</span><span class="st">`</span> to explore them. The old palette name <span class="st">"Greens"</span> is</span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>named <span class="st">"brewer.greens"</span></span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>Multiple palettes called <span class="st">"greens"</span> found<span class="sc">:</span> <span class="st">"brewer.greens"</span>, <span class="st">"matplotlib.greens"</span>. </span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>The first one, <span class="st">"brewer.greens"</span>, is returned.</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p><img src="cols4all2.jpg" class="img-fluid"></p>
+<p>Martijn has designed the library to be backwards compatible, and if you do try using some v3 code with v4, it will still run and create your map, and give you some handy advice:</p>
+<div class="sourceCode" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="fu">tm_shape</span>(LSOA) <span class="sc">+</span></span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>   <span class="fu">tm_polygons</span>(<span class="st">"Age00to04"</span>, <span class="at">title =</span> <span class="st">"Aged 0 to 4"</span>, <span class="at">palette =</span> <span class="st">"Greens"</span>, <span class="at">style =</span> <span class="st">"jenks"</span>) <span class="sc">+</span></span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a>   <span class="fu">tm_layout</span>(<span class="at">legend.title.size =</span> <span class="fl">0.8</span>)</span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a>── tmap v3 code detected ────────────────────────────────────────────────</span>
+<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a>[v3<span class="ot">-&gt;</span>v4] <span class="st">`</span><span class="at">tm_polygons()</span><span class="st">`</span><span class="sc">:</span> instead of <span class="st">`</span><span class="at">style = "jenks"</span><span class="st">`</span>, use fill.scale <span class="ot">=</span></span>
+<span id="cb4-7"><a href="#cb4-7" aria-hidden="true" tabindex="-1"></a><span class="st">`</span><span class="at">tm_scale_intervals()</span><span class="st">`</span>.</span>
+<span id="cb4-8"><a href="#cb4-8" aria-hidden="true" tabindex="-1"></a>ℹ Migrate the <span class="fu">argument</span>(s) <span class="st">'style'</span>, <span class="st">'palette'</span> (rename to <span class="st">'values'</span>) to</span>
+<span id="cb4-9"><a href="#cb4-9" aria-hidden="true" tabindex="-1"></a>  <span class="st">'tm_scale_intervals(&lt;HERE&gt;)'</span></span>
+<span id="cb4-10"><a href="#cb4-10" aria-hidden="true" tabindex="-1"></a>[v3<span class="ot">-&gt;</span>v4] <span class="st">`</span><span class="at">tm_polygons()</span><span class="st">`</span><span class="sc">:</span> migrate the <span class="fu">argument</span>(s) related to the legend</span>
+<span id="cb4-11"><a href="#cb4-11" aria-hidden="true" tabindex="-1"></a>of the visual variable <span class="st">`</span><span class="at">fill</span><span class="st">`</span> namely <span class="st">'title'</span> to <span class="st">'fill.legend =</span></span>
+<span id="cb4-12"><a href="#cb4-12" aria-hidden="true" tabindex="-1"></a><span class="st">tm_legend(&lt;HERE&gt;)'</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Additionally, when dealing with the layout, legend and so on, things are a bit different:</p>
+<p><strong>tmap v3:</strong></p>
+<div class="sourceCode" id="cb5"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a>  <span class="fu">tm_shape</span>(LSOA) <span class="sc">+</span></span>
+<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a>    <span class="co">#Set colours and classification methods</span></span>
+<span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a>    <span class="fu">tm_polygons</span>(<span class="st">"Total"</span>, <span class="at">title =</span> <span class="st">"Total Population"</span>, <span class="at">palette =</span> <span class="st">"Greens"</span>,</span>
+<span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a>                <span class="at">style =</span> <span class="st">"equal"</span>) <span class="sc">+</span></span>
+<span id="cb5-5"><a href="#cb5-5" aria-hidden="true" tabindex="-1"></a>    <span class="co">#Add scale bar</span></span>
+<span id="cb5-6"><a href="#cb5-6" aria-hidden="true" tabindex="-1"></a>    <span class="fu">tm_scale_bar</span>(<span class="at">width =</span> <span class="fl">0.22</span>, <span class="at">position =</span> <span class="fu">c</span>(<span class="fl">0.05</span>, <span class="fl">0.18</span>)) <span class="sc">+</span></span>
+<span id="cb5-7"><a href="#cb5-7" aria-hidden="true" tabindex="-1"></a>    <span class="co">#Add compass</span></span>
+<span id="cb5-8"><a href="#cb5-8" aria-hidden="true" tabindex="-1"></a>    <span class="fu">tm_compass</span>(<span class="at">position =</span> <span class="fu">c</span>(<span class="fl">0.3</span>, <span class="fl">0.07</span>)) <span class="sc">+</span></span>
+<span id="cb5-9"><a href="#cb5-9" aria-hidden="true" tabindex="-1"></a>    <span class="co">#Set layout details</span></span>
+<span id="cb5-10"><a href="#cb5-10" aria-hidden="true" tabindex="-1"></a>    <span class="fu">tm_layout</span>(<span class="at">frame =</span> F, <span class="at">title =</span> <span class="st">"Liverpool"</span>, <span class="at">title.size =</span> <span class="dv">2</span>,</span>
+<span id="cb5-11"><a href="#cb5-11" aria-hidden="true" tabindex="-1"></a>              <span class="at">title.position =</span> <span class="fu">c</span>(<span class="fl">0.7</span>, <span class="st">"top"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p><strong>tmap v4:</strong></p>
+<div class="sourceCode" id="cb6"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a>  <span class="fu">tm_shape</span>(LSOA) <span class="sc">+</span></span>
+<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a>    <span class="co">#set column, colours and classification method</span></span>
+<span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a>    <span class="fu">tm_polygons</span>(<span class="at">fill =</span> <span class="st">"Age00to04"</span>,</span>
+<span id="cb6-4"><a href="#cb6-4" aria-hidden="true" tabindex="-1"></a>                <span class="at">fill.scale =</span> <span class="fu">tm_scale_intervals</span>(<span class="at">values =</span> <span class="st">"brewer.greens"</span>, <span class="at">style =</span> <span class="st">"jenks"</span>),</span>
+<span id="cb6-5"><a href="#cb6-5" aria-hidden="true" tabindex="-1"></a>                <span class="at">fill.legend =</span> <span class="fu">tm_legend</span>(<span class="at">title =</span> <span class="st">"Aged 0 to 4"</span>, <span class="at">size =</span> <span class="fl">0.8</span>)) <span class="sc">+</span></span>
+<span id="cb6-6"><a href="#cb6-6" aria-hidden="true" tabindex="-1"></a>    <span class="co">#add scale bar</span></span>
+<span id="cb6-7"><a href="#cb6-7" aria-hidden="true" tabindex="-1"></a>    <span class="fu">tm_scalebar</span>(<span class="at">position =</span> <span class="fu">c</span>(<span class="fl">0.1</span>, <span class="fl">0.1</span>)) <span class="sc">+</span> </span>
+<span id="cb6-8"><a href="#cb6-8" aria-hidden="true" tabindex="-1"></a>    <span class="co">#north arrow</span></span>
+<span id="cb6-9"><a href="#cb6-9" aria-hidden="true" tabindex="-1"></a>    <span class="fu">tm_compass</span>(<span class="at">size =</span> <span class="fl">1.5</span>, <span class="at">position =</span> <span class="fu">c</span>(<span class="fl">0.1</span>, <span class="fl">0.3</span>)) <span class="sc">+</span></span>
+<span id="cb6-10"><a href="#cb6-10" aria-hidden="true" tabindex="-1"></a>    <span class="co">#Set title details</span></span>
+<span id="cb6-11"><a href="#cb6-11" aria-hidden="true" tabindex="-1"></a>    <span class="fu">tm_title</span>(<span class="st">"Total Population of Liverpool, 2021"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>All of this redesign is in aid of better flexibility. For example, in v3 we were limited to <code>tm_polygons()</code>, <code>tm_lines()</code>, <code>tm_symbols()</code>, and <code>tm_raster()</code> (and their derivatives such as <code>tm_borders()</code> and <code>tm_dots()</code>). But with v4, these are easily extendible - so we can have things like <code>tm_cartogram()</code>, <code>tm_donuts()</code> and so on. Many of these are still in development but it opens up a much wider range of options.</p>
+<p>In terms of how we show maps, v3 had <code>plot</code> and <code>view</code> modes, but this new framework makes it possible to add other modes as well.</p>
+<p>Equally, tmap is based on <code>sf</code> and <code>stars</code>, but the new framework will make it easier to work with other spatial classes, such as <code>SpatRaster</code> and <code>SpatVector</code> from <code>terra</code>.</p>
+<p>A nice overview for those already familiar with tmap is at <a href="http://mtennekes.github.io/tmap4/">http://mtennekes.github.io/tmap4/</a> (originally posted in 2021). The website also had a new range of <a href="https://r-tmap.github.io/tmap/">tutorials</a> under <strong>Basics</strong> and <strong>Advanced</strong> which are in the process of being developed.</p>
+<p>The fact the tutorials (and the whole website) are built using <code>pkgdown</code> means that it is very easy to open the relevant page on GitHub and make changes. For example, I added a <a href="https://github.com/r-tmap/tmap/pull/1033">fixed breaks example</a> to the <a href="https://r-tmap.github.io/tmap/articles/basics_scales">Basic Scales</a> page.</p>
+<p>This also featured at the FOSS4G Code Sprint (Brazil) where Andrés Duhour and I <a href="https://github.com/r-tmap/tmap/pull/980">updated</a> the <a href="https://r-tmap.github.io/tmap/articles/versus_ggplot2">ggplot2 comparison article</a>.</p>
+<p>If you want to learn how to use <code>tmap</code>, do have a look at my <a href="https://nickbearman.github.io/training-courses.html">Introductory or Advanced GIS training in R</a>, or if you have any questions, please do <a href="https://nickbearman.github.io/">contact</a> <a href="https://docs.google.com/forms/d/e/1FAIpQLSckfjf0U43ysotj4sS68bZ85DHijqTSy3vJcdBa5oC275TwUg/viewform">me</a>.</p>
 
 
 

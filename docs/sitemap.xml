@@ -90,7 +90,7 @@
   </url>
   <url>
     <loc>https://nickbearman.github.io/blog.html</loc>
-    <lastmod>2024-09-20T08:45:30.000Z</lastmod>
+    <lastmod>2024-09-20T08:45:28.966Z</lastmod>
   </url>
   <url>
     <loc>https://nickbearman.github.io/writing-presentations.html</loc>
@@ -110,7 +110,7 @@
   </url>
   <url>
     <loc>https://nickbearman.github.io/blog/2025-01-foss4g-belem-brazil/index.html</loc>
-    <lastmod>2025-01-13T11:10:14.985Z</lastmod>
+    <lastmod>2025-01-13T11:10:16.000Z</lastmod>
   </url>
   <url>
     <loc>https://nickbearman.github.io/blog/2024-09-new-website-quarto/index.html</loc>
@@ -119,5 +119,9 @@
   <url>
     <loc>https://nickbearman.github.io/gis-research-methods.html</loc>
     <lastmod>2025-02-10T12:37:42.346Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nickbearman.github.io/blog/2025-02-tmap-v4/index.html</loc>
+    <lastmod>2025-02-11T10:07:53.116Z</lastmod>
   </url>
 </urlset>
