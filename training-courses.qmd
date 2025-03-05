@@ -22,7 +22,7 @@ If you would like a course run for a group of you, or have any questions, then p
 
 |              | Introductory         | Advanced                               |
 |--------------|-----------------------------------|-----------------------|
-| R | [Introduction to Spatial Data and Using R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis) *March 2025* & *May 2025*   | [Advanced R as a GIS: Spatial Analysis and Statistics](#advanced-R-as-a-gis:-spatial-analysis-and-statistics) *June 2025* | [Advanced R as a GIS: Spatial Analysis and Statistics](#advanced-R-as-a-gis:-spatial-analysis-and-statistics)  
+| R | [Introduction to Spatial Data and Using R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis) *May 2025*   | [Advanced R as a GIS: Spatial Analysis and Statistics](#advanced-R-as-a-gis:-spatial-analysis-and-statistics) *June 2025* | [Advanced R as a GIS: Spatial Analysis and Statistics](#advanced-R-as-a-gis:-spatial-analysis-and-statistics)  
 | QGIS     |  [Introduction to QGIS: Understanding and Presenting Spatial Data]\* *April 2025*               | [Confident Spatial Analysis in QGIS](#confident-spatial-analysis-in-qgis)\* *April 2025*    |
 
 
@@ -39,7 +39,7 @@ In this two half day course we will explore how to use R to import, manage and p
 
 No previous experience of coding is required, although participants would benefit from some experience of using spatial data (e.g. Google Maps).
 
-[Tue 4th and Wed 5th March 2025, 10am - 1pm (UK/London), online, InStats.](https://instats.org/seminar/introduction-to-spatial-data-and-r-as-a-2)
+<!-- [Tue 4th and Wed 5th March 2025, 10am - 1pm (UK/London), online, InStats.](https://instats.org/seminar/introduction-to-spatial-data-and-r-as-a-2) -->
 
 [Tue 27th and Wed 28th May 2025, 10am – 1pm (UK/London), online, NCRM.](https://www.ncrm.ac.uk/training/show.php?article=13706)
 
