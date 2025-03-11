@@ -10,7 +10,3 @@ Here are some quick install instructions for a range of GIS software:
 
 If you have any suggestions, please do [edit the page on GitHub](https://github.com/nickbearman/nickbearman.github.io/blob/main/installing-software/index.qmd), and submit a Pull Request.
 
-
-
-
-

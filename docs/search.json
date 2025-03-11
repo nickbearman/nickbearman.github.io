@@ -529,7 +529,7 @@
     "href": "installing-software/index.html",
     "title": "Installing Software",
     "section": "",
-    "text": "Here are some quick install instructions for a range of GIS software:\n\nQGIS\n\nIf you have any suggestions, please do edit the page on GitHub, and submit a Pull Request."
+    "text": "Here are some quick install instructions for a range of GIS software:\n\nQGIS\nR & RStudio\nGeoDa\n\nIf you have any suggestions, please do edit the page on GitHub, and submit a Pull Request."
   },
   {
     "objectID": "installing-software/r-rstudio-library-troubleshooting.html",
