@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Nick Bearman - Installing Software</title>
+<title>Nick Bearman - Installing Software - R &amp; RStudio</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -130,14 +130,25 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#installing-r-rstudio" id="toc-installing-r-rstudio" class="nav-link active" data-scroll-target="#installing-r-rstudio">Installing R &amp; RStudio</a></li>
+  <li><a href="#windows" id="toc-windows" class="nav-link" data-scroll-target="#windows">Windows</a></li>
+  <li><a href="#mac-os-x" id="toc-mac-os-x" class="nav-link" data-scroll-target="#mac-os-x">Mac / OS X</a></li>
+  <li><a href="#libraries" id="toc-libraries" class="nav-link" data-scroll-target="#libraries">Libraries</a></li>
+  <li><a href="#posit-cloud" id="toc-posit-cloud" class="nav-link" data-scroll-target="#posit-cloud">Posit Cloud</a></li>
+  <li><a href="#troubleshooting" id="toc-troubleshooting" class="nav-link" data-scroll-target="#troubleshooting">Troubleshooting</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Installing Software</h1>
+<h1 class="title">Installing Software - R &amp; RStudio</h1>
 </div>
 
 
@@ -154,13 +165,84 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Here are some quick install instructions for a range of GIS software:</p>
+<section id="installing-r-rstudio" class="level2">
+<h2 class="anchored" data-anchor-id="installing-r-rstudio">Installing R &amp; RStudio</h2>
+<p>We will be setting up R &amp; RStudio. Follow the instructions below, depending on your operating system, and the follow the library installation section.</p>
+</section>
+<section id="windows" class="level2">
+<h2 class="anchored" data-anchor-id="windows">Windows</h2>
 <ul>
-<li><a href="qgis">QGIS</a></li>
+<li>Open a web browser and go to <a href="https://cran.r-project.org/">https://cran.r-project.org/</a>.</li>
+<li>Click <strong>Download R for Windows</strong>.</li>
+<li>Choose the link <strong>install R for the first time</strong>.</li>
+<li>Download the latest version (4.4.3 at time of writing) <strong>Download R-4.4.3 for Windows</strong>.</li>
+<li>Run through the program installation process.<br>
+</li>
+<li>Once R is installed, we can install RStudio.</li>
+<li>Go to <a href="https://posit.co/download/rstudio-desktop/#download">https://posit.co/download/rstudio-desktop/#download</a>.</li>
+<li>Download the latest version (2024.12.1+563 at the time of writing).</li>
+<li>Under <strong>2: Install RStudio</strong> click <strong>DOWNLOAD RSTUDIO DESKTOP FOR WINDOWS</strong></li>
 </ul>
-<p>If you have any suggestions, please do <a href="https://github.com/nickbearman/nickbearman.github.io/blob/main/installing-software/index.qmd">edit the page on GitHub</a>, and submit a Pull Request.</p>
+<p><img src="images/rstudio-download-button.png" class="img-fluid"></p>
+<ul>
+<li>Run through the program installation process.</li>
+</ul>
+</section>
+<section id="mac-os-x" class="level2">
+<h2 class="anchored" data-anchor-id="mac-os-x">Mac / OS X</h2>
+<ul>
+<li>Open a web browser and go to <a href="https://cran.r-project.org/">https://cran.r-project.org/</a>.</li>
+<li>Click <strong>Download R for macOS</strong>.</li>
+<li>Download the latest version (4.4.3 at time of writing) <strong>R-4.4.3-arm64.pkg</strong>.</li>
+<li>Run through the program installation process.<br>
+</li>
+<li>Once R is installed, we can install RStudio.</li>
+<li>Go to <a href="https://posit.co/download/rstudio-desktop/#download">https://posit.co/download/rstudio-desktop/#download</a>.</li>
+<li>Click <strong>DOWNLOAD RSTUDIO DESKTOP FOR macOS</strong></li>
+<li>Download the latest version (2024.12.1+563 at the time of writing).</li>
+<li>Run through the program installation process.</li>
+</ul>
+<!-- add later
+##Linux/Ubuntu
+
+- Open a web browser and go to https://cran.r-project.org/.   
+- Click **Download R for Linux**.  
+- Go into the relevant Linux distribution
+- Follow the instructions for the appropriate Linux distribution.  
+<!-- add more to this section -->
+</section>
+<section id="libraries" class="level2">
+<h2 class="anchored" data-anchor-id="libraries">Libraries</h2>
+<p>R uses libraries to add features and different tools, such as GIS and spatial analysis. We need to install some libraries we will be using.</p>
+<ul>
+<li>Open <strong>RStudio</strong>.</li>
+<li>In the <strong>Console</strong> type in <code>install.packages("sf")</code>.</li>
+<li>Then load the library by running <code>library(sf)</code>.</li>
+<li>Check the output you get - red text does not always mean an error!</li>
+<li>Repeat the process for the <code>tmap</code> package (<code>install.packages("tmap")</code> and then <code>library(tmap)</code>) and any other packages you need.</li>
+</ul>
+<p><em>If you already have <code>tmap</code> installed, please upgrade it to the latest version. We will be using <code>tmap</code> v4 in the course. If you are not sure which version of <code>tmap</code> you are using, you can check by loading <code>tmap</code> and then running <code>packageVersion("tmap")</code>.</em></p>
+<p>If you get stuck, check out <a href="r-rstudio-library-troubleshooting.html">troubleshooting</a> for some things to try.</p>
+</section>
+<section id="posit-cloud" class="level2">
+<h2 class="anchored" data-anchor-id="posit-cloud">Posit Cloud</h2>
+<p>If you can’t get R &amp; RStudio installed on your computer, there is another option. You can use Posit Cloud, which runs RStudio in a web browser. You can get a free account which will be enough for a short course.</p>
+<ul>
+<li>Go to <a href="https://posit.cloud/">posit.cloud</a>.</li>
+<li>Choose <strong>Sign Up</strong></li>
+<li>Select <strong>Learn more</strong> under the <strong>Cloud free</strong> plan</li>
+<li>Choose <strong>Sign Up</strong> and fill out the form.</li>
+<li>To get started, choose <strong>New Project</strong> and <strong>New RStudio Project</strong>. <em>It will take a few seconds to load</em>.</li>
+</ul>
+</section>
+<section id="troubleshooting" class="level2">
+<h2 class="anchored" data-anchor-id="troubleshooting">Troubleshooting</h2>
+<p>If you get stuck, check out <a href="r-rstudio-library-troubleshooting.html">troubleshooting</a> for some things to try.</p>
+<p>You are good to go!</p>
+<p><em>This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit <a href="http://creativecommons.org/licenses/by-sa/4.0/deed.en">http://creativecommons.org/licenses/by-sa/4.0/deed.en</a>. The latest version of this is available from <a href="https://nickbearman.github.io/installing-software/r-rstudio">https://nickbearman.github.io/installing-software/r-rstudio</a>.</em></p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

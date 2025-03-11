@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Nick Bearman - Installing Software</title>
+<title>Nick Bearman - Installing R &amp; RStudio Libraries - Troubleshooting</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -130,14 +130,22 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#install-sf" id="toc-install-sf" class="nav-link active" data-scroll-target="#install-sf">Install <code>sf</code></a></li>
+  <li><a href="#install-tmap" id="toc-install-tmap" class="nav-link" data-scroll-target="#install-tmap">Install <code>tmap</code></a></li>
+  <li><a href="#problems" id="toc-problems" class="nav-link" data-scroll-target="#problems">Problems</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Installing Software</h1>
+<h1 class="title">Installing R &amp; RStudio Libraries - Troubleshooting</h1>
 </div>
 
 
@@ -154,13 +162,79 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Here are some quick install instructions for a range of GIS software:</p>
+<p>Installing Libraries in R can be problematic sometimes. Here are a few hints and tips that might be useful for you.</p>
+<section id="install-sf" class="level2">
+<h2 class="anchored" data-anchor-id="install-sf">Install <code>sf</code></h2>
+<p>R uses libraries to add features and different tools, such as GIS and spatial analysis. We need to install some libraries we will be using. Follow these instructions to install the <code>sf</code> library. <em>Note the terms library and package are interchangeable.</em></p>
 <ul>
-<li><a href="qgis">QGIS</a></li>
+<li>Open <strong>RStudio</strong>.</li>
+<li>In the <strong>Console</strong> type in <code>install.packages("sf")</code> and press enter.</li>
 </ul>
-<p>If you have any suggestions, please do <a href="https://github.com/nickbearman/nickbearman.github.io/blob/main/installing-software/index.qmd">edit the page on GitHub</a>, and submit a Pull Request.</p>
+<p>This is (approximately) the output you should get (click the link for the full image):</p>
+<p><a href="images/r-install-packages-sf-success-full.png"><img src="images/r-install-packages-sf-success-cut.png" class="img-fluid"></a></p>
+<ul>
+<li><p>Then load the library by running <code>library(sf)</code>.</p></li>
+<li><p>Check the output you get - red text does not always mean an error!</p></li>
+<li><p>The first time you load <code>sf</code> you will probably get this message:</p></li>
+</ul>
+<p><img src="images/r-install-packages-sf-success-load.png" class="img-fluid"></p>
+<ul>
+<li>This is fine. If you get some other text, it may also be fine. Read the text and see what it says. Do ask if you have questions.</li>
+</ul>
+</section>
+<section id="install-tmap" class="level2">
+<h2 class="anchored" data-anchor-id="install-tmap">Install <code>tmap</code></h2>
+<ul>
+<li>Repeat the process for the <code>tmap</code> package.</li>
+<li>In the <strong>Console</strong> type in <code>install.packages("tmap")</code>.</li>
+</ul>
+<p>This is (approximately) the output you should get (<em>I’ve not included the full version because it is so long!</em>):</p>
+<p><img src="images/r-install-packages-tmap-success-cut.png" class="img-fluid"></p>
+<ul>
+<li>The load the library by running <code>library(tmap)</code>.</li>
+</ul>
+<p><img src="images/r-install-packages-tmap-success-load.png" class="img-fluid"></p>
+<ul>
+<li>This is fine. If you get some text, it may also be fine. Read the text and see what it says. Do ask if you have questions.</li>
+</ul>
+</section>
+<section id="problems" class="level2">
+<h2 class="anchored" data-anchor-id="problems">Problems</h2>
+<p>If you don’t get this output, there may have been a problem. Best move is to try loading the libraries again.</p>
+<ul>
+<li>In the <strong>Console</strong> type in <code>library(sf)</code>.</li>
+<li>and then type in <code>library(tmap)</code>.</li>
+</ul>
+<p>You should get something like this:</p>
+<p><img src="images/r-load-library-success-sf-tmap.png" class="img-fluid"></p>
+<p>If you don’t, then there are a few steps you can try:</p>
+<ul>
+<li><p>R might say a dependent library is unavailable.</p>
+<ul>
+<li>Check what the red text says. If it says (for example) <code>There has been an error installing the Rcpp library</code>, try installing that library:</li>
+<li><code>install.packages("Rcpp")</code></li>
+<li>Then try loading it: <code>library(Rcpp)</code></li>
+<li>If that works, try installing either <code>sf</code> or <code>tmap</code> again.</li>
+</ul></li>
+<li><p>R might ask if you want to compile the package from source: <img src="images/r-binary-version.png" class="img-fluid"></p>
+<ul>
+<li>Usually the best choice here is to say no, which means R will use a very slightly older version of the library, but it should be fine for our work.</li>
+<li><em>If you say yes, R will ask you to install RTools, which will probably work, but adds to the length of the setup time!</em></li>
+</ul></li>
+<li><p>R might give you instructions to install another piece of software - try this if you can.</p></li>
+<li><p>If none of those work, you can try uninstalling and reinstalling the library</p>
+<ul>
+<li>Remove using <code>remove.packages("classInt")</code> (<em>e.g.&nbsp;for the <code>classInt</code> package</em>) or</li>
+<li>Open the <strong>Packages</strong> tab (on the right) and click the <code>X</code> by whichever package you want to remove:</li>
+</ul>
+<p><img src="images/r-remove-packages.png" class="img-fluid"></p></li>
+<li><p>If that doesn’t work, do reach out to me before the course and ask for help.</p></li>
+<li><p>An alternative is to use <a href="r-rstudio.html#posit-cloud">RStudio.cloud / Posit.cloud</a>.</p></li>
+</ul>
+<p><em>This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit <a href="http://creativecommons.org/licenses/by-sa/4.0/deed.en">http://creativecommons.org/licenses/by-sa/4.0/deed.en</a>. The latest version of this is available from <a href="https://nickbearman.github.io/installing-software/r-rstudio">https://nickbearman.github.io/installing-software/r-rstudio</a>.</em></p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

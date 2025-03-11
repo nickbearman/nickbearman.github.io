@@ -95,7 +95,7 @@
     "href": "training-materials.html",
     "title": "Training Materials",
     "section": "",
-    "text": "As well as my Training Courses which you can attend in person or online, I have some stand alone training materials which you might find useful. Some of these are updated regularly, and some of them are older; I hope all of them are useful. If you have any comments, suggestions or feedback, please let me know.\n\n\n\n\n\nMaterial from my Training Courses\nSome of the workbooks from my training courses are freely available for you to use, under a Creative Commons license. Please feel free to use and pass on! CC BY-NC-SA \n\nIntroduction to Spatial Data and Using R as a GIS -  YouTube vidoes\nIntroduction to QGIS: Spatial Data and Spatial Analysis\n\n\n\nFreely Available Training Materials\nI also have some other material that I have created myself, or created with colleagues, which is freely available for anyone to use:\n\n\n\nA Geographer’s Introduction to QGIS & R 7 lessons on mapping and spatial data analysis, available in QGIS and R - \nShort Course on Using R as a GIS workbook & videos, free registration required\nAdvanced GIS Methods Training: AHAH and Multi-Dimensional Indices (2020) workbook, free registration required\nAdvanced GIS Methods Training: IUC and K-Means Clustering (2020) workbook, free registration required\nAdvanced GIS Methods Training: Retail Centres and Catchment Areas (2020) workbook, free registration required\n\n\n\n\n\nUsing Consumer Data in Research, NCRM (2022) 3 x ~18 min videos"
+    "text": "As well as my Training Courses which you can attend in person or online, I have some stand alone training materials which you might find useful. Some of these are updated regularly, and some of them are older; I hope all of them are useful. If you have any comments, suggestions or feedback, please let me know.\n\n\n\n\n\nMaterial from my Training Courses\nSome of the workbooks from my training courses are freely available for you to use, under a Creative Commons license. Please feel free to use and pass on! CC BY-NC-SA \n\nIntroduction to Spatial Data and Using R as a GIS -  YouTube vidoes\nIntroduction to QGIS: Spatial Data and Spatial Analysis\n\n\n\nFreely Available Training Materials\nI also have some other material that I have created myself, or created with colleagues, which is freely available for anyone to use:\n\n\n\nA Geographer’s Introduction to QGIS & R 7 lessons on mapping and spatial data analysis, available in QGIS and R - \nShort Course on Using R as a GIS workbook & videos, free registration required\nAdvanced GIS Methods Training: AHAH and Multi-Dimensional Indices (2020) workbook, free registration required\nAdvanced GIS Methods Training: IUC and K-Means Clustering (2020) workbook, free registration required\nAdvanced GIS Methods Training: Retail Centres and Catchment Areas (2020) workbook, free registration required\nInstalling GIS Software A short How To guide\n\n\n\n\n\nUsing Consumer Data in Research, NCRM (2022) 3 x ~18 min videos"
   },
   {
     "objectID": "writing.html",
@@ -530,5 +530,159 @@
     "title": "Installing Software",
     "section": "",
     "text": "Here are some quick install instructions for a range of GIS software:\n\nQGIS\n\nIf you have any suggestions, please do edit the page on GitHub, and submit a Pull Request."
+  },
+  {
+    "objectID": "installing-software/r-rstudio-library-troubleshooting.html",
+    "href": "installing-software/r-rstudio-library-troubleshooting.html",
+    "title": "Installing R & RStudio Libraries - Troubleshooting",
+    "section": "",
+    "text": "Installing Libraries in R can be problematic sometimes. Here are a few hints and tips that might be useful for you."
+  },
+  {
+    "objectID": "installing-software/r-rstudio-library-troubleshooting.html#installing-r-rstudio-libraries---troubleshooting",
+    "href": "installing-software/r-rstudio-library-troubleshooting.html#installing-r-rstudio-libraries---troubleshooting",
+    "title": "Installing Software - R & RStudio Libraries - Troubleshooting",
+    "section": "",
+    "text": "Installing Libraries in R can be problematic sometimes. Here are a few hints and tips that might be useful for you."
+  },
+  {
+    "objectID": "installing-software/r-rstudio-library-troubleshooting.html#install-sf",
+    "href": "installing-software/r-rstudio-library-troubleshooting.html#install-sf",
+    "title": "Installing R & RStudio Libraries - Troubleshooting",
+    "section": "Install sf",
+    "text": "Install sf\nR uses libraries to add features and different tools, such as GIS and spatial analysis. We need to install some libraries we will be using. Follow these instructions to install the sf library. Note the terms library and package are interchangeable.\n\nOpen RStudio.\nIn the Console type in install.packages(\"sf\") and press enter.\n\nThis is (approximately) the output you should get (click the link for the full image):\n\n\nThen load the library by running library(sf).\nCheck the output you get - red text does not always mean an error!\nThe first time you load sf you will probably get this message:\n\n\n\nThis is fine. If you get some other text, it may also be fine. Read the text and see what it says. Do ask if you have questions."
+  },
+  {
+    "objectID": "installing-software/r-rstudio-library-troubleshooting.html#install-tmap",
+    "href": "installing-software/r-rstudio-library-troubleshooting.html#install-tmap",
+    "title": "Installing R & RStudio Libraries - Troubleshooting",
+    "section": "Install tmap",
+    "text": "Install tmap\n\nRepeat the process for the tmap package.\nIn the Console type in install.packages(\"tmap\").\n\nThis is (approximately) the output you should get (I’ve not included the full version because it is so long!):\n\n\nThe load the library by running library(tmap).\n\n\n\nThis is fine. If you get some text, it may also be fine. Read the text and see what it says. Do ask if you have questions."
+  },
+  {
+    "objectID": "installing-software/r-rstudio-library-troubleshooting.html#problems",
+    "href": "installing-software/r-rstudio-library-troubleshooting.html#problems",
+    "title": "Installing R & RStudio Libraries - Troubleshooting",
+    "section": "Problems",
+    "text": "Problems\nIf you don’t get this output, there may have been a problem. Best move is to try loading the libraries again.\n\nIn the Console type in library(sf).\nand then type in library(tmap).\n\nYou should get something like this:\n\nIf you don’t, then there are a few steps you can try:\n\nR might say a dependent library is unavailable.\n\nCheck what the red text says. If it says (for example) There has been an error installing the Rcpp library, try installing that library:\ninstall.packages(\"Rcpp\")\nThen try loading it: library(Rcpp)\nIf that works, try installing either sf or tmap again.\n\nR might ask if you want to compile the package from source: \n\nUsually the best choice here is to say no, which means R will use a very slightly older version of the library, but it should be fine for our work.\nIf you say yes, R will ask you to install RTools, which will probably work, but adds to the length of the setup time!\n\nR might give you instructions to install another piece of software - try this if you can.\nIf none of those work, you can try uninstalling and reinstalling the library\n\nRemove using remove.packages(\"classInt\") (e.g. for the classInt package) or\nOpen the Packages tab (on the right) and click the X by whichever package you want to remove:\n\n\nIf that doesn’t work, do reach out to me before the course and ask for help.\nAn alternative is to use RStudio.cloud / Posit.cloud.\n\nThis work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/deed.en. The latest version of this is available from https://nickbearman.github.io/installing-software/r-rstudio."
+  },
+  {
+    "objectID": "installing-software/rstudio.html",
+    "href": "installing-software/rstudio.html",
+    "title": "Installing Software - R & RStudio",
+    "section": "",
+    "text": "We will be setting up R & RStudio. Follow the instructions below, depending on your operating system, and the follow the library installation section."
+  },
+  {
+    "objectID": "installing-software/rstudio.html#installing-r-rstudio",
+    "href": "installing-software/rstudio.html#installing-r-rstudio",
+    "title": "Installing Software - R & RStudio",
+    "section": "",
+    "text": "We will be setting up R & RStudio. Follow the instructions below, depending on your operating system, and the follow the library installation section."
+  },
+  {
+    "objectID": "installing-software/rstudio.html#windows",
+    "href": "installing-software/rstudio.html#windows",
+    "title": "Installing Software - R & RStudio",
+    "section": "Windows",
+    "text": "Windows\n\nOpen a web browser and go to https://cran.r-project.org/.\nClick Download R for Windows.\nChoose the link install R for the first time.\nDownload the latest version (4.4.3 at time of writing) Download R-4.4.3 for Windows.\nRun through the program installation process.\n\nOnce R is installed, we can install RStudio.\nGo to https://posit.co/download/rstudio-desktop/#download.\nDownload the latest version (2024.12.1+563 at the time of writing).\nUnder 2: Install RStudio click DOWNLOAD RSTUDIO DESKTOP FOR WINDOWS\n\n\n\nRun through the program installation process."
+  },
+  {
+    "objectID": "installing-software/rstudio.html#mac-os-x",
+    "href": "installing-software/rstudio.html#mac-os-x",
+    "title": "Installing Software - R & RStudio",
+    "section": "Mac / OS X",
+    "text": "Mac / OS X\n\nOpen a web browser and go to https://cran.r-project.org/.\nClick Download R for macOS.\nDownload the latest version (4.4.3 at time of writing) R-4.4.3-arm64.pkg.\nRun through the program installation process.\n\nOnce R is installed, we can install RStudio.\nGo to https://posit.co/download/rstudio-desktop/#download.\nClick DOWNLOAD RSTUDIO DESKTOP FOR macOS\nDownload the latest version (2024.12.1+563 at the time of writing).\nRun through the program installation process."
+  },
+  {
+    "objectID": "installing-software/rstudio.html#libraries",
+    "href": "installing-software/rstudio.html#libraries",
+    "title": "Installing Software - R & RStudio",
+    "section": "Libraries",
+    "text": "Libraries\nR uses libraries to add features and different tools, such as GIS and spatial analysis. We need to install some libraries we will be using.\n\nOpen RStudio.\nIn the Console type in install.packages(\"sf\").\nThen load the library by running library(sf).\nCheck the output you get - red text does not always mean an error!\nRepeat the process for the tmap package (install.packages(\"tmap\") and then library(tmap)) and any other packages you need.\n\nIf you already have tmap installed, please upgrade it to the latest version. We will be using tmap v4 in the course. If you are not sure which version of tmap you are using, you can check by loading tmap and then running packageVersion(\"tmap\").\nIf you get stuck, check out troubleshooting for some things to try."
+  },
+  {
+    "objectID": "installing-software/rstudio.html#posit-cloud",
+    "href": "installing-software/rstudio.html#posit-cloud",
+    "title": "Installing Software - R & RStudio",
+    "section": "Posit Cloud",
+    "text": "Posit Cloud\nIf you can’t get R & RStudio installed on your computer, there is another option. You can use Posit Cloud, which runs RStudio in a web browser. You can get a free account which will be enough for a short course.\n\nGo to posit.cloud.\nChoose Sign Up\nSelect Learn more under the Cloud free plan\nChoose Sign Up and fill out the form.\nTo get started, choose New Project and New RStudio Project. It will take a few seconds to load."
+  },
+  {
+    "objectID": "installing-software/rstudio.html#troubleshooting",
+    "href": "installing-software/rstudio.html#troubleshooting",
+    "title": "Installing Software - R & RStudio",
+    "section": "Troubleshooting",
+    "text": "Troubleshooting\nIf you get stuck, check out troubleshooting for some things to try.\nYou are good to go!\nThis work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/deed.en. The latest version of this is available from https://nickbearman.github.io/installing-software/r-rstudio."
+  },
+  {
+    "objectID": "installing-software/geoda.html",
+    "href": "installing-software/geoda.html",
+    "title": "Installing Software - GeoDa",
+    "section": "",
+    "text": "We will be setting up GeoDa. Follow the instructions below, depending on your operating system."
+  },
+  {
+    "objectID": "installing-software/geoda.html#windows",
+    "href": "installing-software/geoda.html#windows",
+    "title": "Installing Software - GeoDa",
+    "section": "Windows",
+    "text": "Windows\n\nOpen a web browser and go to http://geodacenter.github.io/.\n\nClick Download.\n\nClick Download for Windows.\n\nDownload GeoDa 1.22.0.12 (1/17/2025). Select the 64 bit version, unless you have a very old computer, or know that you need the 32 bit version.\n\nRun through the program installation process.\n\nIf Windows says “Windows protected your PC”, it may have blocked installation. Choose More info and then Run anyway to install GeoDa."
+  },
+  {
+    "objectID": "installing-software/geoda.html#mac-osx",
+    "href": "installing-software/geoda.html#mac-osx",
+    "title": "Installing Software - GeoDa",
+    "section": "Mac OSX",
+    "text": "Mac OSX\n\nOpen a web browser and go to http://geodacenter.github.io/.\n\nClick Download.\n\nClick Download for Mac.\n\nDownload GeoDa 1.22.0.12 (1/17/2025) for Mac OS X (Big Sur+).\nFollow through the installation wizard.\n\nNote the instructions at the bottom of the page:\nPlease note that you will get a warning message about this program coming from an unknown developer the first time you try to open it.\nUse control-click and select open to open the program (instead of double click) and accept at the prompt. You will not be asked this again. However, in order for this to work, you need to set your Security & Privacy preferences to Mac App Store and identified developers; the default is Mac App store only, which will NOT WORK for GeoDa.\n\n\nYou are good to go!\nThis work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/deed.en. The latest version of this is available from https://nickbearman.github.io/installing-software/geoda."
+  },
+  {
+    "objectID": "installing-software/r-rstudio.html",
+    "href": "installing-software/r-rstudio.html",
+    "title": "Installing Software - R & RStudio",
+    "section": "",
+    "text": "We will be setting up R & RStudio. Follow the instructions below, depending on your operating system, and the follow the library installation section."
+  },
+  {
+    "objectID": "installing-software/r-rstudio.html#installing-r-rstudio",
+    "href": "installing-software/r-rstudio.html#installing-r-rstudio",
+    "title": "Installing Software - R & RStudio",
+    "section": "",
+    "text": "We will be setting up R & RStudio. Follow the instructions below, depending on your operating system, and the follow the library installation section."
+  },
+  {
+    "objectID": "installing-software/r-rstudio.html#windows",
+    "href": "installing-software/r-rstudio.html#windows",
+    "title": "Installing Software - R & RStudio",
+    "section": "Windows",
+    "text": "Windows\n\nOpen a web browser and go to https://cran.r-project.org/.\nClick Download R for Windows.\nChoose the link install R for the first time.\nDownload the latest version (4.4.3 at time of writing) Download R-4.4.3 for Windows.\nRun through the program installation process.\n\nOnce R is installed, we can install RStudio.\nGo to https://posit.co/download/rstudio-desktop/#download.\nDownload the latest version (2024.12.1+563 at the time of writing).\nUnder 2: Install RStudio click DOWNLOAD RSTUDIO DESKTOP FOR WINDOWS\n\n\n\nRun through the program installation process."
+  },
+  {
+    "objectID": "installing-software/r-rstudio.html#mac-os-x",
+    "href": "installing-software/r-rstudio.html#mac-os-x",
+    "title": "Installing Software - R & RStudio",
+    "section": "Mac / OS X",
+    "text": "Mac / OS X\n\nOpen a web browser and go to https://cran.r-project.org/.\nClick Download R for macOS.\nDownload the latest version (4.4.3 at time of writing) R-4.4.3-arm64.pkg.\nRun through the program installation process.\n\nOnce R is installed, we can install RStudio.\nGo to https://posit.co/download/rstudio-desktop/#download.\nClick DOWNLOAD RSTUDIO DESKTOP FOR macOS\nDownload the latest version (2024.12.1+563 at the time of writing).\nRun through the program installation process."
+  },
+  {
+    "objectID": "installing-software/r-rstudio.html#libraries",
+    "href": "installing-software/r-rstudio.html#libraries",
+    "title": "Installing Software - R & RStudio",
+    "section": "Libraries",
+    "text": "Libraries\nR uses libraries to add features and different tools, such as GIS and spatial analysis. We need to install some libraries we will be using.\n\nOpen RStudio.\nIn the Console type in install.packages(\"sf\").\nThen load the library by running library(sf).\nCheck the output you get - red text does not always mean an error!\nRepeat the process for the tmap package (install.packages(\"tmap\") and then library(tmap)) and any other packages you need.\n\nIf you already have tmap installed, please upgrade it to the latest version. We will be using tmap v4 in the course. If you are not sure which version of tmap you are using, you can check by loading tmap and then running packageVersion(\"tmap\").\nIf you get stuck, check out troubleshooting for some things to try."
+  },
+  {
+    "objectID": "installing-software/r-rstudio.html#posit-cloud",
+    "href": "installing-software/r-rstudio.html#posit-cloud",
+    "title": "Installing Software - R & RStudio",
+    "section": "Posit Cloud",
+    "text": "Posit Cloud\nIf you can’t get R & RStudio installed on your computer, there is another option. You can use Posit Cloud, which runs RStudio in a web browser. You can get a free account which will be enough for a short course.\n\nGo to posit.cloud.\nChoose Sign Up\nSelect Learn more under the Cloud free plan\nChoose Sign Up and fill out the form.\nTo get started, choose New Project and New RStudio Project. It will take a few seconds to load."
+  },
+  {
+    "objectID": "installing-software/r-rstudio.html#troubleshooting",
+    "href": "installing-software/r-rstudio.html#troubleshooting",
+    "title": "Installing Software - R & RStudio",
+    "section": "Troubleshooting",
+    "text": "Troubleshooting\nIf you get stuck, check out troubleshooting for some things to try.\nYou are good to go!\nThis work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/deed.en. The latest version of this is available from https://nickbearman.github.io/installing-software/r-rstudio."
   }
 ]

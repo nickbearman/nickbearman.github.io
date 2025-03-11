@@ -36,6 +36,8 @@ I also have some other material that I have created myself, or created with coll
 
 -   [Advanced GIS Methods Training: Retail Centres and Catchment Areas (2020)](https://data.cdrc.ac.uk/dataset/advanced-gis-methods-training-retail-centres-and-catchment-areas) *workbook, free registration required*
 
+-   [Installing GIS Software](https://nickbearman.github.io/installing-software/) *A short How To guide*
+
 <!-- SODA training materials -->
 :::
 
