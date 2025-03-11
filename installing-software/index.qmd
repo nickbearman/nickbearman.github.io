@@ -1,0 +1,14 @@
+---
+  title: "Installing Software"
+---
+
+Here are some quick install instructions for a range of GIS software:
+
+- QGIS
+
+If you have any suggestions, please do edit the page on GitHub, and submit a Pull Request.
+
+
+
+
+
