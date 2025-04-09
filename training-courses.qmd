@@ -23,10 +23,10 @@ If you would like a course run for a group of you, or have any questions, then p
 |              | Introductory         | Advanced                               |
 |--------------|-----------------------------------|-----------------------|
 | R | [Introduction to Spatial Data and Using R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis) *May 2025*   | [Advanced R as a GIS: Spatial Analysis and Statistics](#advanced-R-as-a-gis:-spatial-analysis-and-statistics) *June 2025* | [Advanced R as a GIS: Spatial Analysis and Statistics](#advanced-R-as-a-gis:-spatial-analysis-and-statistics)  
-| QGIS     |  [Introduction to QGIS: Understanding and Presenting Spatial Data]\* *April 2025*               | [Confident Spatial Analysis in QGIS](#confident-spatial-analysis-in-qgis)\* *April 2025*    |
+| QGIS     |  [Introduction to QGIS: Understanding and Presenting Spatial Data]\* <!-- *April 2025* -->              | [Confident Spatial Analysis in QGIS](#confident-spatial-analysis-in-qgis)\* <!-- *April 2025*  -->  |
 
 
-\*often presented together as "[Introduction to QGIS: Spatial Data and Spatial Analysis](#introduction-to-qgis-spatial-data-and-spatial-analysis)" over 4 half-day sessions. *April 2025*
+\*often presented together as "[Introduction to QGIS: Spatial Data and Spatial Analysis](#introduction-to-qgis-spatial-data-and-spatial-analysis)" over 4 half-day sessions. <!-- *April 2025* -->
 
 ----
 
@@ -89,9 +89,9 @@ In this two part course we will show you how to prepare and conduct spatial anal
 
 *This course is the [Introduction to QGIS](#introduction-to-qgis-understanding-and-presenting-spatial-data) and [Confident Spatial Analysis in QGIS](#confident-spatial-analysis-in-qgis) courses run back to back.*
 
-[Tue 1st, Wed 2nd, Tue 8th and Wed 9th April 2025, 10am – 1pm (UK/London), online.](https://www.ncrm.ac.uk/training/show.php?article=13700)
+<!-- [Tue 1st, Wed 2nd, Tue 8th and Wed 9th April 2025, 10am – 1pm (UK/London), online.](https://www.ncrm.ac.uk/training/show.php?article=13700) -->
 
-<!-- [No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
+[No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html) 
 
 ----
 
@@ -103,9 +103,9 @@ In this two part introductory course we will give you an overview on how GIS wor
 
 *Attendees on this course can choose to receive a [Certificate of Completion](https://www.qgis.org/community/certification/), certified by QGIS for a donation of €20. [Geospatial Training Solutions / Nick Bearman](https://changelog.qgis.org/en/qgis/certifyingorganisation/geospatial-training-solutions/) is a QGIS approved training organisation, and a donation of €20 for each participant will be made to the QGIS Foundation, supporting the development of QGIS.*
 
-[*Being run as Introduction to QGIS: Spatial Data and Spatial Analysis on* Tue 1st, Wed 2nd, Tue 8th and Wed 9th April 2025, 10am – 1pm (UK/London), online.](https://www.ncrm.ac.uk/training/show.php?article=13700)
+<!-- [*Being run as Introduction to QGIS: Spatial Data and Spatial Analysis on* Tue 1st, Wed 2nd, Tue 8th and Wed 9th April 2025, 10am – 1pm (UK/London), online.](https://www.ncrm.ac.uk/training/show.php?article=13700) -->
 
-<!-- [No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
+[No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html)
 
 ![](images/qgis-screenshot.png)
 
@@ -125,9 +125,9 @@ This intermediate two part course will develop your skills of using spatial data
 
 *Attendees on this course can choose to receive a [Certificate of Completion](https://www.qgis.org/community/certification/), certified by QGIS for a donation of €20. [Geospatial Training Solutions / Nick Bearman](https://changelog.qgis.org/en/qgis/certifyingorganisation/geospatial-training-solutions/) is a QGIS approved training organisation, and a donation of €20 for each participant will be made to the QGIS Foundation, supporting the development of QGIS.*
 
-[*Being run as Introduction to QGIS: Spatial Data and Spatial Analysis on* Tue 1st, Wed 2nd, Tue 8th and Wed 9th April 2025, 10am – 1pm (UK/London), online.](https://www.ncrm.ac.uk/training/show.php?article=13700)
+<!-- [*Being run as Introduction to QGIS: Spatial Data and Spatial Analysis on* Tue 1st, Wed 2nd, Tue 8th and Wed 9th April 2025, 10am – 1pm (UK/London), online.](https://www.ncrm.ac.uk/training/show.php?article=13700) -->
 
-<!-- [No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
+[No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html)
 
 ![](images/pip-spatial-overlays.png)
 
