@@ -131,6 +131,12 @@ This intermediate two part course will develop your skills of using spatial data
 
 ![](images/pip-spatial-overlays.png)
 
+:::{.callout-tip}
+## "The whole course has been fantastic, thanks for making it so engaging and accessible."
+*Dr Caitriona Dowd, Assistant Professor, School of Politics and International Relations, University College Dublin*
+
+:::
+
 ----
 
 <!--
