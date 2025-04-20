@@ -6,6 +6,8 @@ I have written 24 academic papers, two books ([Using R as a GIS](rgis.html) and 
 
 ## Recent Publications
 
+**Bearman, N., Gaboardi, J.D., Roddy, P.J, Zhao, Q., Chen, H. and Wolf, L. (2025)** Location-allocation and public transit: An update on UCL student teacher placements, Presented at GISRUK 2025, 23rd April 2025, University of Bristol, UK. [Slides (HTML 3.7MB)](files\academic\bearman_et_al_2025_gisruk\presentation.html), [Slides (PDF 2.6MB)](\files\academic\bearman_et_al_2025_gisruk\presentation.pdf).
+
 **Bearman, N. (2024)** [Using R as a GIS](rgis.html), Locate Press.
 
 **Bearman, N., Musah, A. and Cheshire, J. (2024)** A Geographer's Introduction to QGIS & R, [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13626798.svg)](https://doi.org/10.5281/zenodo.13626798) [training materials](https://www.rgs.org/research/higher-education-resources/a-geographers-introduction-to-qgis), [GitHub](https://github.com/UCL/SODA/tree/main/geographers-introduction-QGIS) 
