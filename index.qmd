@@ -40,7 +40,7 @@ Contact me using one of the methods above for more details.
 ## **What is GIS?**
 Geographical Information Systems allows you to **combine**:
 
-- **your data** which has location information (coordaintes, address, etc.) 
+- **your data** which has location information (coordinates, address, etc.) 
 - with **other data** with location information (population, land use, etc.) 
 - to help you gain more **answers** from the data you already have. 
 
