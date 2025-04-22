@@ -6,9 +6,9 @@ I have written 24 academic papers, two books ([Using R as a GIS](rgis.html) and 
 
 ## Recent Publications
 
-**Bearman, N., Gaboardi, J.D., Roddy, P.J, Zhao, Q., Chen, H. and Wolf, L. (2025)** Location-allocation and public transit: An update on UCL student teacher placements, Presented at GISRUK 2025, 23rd April 2025, University of Bristol, UK. [Slides (HTML 3.7MB)](files\academic\bearman_et_al_2025_gisruk\presentation.html), [Slides (PDF 2.6MB)](\files\academic\bearman_et_al_2025_gisruk\presentation.pdf).
+**Bearman, N., Gaboardi, J.D., Roddy, P.J, Zhao, Q., Chen, H. and Wolf, L. (2025)** Location-allocation and public transit: An update on UCL student teacher placements, Presented at GISRUK 2025, 23rd April 2025, University of Bristol, UK. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15231178.svg)](https://doi.org/10.5281/zenodo.15231178), [Paper (PDF, 2.1 MB)](files\academic\bearman_et_al_2025_gisruk\GISRUK-Proceedings-44.pdf), [Slides (HTML 3.7MB)](files\academic\bearman_et_al_2025_gisruk\presentation.html), [Slides (PDF 2.6MB)](files\academic\bearman_et_al_2025_gisruk\presentation.pdf).
 
-**Bearman, N. (2024)** [Using R as a GIS](rgis.html), Locate Press.
+**Bearman, N. (2024)** [Using R as a GIS](rgis.html), Locate Press. 
 
 **Bearman, N., Musah, A. and Cheshire, J. (2024)** A Geographer's Introduction to QGIS & R, [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13626798.svg)](https://doi.org/10.5281/zenodo.13626798) [training materials](https://www.rgs.org/research/higher-education-resources/a-geographers-introduction-to-qgis), [GitHub](https://github.com/UCL/SODA/tree/main/geographers-introduction-QGIS) 
 
@@ -25,6 +25,8 @@ I have written 24 academic papers, two books ([Using R as a GIS](rgis.html) and 
 **Lloyd, C. D., Catney, G., Williamson, P. and Bearman, N. (2017)** Exploring the utility of grids for analysing long term population change. Computers, Environment and Urban Systems, 66, 1--12. [doi:10.1016/j.compenvurbsys.2017.07.003](https://doi.org/10.1016/j.compenvurbsys.2017.07.003)*, Open Access.*
 
 ## Presentations
+
+**Bearman, N., Gaboardi, J.D., Roddy, P.J, Zhao, Q., Chen, H. and Wolf, L. (2025)** Location-allocation and public transit: An update on UCL student teacher placements, Presented at GISRUK 2025, 23rd April 2025, University of Bristol, UK. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15231178.svg)](https://doi.org/10.5281/zenodo.15231178), [Paper (PDF, 2.1 MB)](files\academic\bearman_et_al_2025_gisruk\GISRUK-Proceedings-44.pdf), [Slides (HTML 3.7MB)](files\academic\bearman_et_al_2025_gisruk\presentation.html), [Slides (PDF 2.6MB)](files\academic\bearman_et_al_2025_gisruk\presentation.pdf).
 
 **Bearman, N. (2024)** Reproducibility and Replicability in Geospatial Data Science, invited presentation for students in CPLN 6800 Capstone Project/Advanced Topics in GIS at University of Pennsylvania, 18th April 2024, [Slides](https://nickbearman.github.io/reproducibility-replicability-gds-penn), [Source](https://github.com/nickbearman/reproducibility-replicability-gds-penn), [PDF](files/2024-05-18-Reproducibility-and-Replicability-in-Geospatial-Data-Science.pdf). 
 
