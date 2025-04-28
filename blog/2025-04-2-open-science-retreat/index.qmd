@@ -32,5 +32,9 @@ I am a bit fan of making GIS more accessible to anyone who wants to do mapping* 
 
 *I was reminded about the variation in terminology that we have with different groups. The activist group wanted a geographic map of people, but this was not understood by everyone - often the term 'map' or 'mapping' is used in a non-spatial sense looking at relationships between different members or a group or elements - e.g. how people relate to each other. The group knew what they wanted and I understood them correctly, but not everyone who saw their message did!
 
+Finally, I discovered how varied the weather in Switzerland at about 1200m elevation can be - while most of the trip was sunny, on the final morning I woke up to this:
+
+![](snow.jpeg)
+
 It was a great event, and I would recommend it to anyone who in interested in discussing or doing Open Science. The next retreat is planned to be in the UK, so please do come along! Join the DRA [mailing list](https://heidiseibold.kit.com/36d99705ec) to learn about upcoming DRA events! 
  
