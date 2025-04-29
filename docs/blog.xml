@@ -10,7 +10,46 @@
 <atom:link href="https://nickbearman.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>A blog on my teaching, open source GIS, travel and life</description>
 <generator>quarto-1.4.550</generator>
-<lastBuildDate>Wed, 16 Apr 2025 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 23 Apr 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>GISRUK 2025 in Bristol</title>
+  <dc:creator>Nick Bearman</dc:creator>
+  <link>https://nickbearman.github.io/blog/2025-04-3-gisruk/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Last week I was fortunate to be able to attend GISRUK 2025, in Bristol, UK. I am a regular at the GISRUK conference series and it is always fascinating to see the latest work in GIS in the UK.</p>
+<p>This year it was hosted by University of Bristol, which gave me an opportunity to see a little of Bristol as well. I had a lovely walk up Cabot Tower, Brandon Hill, with some spectacular views of the city, it being the highest point in Bristol.</p>
+<p><img src="https://nickbearman.github.io/blog/2025-04-3-gisruk/bristol.jpeg" class="img-fluid"></p>
+<p>The keynote presentations are always very good at GISRUK, and this year we had three fascinating ones. <a href="https://www.st-andrews.ac.uk/geography-sustainable-development/people/ud2">Urska Demsar</a> talked about her work linking animal movement and human mobility, which is a great example of two areas that use similar techniques but have completely different terminology, and her work to create a new framework to link these two areas will create gains in both fields by the sharing of techniques.</p>
+<p><a href="https://www.bristol.ac.uk/people/person/Michele-Acuto-e478f1f9-3934-4a83-91e6-4707cb949ba7/">Michele Acuto</a> gave a fascinating insight into Data after Dark: Shedding (Geospatial) Light onto the Night-time Economy. It is a world who we can easily forget, those who work at night. About 26% of UK employed people work at night, and often they are ignore from our analysis of cities. Transport networks can provide some insights, with many global cities transport networks non-existent from ~2am - ~5am. Transaction data can provide an interesting insight into this, but about 25% of night-time activity doesn’t involve a financial transaction, so there are large segments of this activity that are difficult to capture in data. Michele encouraged us go out at night and think about who we see - particularly those who are working.</p>
+<p><a href="https://le.ac.uk/people/stef-de-sabbata">Stef De Sabbata</a> gave the final keynote titled <a href="https://sdesabbata.github.io/slides/gisruk-2025.html">What is geo/spatial about (geo)ai?</a> Here she talked about going back to the basics of AI and thinking about what is the prior knowledge (“priors”) that AI has about geospatial data. There appear to be more than we might initially think, for example, the concept of ‘cities’ appears to be present, as well as some concept of latitude and longitude.</p>
+<p>This year I was also presenting a paper, <a href="../../writing-presentations.html">Location-allocation and public transit: An update on UCL student teacher placements</a>, which was an update on the location allocation work I have been doing with spopt and UCL IOE. It was great to share some of the experiences and challenges of working in such a diverse team, as well as sharing the benefits the tool would bring to the Placements team in IOE. See <a href="../../writing-presentations.html">Writing &amp; Presentations</a> for links to the paper and the slides.</p>
+<p>Finally it was a great opportunity to network and link up with new and existing colleagues and catch up on the latest developments.</p>
+<p><img src="https://nickbearman.github.io/blog/2025-04-3-gisruk/dinner.jpeg" class="img-fluid"></p>
+<p>I also had two other roles during the conference. Firstly, I, along with Jonny Huck, was judging entries for the <a href="https://gisruk.github.io/osgeo/">GISRUK &amp; OSgeo:UK GoFundGeo Award</a>, a grant to help the recipient to make spatial analysis code easily adoptable by others through the provision of an open source code repository, tool or plugin. We are very happy to confirm that the GoFundGeo winner is Melissa Barrientos Triñanes, with her work on <a href="">Utilising open data to enhance park safety for women and girls in Bradford: A spatial analysis approach.</a>. We liked this as a nice clear project with clearly identifiable outputs that could be useful to a wider audience.</p>
+<p>Secondly, a new initiative this year is that the GIScRG (GISc Research Group) of the RGS-IBG is putting on a session ‘Best of GISRUK’ at the RGS Annual International Conference, which this year is at University of Birmingham from Tue 26 to Fri 29 Aug.&nbsp;We are inviting all of the prize winners to present their work in our session, in order to get more people outside GIS to hear about how GIS can be useful. Congratulations to all of the winners:</p>
+<ul>
+<li>Best Poster - Sam Denney - <a href="https://zenodo.org/records/15183848">School-level factors influencing NEET outcomes in England</a></li>
+<li>Best Paper by ECR - Jessica Hepburn - <a href="https://zenodo.org/records/15228683">Parks, Place and Equality: Mapping access to different park typology in Britian’s 20-minute neighbourhood</a></li>
+<li>Best Paper - Adam Dennett - GIS vs.&nbsp;The City Council: Data analytics, collective intelligence and policy dust-ups</li>
+<li>Best Paper in Spatial Analysis - Chris Larkin - <a href="https://zenodo.org/records/15231749">Integrating Low Traffic Neighbourhoods into UK Cycle Network Planning</a></li>
+</ul>
+<p>Congratulations to all the winners and we hope to see you at the RGS conference in Birmingham.</p>
+
+
+
+ ]]></description>
+  <category>CPD</category>
+  <category>conference</category>
+  <category>in person</category>
+  <category>GISRUK</category>
+  <guid>https://nickbearman.github.io/blog/2025-04-3-gisruk/</guid>
+  <pubDate>Wed, 23 Apr 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://nickbearman.github.io/blog/2025-04-3-gisruk/bristol.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>The Open Science Retreat, Batenberg, Switzerland: collaboation, connection and snow!</title>
   <dc:creator>Nick Bearman</dc:creator>
