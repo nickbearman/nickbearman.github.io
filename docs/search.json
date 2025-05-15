@@ -655,14 +655,14 @@
     "href": "installing-software/r-rstudio.html#windows",
     "title": "Installing Software - R & RStudio",
     "section": "Windows",
-    "text": "Windows\n\nOpen a web browser and go to https://cran.r-project.org/.\nClick Download R for Windows.\nChoose the link install R for the first time.\nDownload the latest version (4.4.3 at time of writing) Download R-4.4.3 for Windows.\nRun through the program installation process.\n\nOnce R is installed, we can install RStudio.\nGo to https://posit.co/download/rstudio-desktop/#download.\nDownload the latest version (2024.12.1+563 at the time of writing).\nUnder 2: Install RStudio click DOWNLOAD RSTUDIO DESKTOP FOR WINDOWS\n\n\n\nRun through the program installation process."
+    "text": "Windows\n\nOpen a web browser and go to https://cran.r-project.org/.\nClick Download R for Windows.\nChoose the link install R for the first time.\nDownload the latest version (4.5.0 at time of writing) Download R-4.5.0 for Windows.\nRun through the program installation process.\n\nOnce R is installed, we can install RStudio.\nGo to https://posit.co/download/rstudio-desktop/#download.\nDownload the latest version (2025.05.0+496 at the time of writing).\nUnder 2: Install RStudio click DOWNLOAD RSTUDIO DESKTOP FOR WINDOWS\n\n\n\nRun through the program installation process."
   },
   {
     "objectID": "installing-software/r-rstudio.html#mac-os-x",
     "href": "installing-software/r-rstudio.html#mac-os-x",
     "title": "Installing Software - R & RStudio",
     "section": "Mac / OS X",
-    "text": "Mac / OS X\n\nOpen a web browser and go to https://cran.r-project.org/.\nClick Download R for macOS.\nDownload the latest version (4.4.3 at time of writing) R-4.4.3-arm64.pkg.\nRun through the program installation process.\n\nOnce R is installed, we can install RStudio.\nGo to https://posit.co/download/rstudio-desktop/#download.\nClick DOWNLOAD RSTUDIO DESKTOP FOR macOS\nDownload the latest version (2024.12.1+563 at the time of writing).\nRun through the program installation process."
+    "text": "Mac / OS X\n\nOpen a web browser and go to https://cran.r-project.org/.\nClick Download R for macOS.\nDownload the latest version (4.5.0 at time of writing) R-4.5.0-arm64.pkg.\nRun through the program installation process.\n\nOnce R is installed, we can install RStudio.\nGo to https://posit.co/download/rstudio-desktop/#download.\nClick DOWNLOAD RSTUDIO DESKTOP FOR macOS\nDownload the latest version (2025.05.0+496 at the time of writing).\nRun through the program installation process."
   },
   {
     "objectID": "installing-software/r-rstudio.html#libraries",
