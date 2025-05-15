@@ -45,6 +45,9 @@ No previous experience of coding is required, although participants would benefi
 
 <!-- [No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
 
+*[You can access this course in an On-Demand format via InStats. ](https://instats.org/seminar/introduction-to-spatial-data-and-r-as-a-2) This gives you access to training materials, the recordings, and a discussion forum if you have questions, for 30 days.*
+
+*I run this course regularly, so if you would like to attend a live, version please [join my mailing list to hear when new dates are confirmed.](mailing-list.html)*
 ::::
 :::: {.column width="42%"}
 
