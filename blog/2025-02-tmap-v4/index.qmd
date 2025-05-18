@@ -18,7 +18,7 @@ tmap version 4 has now been released, and is now available on [CRAN](https://cra
 																 
 :::: {.column width="50%"}
 
-**If those words above mean nothing to you, a quick recap:** `tmap` is a library used in R to make maps. I use it in my Introduction to Spatial Data and Using R as a GIS training course so if you have attended one of those, you have already used it. If you are interested in learning more, check out my [Training Courses](training-courses.html) or my [Training Materials](training-materials.html)
+**If those words above mean nothing to you, a quick recap:** `tmap` is a library used in R to make maps. I use it in my Introduction to Spatial Data and Using R as a GIS training course so if you have attended one of those, you have already used it. If you are interested in learning more, check out my [Training Courses](https://nickbearman.github.io/training-courses.html) or my [Training Materials](https://nickbearman.github.io/training-materials.html).
 				   
 
 ::::
