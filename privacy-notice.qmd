@@ -196,7 +196,7 @@ Our use of QuickFile is necessary for:
 - Fulfilling our contractual obligations to you (e.g. invoicing for services delivered);
 - Meeting our legal obligations under UK tax and accounting laws.
 
-QuickFile acts as a data processor on our behalf and processes personal data in accordance with applicable data protection laws. You can find more information in [QuickFile’s Privacy Policy](https://www.quickfile.co.uk/privacy).
+QuickFile acts as a data processor on our behalf and processes personal data in accordance with applicable data protection laws. You can find more information in [QuickFile’s Privacy Policy](https://support.quickfile.co.uk/t/privacy-policy/18934).
 
 QuickFile store account information in the UK, United Stated, Ireland and Netherlands. Their infrastructure sub-processors are listed at [https://support.quickfile.co.uk/t/quickfile-sub-processors/21331](https://support.quickfile.co.uk/t/quickfile-sub-processors/21331).
 
