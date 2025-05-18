@@ -12,7 +12,7 @@ ArcMap holds a special place in my heart because it is the software that I learn
 
 ![](arcmap-screenshot.png){fig-alt="I also spent a lot of time working with ArcMap 9.2 (shown in the picture), which I used in my programming skills to use VBA (Visual Basic Applications) code to create a map that made sounds – an area called sonification, which formed part of my early research interests." fig-align="center"}
 
-Later on, I also spent a lot of time working with ArcMap 9.2 (above), which I used in my programming skills to use VBA (Visual Basic Applications) code to create a map that made sounds - an area called [sonification](https://www.nickbearman.me.uk/sonification/), which formed part of my early research interests.
+Later on, I also spent a lot of time working with ArcMap 9.2 (above), which I used in my programming skills to use VBA (Visual Basic Applications) code to create a map that made sounds - an area called [sonification](../../writing-presentations.html#sonification---phd), which formed part of my early research interests.
 
 Things have certainly changed in the 20+ years since 2003. ArcMap itself progressed from version 8.3 all the way up to the now retiring version 10.8.2. Of course we have also seen the rise of open source: QGIS in particular as a competitor to ArcMap, and now potentially better than ArcMap or ArcGIS Pro, depending exactly who you are and what you are trying to-do.
 

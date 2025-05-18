@@ -20,7 +20,7 @@ Given that OGC were running it, the focus was on standards, as you would expect.
 
 This code sprint was hybrid, with some people attending online via Discord (including one of the mentor stream presenters). Discord worked well, with a number of channels for different discussions based around topics as well as the mentor stream. We had about 20 people attending in person, with another 6-8 attending online.
 
-Attending the mentor stream was a good starting point, but after a bit of reflection, I discovered that I am not a "standards person". I have always slightly struggled with policy aspects, one of the reasons I have not pursued my work with [ethics & the Locus Charter](https://nickbearman.github.io/blog/digital-twins/). However I discovered I wasn't the only person there who wasn't a "standards person". I found some of the standards quite abstract and didn't really manage to see how some of them relate to my every day work with geospatial data.
+Attending the mentor stream was a good starting point, but after a bit of reflection, I discovered that I am not a "standards person". I have always slightly struggled with policy aspects, one of the reasons I have not pursued my work with [ethics & the Locus Charter](../2023-05-geoai-digital-twins/index.html). However I discovered I wasn't the only person there who wasn't a "standards person". I found some of the standards quite abstract and didn't really manage to see how some of them relate to my every day work with geospatial data.
 
 ## Training DML-AI
 
