@@ -99,7 +99,9 @@ From the Workshop: [Agenda](http://www.virart.nottingham.ac.uk/GI%20Usability/i
 
 ## Papers
 
-**Bearman, N., Garside, D., Mavromanoli, A.C., Fisher, J., Miller, T., Pradhan, P., Corneli, J. and Wang, C.** Open Science Retreat (OSR) 2025 - Summary of the Even More Open group, Open Science Retreat, Batenberg, Switzerland, 13th - 17th April 2025, [doi: 10.53962/znvv-1p7c](https://doi.org/10.53962/znvv-1p7c), *Narrative*.
+**Garside, D., Corneli, J., Fisher, J., Mavromanoli, A., Pradhan, P., and Bearman, N.** (2025) Envisioning the Future of Research: 10 changes for Open Research. Zenodo. https://doi.org/10.5281/zenodo.15399868 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15399868.svg)](https://doi.org/10.5281/zenodo.15399868)
+
+**Bearman, N., Garside, D., Mavromanoli, A.C., Fisher, J., Miller, T., Pradhan, P., Corneli, J. and Wang, C. (2025)** Open Science Retreat (OSR) 2025 - Summary of the Even More Open group, Open Science Retreat, Batenberg, Switzerland, 13th - 17th April 2025, [doi: 10.53962/znvv-1p7c](https://doi.org/10.53962/znvv-1p7c), *Narrative*.
 
 **Delmelle, E., Bearman, N., and Yao, X. A. (2024)** Developing geospatial analytical methods to explore and communicate the spread of COVID19. Cartography and Geographic Information Science, 51(2), 193–199, [doi:10.1080/15230406.2024.2325495](https://doi.org/10.1080/15230406.2024.2325495), *Editorial*.
 
