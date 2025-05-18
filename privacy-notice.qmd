@@ -1,0 +1,245 @@
+---
+  title: "Privacy Notice"
+---
+
+Nick Bearman, Geospatial Training Solutions: Privacy Notice
+
+This privacy notice tells you what to expect us to do with your personal information.
+
+- [What information we collect, use, and why](#what-information-we-collect-use-and-why)
+- [Lawful bases and data protection rights](#lawful-bases-and-data-protection-rights)
+- [Where we get personal information from](#where-we-get-personal-information-from)
+- [How long we keep information](#how-long-we-keep-information)
+- [Who we share information with](#who-we-share-information-with)
+- [Sharing information outside the UK](#sharing-information-outside-the-uk)
+- [How to complain](#how-to-complain)
+
+
+## Contact details
+
+Email: [nick@nickbearman.com](mailto:nick@nickbearman.com)
+
+## What information we collect, use, and why
+
+We collect or use the following information to **provide and improve products and services for clients**:
+
+- Names and contact details
+-	Addresses
+-	Occupation
+-	Payment details (including card or bank information for transfers and direct debits)
+-	Transaction data (including details about payments to and from you and details of products and services you have purchased)
+-	Information relating to compliments or complaints
+-	Records of meetings and decisions
+
+We collect or use the following personal information for the **operation of client or customer accounts**:
+
+-	Names and contact details
+-	Addresses
+-	Account information, including registration details
+-	Marketing preferences
+
+We collect or use the following personal information **for information updates or marketing purposes**:
+
+-	Names and contact details
+- Addresses
+-	Profile information
+-	Marketing preferences
+
+We collect or use the following personal information **for research or archiving purposes**:
+
+-	Names and contact details
+-	Addresses
+-	Purchase or client account history
+
+We collect or use the following personal information to **comply with legal requirements**:
+
+-	Name
+-	Contact information
+-	Client account information
+-	Any other personal information required to comply with legal obligations
+
+We collect or use the following personal information for **dealing with queries, complaints or claims**:
+
+-	Names and contact details
+-	Address
+-	Payment details
+-	Account information
+-	Purchase or service history
+-	Customer or client accounts and records
+-	Financial transaction information
+-	Correspondence
+
+## Lawful bases and data protection rights
+
+Under UK data protection law, we must have a “lawful basis” for collecting and using your personal information. There is a list of possible lawful bases in the UK GDPR. You can find out more about lawful bases on the ICO’s website.
+
+Which lawful basis we rely on may affect your data protection rights which are in brief set out below. You can find out more about your data protection rights and the exemptions which may apply on the ICO’s website:
+
+-	**Your right of access** - You have the right to ask us for copies of your personal information. You can request other information such as details about where we get personal information from and who we share personal information with. There are some exemptions which means you may not receive all the information you ask for. [You can read more about this right here](https://ico.org.uk/for-organisations/advice-for-small-organisations/create-your-own-privacy-notice/your-data-protection-rights/#roa).
+
+-	**Your right to rectification** - You have the right to ask us to correct or delete personal information you think is inaccurate or incomplete. [You can read more about this right here](https://ico.org.uk/for-organisations/advice-for-small-organisations/create-your-own-privacy-notice/your-data-protection-rights/#rtr).
+
+-	**Your right to erasure** - You have the right to ask us to delete your personal information. [You can read more about this right here](https://ico.org.uk/for-organisations/advice-for-small-organisations/create-your-own-privacy-notice/your-data-protection-rights/#rte).
+
+-	**Your right to restriction of processing** - You have the right to ask us to limit how we can use your personal information. [You can read more about this right here](https://ico.org.uk/for-organisations/advice-for-small-organisations/create-your-own-privacy-notice/your-data-protection-rights/#rtrop).
+
+- **Your right to object to processing** - You have the right to object to the processing of your personal data. [You can read more about this right here](https://ico.org.uk/for-organisations/advice-for-small-organisations/create-your-own-privacy-notice/your-data-protection-rights/#rto).
+
+-	**Your right to data portability** - You have the right to ask that we transfer the personal information you gave us to another organisation, or to you. [You can read more about this right here](https://ico.org.uk/for-organisations/advice-for-small-organisations/create-your-own-privacy-notice/your-data-protection-rights/#rtdp).
+
+-	**Your right to withdraw consent** – When we use consent as our lawful basis you have the right to withdraw your consent at any time. [You can read more about this right here](https://ico.org.uk/for-organisations/advice-for-small-organisations/create-your-own-privacy-notice/your-data-protection-rights/#rtwc).
+
+If you make a request, we must respond to you without undue delay and in any event within one month.
+
+To make a data protection rights request, please contact us using the contact details at the top of this privacy notice.
+
+### Our lawful bases for the collection and use of your data
+
+Our lawful bases for collecting or using personal information to **provide and improve products and services for clients** are:
+
+-	Consent - we have permission from you after we gave you all the relevant information. All of your data protection rights may apply, except the right to object. To be clear, you do have the right to withdraw your consent at any time.
+-	Contract – we have to collect or use the information so we can enter into or carry out a contract with you. All of your data protection rights may apply except the right to object.
+-	Legal obligation – we have to collect or use your information so we can comply with the law. All of your data protection rights may apply, except the right to erasure, the right to object and the right to data portability.
+
+Our lawful bases for collecting or using personal information for the **operation of client or customer accounts** are:
+
+-	Consent - we have permission from you after we gave you all the relevant information. All of your data protection rights may apply, except the right to object. To be clear, you do have the right to withdraw your consent at any time.
+-	Contract – we have to collect or use the information so we can enter into or carry out a contract with you. All of your data protection rights may apply except the right to object.
+-	Legal obligation – we have to collect or use your information so we can comply with the law. All of your data protection rights may apply, except the right to erasure, the right to object and the right to data portability.
+
+Our lawful bases for collecting or using personal information for **information updates or marketing purposes** are:
+
+-	Consent - we have permission from you after we gave you all the relevant information. All of your data protection rights may apply, except the right to object. To be clear, you do have the right to withdraw your consent at any time.
+
+Our lawful bases for collecting or using personal information for **research or archiving purposes**:
+
+-	Consent - we have permission from you after we gave you all the relevant information. All of your data protection rights may apply, except the right to object. To be clear, you do have the right to withdraw your consent at any time.
+-	Contract – we have to collect or use the information so we can enter into or carry out a contract with you. All of your data protection rights may apply except the right to object.
+-	Legal obligation – we have to collect or use your information so we can comply with the law. All of your data protection rights may apply, except the right to erasure, the right to object and the right to data portability.
+
+Our lawful bases for collecting or using personal information to **comply with legal requirements**:
+
+-	Consent - we have permission from you after we gave you all the relevant information. All of your data protection rights may apply, except the right to object. To be clear, you do have the right to withdraw your consent at any time.
+-	Contract – we have to collect or use the information so we can enter into or carry out a contract with you. All of your data protection rights may apply except the right to object.
+-	Legal obligation – we have to collect or use your information so we can comply with the law. All of your data protection rights may apply, except the right to erasure, the right to object and the right to data portability.
+
+Our lawful bases for collecting or using personal information for **dealing with queries, complaints or claims** are:
+
+-	Consent - we have permission from you after we gave you all the relevant information. All of your data protection rights may apply, except the right to object. To be clear, you do have the right to withdraw your consent at any time.
+-	Contract – we have to collect or use the information so we can enter into or carry out a contract with you. All of your data protection rights may apply except the right to object.
+-	Legal obligation – we have to collect or use your information so we can comply with the law. All of your data protection rights may apply, except the right to erasure, the right to object and the right to data portability.
+
+
+## Where we get personal information from
+
+-	Directly from you
+-	Publicly available sources
+
+## How long we keep information
+
+We retain your personal information only for as long as is necessary to fulfil the purposes for which it was collected, including to deliver our training and consultancy services, manage client relationships, and comply with our legal and contractual obligations.
+
+For example:
+
+- **Client and delegate records** (including course attendance, feedback, and certification data) are typically retained for up to 7 years after the end of our relationship, to support future service delivery, verify training history, and comply with accounting and professional requirements.
+
+- **Marketing preferences and contact details** are retained until you withdraw your consent or object to processing, unless we have another lawful basis to retain them.
+
+- **Financial and invoicing information** is typically retained for 6 years in line with HMRC requirements.
+
+After these periods, we will securely delete or anonymise personal data unless we are legally required to retain it for longer. In some cases, we may retain anonymised training data for statistical or analytical purposes.
+
+## Who we share information with
+
+Like many small business we use a range of tools to help run our business, where your personal details may be stored.
+
+### Data processors
+
+**Website hosting provider AWKE**
+
+Any contact with me via email (nick@nickbearman.com or nick@geospatialtrainingsolutions.co.uk) is through my hosting provider, AWKE (www.awke.co.uk), whose servers are in Telehouse, Docklands, UK & Maidenhead, UK. 
+
+**Contact Information**
+
+I store contact information on TheGood.Cloud, which is based on NextCloud. You can opt out of this upon request.
+
+**Website**
+
+Our website is hosted on **GitHub Pages**, a service provided by GitHub, Inc. While we use this platform to make our website available to you, we do not receive or access any personal data about visitors from GitHub directly.
+
+GitHub may collect some limited technical information about your visit, such as your IP address and browser type, for operational and security purposes. This data is processed under GitHub’s own privacy policies. You can read more in the [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
+
+We have some embedded videos on this website (e.g. [https://nickbearman.github.io/gis-research-methods.html](https://nickbearman.github.io/gis-research-methods.html)). This uses YouTube's player, owned by Google. See [YouTube's Privacy Policy](https://www.youtube.com/t/privacy) for more details. 
+
+We do **not** use cookies or tracking technologies on this website unless otherwise stated (e.g. for embedded third-party services or analytics). If we introduce any such tools, we will update this notice and provide appropriate consent mechanisms where required.
+
+Our [Contact Form](https://forms.gle/S95f1L8cNZQH5Th76) is hosted on Google Forms and their [Privacy Policy](https://policies.google.com/privacy) is also linked to from the form. If you wish to contact me using a secure method, you can contact me on WhatsApps (email me for my mobile number) or I also use OpenPGP using FlowCrypt (https://flowcrypt.com/) or Mailvelope (https://www.mailvelope.com/en), both of which work well with webmail programs, my public key is at [pgp.asc](files/pgp.asc). All messages sent using the above encrypted methods will be stored encrypted and never stored decrypted.
+
+For more information about how we handle this data, please refer to the rest of this Privacy Notice.
+
+**Mailing List**
+
+I also run a mailing list through MailChimp (https://mailchimp.com/) (sign up at [https://nickbearman.github.io/mailing-list](https://nickbearman.github.io/mailing-list)) who’s servers are based in the United States (https://mailchimp.com/help/gdpr-faq/). 
+
+**How the transfer complies with UK data protection law:** The country or sector has a UK data bridge (also known as Adequacy Regulations)
+
+I require opt-in consent to join the mailing list, in line with GDPR best practice. If you wish to be removed from the list, please email me at nick@nickbearman.com.
+
+**Accounts**
+
+We use QuickFile, a UK-based cloud accounting platform, to manage our invoicing, bookkeeping, and financial records. When we issue invoices or process payments, your personal data (such as your name, contact details, and relevant transaction information) may be stored or processed within this system.
+
+Our use of QuickFile is necessary for:
+
+- Fulfilling our contractual obligations to you (e.g. invoicing for services delivered);
+- Meeting our legal obligations under UK tax and accounting laws.
+
+QuickFile acts as a data processor on our behalf and processes personal data in accordance with applicable data protection laws. You can find more information in [QuickFile’s Privacy Policy](https://www.quickfile.co.uk/privacy).
+
+QuickFile store account information in the UK, United Stated, Ireland and Netherlands. Their infrastructure sub-processors are listed at [https://support.quickfile.co.uk/t/quickfile-sub-processors/21331](https://support.quickfile.co.uk/t/quickfile-sub-processors/21331).
+
+**Project information**
+
+Files related to projects I am working on (including details related to your project, if you hire me!) are stored on GitHub in private repositories. This is subject to their [Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). 
+
+I also take the precaution of encrypting some files with TrueCrypt (https://www.grc.com/misc/truecrypt/truecrypt.htm) which can also be arranged for your project if required.
+
+Other storage can be arranged if you prefer. Please contact me for more details. 
+
+### Others we share personal information with
+
+-	Publicly on our website, social media or other marketing and information media
+-	Professional consultants
+
+## Sharing information outside the UK
+
+Where necessary, we may transfer personal information outside of the UK. When doing so, we comply with the UK GDPR, making sure appropriate safeguards are in place.
+
+For further information or to obtain a copy of the appropriate safeguard for any of the transfers below, please contact us using the contact information provided above.
+
+## How to complain
+
+If you have any concerns about our use of your personal data, you can make a complaint to us using the contact details at the top of this privacy notice.
+
+If you remain unhappy with how we’ve used your data after raising a complaint with us, you can also complain to the ICO.
+
+The ICO’s address:           
+
+Information Commissioner’s Office
+Wycliffe House
+Water Lane
+Wilmslow
+Cheshire
+SK9 5AF
+
+Helpline number: 0303 123 1113
+
+Website: https://www.ico.org.uk/make-a-complaint
+
+## Last updated
+
+This was last updated on 18th May 2025 and will be updated annually where possible. 
+
+Thanks to the ICO (Information Commissioner's Office) for their [Create your own privacy notice](https://ico.org.uk/for-organisations/advice-for-small-organisations/create-your-own-privacy-notice/) tool and for ChatGPT for assistance with some of the sections. Clearly I have read and confirmed that I am happy with ChatGPT's output. 
+If anyone actually reads this, I am very impressed. If you email, and tell me you have read my privacy policy, I will happily send you a free copy of one of my books!
+

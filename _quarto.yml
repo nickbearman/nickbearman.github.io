@@ -19,6 +19,9 @@ website:
     right:
       - icon: rss
         href: blog.xml
+  page-footer: 
+    center: |
+      [Privacy Notice](privacy-notice.html) | [Contact](index.html)
 
 format:
   html:
