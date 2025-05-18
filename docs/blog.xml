@@ -763,7 +763,7 @@ font-style: inherit;">"Total Population of Liverpool, 2021"</span>)</span></code
 
 
 <p>In July I spent three days at <a href="https://geovation.uk/">Geovation</a> in London attending the OGC Open Standards Code Sprint. OGC, the <a href="https://www.ogc.org/">Open Geospatial Consortium</a> manage and approve standards for geospatial data. Many people working in geospatial have heard of them, and have at least a vague idea that they do geospatial standards, even if they don’t know the details of what they do - the position I was in! Dr.&nbsp;Gobe Hobona, Director of Product Management, Standards at OGC, is a regular attendee at FOSS4G:UK and other geo related conferences, and recommended I come along.</p>
-<table class="table">
+<table class="caption-top table">
 <colgroup>
 <col style="width: 50%">
 <col style="width: 50%">
@@ -921,7 +921,7 @@ font-style: inherit;">"Total Population of Liverpool, 2021"</span>)</span></code
 <p>Jurassic Fibre gave a great presentation about how their as-built survey validation process made use of in field tools to collect and verify data. They were comparing what was planned to be built against what was actually built, and had some great processes for managing this. It really shows not just how important data is, but also how important how linking different teams together is important to deliver a service.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://nickbearman.github.io/blog/2023-05-geoai-digital-twins/esri-ac-crop-1024x415.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<p><img src="https://nickbearman.github.io/blog/2023-05-geoai-digital-twins/esri-ac-crop-1024x415.jpg" class="img-fluid figure-img"></p>
 <figcaption>Discussions and catching-up at ESRI UK annual conference</figcaption>
 </figure>
 </div>

@@ -18,7 +18,7 @@ I have written 24 academic papers, two books ([Using R as a GIS](rgis.html) and 
 
 **Bearman, N. (2021)** [GIS: Research Methods](gis-research-methods.html), Bloomsbury: London.
 
-**Bearman, N. (2021)** Census 2021: why are some people completing it online and others have paper forms?, The Conversation, 18th March 2021, <https://theconversation.com/census-2021-why-are-some-people-completing-it-online-and-others-have-paper-forms-157380>, [extended version on my blog](https://www.nickbearman.com/blog/2021-03-census-2021/), reposted on [Geography Directions](https://blog.geographydirections.com/2021/03/19/census-2021-why-are-some-people-completing-it-online-and-others-have-paper-forms/).
+**Bearman, N. (2021)** Census 2021: why are some people completing it online and others have paper forms?, The Conversation, 18th March 2021, <https://theconversation.com/census-2021-why-are-some-people-completing-it-online-and-others-have-paper-forms-157380>, [extended version on blog](https://www.nickbearman.com/blog/2021-03-census-2021/), reposted on [Geography Directions](https://blog.geographydirections.com/2021/03/19/census-2021-why-are-some-people-completing-it-online-and-others-have-paper-forms/).
 
 **Bearman, N. (2018)** Scotland's most remote islands don't want to be in 'inset maps' any more, The Conversation, 6th Nov 2018, <https://theconversation.com/scotlands-most-remote-islands-dont-want-to-be-in-inset-maps-any-more-106139>.
 

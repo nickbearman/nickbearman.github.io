@@ -1,132 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://nickbearman.github.io/blog.html/blog.html</loc>
-    <lastmod>2024-09-20T08:45:28.966Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nickbearman.github.io/blog.html/index.html</loc>
-    <lastmod>2024-09-16T13:26:47.791Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nickbearman.github.io/blog.html/blog/24-09-new-website-quarto/index.html</loc>
-    <lastmod>2024-09-20T08:30:59.850Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nickbearman.github.io/blog.html/blog/2024-07-ogc-code-sprint/index.html</loc>
-    <lastmod>2024-07-15T10:18:42.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nickbearman.github.io/blog.html/blog/2022-02-spatial-r/index.html</loc>
-    <lastmod>2024-03-19T08:35:58.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nickbearman.github.io/blog.html/blog/2024-09-new-website-quarto/index.html</loc>
-    <lastmod>2024-09-20T10:11:38.661Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nickbearman.github.io/blog.html/blog/2023-09-icc/index.html</loc>
-    <lastmod>2023-11-19T14:57:08.481Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nickbearman.github.io/blog.html/blog/2022-11-foss4guklocal2022/index.html</loc>
-    <lastmod>2024-03-19T08:35:58.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nickbearman.github.io/blog.html/blog/2022-05-digital-twins/index.html</loc>
-    <lastmod>2024-03-19T08:35:58.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nickbearman.github.io/blog.html/blog/2021-07-video/index.html</loc>
-    <lastmod>2024-05-16T12:28:46.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nickbearman.github.io/blog.html/blog/2021-09-matrix/index.html</loc>
-    <lastmod>2024-05-16T12:28:46.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nickbearman.github.io/blog.html/blog/2022-11-foss4g-2022/index.html</loc>
-    <lastmod>2024-03-19T08:35:58.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nickbearman.github.io/blog.html/blog/2023-05-geoai-digital-twins/index.html</loc>
-    <lastmod>2024-03-19T08:35:58.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nickbearman.github.io/blog.html/blog/2024-01-arcmap-1999-2024/index.html</loc>
-    <lastmod>2024-03-19T08:35:58.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nickbearman.github.io/blog.html/writing-presentations.html</loc>
-    <lastmod>2024-09-20T09:44:35.944Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nickbearman.github.io/blog/index.html</loc>
-    <lastmod>2024-09-16T13:26:47.791Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nickbearman.github.io/blog/blog.html</loc>
-    <lastmod>2024-09-20T08:45:28.966Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nickbearman.github.io/blog/consultancy.html</loc>
-    <lastmod>2024-09-14T10:14:17.561Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nickbearman.github.io/blog/blog/2024-09-new-website-quarto/index.html</loc>
-    <lastmod>2024-09-20T10:11:38.661Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nickbearman.github.io/consultancy.html</loc>
-    <lastmod>2024-10-24T16:10:25.786Z</lastmod>
+    <loc>https://nickbearman.github.io/writing-presentations.html</loc>
+    <lastmod>2025-05-18T11:24:30.333Z</lastmod>
   </url>
   <url>
     <loc>https://nickbearman.github.io/training-courses.html</loc>
     <lastmod>2025-05-15T09:06:57.713Z</lastmod>
   </url>
   <url>
-    <loc>https://nickbearman.github.io/index.html</loc>
-    <lastmod>2025-04-20T15:53:21.981Z</lastmod>
+    <loc>https://nickbearman.github.io/readme.html</loc>
+    <lastmod>2023-11-19T14:35:27.151Z</lastmod>
   </url>
   <url>
-    <loc>https://nickbearman.github.io/blog.html</loc>
-    <lastmod>2024-09-20T08:45:28.966Z</lastmod>
+    <loc>https://nickbearman.github.io/installing-software/r-rstudio.html</loc>
+    <lastmod>2025-05-15T08:26:38.651Z</lastmod>
   </url>
   <url>
-    <loc>https://nickbearman.github.io/writing-presentations.html</loc>
-    <lastmod>2025-05-18T11:17:27.028Z</lastmod>
+    <loc>https://nickbearman.github.io/installing-software/qgis.html</loc>
+    <lastmod>2025-03-11T10:22:39.337Z</lastmod>
   </url>
   <url>
-    <loc>https://nickbearman.github.io/rgis.html</loc>
-    <lastmod>2025-05-18T07:49:09.432Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nickbearman.github.io/training-materials.html</loc>
-    <lastmod>2025-03-11T10:27:32.498Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nickbearman.github.io/blog/2024-13-foss4guk-2024-sw/index.html</loc>
-    <lastmod>2024-11-15T15:27:38.395Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nickbearman.github.io/blog/2025-01-foss4g-belem-brazil/index.html</loc>
-    <lastmod>2025-01-13T11:10:16.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nickbearman.github.io/blog/2024-09-new-website-quarto/index.html</loc>
-    <lastmod>2024-09-20T10:11:40.000Z</lastmod>
+    <loc>https://nickbearman.github.io/installing-software/geoda.html</loc>
+    <lastmod>2025-03-11T10:37:19.980Z</lastmod>
   </url>
   <url>
     <loc>https://nickbearman.github.io/gis-research-methods.html</loc>
     <lastmod>2025-02-28T13:17:36.158Z</lastmod>
   </url>
   <url>
+    <loc>https://nickbearman.github.io/blog.html</loc>
+    <lastmod>2024-09-20T08:45:28.966Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nickbearman.github.io/blog/2025-04-2-open-science-retreat/index.html</loc>
+    <lastmod>2025-04-28T15:24:55.991Z</lastmod>
+  </url>
+  <url>
     <loc>https://nickbearman.github.io/blog/2025-02-tmap-v4/index.html</loc>
     <lastmod>2025-02-11T10:19:45.589Z</lastmod>
   </url>
   <url>
-    <loc>https://nickbearman.github.io/installing-software/qgis.html</loc>
-    <lastmod>2025-03-11T10:22:39.337Z</lastmod>
+    <loc>https://nickbearman.github.io/blog/2024-13-foss4guk-2024-sw/index.html</loc>
+    <lastmod>2024-11-15T15:27:40.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nickbearman.github.io/blog/2024-07-ogc-code-sprint/index.html</loc>
+    <lastmod>2024-07-15T10:18:42.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nickbearman.github.io/blog/2023-09-icc/index.html</loc>
+    <lastmod>2023-11-19T14:57:08.481Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nickbearman.github.io/blog/2022-11-foss4guklocal2022/index.html</loc>
+    <lastmod>2024-03-19T08:35:58.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nickbearman.github.io/blog/2022-05-digital-twins/index.html</loc>
+    <lastmod>2024-03-19T08:35:58.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nickbearman.github.io/blog/2021-09-matrix/index.html</loc>
+    <lastmod>2024-05-16T12:28:46.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nickbearman.github.io/blog/2021-03-census-2021/index.html</loc>
+    <lastmod>2025-05-18T11:11:45.115Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nickbearman.github.io/blog/2021-07-video/index.html</loc>
+    <lastmod>2024-05-16T12:28:46.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nickbearman.github.io/blog/2022-02-spatial-r/index.html</loc>
+    <lastmod>2024-03-19T08:35:58.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nickbearman.github.io/blog/2022-11-foss4g-2022/index.html</loc>
+    <lastmod>2024-03-19T08:35:58.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nickbearman.github.io/blog/2023-05-geoai-digital-twins/index.html</loc>
+    <lastmod>2024-03-19T08:35:58.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nickbearman.github.io/blog/2024-01-arcmap-1999-2024/index.html</loc>
+    <lastmod>2024-03-19T08:35:58.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nickbearman.github.io/blog/2024-09-new-website-quarto/index.html</loc>
+    <lastmod>2024-09-20T10:11:38.661Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nickbearman.github.io/blog/2025-01-foss4g-belem-brazil/index.html</loc>
+    <lastmod>2025-01-13T11:10:16.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nickbearman.github.io/blog/2025-04-1-travel-to-interlaken/index.html</loc>
+    <lastmod>2025-04-29T07:37:06.948Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nickbearman.github.io/blog/2025-04-3-gisruk/index.html</loc>
+    <lastmod>2025-05-01T08:55:59.987Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nickbearman.github.io/consultancy.html</loc>
+    <lastmod>2024-10-24T16:10:26.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nickbearman.github.io/index.html</loc>
+    <lastmod>2025-04-20T15:53:22.000Z</lastmod>
   </url>
   <url>
     <loc>https://nickbearman.github.io/installing-software/index.html</loc>
@@ -137,31 +121,15 @@
     <lastmod>2025-03-11T10:32:00.611Z</lastmod>
   </url>
   <url>
-    <loc>https://nickbearman.github.io/installing-software/rstudio.html</loc>
-    <lastmod>2025-03-11T10:36:18.245Z</lastmod>
+    <loc>https://nickbearman.github.io/mailing-list.html</loc>
+    <lastmod>2024-05-13T15:47:30.000Z</lastmod>
   </url>
   <url>
-    <loc>https://nickbearman.github.io/installing-software/geoda.html</loc>
-    <lastmod>2025-03-11T10:37:19.980Z</lastmod>
+    <loc>https://nickbearman.github.io/rgis.html</loc>
+    <lastmod>2025-05-18T07:49:09.432Z</lastmod>
   </url>
   <url>
-    <loc>https://nickbearman.github.io/installing-software/r-rstudio.html</loc>
-    <lastmod>2025-05-15T08:26:38.651Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nickbearman.github.io/blog/2025-04-1-travel-to-interlaken/index.html</loc>
-    <lastmod>2025-04-29T07:37:06.948Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nickbearman.github.io/blog/2025-04-2-open-science-retreat/index.html</loc>
-    <lastmod>2025-04-28T15:24:55.991Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nickbearman.github.io/blog/2025-04-3-gisruk/index.html</loc>
-    <lastmod>2025-05-01T08:55:59.987Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nickbearman.github.io/blog/2021-03-census-2021/index.html</loc>
-    <lastmod>2025-05-18T11:11:45.115Z</lastmod>
+    <loc>https://nickbearman.github.io/training-materials.html</loc>
+    <lastmod>2025-03-11T10:27:32.498Z</lastmod>
   </url>
 </urlset>
