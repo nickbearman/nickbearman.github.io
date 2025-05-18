@@ -3,3 +3,9 @@
 body {
   background-color: #f7fcff;
 }
+
+/* Change background color of the footer */
+
+div.nav-footer {
+  background-color: #f7fcff; 
+}
