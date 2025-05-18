@@ -9,7 +9,7 @@
 <link>https://nickbearman.github.io/blog.html</link>
 <atom:link href="https://nickbearman.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>A blog on my teaching, open source GIS, travel and life</description>
-<generator>quarto-1.4.550</generator>
+<generator>quarto-1.7.31</generator>
 <lastBuildDate>Wed, 23 Apr 2025 23:00:00 GMT</lastBuildDate>
 <item>
   <title>GISRUK 2025 in Bristol</title>
@@ -1243,6 +1243,67 @@ font-style: inherit;">"Total Population of Liverpool, 2021"</span>)</span></code
   <guid>https://nickbearman.github.io/blog/2021-07-video/</guid>
   <pubDate>Thu, 01 Jul 2021 23:00:00 GMT</pubDate>
   <media:content url="https://nickbearman.github.io/blog/2021-07-video/Screenshot-2021-06-17-132224-Copy-1536x879.png" medium="image" type="image/png" height="82" width="144"/>
+</item>
+<item>
+  <title>Census 2021: Who gets a letter and who gets a paper form?</title>
+  <dc:creator>Nick Bearman</dc:creator>
+  <link>https://nickbearman.github.io/blog/2021-03-census-2021/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://theconversation.com/census-2021-why-are-some-people-completing-it-online-and-others-have-paper-forms-157380"><em>This is an extended article, which was originally posted on The Conversation on 18/03/2021.</em></a></p>
+<p>In England, Wales and Northern Ireland, we should all now have received either a letter with a 16 digit code or a paper form to fill in for the <a href="https://census.gov.uk/">2021 Census</a>. There are lots of great reasons why we should respond to the census, aside from it being a legal requirement. Among other things, it’s a good way to help provide an accurate snapshot of your community, which means people will <a href="https://census.gov.uk/about-the-census/why-you-should-take-part">get the services they needs at a local level</a>. <a href="https://theconversation.com/census-2021-why-its-important-to-take-part-and-what-happens-to-your-information-156684">The Conversation</a> and the <a href="https://blog.geographydirections.com/2021/03/15/geography-and-the-census/">Royal Geographical Society (with IBG)</a> have both posted more information about what the census is and why it is important.</p>
+<p><img src="https://nickbearman.github.io/blog/2021-03-census-2021/census-postcard-1-211x300.jpg" class="img-fluid"></p>
+<p>The census is a fascinating data set that’s vital to many areas of research and government decision making. It provides us with a count of the population, but also a wide range of demographic data like age, gender, family relationships, socio-economic information, ethno-cultural background, health, and some voluntary questions, including religious identity and sexuality.</p>
+<p>This is the first census that most people will be asked to complete online. However, some have received paper forms through the post, while others have just received a letter asking them to fill in the census online. Though the mechanics of the census may appear complex, the reasons why are actually quite straightforward.</p>
+<p>So who gets a letter, who gets a form and why? The <a href="https://www.ons.gov.uk/">Office for National Statistics (ONS)</a> (which is coordinating the census) has tried to determine who gets what by assessing which households are likely to find it impossible or more difficult to respond to the census online. These households (<a href="https://uksa.statisticsauthority.gov.uk/wp-content/uploads/2020/07/EAP113-Maximising-Response-Strategy-Overview.docx">around 10% of all households</a>) have been sent a paper form. Everyone else has received a letter with a code, asking them to complete the form online (however, it’s important to note that if you received a form, you can still respond online and if you got a letter, you can request a paper form if you want).</p>
+<section id="online-or-by-post" class="level3">
+<h3 class="anchored" data-anchor-id="online-or-by-post">Online or by post?</h3>
+<p>There are a number of good reasons for filling out your form online – it saves the ONS time and money when collating the results and means we can get more accurate data.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://nickbearman.github.io/blog/2021-03-census-2021/census-form-2-1-624x805.jpg" class="img-fluid figure-img"></p>
+<figcaption>The 2021 Census form</figcaption>
+</figure>
+</div>
+<p>You might be thinking: “what about my Aunt Muriel who received a letter? She doesn’t use the internet, why hasn’t she got a form?” This is because the ONS doesn’t know who’s able and willing to submit the form online – they can only model this based on the data they have.</p>
+<p>As statistician George Box <a href="https://www.imperial.ac.uk/business-school/news/all-models-are-wrong-some-are-useful/">said</a>: “All models are wrong, but some are useful”. This means that while the ONS has modelled who will (and who will not) respond online, even if they get 95% of people in the right group, there will be some errors.</p>
+<p>There’s a term for this in the field of Geographical Information Systems (often shortened to GIS, the systems and tools we use to manage and analyse location data) – an ecological fallacy. This means that there will be cases which contradict the ONS’s model. For those who the ONS has deemed unable or unwilling to complete the census form online, there will be some who don’t fit this criteria and vice versa. This is why the ONS has included a code on the forms. If you know someone who needs a form, but is having problems requesting one, you can request one on their behalf.</p>
+</section>
+<section id="the-hard-to-count-index" class="level2">
+<h2 class="anchored" data-anchor-id="the-hard-to-count-index">The hard to count index</h2>
+<p>How did the ONS model this information? The ONS created a <a href="https://uksa.statisticsauthority.gov.uk/wp-content/uploads/2020/07/EAP102-Hard-to-Count-index-for-the-2021-Census.docx">“hard to count”</a> index to measure who might not respond to the census (also used for the 2001 and 2011 censuses). However, the 2021 census is different as this is the first time it’s tried to do a census “online first”, which means the ONS also had to include the digitally excluded into its index.</p>
+<p>The key data used to drive this was <a href="https://www.ofcom.org.uk/research-and-data/multi-sector-research/infrastructure-research/connected-nations-2016/downloads">internet access data from Ofcom</a>, mobile internet connectivity (also from Ofcom) and information on who has already interacted with government websites (such as via the DVLA and HMRC). This data was used to create an area-based model, with each area assessed as either being able to complete the census online, or needing paper forms. Each area contains about 1,500 people and are known by the ONS as LSOAs (lower layer super output areas). This was tested and refined together with many other aspects of the census in the ONS’s big rehearsal for the census in 2019. There are lots more details in their report <a href="https://uksa.statisticsauthority.gov.uk/wp-content/uploads/2020/07/EAP102-Hard-to-Count-index-for-the-2021-Census.docx">EAP102 Hard to Count index for the 2021 Census</a>.</p>
+</section>
+<section id="internet-user-classification" class="level2">
+<h2 class="anchored" data-anchor-id="internet-user-classification">Internet User Classification</h2>
+<p>While ONS have not published their Hard to Count index, they have shared it with Local Authorities to help them target their census engagement work. A similar example looking at who is digitally excluded is the <a href="https://data.cdrc.ac.uk/dataset/internet-user-classification">Internet User Classification</a>, created by the <a href="https://data.cdrc.ac.uk/">Consumer Data Research Centre</a>, open and freely available for anyone to use. Here, they looked at a range of factors (including internet connectivity and usage) and created a geodemographic classification identifying who uses the internet (e.g.&nbsp;e-Cultural Creators, e-Professionals) and who does not (e.g.&nbsp;Settled Offline Communities and e-Withdrawn). Geodemographics have some advantages over indices, in that they can help describe who doesn’t have internet access, and can be used to identify specific measures to help address this and/or used to identify individuals or groups with specific characteristics.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://nickbearman.github.io/blog/2021-03-census-2021/cdrc-mapmaker.png" class="img-fluid figure-img"></p>
+<figcaption><a href="https://mapmaker.cdrc.ac.uk/#/internet-user-classification">CDRC Mapmaker</a>, showing <a href="https://data.cdrc.ac.uk/dataset/internet-user-classification">Internet User Classification</a> data.</figcaption>
+</figure>
+</div>
+<p>However, we need to remember our ecological fallacy from earlier – not everyone in “e-Cultural Creators” (the group with the highest level of internet access/use) will have access to the internet and not everyone in “e-Withdrawn” (the group with the lowest level of internet access/use) will not have access to the internet. It is a model – a useful model, but a model nonetheless. If you are interested in Geodemographics, CDRC have <a href="https://data.cdrc.ac.uk/dataset/advanced-gis-methods-training-iuc-and-k-means-clustering">a training course on Geodemographics, what they are and how you can create them <em>(free to access, but you need to sign up for an account)</em></a>.</p>
+<p>One other thing to consider is what if the model is wrong? No model is 100% correct, so there will always be people who are incorrectly allocated to one group or another. When using the model, this needs to be remembered, and the suitable infrastructure needs to be in place to support this (i.e.&nbsp;being able to request a paper form if you want one). How much resource this should be given is a tricky question – and one that varies depending on the impact of getting someone in the wrong group.</p>
+<p>Hopefully this helps explain the why question. There are many more details on the ONS website, particularly in their papers documenting the methods used to run the Census at <a href="https://uksa.statisticsauthority.gov.uk/about-the-authority/committees/methodological-assurance-review-panel-census/papers/">https://uksa.statisticsauthority.gov.uk/about-the-authority/committees/methodological-assurance-review-panel-census/papers/</a>, particularly the “hard to count” (EAP102) and “maximising response” (EAP113) papers. Thanks very much to David Martin (University of Southampton) for pointing me to the resources in question, Tom Chadwin for his suggestions improving this article, and Kuba Shand-Baptise at The Conversation for her comments and input. If you are interested in GIS and the Ecological Fallacy, I can recommend <a href="https://nickbearman.github.io/gis-research-methods.html">GIS: Research Methods (first chapter free online)</a>.</p>
+<p><a href="https://theconversation.com/census-2021-why-are-some-people-completing-it-online-and-others-have-paper-forms-157380"><em>This is an extended article, which was originally posted on The Conversation on 18/03/2021.</em></a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>census</category>
+  <category>data</category>
+  <category>GIS</category>
+  <category>maps</category>
+  <category>open source</category>
+  <category>The Conversation</category>
+  <guid>https://nickbearman.github.io/blog/2021-03-census-2021/</guid>
+  <pubDate>Thu, 18 Mar 2021 00:00:00 GMT</pubDate>
+  <media:content url="https://nickbearman.github.io/blog/2021-03-census-2021/census-form-2-1-624x805.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

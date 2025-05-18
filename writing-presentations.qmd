@@ -18,7 +18,7 @@ I have written 24 academic papers, two books ([Using R as a GIS](rgis.html) and 
 
 **Bearman, N. (2021)** [GIS: Research Methods](gis-research-methods.html), Bloomsbury: London.
 
-**Bearman, N. (2021)** Census 2021: why are some people completing it online and others have paper forms?, The Conversation, 18th March 2021, <https://theconversation.com/census-2021-why-are-some-people-completing-it-online-and-others-have-paper-forms-157380>, [extended version on nickbearman.me.uk](https://www.nickbearman.me.uk/2021/03/census-2021-who-gets-a-letter-and-who-gets-a-paper-form/).
+**Bearman, N. (2021)** Census 2021: why are some people completing it online and others have paper forms?, The Conversation, 18th March 2021, <https://theconversation.com/census-2021-why-are-some-people-completing-it-online-and-others-have-paper-forms-157380>, [extended version on my blog](https://www.nickbearman.com/blog/2021-03-census-2021/), reposted on [Geography Directions](https://blog.geographydirections.com/2021/03/19/census-2021-why-are-some-people-completing-it-online-and-others-have-paper-forms/).
 
 **Bearman, N. (2018)** Scotland's most remote islands don't want to be in 'inset maps' any more, The Conversation, 6th Nov 2018, <https://theconversation.com/scotlands-most-remote-islands-dont-want-to-be-in-inset-maps-any-more-106139>.
 
@@ -172,7 +172,7 @@ Liverpool: Centre for Spatial Demographics Research, University of Liverpool. <
 
 **Bearman, N. (2023)** Chapter 21. The Geovisualisation of Big Data, In Kent, A.J. & Specht, D. (eds.) , [The Routledge Handbook of Geospatial Technologies and Society](https://www.routledge.com/The-Routledge-Handbook-of-Geospatial-Technologies-and-Society/Kent-Specht/p/book/9780367428877), Routledge.
 
-**Bearman, N. (2021)** Census 2021: why are some people completing it online and others have paper forms?, The Conversation, 18th March 2021, <https://theconversation.com/census-2021-why-are-some-people-completing-it-online-and-others-have-paper-forms-157380>, [extended version on nickbearman.me.uk](https://www.nickbearman.me.uk/2021/03/census-2021-who-gets-a-letter-and-who-gets-a-paper-form/), reposted on [Geography Directions](https://blog.geographydirections.com/2021/03/19/census-2021-why-are-some-people-completing-it-online-and-others-have-paper-forms/).
+**Bearman, N. (2021)** Census 2021: why are some people completing it online and others have paper forms?, The Conversation, 18th March 2021, <https://theconversation.com/census-2021-why-are-some-people-completing-it-online-and-others-have-paper-forms-157380>, [extended version on my blog](https://www.nickbearman.com/blog/2021-03-census-2021/), reposted on [Geography Directions](https://blog.geographydirections.com/2021/03/19/census-2021-why-are-some-people-completing-it-online-and-others-have-paper-forms/).
 
 **Bearman, N. (2020)** PDR and the Pandemic, xyHt Magazine, November 2020, [https://www.xyht.com/education/pdr-and-the-pandemic/.](https://www.xyht.com/education/pdr-and-the-pandemic/)
 
