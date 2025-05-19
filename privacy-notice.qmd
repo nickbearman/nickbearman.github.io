@@ -204,6 +204,8 @@ QuickFile store account information in the UK, United Stated, Ireland and Nether
 
 Files related to projects I am working on (including details related to your project, if you hire me!) are stored on GitHub in private repositories. This is subject to their [Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). 
 
+Project management related information (including emails and correspondence) are stored on Asana, on a Personal plan, subject to their [Privacy policy](https://asana.com/terms). 
+
 I also take the precaution of encrypting some files with TrueCrypt (https://www.grc.com/misc/truecrypt/truecrypt.htm) which can also be arranged for your project if required.
 
 Other storage can be arranged if you prefer. Please contact me for more details. 
