@@ -174,6 +174,8 @@ Liverpool: Centre for Spatial Demographics Research, University of Liverpool. [L
 
 **Bearman, N. (2023)** Chapter 21. The Geovisualisation of Big Data, In Kent, A.J. & Specht, D. (eds.) , [The Routledge Handbook of Geospatial Technologies and Society](https://www.routledge.com/The-Routledge-Handbook-of-Geospatial-Technologies-and-Society/Kent-Specht/p/book/9780367428877), Routledge.
 
+**Bearman, N. (2022)** Supporting Free and Open-Source Software, xyHt Magazine, July 2022, [https://www.xyht.com/education/supporting-free-and-open-source-software/.](https://www.xyht.com/education/supporting-free-and-open-source-software/)
+
 **Bearman, N. (2021)** Census 2021: why are some people completing it online and others have paper forms?, The Conversation, 18th March 2021, <https://theconversation.com/census-2021-why-are-some-people-completing-it-online-and-others-have-paper-forms-157380>, [extended version on my blog](https://www.nickbearman.com/blog/2021-03-census-2021/), reposted on [Geography Directions](https://blog.geographydirections.com/2021/03/19/census-2021-why-are-some-people-completing-it-online-and-others-have-paper-forms/).
 
 **Bearman, N. (2020)** PDR and the Pandemic, xyHt Magazine, November 2020, [https://www.xyht.com/education/pdr-and-the-pandemic/.](https://www.xyht.com/education/pdr-and-the-pandemic/)
