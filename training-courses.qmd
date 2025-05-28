@@ -22,7 +22,7 @@ If you would like a course run for a group of you, or have any questions, then p
 
 |              | Introductory         | Advanced                               |
 |--------------|-----------------------------------|-----------------------|
-| R | [Introduction to Spatial Data and Using R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis) *May 2025*   | [Advanced R as a GIS: Spatial Analysis and Statistics](#advanced-R-as-a-gis:-spatial-analysis-and-statistics) *June 2025* | [Advanced R as a GIS: Spatial Analysis and Statistics](#advanced-R-as-a-gis:-spatial-analysis-and-statistics)  
+| R | [Introduction to Spatial Data and Using R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis) <!--*May 2025*-->   | [Advanced R as a GIS: Spatial Analysis and Statistics](#advanced-R-as-a-gis:-spatial-analysis-and-statistics) *June 2025* | [Advanced R as a GIS: Spatial Analysis and Statistics](#advanced-R-as-a-gis:-spatial-analysis-and-statistics)  
 | QGIS     |  [Introduction to QGIS: Understanding and Presenting Spatial Data]\* <!-- *April 2025* -->              | [Confident Spatial Analysis in QGIS](#confident-spatial-analysis-in-qgis)\* <!-- *April 2025*  -->  |
 
 
@@ -41,9 +41,9 @@ No previous experience of coding is required, although participants would benefi
 
 <!-- [Tue 4th and Wed 5th March 2025, 10am - 1pm (UK/London), online, InStats.](https://instats.org/seminar/introduction-to-spatial-data-and-r-as-a-2) -->
 
-[Tue 27th and Wed 28th May 2025, 10am – 1pm (UK/London), online, NCRM.](https://www.ncrm.ac.uk/training/show.php?article=13706)
+<!-- [Tue 27th and Wed 28th May 2025, 10am – 1pm (UK/London), online, NCRM.](https://www.ncrm.ac.uk/training/show.php?article=13706) -->
 
-<!-- [No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
+[No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html)
 
 *[You can access this course in an On-Demand format via InStats. ](https://instats.org/seminar/introduction-to-spatial-data-and-r-as-a-2) This gives you access to training materials, the recordings, and a discussion forum if you have questions, for 30 days.*
 
