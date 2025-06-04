@@ -22,7 +22,7 @@ If you would like a course run for a group of you, or have any questions, then p
 
 |              | Introductory         | Advanced                               |
 |--------------|-----------------------------------|-----------------------|
-| R | [Introduction to Spatial Data and Using R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis) <!--*May 2025*-->   | [Advanced R as a GIS: Spatial Analysis and Statistics](#advanced-R-as-a-gis:-spatial-analysis-and-statistics) *June 2025* | [Advanced R as a GIS: Spatial Analysis and Statistics](#advanced-R-as-a-gis:-spatial-analysis-and-statistics)  
+| R | [Introduction to Spatial Data and Using R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis) <!--*May 2025*-->   | [Advanced R as a GIS: Spatial Analysis and Statistics](#advanced-R-as-a-gis:-spatial-analysis-and-statistics) <!-- *June 2025* --> | [Advanced R as a GIS: Spatial Analysis and Statistics](#advanced-R-as-a-gis:-spatial-analysis-and-statistics)  
 | QGIS     |  [Introduction to QGIS: Understanding and Presenting Spatial Data]\* <!-- *April 2025* -->              | [Confident Spatial Analysis in QGIS](#confident-spatial-analysis-in-qgis)\* <!-- *April 2025*  -->  |
 
 
@@ -82,9 +82,9 @@ In this two part course we will show you how to prepare and conduct spatial anal
 ::::
 :::
 
-[Tue 3rd and Wed 4th June 2025, 10am – 1pm (UK/London), online.](https://www.ncrm.ac.uk/training/show.php?article=13707)
+<!-- [Tue 3rd and Wed 4th June 2025, 10am – 1pm (UK/London), online.](https://www.ncrm.ac.uk/training/show.php?article=13707) -->
 
-<!-- [No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
+[No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html)
 
 ----
 
