@@ -326,7 +326,7 @@
     "href": "installing-software/geoda.html#windows",
     "title": "Installing Software - GeoDa",
     "section": "Windows",
-    "text": "Windows\n\nOpen a web browser and go to http://geodacenter.github.io/.\n\nClick Download.\n\nClick Download for Windows.\n\nDownload GeoDa 1.22.0.14 (1/30/2025). Select the 64 bit version, unless you have a very old computer, or know that you need the 32 bit version.\n\nRun through the program installation process.\n\nIf Windows says “Windows protected your PC”, it may have blocked installation. Choose More info and then Run anyway to install GeoDa."
+    "text": "Windows\n\nOpen a web browser and go to http://geodacenter.github.io/.\n\nClick Download.\n\nClick Download for Windows.\n\nDownload GeoDa 1.22.0.14 (1/30/2025). Select the 64 bit version, unless you have a very old computer, or know that you need the 32 bit version.\n\nRun GeoDa_1.22_win7+x64_Setup.exe from within the zip file.\nIf Windows says “Windows protected your PC”, it may have blocked installation. Choose More info and then Run anyway to install GeoDa.\nRun through the program installation process."
   },
   {
     "objectID": "installing-software/geoda.html#mac-osx",

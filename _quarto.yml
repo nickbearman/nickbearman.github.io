@@ -21,7 +21,7 @@ website:
         href: blog.xml
   page-footer: 
     center: |
-      [Privacy Notice](privacy-notice.html) | [Contact](index.html)
+      [Privacy Notice](https://nickbearman.github.io/privacy-notice.html) | [Contact](https://nickbearman.github.io/index.html)
 
 format:
   html:
