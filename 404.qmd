@@ -4,6 +4,23 @@
 
 Sorry - this page can't be found. 
 
+::: columns
+:::: {.column width="45%"}
+
+A bit like Wales in this map:
+
+[![](images/eurostat_yearbook_2004_clipped.jpg){width=80%}](404-info.html)
+
+::::
+:::: {.column width="45%"}
+
+Or New Zealand in many world maps:
+
+[![](images/new-zealand-missing.png){width=80%}](404-info.html)
+
+::::
+:::
+
 I have recently (end 2024) launched a new website (see [blog post](blog/2024-09-new-website-quarto/)) so this may be an old link. 
 
 Please try using the search above ![](images/search.png) to find what you are looking for. 
