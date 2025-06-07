@@ -144,7 +144,7 @@ In terms of how we show maps, v3 had `plot` and `view` modes, but this new frame
 
 Equally, tmap is based on `sf` and `stars`, but the new framework will make it easier to work with other spatial classes, such as `SpatRaster` and `SpatVector` from `terra`.
 
-A nice overview for those already familiar with tmap is at [http://mtennekes.github.io/tmap4/](http://mtennekes.github.io/tmap4/) (originally posted in 2021). The website also had a new range of [tutorials](https://r-tmap.github.io/tmap/) under **Basics** and **Advanced** which are in the process of being developed. 
+A nice overview for those already familiar with tmap was at http://mtennekes.github.io/tmap4/ (originally posted in 2021, now removed 2025). A summary of the changes is on [GitHub](https://r-tmap.github.io/tmap/news/index.html?q=v3#tmap-40). The website also had a new range of [tutorials](https://r-tmap.github.io/tmap/) under **Basics** and **Advanced** which are in the process of being developed. 
 
 The fact the tutorials (and the whole website) are built using `pkgdown` means that it is very easy to open the relevant page on GitHub and make changes. For example, I added a [fixed breaks example](https://github.com/r-tmap/tmap/pull/1033) to the [Basic Scales](https://r-tmap.github.io/tmap/articles/basics_scales) page. 
 

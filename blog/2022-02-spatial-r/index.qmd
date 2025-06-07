@@ -28,6 +28,6 @@ The We Are R Ladies group on Twitter did a very good Twitter thread about these 
 
 ![](twitter.png)
 
-My introductory course is now fully transitioned to sf, and the practical is available under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license at <https://github.com/nickbearman/intro-r-spatial-analysis>. I will next be running this course as part of the [GeoIgnite conference in Canada, on 9th March](https://www.geospatialtrainingsolutions.co.uk/training-courses/). I will also be running this course again the future, please sign up to my mailing list to find out when I have confirmed more dates.
+My introductory course is now fully transitioned to sf, and the practical is available under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license at <https://github.com/nickbearman/intro-r-spatial-analysis>. I will next be running this course as part of the [GeoIgnite conference in Canada, on 9th March](https://nickbearman.github.io/training-courses.html). I will also be running this course again the future, please sign up to my mailing list to find out when I have confirmed more dates.
 
 Next on the list is updating the Advanced course, Confident Spatial Analysis and Statistics in R & GeoDa and moving this from sp to sf, which is going to be quite a job. A summer project, perhaps....!

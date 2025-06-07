@@ -22,7 +22,7 @@ With this approach 9 out of 10 people usually put their video on and it makes it
 
 ![Participants in one of my training courses sharing their videos](screenshot-participants-1536x610.png)
 
-I recently attended two conferences ([AGILE 2021](https://agile-online.org/index.php/conference-2021/home-2021) and [Coding in the Open](https://codingedi.github.io/)), where only the people presenting shared their video, and the attendees did not. There have been many conferences like this, and at some conferences attendees do not have a choice (e.g. if you are using Zoom Webinar, the audience can not share their video).
+I recently attended two conferences ([AGILE 2021](https://agile-gi.eu/past-conferences/agile-conferences/agile-2021-virtual) and [Coding in the Open](https://codingedi.github.io/)), where only the people presenting shared their video, and the attendees did not. There have been many conferences like this, and at some conferences attendees do not have a choice (e.g. if you are using Zoom Webinar, the audience can not share their video).
 
 However for these conferences, there was a choice (AGILE used a standard [Zoom](https://zoom.us/) room, and Coding in the Open used [Bluejeans](https://bluejeans.com/)). For AGILE, the organisers asked participants to turn on their cameras for a group photo! About two-thirds or so of people did turn their cameras on the for [photo](https://agile2021.senselab.tuc.gr/social-events/). However as soon as the photo was done, people turned their cameras off again.
 
