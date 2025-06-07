@@ -2,7 +2,7 @@
 title: "To video, or not to video"
 author: "Nick Bearman"
 date: "2021-07-02"
-categories: [open source, teaching, conference, online, remote]
+categories: [GIS, GISRUK, conference, online, remote]
 image: "Screenshot-2021-06-17-132224-Copy-1536x879.png"
 ---
 

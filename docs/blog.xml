@@ -1235,14 +1235,59 @@ font-style: inherit;">"Total Population of Liverpool, 2021"</span>)</span></code
 
 
  ]]></description>
-  <category>open source</category>
-  <category>teaching</category>
+  <category>GIS</category>
+  <category>GISRUK</category>
   <category>conference</category>
   <category>online</category>
   <category>remote</category>
   <guid>https://nickbearman.github.io/blog/2021-07-video/</guid>
   <pubDate>Thu, 01 Jul 2021 23:00:00 GMT</pubDate>
   <media:content url="https://nickbearman.github.io/blog/2021-07-video/Screenshot-2021-06-17-132224-Copy-1536x879.png" medium="image" type="image/png" height="82" width="144"/>
+</item>
+<item>
+  <title>GISRUK 2021: Online II</title>
+  <dc:creator>Nick Bearman</dc:creator>
+  <link>https://nickbearman.github.io/blog/2021-06-gisruk-2021-online-ii/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>We had a great GISRUK conference this year. We were online again (as we were in <a href="../2020-07-gisruk-a-brave-new-world/index.html">2020</a>), because of Covid-19, with Scott Orford at Cardiff University hosting, we had a really smooth running online conference. There was a very strong field of submissions, with 24 short papers and 43 long papers being presented, with a significant proportion being presented by Early Career Researchers. The papers themselves and the recordings are all available on the <a href="http://cardiff.gisruk.org/">GISRUK website</a>. Attendance was also very good, with typically &gt;100 people attending the keynotes and &gt;50 people in each of the presentation sessions.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://nickbearman.github.io/blog/2021-06-gisruk-2021-online-ii/no-names.png" class="img-fluid figure-img"></p>
+<figcaption>Attendance at GISRUK was very good</figcaption>
+</figure>
+</div>
+<p>I coordinated the Early Career Workshop sessions before the main conference, and while I am biassed, I think they went really well, and the ECRs who attended said they were really useful sessions. The main sessions were on Zoom, and we also experimented a bit with the Wonder.me platform for a quiz and networking, which worked really well.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://nickbearman.github.io/blog/2021-06-gisruk-2021-online-ii/wonder-me.png" class="img-fluid figure-img"></p>
+<figcaption>Quiz and Social on Wonder.me</figcaption>
+</figure>
+</div>
+<p>As ever with GISRUK we had an incredibly wide range of topic presented, from new spatial methods to big data, spatial inequalities and participatory GIS. Uber’s H3 hexagonal grid appeared several times, being a really useful new geography for many types of analysis. One of the big positives is the fact that indexing is a lot easier when working with this geography. It was also great to see presentations from the commercial sector, including Tomas Holderness from AddressCloud, presenting on their work with serverless infrastructure.</p>
+<p>GISRUK awards prizes, and this year I managed to actually see most of the winners – parallel sessions makes this a challenge, and there have been years I haven’t seen any of the winners! This years winners were:</p>
+<ul>
+<li><strong>Best Long Paper</strong>: 23 Naturally Urban? Tackling Inequalities in Urban Greenspace and Wellbeing, by Victoria Houlden</li>
+<li><strong>Best Short Paper</strong>: 53 Georeferencing historical telephone directories to understand innovation diffusion and social change, by Nikki Tanu, Maurizio Gibin and Paul Longley</li>
+<li><strong>Best ECR Paper</strong>: 65 Do we need legends? An eye tracking study, by Jess Hepburn, David Fairbairn, Philip James and Alistair Ford</li>
+<li><strong>Best ECR Paper</strong>: 48 Geo-information tools for stakeholder engagement in environmental decision-making: “best practice” recommendations from a UK case study, by Caitlin Hafferty, Robert Berry and Scott Orford</li>
+<li><strong>CASA Prize</strong>: in the memory of Sinesio Alves Junior Prize, 38 Profiling the Dynamic Pattern of Bike-sharing Stations: a case study of Citi Bike in New York City, by Yunzhe Liu, Meixu Chen, Daniel Arribas-Bel and Alex Singleton</li>
+</ul>
+<p>The papers from GISRUK are also now available on Zonodo, a long term repository where all GISRUK papers will now be kept. The presentations were also videoed, and the recordings are now available. Next year University of Liverpool are hosting GISRUK, and hopefully we will be back to an in person conference then! Looking forward to seeing you there!</p>
+
+
+
+ ]]></description>
+  <category>GISRUK</category>
+  <category>GIS</category>
+  <category>conference</category>
+  <category>online</category>
+  <guid>https://nickbearman.github.io/blog/2021-06-gisruk-2021-online-ii/</guid>
+  <pubDate>Wed, 02 Jun 2021 23:00:00 GMT</pubDate>
+  <media:content url="https://nickbearman.github.io/blog/2021-06-gisruk-2021-online-ii/no-names.png" medium="image" type="image/png" height="83" width="144"/>
 </item>
 <item>
   <title>Census 2021: Who gets a letter and who gets a paper form?</title>
@@ -1304,6 +1349,154 @@ font-style: inherit;">"Total Population of Liverpool, 2021"</span>)</span></code
   <guid>https://nickbearman.github.io/blog/2021-03-census-2021/</guid>
   <pubDate>Thu, 18 Mar 2021 00:00:00 GMT</pubDate>
   <media:content url="https://nickbearman.github.io/blog/2021-03-census-2021/census-form-2-1-624x805.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>GISRUK2020: A brave new world</title>
+  <dc:creator>Nick Bearman</dc:creator>
+  <link>https://nickbearman.github.io/blog/2020-07-gisruk-a-brave-new-world/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="https://nickbearman.github.io/blog/2020-07-gisruk-a-brave-new-world/gisruk-logo.png" class="img-fluid figure-img" width="333"></p>
+<figcaption>GISRUK Logo</figcaption>
+</figure>
+</div>
+<p>Online conferences are everywhere now – and everything now has online as a prefix. The GISRUK 2020 conference was no exception, and originally scheduled for 21th – 24th April, it was postponed and moved online, to 21st to 23rd July. <a href="http://www.gisruk.org/">GISRUK</a> is the largest annual GIS research conference, bringing together academics, researchers and students, as well as those from government, commercial and other sectors interested in GIS and its applications.</p>
+<p>We had a excellent selection of <a href="http://london.gisruk.org/programme.php">keynotes</a>, including <a href="https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/people/prof-tao-cheng">Tao Cheng</a>, <a href="https://environment.leeds.ac.uk/geography/staff/1005/professor-mark-birkin">Mark Birkin</a>, <a href="https://brunosan.eu/">Bruno Sánchez-Andrade Nuño</a> and <a href="https://geog.ucsb.edu/~jano/">Krzysztof Janowicz</a>. One theme that cropped up several times was that of networks and graphs as a new spatial data format, that one day might sit alongside vector and raster data sets – I will need to update my Intro to GIS slides! Tao talked about how we can think about networks underpinning urban areas, that we can turn any spatial data structure into a network, and that often the network links are much more important that the nodes themselves. Also, graphs and networks lend themselves to temporal data, with network links changing over time, which traditional GIS data structures have struggled to capture. Krzysztof Janowicz extended this to talk about knowledge graphs, linked data and the semantic web, and how graphs as a data structure underpin this. This allowed him and his team to develop knowledge based geo-enrichment, allowing us to ask questions of data that required both geo and non-geo inputs. He also included a great quote:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://nickbearman.github.io/blog/2020-07-gisruk-a-brave-new-world/spatial-turn.png" class="img-fluid figure-img"></p>
+<figcaption>Spatial Turn Quote</figcaption>
+</figure>
+</div>
+<p>As usual at GISRUK, there were a great selection of ECR presentations, showing a huge diversity of PhD and ECR work (and even some MSc work!). Of particular note for me was <a href="https://www.ncl.ac.uk/engineering/research/civil/geospatial/phd-students/profiles/gilberttompgr.html">Thomas Gilbert</a> talking about <a href="http://london.gisruk.org/gisruk2020_proceedings/GISRUK2020_paper_19.pdf">VocalGeo: Using Speech to Provide Geospatial Context in the Classroom</a>, using voice input in a classroom setting to control a digital globe. I was also very impressed by <a href="https://twitter.com/TimnaPix">Timna Denwood</a>, presenting her work on <a href="http://london.gisruk.org/gisruk2020_proceedings/GISRUK2020_paper_44.pdf">Alternative Interfaces for Improved Representation in Web-Based PPGIS</a>, using an example of the islands of Barra &amp; Vatersay, the western most inhabited part of Great Britain.</p>
+<section id="social-elements-and-networking" class="level2">
+<h2 class="anchored" data-anchor-id="social-elements-and-networking">Social Elements and Networking</h2>
+<p>No conference is complete without the social element, and I have yet to attend a conference that truly cracks this problem. No amount of video conferencing software can replicate waiting in line for lunch and having a chat with whoever happens to be there! GISRUK has a social roulette space where people could go and chat, but it didn’t get a lot of use, potentially because of timing and a 10:00 – 17:00 programme being quite full on. Two elements that worked really well and created a good range of social interaction was the social quiz and tea time conversation with Sarah Wise. James Haworth confirmed the British tradition of being great at creating quizzes by putting together a four round quiz for us; identifying universities based on their logos, identifying cities that GISRUK had been to before based on interesting facts (e.g where was Marks and Spencer founded?), some great GCSE Geography questions(!) and identifying cities based on aerial photos.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>A massive “well done” to <a href="https://twitter.com/a_ballatore"><span class="citation" data-cites="a_ballatore">@a_ballatore</span></a> and <a href="https://twitter.com/SpaceTimeJames"><span class="citation" data-cites="SpaceTimeJames">@SpaceTimeJames</span></a> for a fantastic first day of the first virtual <a href="https://twitter.com/GISRUK"><span class="citation" data-cites="GISRUK">@GISRUK</span></a> conference! 👏👏👏</p>
+<p>Maybe an easier social quiz next year? Not that I am embarrassed by my 15/40 score or anything, but… 😅</p>
+<p>— Stef De Sabbata (<span class="citation" data-cites="maps4thought">@maps4thought</span>) <a href="https://twitter.com/maps4thought/status/1285619157313232897">July 21, 2020</a></p>
+</div>
+</div>
+<p>Social wise, this was continued the following evening by an absolutely amazing panel discussion hosted by <a href="https://www.ucl.ac.uk/bartlett/casa/dr-sarah-wise">Sarah Wise</a>. The panel, <a href="https://www.linkedin.com/in/denisemckenzie">Denise McKenzie</a> (Benchmark Initiative, Geovation, UK), <a href="http://www0.cs.ucl.ac.uk/staff/l.capra/">Licia Capra</a> (Professor of Pervasive Computing, Department of Computer Science, University College London) &amp; <a href="http://www.buffalo.edu/cas/geography/faculty/faculty_directory/monica-stephens.html">Monica Stephens</a> (Ph.D., University of Arizona, 2012), fielded Sarah’s questions with ease and provided amazing insight into their current work, challenges facing the GIS community. She also included some fun questions, including your favourite game (I’m glad to see Settlers of Catan was mentioned several times!), and what tattoo would you get to represent your work, in a reflective, pessimistic Pacific Rim style (I can’t remember the exact phrasing – please do comment if you remember!). Monica advised everyone to start blogging and putting your thoughts out there – something I can heartily recommend. Denise also gave some great careers advice for the ECRs (and all of us) listening – be open to what opportunities come your way, and that no-one would have been able to describe her current role to her when she was 21! This particularly resonates with me; my career plan was to do the traditional academic path and become a lecturer, professor etc. and I have taken a wildly different route, but suffice to say that I am happy with what I am doing, and happier that I think I would be if I was a lecturer (although that is another blog post!).</p>
+<p><img src="https://nickbearman.github.io/blog/2020-07-gisruk-a-brave-new-world/benjamin-hennig-tweet.png" class="img-fluid"></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Great to see a women-only panel in the <span class="citation" data-cites="GISRUK">@GISRUK</span> live session this afternoon which is just about to start. GISRUK live interviews: A tea time conversation with Sarah Wise • guests: Denise McKenzie • Licia Capra • Monica Stephens #gisruk2020 #womeninGIS — Benjamin Hennig (<span class="citation" data-cites="geoviews">@geoviews</span>) July 22, 2020</p>
+</div>
+</div>
+</section>
+<section id="accessibility-and-global-reach" class="level2">
+<h2 class="anchored" data-anchor-id="accessibility-and-global-reach">Accessibility and Global Reach</h2>
+<p>One massive plus of the online model is that it increases accessibility, and we had a great many more people register for GISRUK online than in person (~600 registrations, compared with 200 in person). We had people from all across the world, which is a great change to our usual UK and northern Europe focus.</p>
+</section>
+<section id="award-winners" class="level2">
+<h2 class="anchored" data-anchor-id="award-winners">Award Winners</h2>
+<p>As usual, GISRUK gives prizes to the Best Paper and Best Short Paper, voted on by the attendees. I would like to offer my congratulations to the prize winners this year:</p>
+<section id="best-paper" class="level3">
+<h3 class="anchored" data-anchor-id="best-paper">Best Paper</h3>
+<p><strong>Timna Denwood</strong><br>
+<a href="http://london.gisruk.org/gisruk2020_proceedings/GISRUK2020_paper_44.pdf">Alternative Interfaces for Improved Representation in Web-Based PPGIS</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Proper chuffed to win the award for Best Paper ar <a href="https://twitter.com/GISRUK"><span class="citation" data-cites="GISRUK">@GISRUK</span></a> !!</p>
+<p>Not sure Phoebe the pup appreciates how exciting this is however… 🤣🍻🎉</p>
+<p>— Timna (<span class="citation" data-cites="TimnaPix">@TimnaPix</span>) <a href="https://twitter.com/TimnaPix/status/1286331110922878976">July 23, 2020</a></p>
+</div>
+</div>
+</section>
+<section id="best-short-paper" class="level3">
+<h3 class="anchored" data-anchor-id="best-short-paper">Best Short Paper</h3>
+<p><strong><a href="https://www.southampton.ac.uk/geography/about/staff/ctl1m14.page">Christopher Lloyd</a></strong><br>
+<a href="http://london.gisruk.org/gisruk2020_proceedings/GISRUK2020_paper_42.pdf">Using machine learning to classify urban building footprints into residential / non-residential categories, in low income settings</a></p>
+</section>
+<section id="casa-award-for-best-spatial-analysis" class="level3">
+<h3 class="anchored" data-anchor-id="casa-award-for-best-spatial-analysis">CASA Award for Best Spatial Analysis</h3>
+<p><strong><a href="https://www.research.manchester.ac.uk/portal/sm.labib.html">SM Labib</a></strong><br>
+<a href="http://london.gisruk.org/gisruk2020_proceedings/GISRUK2020_paper_11.pdf">Greenness visibility using viewshed analysis: A pilot study in Manchester</a></p>
+<p><img src="https://nickbearman.github.io/blog/2020-07-gisruk-a-brave-new-world/kirsty-tweet.png" class="img-fluid"></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>And also a big congrats to <a href="https://twitter.com/smlabib"><span class="citation" data-cites="smlabib">@smlabib</span></a> CASA prize for spatial analysis 🎉🥳 v cool 3D visualisations! <a href="https://twitter.com/GISRUK"><span class="citation" data-cites="GISRUK">@GISRUK</span></a> #gisruk2020 #spatialanalysis</p>
+<p>— Kirsty Watkinson (<span class="citation" data-cites="KLWatkinson">@KLWatkinson</span>) <a href="https://twitter.com/KLWatkinson/status/1286326267428638720">July 23, 2020</a></p>
+</div>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://nickbearman.github.io/blog/2020-07-gisruk-a-brave-new-world/jonny-tweet.png" class="img-fluid figure-img"></p>
+<figcaption>Congratulations to <a href="https://twitter.com/UoM_MCGIS"><span class="citation" data-cites="UoM_MCGIS">@UoM_MCGIS</span></a>, <a href="https://twitter.com/GeographyUOM"><span class="citation" data-cites="GeographyUOM">@GeographyUOM</span></a> PhD students <a href="https://twitter.com/TimnaPix"><span class="citation" data-cites="TimnaPix">@TimnaPix</span></a> and <a href="https://twitter.com/smlabib"><span class="citation" data-cites="smlabib">@smlabib</span></a> for winning Best Paper and the CASA Award for Best Spatial Analysis respectively at <a href="https://twitter.com/GISRUK"><span class="citation" data-cites="GISRUK">@GISRUK</span></a>! #GISRUK2020 — Jonny Huck (<span class="citation" data-cites="jonnyhuck">@jonnyhuck</span>) <a href="https://twitter.com/jonnyhuck/status/1286325893682651139">July 23, 2020</a></figcaption>
+</figure>
+</div>
+</section>
+</section>
+<section id="conference-organization" class="level2">
+<h2 class="anchored" data-anchor-id="conference-organization">Conference Organization</h2>
+<p>Every year the local organising committee do a fantastic job pulling the conference together, and <a href="http://www.bbk.ac.uk/geography/our-staff/full-time-academic-staff/andrea-ballatore">Andrea Ballatore</a> (Brikbeck) and <a href="https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/people/dr-james-haworth">James Haworth</a> (UCL) did a great job this year:</p>
+<p><img src="https://nickbearman.github.io/blog/2020-07-gisruk-a-brave-new-world/andrea-tweet.png" class="img-fluid"></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Quite surreal to run an international conference from this strategic command centre in the Italian Alps. ⛰️⛰️⛰️ <a href="https://twitter.com/GISRUK"><span class="citation" data-cites="GISRUK">@GISRUK</span></a> #gisruk2020 #italy #sunset</p>
+<p>— Andrea Ballatore 🗺️🇺🇦 (<span class="citation" data-cites="a_ballatore">@a_ballatore</span>) <a href="https://twitter.com/a_ballatore/status/1286019366669221889">July 22, 2020</a></p>
+</div>
+</div>
+<p>Finally, I look forward to seeing you at the next GISRUK, which will be hosted by Cardiff University. Details to follow, please <a href="http://www.gisruk.org/index.html#signup">join the mailing list</a> to find out more.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Blog Posts</category>
+  <category>GIS</category>
+  <category>Conference</category>
+  <guid>https://nickbearman.github.io/blog/2020-07-gisruk-a-brave-new-world/</guid>
+  <pubDate>Thu, 23 Jul 2020 23:00:00 GMT</pubDate>
+  <media:content url="https://nickbearman.github.io/blog/2020-07-gisruk-a-brave-new-world/gisruk-logo.png" medium="image" type="image/png" height="99" width="144"/>
 </item>
 </channel>
 </rss>

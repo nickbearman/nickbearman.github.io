@@ -1,0 +1,27 @@
+---
+title: "GISRUK 2021: Online II"
+author: "Nick Bearman"
+date: "2021-06-03"
+categories: ["GISRUK", "GIS", "conference", "online"]
+image: "no-names.png"
+---
+
+We had a great GISRUK conference this year. We were online again (as we were in [2020](../2020-07-gisruk-a-brave-new-world/index.html)), because of Covid-19, with Scott Orford at Cardiff University hosting, we had a really smooth running online conference. There was a very strong field of submissions, with 24 short papers and 43 long papers being presented, with a significant proportion being presented by Early Career Researchers. The papers themselves and the recordings are all available on the [GISRUK website](http://cardiff.gisruk.org/). Attendance was also very good, with typically >100 people attending the keynotes and >50 people in each of the presentation sessions.
+
+![Attendance at GISRUK was very good](no-names.png)
+
+I coordinated the Early Career Workshop sessions before the main conference, and while I am biassed, I think they went really well, and the ECRs who attended said they were really useful sessions. The main sessions were on Zoom, and we also experimented a bit with the Wonder.me platform for a quiz and networking, which worked really well.
+
+![Quiz and Social on Wonder.me](wonder-me.png)
+
+As ever with GISRUK we had an incredibly wide range of topic presented, from new spatial methods to big data, spatial inequalities and participatory GIS. Uber's H3 hexagonal grid appeared several times, being a really useful new geography for many types of analysis. One of the big positives is the fact that indexing is a lot easier when working with this geography. It was also great to see presentations from the commercial sector, including Tomas Holderness from AddressCloud, presenting on their work with serverless infrastructure.
+
+GISRUK awards prizes, and this year I managed to actually see most of the winners – parallel sessions makes this a challenge, and there have been years I haven't seen any of the winners! This years winners were:
+
+- **Best Long Paper**: 23 Naturally Urban? Tackling Inequalities in Urban Greenspace and Wellbeing, by Victoria Houlden
+- **Best Short Paper**: 53 Georeferencing historical telephone directories to understand innovation diffusion and social change, by Nikki Tanu, Maurizio Gibin and Paul Longley
+- **Best ECR Paper**: 65 Do we need legends? An eye tracking study, by Jess Hepburn, David Fairbairn, Philip James and Alistair Ford
+- **Best ECR Paper**: 48 Geo-information tools for stakeholder engagement in environmental decision-making: "best practice" recommendations from a UK case study, by Caitlin Hafferty, Robert Berry and Scott Orford
+- **CASA Prize**: in the memory of Sinesio Alves Junior Prize, 38 Profiling the Dynamic Pattern of Bike-sharing Stations: a case study of Citi Bike in New York City, by Yunzhe Liu, Meixu Chen, Daniel Arribas-Bel and Alex Singleton
+
+The papers from GISRUK are also now available on Zonodo, a long term repository where all GISRUK papers will now be kept. The presentations were also videoed, and the recordings are now available. Next year University of Liverpool are hosting GISRUK, and hopefully we will be back to an in person conference then! Looking forward to seeing you there!
