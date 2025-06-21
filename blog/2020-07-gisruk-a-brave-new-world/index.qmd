@@ -2,7 +2,7 @@
 title: "GISRUK2020: A brave new world"
 author: "Nick Bearman"
 date: "2020-07-24"
-categories: ["Blog Posts", "GIS", "conference", "GISRUK"]
+categories: ["GIS", "conference", "GISRUK"]
 image: "gisruk-logo.png"
 ---
 
