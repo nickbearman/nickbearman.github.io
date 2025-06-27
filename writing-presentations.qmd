@@ -89,8 +89,7 @@ Video of Sonification Demo on Viemo ([with](http://www.vimeo.com/14502940) and�
 [![](images/pdf.gif){alt=""} (Paper, 611 KB)](files/academic/bearman_lovett2010.pdf), [Presentation (SlideShare)](http://www.slideshare.net/gisruk/8b2using-sound-to-represent-uncertainty-in-address-locations)
 
 **Bearman, N. (2010)** Usability of GI -- Case Study using Address Locations, Presented 23/03/2010 at 2nd Workshop on Usability of Geographic Information, London, UK.\
-[Presentation (SlideShare)](http://www.slideshare.net/mukih/usability-of-gi-case-study-using-address-locations), Demostration Video, [Paper](http://www.virart.nottingham.ac.uk/GI%20Usability/Workshop%20papers%20pdfs/Nick%20Bearman.pdf).\
-From the Workshop: [Agenda](http://www.virart.nottingham.ac.uk/GI%20Usability/index.html) and [Presentations (SlideShare)](http://www.slideshare.net/mukih/tag/2nd-workshop-on-gi-usabitliy)
+[Presentation (SlideShare)](http://www.slideshare.net/mukih/usability-of-gi-case-study-using-address-locations), [Demostration Video](https://youtu.be/0RPcY_6moEk), [Paper](files/academic/2010_usability_Nick_Bearman.pdf), [Workshop Agenda](files/academic/2010_usability_Nick_Bearman_Mar2010_full_agenda_v1.doc)
 
 **Bearman, N. (2008)** Using Sound to Represent Spatial Data in ArcGIS, Presented 12/09/2008 at Ordnance Survey MSc Programme 2008 Day, Southampton, UK. *Joint Second Prize*
 
