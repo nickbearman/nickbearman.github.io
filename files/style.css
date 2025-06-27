@@ -1,0 +1,40 @@
+body{		font-family:			Arial;
+			font-size:				12pt;
+			background-color:		#ffffff;
+}
+
+h1{	  		font-size: 				18pt; 
+			text-align: 			Center; 
+			font-weight: 			bold
+}
+
+h2{	  		font-size: 				16pt; 
+			text-align: 			Center; 
+			font-weight: 			bold
+}
+
+.tabletitle{font-size: 				14pt; 
+		
+}
+
+h3{			font-size: 				14pt;
+			font-weight:			normal; 
+		
+}
+.nav{		font-size:				10pt;
+}
+
+h4{			font-size: 				12pt; 
+			font-weight: 			bold;
+}
+
+address{	font-size:				10pt;
+			font-weight:			italics;
+}
+
+
+
+a:link       { color: #0000ff }
+a:visited    { color: #0000ff }
+a:hover      { color: #ff0000 }
+
