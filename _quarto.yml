@@ -1,5 +1,7 @@
 project:
   type: website
+  resources: 
+    - "files/"
   output-dir: docs
 
 website:
