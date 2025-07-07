@@ -13,6 +13,7 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - why-learn-gis.qmd
       - training-courses.qmd
       - training-materials.qmd
       - consultancy.qmd

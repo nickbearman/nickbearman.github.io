@@ -6,7 +6,7 @@ You've made it to this page, so you must at lease be vaguely interested in GIS. 
 
 ### What is GIS?
 
-GIS is a fantastic tool that allows you to combine **your data** with **other data** that has location information, and then use this data to **answer questions** that you are interested in. Often, just putting location data on a map will reveal patterns that were completely invisible before - those "aha!" moment when everything suddenly makes sense. 
+GIS is a fantastic tool that allows you to combine **your data** with **other data** that has location information, and then use this data to **answer questions** that you are interested in. Often, just putting location data on a map will reveal patterns that were completely invisible before - those "aha!" moments when everything suddenly makes sense. 
 
 Think of GIS as your detective toolkit for understanding the world through the lens of location. Every piece of data has a "where" component, and GIS helps you unlock the stories hidden in that geography.
 
@@ -34,7 +34,7 @@ The beauty of GIS is that once you start thinking spatially, you'll see applicat
 :::
 ::::
 
-### Why Learn GIS? (Because is Changes Everything)
+### Why Learn GIS? (Because it Changes Everything)
 
 So now we know that GIS is relevant to your subject area, why should you learn it? GIS transforms how you work with data, think about your research questions and find new insights into your data. 
 
