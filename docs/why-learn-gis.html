@@ -1,0 +1,661 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.7.31">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Why Learn GIS? – Nick Bearman</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-255bb9699565efef3b08de918ab85faf.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Nick Bearman</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./training-courses.html"> 
+<span class="menu-text">Training Courses</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./training-materials.html"> 
+<span class="menu-text">Training Materials</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./consultancy.html"> 
+<span class="menu-text">Consultancy</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./writing-presentations.html"> 
+<span class="menu-text">Writing &amp; Presentations</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./blog.html"> 
+<span class="menu-text">Blog</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="./blog.xml"> <i class="bi bi-rss" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#what-is-gis" id="toc-what-is-gis" class="nav-link active" data-scroll-target="#what-is-gis">What is GIS?</a></li>
+  <li><a href="#gis-is-everywhere-yes-really-everywhere" id="toc-gis-is-everywhere-yes-really-everywhere" class="nav-link" data-scroll-target="#gis-is-everywhere-yes-really-everywhere">GIS is Everywhere (Yes, Really Everywhere!)</a></li>
+  <li><a href="#why-learn-gis-because-is-changes-everything" id="toc-why-learn-gis-because-is-changes-everything" class="nav-link" data-scroll-target="#why-learn-gis-because-is-changes-everything">Why Learn GIS? (Because is Changes Everything)</a></li>
+  <li><a href="#how-to-learn-gis" id="toc-how-to-learn-gis" class="nav-link" data-scroll-target="#how-to-learn-gis">How to learn GIS?</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Why Learn GIS?</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>You’ve made it to this page, so you must at lease be vaguely interested in GIS. So what is it all about, and why should you care?</p>
+<section id="what-is-gis" class="level3">
+<h3 class="anchored" data-anchor-id="what-is-gis">What is GIS?</h3>
+<p>GIS is a fantastic tool that allows you to combine <strong>your data</strong> with <strong>other data</strong> that has location information, and then use this data to <strong>answer questions</strong> that you are interested in. Often, just putting location data on a map will reveal patterns that were completely invisible before - those “aha!” moment when everything suddenly makes sense.</p>
+<p>Think of GIS as your detective toolkit for understanding the world through the lens of location. Every piece of data has a “where” component, and GIS helps you unlock the stories hidden in that geography.</p>
+</section>
+<section id="gis-is-everywhere-yes-really-everywhere" class="level3">
+<h3 class="anchored" data-anchor-id="gis-is-everywhere-yes-really-everywhere">GIS is Everywhere (Yes, Really Everywhere!)</h3>
+<p>GIS can be applied to pretty much any area - anything from environmental management, urban planning, health service prevision, emergency management, transport, agriculture, utilities and archaeology to defence.</p>
+<p>But here’s where it gets exciting: GIS reaches into areas you might never expect. Space exploration, <a href="https://www.esri.com/news/arcuser/0708/gisports.html">sports analysis</a>, origin and spread of musical genres, sleep pattern analysis, location based entertainment (Pokemon Go!), <a href="https://agile-giss.copernicus.org/articles/5/21/2024/">gene analysis</a>, carbon accounting, social media and sentiment analysis, autonomous vehicles, event management, sharing historical journeys with new audiences, <a href="https://www.mdpi.com/2076-2615/13/22/3525">aquatic and marine management</a>, ethics and surveillance, renewable energy optimisation and even making people happier!</p>
+<p>The beauty of GIS is that once you start thinking spatially, you’ll see applications everywhere. That’s the moment you know you’ve caught the GIS bug.</p>
+<div class="columns">
+<div class="column" style="width:60%;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/lex-comber-Spatial-Transcriptomics.png" class="img-fluid figure-img"></p>
+<figcaption>Exploring space in gene expression data, Figure 1 from <a href="https://agile-giss.copernicus.org/articles/5/21/2024/">Comber et al.&nbsp;(2024) AGILE Conference.</a></figcaption>
+</figure>
+</div>
+</div><div class="column" style="width:40%;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/place-name-map-origin-crop.png" class="img-fluid figure-img"></p>
+<figcaption>Plotting the origin of place names (Celtic, Germanic, Latin, Norman French and Old Norse) shows which invaders influenced which place names. <em>Thanks to <a href="https://www.datawrapper.de/blog/british-place-names-pronunciation-origin">Jack Goodall</a> at Datawrapper who created the data and shared it, who was inspired by <a href="https://www.youtube.com/watch?v=uYNzqgU7na4">Map Men: Why are British place names so hard to pronounce?</a></em></figcaption>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="why-learn-gis-because-is-changes-everything" class="level3">
+<h3 class="anchored" data-anchor-id="why-learn-gis-because-is-changes-everything">Why Learn GIS? (Because is Changes Everything)</h3>
+<p>So now we know that GIS is relevant to your subject area, why should you learn it? GIS transforms how you work with data, think about your research questions and find new insights into your data.</p>
+<p><strong>Link Data:</strong> You can use it to link other data to your data - for example Census data, which can tell you information about who uses your product, (or more importantly who does not use your product), work out whether wind turbines have an impact on bird strikes, or use drones to collect data that would otherwise be out of your reach.</p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<p><img src="images/belem-drone-image-urban.jpg" class="img-fluid"></p>
+</div><div class="column" style="width:50%;">
+<p><img src="images/belem-drone-image-rural.jpg" class="img-fluid"></p>
+</div>
+</div>
+<p><em>Some images captured by a drone, from OpenAerialMap, a collection of openly licensed drone imagery. These images were captured by Ivan, who ran the drone workshop at <a href="https://nickbearman.github.io/blog/2025-01-foss4g-belem-brazil/">FOSS4G 2024</a> in Belém, Brazil. <a href="https://map.openaerialmap.org/#/-48.493995666503906,-1.471662800708106,11/square/2101110310002/6755a2609da8040001df9959?_k=cd7lbr">Urban image</a>, <a href="https://map.openaerialmap.org/#/-48.406105041503906,-1.471662800708106,11/square/2101110310012?_k=dgqjjm">Rural image</a>. </em></p>
+<p><strong>Evaluate What Works:</strong> You can also use it to evaluate effectiveness - for example, can everyone access your service or product easily, how much does where you come from impact your opportunities, and try to unpick why some places are more deprived than others. A great example of this is the so called “<a href="https://theconversation.com/sick-scotland-snp-plans-to-deal-with-health-inequality-are-lukewarm-at-best-59294">Glasgow</a> <a href="https://www.theguardian.com/society/2012/nov/06/mystery-glasgow-health-problems">effect</a>” where Glasgow is noticeably unhealthier than most other parts of the UK, even if you take into account deprivation.</p>
+<p><strong>Build Compelling Evidence:</strong> You can also use it to provide evidence - to show that <a href="https://www.bmj.com/content/348/bmj.g1464">having more fast food takeaways near schools has an impact on childhood obesity</a>, to show that the areas your GP/shop/council serve are more deprived than other areas, and show that where people come from has an impact on their success.</p>
+<p><strong>Tell Stories That Stick:</strong> A map can communicate complex ideas instantly. Instead of drowning people in spreadsheets, or paragraphys of text, you can show them a story on a map that they’ll remember and understand immediately. <em>A map is worth a thousand words.</em></p>
+<p>Finally, you can also share your data with others on a map. Putting information on a map can make it much more accessible - and easy to understand.</p>
+<p><img src="https://nickbearman.github.io/images/damian-map-1.png" class="img-fluid"></p>
+<p>A map created by one of my consultancy clients, showing the relationship between ore sources, the Roman Road and Roman settlements built as a result of this ore, set in the present landscape.</p>
+</section>
+<section id="how-to-learn-gis" class="level3">
+<h3 class="anchored" data-anchor-id="how-to-learn-gis">How to learn GIS?</h3>
+<p>Now I hope I have convinced you learning GIS is a good thing, so how do you do that? There are a few options, depending on how you learn best:</p>
+<ul>
+<li><strong>Books</strong>
+<ul>
+<li>If you want a general introduction to GIS, I’d recommend <a href="gis-research-methods.html">GIS: Research Methods</a> which provides a non-technical overview of the science and tools behind GIS. It is aimed at researchers, students and academics who do not have a GIS or Geography background, and the first chapter is available for free!</li>
+<li>If you want to go a step further, and want to learn QGIS, I would recommend <a href="https://locatepress.com/book/dq32">Discover QGIS 3.x</a> by Kurt Menke , this is a comprehensive up-to-date workbook built for both the classroom and professionals looking to build their skills.</li>
+<li>If you want to take advantage of scripting techniques, I would recommend <a href="rgis.html">Using R as a GIS</a>, which shows you how the R programming language can transform your GIS journey, empowering you to create stunning maps, analyse spatial data, and unlock advanced geospatial insights–no prior experience needed!</li>
+</ul></li>
+<li><strong>Training Courses</strong>
+<ul>
+<li>I run live, online training courses in QGIS and R, both at Introductory and Advanced level. Check out the <a href="training-courses.html">training courses page</a> to see when I am next running a session, and also access Introduction to Spatial Data and Using R as a GIS on demand through InStats.</li>
+</ul></li>
+<li><strong>Training Materials</strong>
+<ul>
+<li>A selection of <a href="training-materials.html">training materials</a> are available for free, some based on my courses and some from other organisations I have developed materials for.</li>
+</ul></li>
+<li><strong>Consultancy</strong>
+<ul>
+<li>I also offer <a href="consultancy.html">consultancy and one to one training</a>, where I can work with you to add geospatial analysis to your project and to develop your geospatial analysis toolset. I have worked with academics, universities, private sector and public sector organisations, developing bespoke training solutions, one-to-one tuition or project support to enable my clients to get the best from their geospatial data. Find out more details, or contact me for a chat to see where I can help you.</li>
+</ul></li>
+</ul>
+<p>Best of luck with your GIS journey!</p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
+        }
+        return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/nickbearman\.github\.io\/");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+<p><a href="https://nickbearman.github.io/privacy-notice.html">Privacy Notice</a> | <a href="https://nickbearman.github.io/index.html">Contact</a></p>
+</div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>
