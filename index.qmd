@@ -51,7 +51,16 @@ Check out the first chapters of my books (for free) for more details:
 
 :::
 
+:::{.callout-note}
+## **Why Learn GIS?**
 
+Geographical Information Systems can be used across virtually **any field**, from **environmental management** to **space exploration**. 
+
+Learning GIS transforms how you work with data by developing **spatial intelligence**, critical data skills, and visual communication abilities that enable you to **link datasets**, evaluate effectiveness, and **tell compelling stories through maps**.
+
+See [Why Learn GIS?](why-learn-gis.html) to find out why you should learn GIS and how to get started. 
+
+:::
 
 
 
