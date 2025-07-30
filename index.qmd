@@ -36,7 +36,7 @@ GIS is a great way to explore and communicate your data, and I have a range of [
 
 Contact me using one of the methods above for more details. 
 
-*If you want to learn more about what I do, check out this interview on [Geospatial Jobs](https://geospatial-jobs.com/2024/12/21/nick-bearman-geospatial-training-in-r/). 
+*If you want to learn more about what I do, check out this interview on [Geospatial Jobs](https://geospatial-jobs.com/2024/12/21/nick-bearman-geospatial-training-in-r/).* 
 
 :::{.callout-tip}
 ## **What is GIS?**
