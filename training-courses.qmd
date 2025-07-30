@@ -166,3 +166,21 @@ I also deliver bespoke GIS training one-to-one and small groups on a [consultanc
 
 If you are interested in a bespoke course, please [contact me](index.html) for a discussion and a quote.
 
+----
+
+::: columns
+:::: {.column width="25%"}
+
+![](images/Red-Bull-logo - Copy.jpg)
+::::
+:::: {.column width="25%"}
+![](images/NTUK_Primary Logo_Black.png)
+::::
+:::: {.column width="25%"}
+![](images/uea.png)
+::::
+:::: {.column width="25%"}
+![](images/public-health-wales.png)
+::::
+:::
+
