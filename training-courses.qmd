@@ -19,8 +19,8 @@ My courses are constantly being developed to take advantage of the latest change
 
 |              | Introductory         | Advanced                               |
 |--------------|-----------------------------------|-----------------------|
-| R | [Introduction to Spatial Data and Using R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis) *Nov 2025 & April 2026*   | [Advanced R as a GIS: Spatial Analysis and Statistics](#advanced-R-as-a-gis:-spatial-analysis-and-statistics)  *Oct 2025 & May 2026* | [Advanced R as a GIS: Spatial Analysis and Statistics](#advanced-R-as-a-gis:-spatial-analysis-and-statistics)  
-| QGIS     |  [Introduction to QGIS: Understanding and Presenting Spatial Data]  *Oct 2025 & Feb 2026*            | [Advanced QGIS: Spatial Analysis](#advanced-qgis-spatial-analysis) *Oct 2024 & March 2026*    |
+| R | [Introduction to Spatial Data and Using R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis) *Nov 2025 & April 2026*   | [Advanced R as a GIS: Spatial Analysis and Statistics](#advanced-R-as-a-gis:-spatial-analysis-and-statistics)  *Nov 2025 & May 2026* | [Advanced R as a GIS: Spatial Analysis and Statistics](#advanced-R-as-a-gis:-spatial-analysis-and-statistics)  
+| QGIS     |  [Introduction to QGIS: Understanding and Presenting Spatial Data]  *Nov 2025 & Feb 2026*            | [Advanced QGIS: Spatial Analysis](#advanced-qgis-spatial-analysis) *Oct 2024 & March 2026*    |
 
 If you would like a course run for a group of you, or have any questions, then please do [contact me](index.html) or email [nick\@nickbearman.com](mailto:nick\@nickbearman.com) to discuss your needs and get a quote.
 
@@ -127,6 +127,8 @@ Tue 3rd and Wed 4th Mar 2026, 10am – 1pm (UK/London), online, NCRM [Dates conf
 
 <!-- [No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
 
+*This course used to be called **Confident Spatial Analysis in QGIS**, and is the same material with a new, better name!*
+
 
 ![](images/pip-spatial-overlays.png)
 
@@ -135,8 +137,6 @@ Tue 3rd and Wed 4th Mar 2026, 10am – 1pm (UK/London), online, NCRM [Dates conf
 *Dr Caitriona Dowd, Assistant Professor, School of Politics and International Relations, University College Dublin*
 
 :::
-
-*This course used to be called **Confident Spatial Analysis in QGIS**, and is the same material with a new, better name!*
 
 ----
 
