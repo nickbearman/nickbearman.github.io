@@ -17,16 +17,13 @@ I offer a variety of training courses on GIS and spatial data, including introdu
 
 My courses are constantly being developed to take advantage of the latest changes in QGIS and R. Below is a list of the courses coming up, and a link to sign up (where available). If a course does not have a date, then please join my [mailing list](mailing-list.html) to hear when new dates are confirmed.
 
-If you would like a course run for a group of you, or have any questions, then please do [contact me](index.html) or email [nick\@nickbearman.com](mailto:nick\@nickbearman.com) to discuss your needs and get a quote.
-
-
 |              | Introductory         | Advanced                               |
 |--------------|-----------------------------------|-----------------------|
-| R | [Introduction to Spatial Data and Using R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis) <!--*May 2025*-->   | [Advanced R as a GIS: Spatial Analysis and Statistics](#advanced-R-as-a-gis:-spatial-analysis-and-statistics) <!-- *June 2025* --> | [Advanced R as a GIS: Spatial Analysis and Statistics](#advanced-R-as-a-gis:-spatial-analysis-and-statistics)  
-| QGIS     |  [Introduction to QGIS: Understanding and Presenting Spatial Data]\* <!-- *April 2025* -->              | [Confident Spatial Analysis in QGIS](#confident-spatial-analysis-in-qgis)\* <!-- *April 2025*  -->  |
+| R | [Introduction to Spatial Data and Using R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis) *Nov 2025 & April 2026*   | [Advanced R as a GIS: Spatial Analysis and Statistics](#advanced-R-as-a-gis:-spatial-analysis-and-statistics)  *Oct 2025 & May 2026* | [Advanced R as a GIS: Spatial Analysis and Statistics](#advanced-R-as-a-gis:-spatial-analysis-and-statistics)  
+| QGIS     |  [Introduction to QGIS: Understanding and Presenting Spatial Data]  *Oct 2025 & Feb 2026*            | [Advanced QGIS: Spatial Analysis](#advanced-qgis-spatial-analysis) *Oct 2024 & March 2026*    |
 
+If you would like a course run for a group of you, or have any questions, then please do [contact me](index.html) or email [nick\@nickbearman.com](mailto:nick\@nickbearman.com) to discuss your needs and get a quote.
 
-\*often presented together as "[Introduction to QGIS: Spatial Data and Spatial Analysis](#introduction-to-qgis-spatial-data-and-spatial-analysis)" over 4 half-day sessions. <!-- *April 2025* -->
 
 ----
 
@@ -39,15 +36,15 @@ In this two half day course we will explore how to use R to import, manage and p
 
 No previous experience of coding is required, although participants would benefit from some experience of using spatial data (e.g. Google Maps).
 
-<!-- [Tue 4th and Wed 5th March 2025, 10am - 1pm (UK/London), online, InStats.](https://instats.org/seminar/introduction-to-spatial-data-and-r-as-a-2) -->
+[Tue 11th and Wed 12th Nov 2025, 1pm - 4pm (UK/London), online, InStats](https://instats.org/seminar/introduction-to-spatial-data-and-r-as-a-1)
 
-<!-- [Tue 27th and Wed 28th May 2025, 10am – 1pm (UK/London), online, NCRM.](https://www.ncrm.ac.uk/training/show.php?article=13706) -->
+Tue 28th and Wed 29th April 2026, 10am – 1pm (UK/London), online, NCRM [Dates confirmed, join my mailing list to hear when booking opens.](mailing-list.html)
 
-[No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html)
+<!-- [No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
 
-*[You can access this course in an On-Demand format via InStats. ](https://instats.org/seminar/introduction-to-spatial-data-and-r-as-a-2) This gives you access to training materials, the recordings, and a discussion forum if you have questions, for 30 days.*
+*[You can also access this course in an On-Demand format via InStats. ](https://instats.org/seminar/introduction-to-spatial-data-and-r-as-a-2) This gives you access to training materials, the recordings, and a discussion forum if you have questions, for 30 days.*
 
-*I run this course regularly, so if you would like to attend a live, version please [join my mailing list to hear when new dates are confirmed.](mailing-list.html)*
+<!-- *I run this course regularly, so if you would like to attend a live, version please [join my mailing list to hear when new dates are confirmed.](mailing-list.html)* -->
 ::::
 :::: {.column width="42%"}
 
@@ -72,7 +69,7 @@ In this two part course we will show you how to prepare and conduct spatial anal
 
 *This course can follow-on from the [Introduction to Spatial Data & Using R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis) course above, or be run independently if participants have some previous knowledge of R / RStudio and spatial data.*
 
-*This course used to be called **Confident Spatial Analysis and Statistics in R & GeoDa**, and is the same material with a new, better, less wordy name!*
+<!-- *This course used to be called **Confident Spatial Analysis and Statistics in R & GeoDa**, and is the same material with a new, better, less wordy name!* -->
 
 ::::
 :::: {.column width="45%"}
@@ -82,19 +79,13 @@ In this two part course we will show you how to prepare and conduct spatial anal
 ::::
 :::
 
-<!-- [Tue 3rd and Wed 4th June 2025, 10am – 1pm (UK/London), online.](https://www.ncrm.ac.uk/training/show.php?article=13707) -->
+[*Advanced R for Spatial Analysis:* Tue 25th and Wed 26th Nov 2025, 1pm - 4pm (UK/London), online, InStats](https://instats.org/seminar/advanced-r-for-spatial-analysis)
 
-[No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html)
+[*Spatial Statistics in R:* Tue 2nd Dec 2025, 1pm - 4pm (UK/London), online, InStats](https://instats.org/seminar/spatial-statistics-in-r)
 
-----
+Tue 19th and Wed 20th May 2026, 10am – 1pm (UK/London), online, NCRM [Dates confirmed, join my mailing list to hear when booking opens.](mailing-list.html)
 
-### Introduction to QGIS: Spatial Data and Spatial Analysis
-
-*This course is the [Introduction to QGIS](#introduction-to-qgis-understanding-and-presenting-spatial-data) and [Confident Spatial Analysis in QGIS](#confident-spatial-analysis-in-qgis) courses run back to back.*
-
-<!-- [Tue 1st, Wed 2nd, Tue 8th and Wed 9th April 2025, 10am – 1pm (UK/London), online.](https://www.ncrm.ac.uk/training/show.php?article=13700) -->
-
-[No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html) 
+<!-- [No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
 
 ----
 
@@ -106,9 +97,11 @@ In this two part introductory course we will give you an overview on how GIS wor
 
 *Attendees on this course can choose to receive a [Certificate of Completion](https://www.qgis.org/community/certification/), certified by QGIS for a donation of €20. [Geospatial Training Solutions / Nick Bearman](https://changelog.qgis.org/en/qgis/certifyingorganisation/geospatial-training-solutions/) is a QGIS approved training organisation, and a donation of €20 for each participant will be made to the QGIS Foundation, supporting the development of QGIS.*
 
-<!-- [*Being run as Introduction to QGIS: Spatial Data and Spatial Analysis on* Tue 1st, Wed 2nd, Tue 8th and Wed 9th April 2025, 10am – 1pm (UK/London), online.](https://www.ncrm.ac.uk/training/show.php?article=13700) -->
+[Tue 11th and Wed 12th Nov 2025, 1pm - 4pm (UK/London), online, InStats](https://instats.org/seminar/introduction-to-spatial-data-and-r-as-a-1)
 
-[No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html)
+Tue 24th and Wed 25th Feb 2026, 10am – 1pm (UK/London), online, NCRM [Dates confirmed, join my mailing list to hear when booking opens.](mailing-list.html)
+
+<!-- [No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
 
 ![](images/qgis-screenshot.png)
 
@@ -120,17 +113,20 @@ In this two part introductory course we will give you an overview on how GIS wor
 
 ----
 
-### Confident Spatial Analysis in QGIS
+### Advanced QGIS: Spatial Analysis
 
-This intermediate two part course will develop your skills of using spatial data, including collating data from a variety of sources including XY coordinate data and address or postcode based data. We will also cover using spatial overlays, point-in-polygon analysis and spatial joins. *[More details](files/confident-spatial-analysis-promo.pdf).*
+This advanced two part course will develop your skills of using spatial data, including collating data from a variety of sources including XY coordinate data and address or postcode based data. We will also cover using spatial overlays, point-in-polygon analysis and spatial joins. *[More details](files/confident-spatial-analysis-promo.pdf).*
 
 *This course can follow-on from the Introduction to QGIS course above, or be run independently if the participants have some previous knowledge of QGIS and spatial data.*
 
 *Attendees on this course can choose to receive a [Certificate of Completion](https://www.qgis.org/community/certification/), certified by QGIS for a donation of €20. [Geospatial Training Solutions / Nick Bearman](https://changelog.qgis.org/en/qgis/certifyingorganisation/geospatial-training-solutions/) is a QGIS approved training organisation, and a donation of €20 for each participant will be made to the QGIS Foundation, supporting the development of QGIS.*
 
-<!-- [*Being run as Introduction to QGIS: Spatial Data and Spatial Analysis on* Tue 1st, Wed 2nd, Tue 8th and Wed 9th April 2025, 10am – 1pm (UK/London), online.](https://www.ncrm.ac.uk/training/show.php?article=13700) -->
+[Tue 28th and Wed 29th Oct 2025, 1pm - 4pm (UK/London), online, InStats](https://instats.org/seminar/advanced-qgis-spatial-analysis)
 
-[No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html)
+Tue 3rd and Wed 4th Mar 2026, 10am – 1pm (UK/London), online, NCRM [Dates confirmed, join my mailing list to hear when booking opens.](mailing-list.html)
+
+<!-- [No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
+
 
 ![](images/pip-spatial-overlays.png)
 
@@ -139,6 +135,8 @@ This intermediate two part course will develop your skills of using spatial data
 *Dr Caitriona Dowd, Assistant Professor, School of Politics and International Relations, University College Dublin*
 
 :::
+
+*This course used to be called **Confident Spatial Analysis in QGIS**, and is the same material with a new, better name!*
 
 ----
 
