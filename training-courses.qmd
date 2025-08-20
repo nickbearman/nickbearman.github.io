@@ -97,7 +97,7 @@ In this two part introductory course we will give you an overview on how GIS wor
 
 *Attendees on this course can choose to receive a [Certificate of Completion](https://www.qgis.org/community/certification/), certified by QGIS for a donation of €20. [Geospatial Training Solutions / Nick Bearman](https://changelog.qgis.org/en/qgis/certifyingorganisation/geospatial-training-solutions/) is a QGIS approved training organisation, and a donation of €20 for each participant will be made to the QGIS Foundation, supporting the development of QGIS.*
 
-[Tue 11th and Wed 12th Nov 2025, 1pm - 4pm (UK/London), online, InStats](https://instats.org/seminar/introduction-to-spatial-data-and-r-as-a-1)
+[Tue 11th and Wed 12th Nov 2025, 1pm - 4pm (UK/London), online, InStats](https://instats.org/seminar/introduction-to-qgis-and-spatial-data)
 
 [Tue 24th and Wed 25th Feb 2026, 10am – 1pm (UK/London), online, NCRM](https://www.ncrm.ac.uk/training/show.php?article=14368)
 
