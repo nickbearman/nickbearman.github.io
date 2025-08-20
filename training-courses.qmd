@@ -38,7 +38,7 @@ No previous experience of coding is required, although participants would benefi
 
 [Tue 11th and Wed 12th Nov 2025, 1pm - 4pm (UK/London), online, InStats](https://instats.org/seminar/introduction-to-spatial-data-and-r-as-a-1)
 
-Tue 28th and Wed 29th April 2026, 10am – 1pm (UK/London), online, NCRM [Dates confirmed, join my mailing list to hear when booking opens.](mailing-list.html)
+[Tue 28th and Wed 29th April 2026, 10am – 1pm (UK/London), online, NCRM](https://www.ncrm.ac.uk/training/show.php?article=14372) 
 
 <!-- [No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
 
@@ -83,7 +83,7 @@ In this two part course we will show you how to prepare and conduct spatial anal
 
 [*Spatial Statistics in R:* Tue 2nd Dec 2025, 1pm - 4pm (UK/London), online, InStats](https://instats.org/seminar/spatial-statistics-in-r)
 
-Tue 19th and Wed 20th May 2026, 10am – 1pm (UK/London), online, NCRM [Dates confirmed, join my mailing list to hear when booking opens.](mailing-list.html)
+[Tue 19th and Wed 20th May 2026, 10am – 1pm (UK/London), online, NCRM](https://www.ncrm.ac.uk/training/show.php?article=14377)
 
 <!-- [No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
 
@@ -99,7 +99,7 @@ In this two part introductory course we will give you an overview on how GIS wor
 
 [Tue 11th and Wed 12th Nov 2025, 1pm - 4pm (UK/London), online, InStats](https://instats.org/seminar/introduction-to-spatial-data-and-r-as-a-1)
 
-Tue 24th and Wed 25th Feb 2026, 10am – 1pm (UK/London), online, NCRM [Dates confirmed, join my mailing list to hear when booking opens.](mailing-list.html)
+[Tue 24th and Wed 25th Feb 2026, 10am – 1pm (UK/London), online, NCRM](https://www.ncrm.ac.uk/training/show.php?article=14368)
 
 <!-- [No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
 
@@ -123,7 +123,7 @@ This advanced two part course will develop your skills of using spatial data, in
 
 [Tue 28th and Wed 29th Oct 2025, 1pm - 4pm (UK/London), online, InStats](https://instats.org/seminar/advanced-qgis-spatial-analysis)
 
-Tue 3rd and Wed 4th Mar 2026, 10am – 1pm (UK/London), online, NCRM [Dates confirmed, join my mailing list to hear when booking opens.](mailing-list.html)
+[Tue 3rd and Wed 4th Mar 2026, 10am – 1pm (UK/London), online, NCRM](https://www.ncrm.ac.uk/training/show.php?article=14369)
 
 <!-- [No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
 
