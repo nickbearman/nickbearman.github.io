@@ -5,7 +5,7 @@
 ::: columns
 :::: {.column width="55%"}
 
-I offer a variety of training courses on GIS and spatial data, including introductory and advanced training using QGIS and R. My training is designed to both teach you about GIS itself and how to use the software to do make maps and perform spatial analysis.
+I offer a variety of training courses on GIS and spatial data, including introductory and advanced training using QGIS and R. My training is designed to both teach you about GIS itself and how to use the software to make maps and perform spatial analysis.
 
 ::::
 :::: {.column width="35%"}
@@ -19,8 +19,8 @@ My courses are constantly being developed to take advantage of the latest change
 
 |              | Introductory         | Advanced                               |
 |--------------|-----------------------------------|-----------------------|
-| R | [Introduction to Spatial Data and Using R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis) *Nov 2025 & April 2026*   | [Advanced R as a GIS: Spatial Analysis and Statistics](#advanced-R-as-a-gis:-spatial-analysis-and-statistics)  *Nov 2025 & May 2026* | [Advanced R as a GIS: Spatial Analysis and Statistics](#advanced-R-as-a-gis:-spatial-analysis-and-statistics)  
-| QGIS     |  [Introduction to QGIS: Understanding and Presenting Spatial Data]  *Oct 2025 & Feb 2026*            | [Advanced QGIS: Spatial Analysis](#advanced-qgis-spatial-analysis) *Oct 2025 & March 2026*    |
+| **R** | [Intro to R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis) *Nov 2025 & April 2026*   | [Advanced R and Spatial Statistics](#advanced-R-as-a-gis-spatial-analysis-and-statistics)  *Nov 2025 & May 2026* |  
+| **QGIS**     |  [Intro to QGIS](#introduction-to-qgis-understanding-and-presenting-spatial-data)  *Oct 2025 & Feb 2026*            | [Advanced QGIS](#advanced-qgis-spatial-analysis) *Oct 2025 & Mar 2026*    |
 
 If you would like a course run for a group of you, or have any questions, then please do [contact me](index.html) or email [nick\@nickbearman.com](mailto:nick\@nickbearman.com) to discuss your needs and get a quote.
 
@@ -38,7 +38,7 @@ No previous experience of coding is required, although participants would benefi
 
 [Tue 11th and Wed 12th Nov 2025, 1pm - 4pm (UK/London), online, InStats](https://instats.org/seminar/introduction-to-spatial-data-and-r-as-a-1)
 
-[Tue 28th and Wed 29th April 2026, 10am – 1pm (UK/London), online, NCRM](https://www.ncrm.ac.uk/training/show.php?article=14372) 
+[Tue 28th and Wed 29th Apr 2026, 10am – 1pm (UK/London), online, NCRM](https://www.ncrm.ac.uk/training/show.php?article=14372) 
 
 <!-- [No dates scheduled, join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
 
@@ -60,7 +60,7 @@ No previous experience of coding is required, although participants would benefi
 
 ----
 
-### Advanced R as a GIS: Spatial Analysis and Statistics {#advanced-R-as-a-gis:-spatial-analysis-and-statistics}
+### Advanced R as a GIS: Spatial Analysis and Statistics {#advanced-R-as-a-gis-spatial-analysis-and-statistics}
 
 ::: columns
 :::: {.column width="55%"}
