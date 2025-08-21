@@ -19,7 +19,7 @@ My courses are constantly being developed to take advantage of the latest change
 
 |              | Introductory         | Advanced                               |
 |--------------|-----------------------------------|-----------------------|
-| **R** | [Intro to R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis) *Nov 2025 & April 2026*   | [Advanced R and Spatial Statistics](#advanced-R-as-a-gis-spatial-analysis-and-statistics)  *Nov 2025 & May 2026* |  
+| **R** | [Intro to R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis) *Nov 2025 & Apr 2026*   | [Advanced R and Spatial Statistics](#advanced-R-as-a-gis-spatial-analysis-and-statistics)  *Nov 2025 & May 2026* |  
 | **QGIS**     |  [Intro to QGIS](#introduction-to-qgis-understanding-and-presenting-spatial-data)  *Oct 2025 & Feb 2026*            | [Advanced QGIS](#advanced-qgis-spatial-analysis) *Oct 2025 & Mar 2026*    |
 
 If you would like a course run for a group of you, or have any questions, then please do [contact me](index.html) or email [nick\@nickbearman.com](mailto:nick\@nickbearman.com) to discuss your needs and get a quote.
