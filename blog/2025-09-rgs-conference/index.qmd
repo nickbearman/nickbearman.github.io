@@ -22,7 +22,7 @@ The first lecture was Mapping Uneven Ambience by Caitlin Robinson, who took us o
 
 This was the first stage of a larger project, and was focused on a range of factors around peoples lived experience, including air quality, noise and housing infrastructure. Currently she has explored this through a number of different data sets, including EPC (Energy Performance Certificates) providing information on heating in the home and ventilation, external air quality data from DEFRA and IMD data. 
 
-One key data that was missing was data on indoor air quality - which is vitally important for this type of work, as it is estimated that in the global north, people spend 80-90% of their time indoors. One of the questions at the end of the presentation provided a potentially useful data source for this, which is often the case at conferences! 
+One key dataset that was missing was data on indoor air quality - which is vitally important for this type of work, as it is estimated that in the global north, people spend 80-90% of their time indoors. One of the questions at the end of the presentation provided a potentially useful data source for this, which is often the case at conferences! 
 
 The next stage will start looking at the interrelations between the different factors - for example indoor air quality and heating type - which will certainly be interesting to see as the vulnerabilities are often cumulative - exposure to indoor air pollution, combined with poor heating in the winter, will most likely lead to a much poorer outcome than either issue alone. 
 
