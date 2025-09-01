@@ -1,0 +1,39 @@
+---
+title: "RGS AIC 2025 in Birmingham"
+author: "Nick Bearman"
+date: "2025-09-01"
+categories: []
+image: "uob.jpeg"
+---
+
+It was great to be able to attend a couple of days of the [RGS-IBG Annual International Conference](https://www.rgs.org/research/annual-international-conference) at the University of Birmingham last week. The RGS conference is an annual gathering of around 2000 geographers, with presentations covering the full range of geography - from AI, GIS analysis, quantitative methods, transport geography, animal research, development studies, inclusive research practice, and many many others. 
+
+![](welcome.jpeg)
+
+I attended a number of sessions sponsored by the [GIScience Research Group](https://giscience-rgs.github.io/) and the [Quantitative Methods Research Group](https://qmrg.github.io/). 
+
+The first one of these was focused on post-graduate researchers (PGRs), with 5 PGRs presenting their research. It was fascinating to hear about the range of topics they were working on, including machine learning based classification of social media data, exploring street crime using crowd sourced street view imagery, and the relationship between housing development and public transportation provision in the UK. The session wrapped up with discussions on the impacts of spatial structure of cities on potential spread of infectious diseases, and a great example from Germany looking at measuring urban growth. 
+
+The QMRG (Quantitative Methods Research Group) held their first annual lecture, in conjunction with The Geographical Journal. One of the main aims of this lecture series is to engage more with the theoretical aspects of the issues we face. Quantitative Methods, and GIS more generally, can often be quite data and stats heavy, but we need to remember how this fits into the wider setting of geography. 
+
+![](listening.jpeg)
+
+The first lecture was Mapping Uneven Ambience by Caitlin Robinson, who took us on a fascinating journey through her most recent project looking at the ambient environment. 
+
+This was the first stage of a larger project, and was focused on a range of factors around peoples lived experience, including air quality, noise and housing infrastructure. Currently she has explored this through a number of different data sets, including EPC (Energy Performance Certificates) providing information on heating in the home and ventilation, external air quality data from DEFRA and IMD data. 
+
+One key data that was missing was data on indoor air quality - which is vitally important for this type of work, as it is estimated that in the global north, people spend 80-90% of their time indoors. One of the questions at the end of the presentation provided a potentially useful data source for this, which is often the case at conferences! 
+
+The next stage will start looking at the interrelations between the different factors - for example indoor air quality and heating type - which will certainly be interesting to see as the vulnerabilities are often cumulative - exposure to indoor air pollution, combined with poor heating in the winter, will most likely lead to a much poorer outcome than either issue alone. 
+
+On the Thursday morning, I attended two sessions on Artificial Intelligence in GIScience and Quantitative Geography, where there were a fascinating range of presentations, looking at the space embedded in census data, embedding geography into vision language models and a wide range of other papers. 
+
+At Thursday lunchtime I chaired the 'Best of GISRUK' session, which showcased the three best papers from this year's [GISRUK conference in Bristol](https://nickbearman.github.io/blog/2025-04-3-gisruk/). It was a joint session from GISRUK, and the GIScience Research Group (where I am a committee member). The aim of this session was to show what GIS can do to a wider audience. The majority of people attending the RGS Conference do not use GIS on a regular basis, and may never have used it before. The idea of this session is to get these people to come along and get them excited about GIS, what it can do and hopefully spark some thoughts about how it might be useful in their research. We had a great turn out of 42 people in the session and I hope to see some of them using GIS in the future!
+
+![Best of GISRUK presenters, Adam Dennett, Jess Hepburn and Chris Larkin (L-R)](best-of-gisruk.jpeg)
+
+It was also a great opportunity to plug next year's GISRUK conference, which is at the University of Birmingham. It will take place on 14th to 17th April 2026, and check out the [GISRUK website](https://gisruk.org/) for more details. 
+
+If you are new to GIS, or want to learn more about it, check out the first chapter of my book GIS: Research Methods, which is available for free. If you want to learn some practical skills, check out my [GIS training material](../../training-materials.html) or my [GIS training courses](../../training-courses.html) coming up over the next few months. If you have any questions, please [contact me](https://nickbearman.github.io). 
+
+
