@@ -10,7 +10,71 @@
 <atom:link href="https://nickbearman.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>A blog on my teaching, open source GIS, travel and life</description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Sun, 31 Aug 2025 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 05 Oct 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>FOSS4G:UK 2025 Leeds - It’s all about the people</title>
+  <dc:creator>Nick Bearman</dc:creator>
+  <link>https://nickbearman.github.io/blog/2025-10-foss4guk-2025-leeds/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I’ve just returned from a fantastic 2 days in Leeds for FOSS4G:UK 2025. FOSS4G is an amazing group, and I am so proud to be part of the fantastic team that ran FOPSS4G:UK 2025 Leeds on 1st and 2nd October 2025. We were in the great venue <a href="https://horizonleeds.co.uk/">Horizon Leeds</a>, with two days of workshops and talks.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://nickbearman.github.io/blog/2025-10-foss4guk-2025-leeds/people.jpeg" class="img-fluid figure-img"></p>
+<figcaption>FOSS4G is all about the people</figcaption>
+</figure>
+</div>
+<p>I always love the fact that for many of these conferences you can have the choice of going to talks or going to workshops for the whole two days. People have so many things they want to share, we can provide so much content! One workshop was enough for me, and I learnt a great deal about <a href="https://talks.osgeo.org/foss4g-uk-2025/talk/9HHT8Q/">QGIS Model Builder from Ant Scott</a> - a great way of automating procedures if you don’t want to learn how to code. <em>Of course, if you do want to learn to code, I would recommend <a href="https://nickbearman.com/training-courses">R</a>!</em></p>
+<p>There is also the range of content - some highly technical talks, for example the one on Mesh datasets, which I didn’t catch myself, but I heard was brain melting! <a href="https://talks.osgeo.org/foss4g-uk-2025/talk/QKV9ZY/">All Datasets are Meshes: Towards a new Ontology for 3D GIS</a> - to some fascinating insights on running a commercial business using open source software from both <a href="https://talks.osgeo.org/foss4g-uk-2025/talk/ZGEVTN/">Alex Wrottesley at Idox Geospatial</a> and <a href="https://talks.osgeo.org/foss4g-uk-2025/talk/DZVYFH/">Mike Saunt from Astun</a> and some great hints and tips including <a href="https://talks.osgeo.org/foss4g-uk-2025/talk/3WBLMF/">Tom Armitage on QGIS Blend Modes</a>.</p>
+<p>We had three fantastic keynotes: first up was <a href="https://talks.osgeo.org/foss4g-uk-2025/talk/EQNXHG/">Kathryn Berger, Lead Data Scientist from UK Department for Science, Innovation and Technology (DSIT)</a>. She talked about how she first came across GIS through an initiative providing free Landsat images for schools in New Hampshire, USA in the 1990s (at this point, access to Landsat images was chargable). These formed part of a project getting school children (including her) out into nature to measure trees, calculate biomass and correlate this with the Landsat images. It lit her excitement for GIS and she has been working with GIS ever since.</p>
+<p>She also provided a great example of some of the limitations of AI. One fascinating application of AI is to digitise building footprints - a very tedious job to do by hand, which would be great if we could automate it and speed it up. In some areas this works very well, but in other areas it does not.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://nickbearman.github.io/blog/2025-10-foss4guk-2025-leeds/ai-buildings.png" class="img-fluid figure-img"></p>
+<figcaption>Left in white - buildings digitised by the local community. Right in yellow - buildings digitised by Ai. Spot the difference!</figcaption>
+</figure>
+</div>
+<p><a href="https://www.geoversity.io/stories/1268210/how-can-machine-learning-bias-affect-gis-applications/">How can machine learning bias affect GIS applications? Geoversity</a></p>
+<p><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10584113">Auditing Geospatial Datasets for Biases: Using Global Building Datasets for Disaster Risk Management</a></p>
+<p>In the image above, on the left the buildings highlighted with a white outline have been digitised by the local population. On the right, the same buildings have been digitised by AI. You can spot the missing buildings in the middle easily - these types of building were clearly not considered to be buildings by this AI. However, if we then use this data to calculate how many vaccinations an area might need, how much aid might be needed, how much support might be needed after a natural disaster, then if we use the AI (yellow) version, quite a lot of people are going short!</p>
+<p>If you are interested how many buildings might be missing, <a href="https://claude.ai/">Claude.ai</a> says: “There appear to be approximately 60-70 buildings highlighted in white. There appear to be approximately 80-100 buildings highlighted in yellow.” So a potential difference of ~30%-40%. <em><a href="https://claude.ai/share/f4957014-117e-4501-b1f1-d25973614df0">Source</a></em></p>
+<p>She also mentioned the <a href="https://civicus.org/index.php/media-resources/news/interviews/6534-ai-the-biggest-challenges-are-the-biases-and-lack-of-transparency-of-algorithms">HOT (Humantarian OpenStreetMap Team) approach to AI</a> which is a great one to use:</p>
+<p>The problem:</p>
+<ul>
+<li>Most current AI models are closed, unclear how and on what data the model was trained (most often with built in biases)</li>
+</ul>
+<p>Their solution:</p>
+<ul>
+<li>Tackle biases by localising models, (don’t use a general model that works everywhere)</li>
+<li>Use fully open-source AI models for transparency (so it’s clear how AI systems are trained and who is training them)</li>
+<li>Use local knowledge, human-in-the-loop, to validate and provide feedback</li>
+</ul>
+<p>Our second keynote was <a href="https://talks.osgeo.org/foss4g-uk-2025/talk/BJF3RX/">Mariam Crichton</a> who is a big fan of thinking about how our work connects to the world as a whole. She said ‘all data is global data’ and was keen for us to know, that even if we are working in a very country or local focused way, are work is part of something much bigger - and can have some much bigger impacts.</p>
+<p>She also highlighted some really interesting priorities for open data from her experience in the sustainability market, and other highly regulated fields - they are not what you might expect:</p>
+<p><img src="https://nickbearman.github.io/blog/2025-10-foss4guk-2025-leeds/sustainability-market.png" class="img-fluid"></p>
+<p>Finally, <a href="https://talks.osgeo.org/foss4g-uk-2025/talk/WXV9JW/">Alasdair Rae</a> talked about getting to the point and what drives us as geospatial professionals. Open source has many many strengths - including collaboration. He had a whole slide on this (which now I can’t find a picture of!) and he also had this gem:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://nickbearman.github.io/blog/2025-10-foss4guk-2025-leeds/rae.jfif" class="img-fluid figure-img"></p>
+<figcaption>If I know what’s in it then I will trust it more, <em>unless it’s haggis</em></figcaption>
+</figure>
+</div>
+<p>I volunteered to be on the Local Organising Committee (LOC) and the conference would not have happened without the rest of the committee - thank you so much to <a href="https://www.linkedin.com/posts/dennis-bauszus-45b55760_foss4guk-foss4g-foss4g2027-activity-7379618896456134656-7a5W?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAASXC6wBRv0w74LkW4jBxSVP-9ldgbYpLRk">Dennis</a>, <a href="https://www.linkedin.com/posts/antscott_foss4guk-osgeouk-activity-7379954237247483904-arg5?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAASXC6wBRv0w74LkW4jBxSVP-9ldgbYpLRk">Ant</a>, <a href="https://www.linkedin.com/posts/jsonsingh_foss4guk-gis-foss4g-ugcPost-7380520354793885696-T0qE?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAASXC6wBRv0w74LkW4jBxSVP-9ldgbYpLRk">Json</a>, <a href="https://www.linkedin.com/posts/clairelouisebirnie_foss4guk-foss4g-ugcPost-7379804246151438336-1TdQ?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAASXC6wBRv0w74LkW4jBxSVP-9ldgbYpLRk">Claire</a> and <a href="https://www.linkedin.com/in/weiming-huang-bb0073152/">Weiming</a>. I’d also like to say a special thank you to <a href="https://www.linkedin.com/in/matt-travis-6a609321/">Matt</a>, who did a lot of work as Treasurer behind the scenes getting money from sponsors, but couldn’t be there for the event!</p>
+<p>I would also not hesitate to recommend the venue, <a href="https://horizonleeds.co.uk/">Horizon Leeds</a>. It is a lovely space, and with 180 people we filled it nicely. There were also no queues for coffee or lunch, which I think is a first for me! Coffee (&amp; tea) were available on demand from two stations any time, and lunch was a grab and go ‘bento box’ split over two stations, which meant no queues either. We also had a lovely selection of 4 different lunches.</p>
+<p>Lastly, we also had a discussion on the potential of the UK to bid for (and hopefully host) the FOSS4G International conference, most likely in 2027 in Bristol. Watch this space for details, and if you want to help out, join the OSGeo:UK mailing list for details.</p>
+<p>All three keynotes, and all the talks in Create 1 and Create 2 were videoed (including the AGM which was extra fun with no slides!) so they will be on out YouTube channel in a month or two - watch our social media for details.</p>
+<p>If you have any questions, please <a href="https://nickbearman.github.io">contact me</a>.</p>
+
+
+
+ ]]></description>
+  <guid>https://nickbearman.github.io/blog/2025-10-foss4guk-2025-leeds/</guid>
+  <pubDate>Sun, 05 Oct 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://nickbearman.github.io/blog/2025-10-foss4guk-2025-leeds/people.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>RGS AIC 2025 in Birmingham</title>
   <dc:creator>Nick Bearman</dc:creator>
@@ -1366,51 +1430,6 @@ font-style: inherit;">"Total Population of Liverpool, 2021"</span>)</span></code
   <guid>https://nickbearman.github.io/blog/2021-07-video/</guid>
   <pubDate>Thu, 01 Jul 2021 23:00:00 GMT</pubDate>
   <media:content url="https://nickbearman.github.io/blog/2021-07-video/Screenshot-2021-06-17-132224-Copy-1536x879.png" medium="image" type="image/png" height="82" width="144"/>
-</item>
-<item>
-  <title>GISRUK 2021: Online II</title>
-  <dc:creator>Nick Bearman</dc:creator>
-  <link>https://nickbearman.github.io/blog/2021-06-gisruk-2021-online-ii/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>We had a great GISRUK conference this year. We were online again (as we were in <a href="../2020-07-gisruk-a-brave-new-world/index.html">2020</a>), because of Covid-19, with Scott Orford at Cardiff University hosting, we had a really smooth running online conference. There was a very strong field of submissions, with 24 short papers and 43 long papers being presented, with a significant proportion being presented by Early Career Researchers. The papers themselves and the recordings are all available on the <a href="http://cardiff.gisruk.org/">GISRUK website</a>. Attendance was also very good, with typically &gt;100 people attending the keynotes and &gt;50 people in each of the presentation sessions.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://nickbearman.github.io/blog/2021-06-gisruk-2021-online-ii/no-names.png" class="img-fluid figure-img"></p>
-<figcaption>Attendance at GISRUK was very good</figcaption>
-</figure>
-</div>
-<p>I coordinated the Early Career Workshop sessions before the main conference, and while I am biassed, I think they went really well, and the ECRs who attended said they were really useful sessions. The main sessions were on Zoom, and we also experimented a bit with the Wonder.me platform for a quiz and networking, which worked really well.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://nickbearman.github.io/blog/2021-06-gisruk-2021-online-ii/wonder-me.png" class="img-fluid figure-img"></p>
-<figcaption>Quiz and Social on Wonder.me</figcaption>
-</figure>
-</div>
-<p>As ever with GISRUK we had an incredibly wide range of topic presented, from new spatial methods to big data, spatial inequalities and participatory GIS. Uber’s H3 hexagonal grid appeared several times, being a really useful new geography for many types of analysis. One of the big positives is the fact that indexing is a lot easier when working with this geography. It was also great to see presentations from the commercial sector, including Tomas Holderness from AddressCloud, presenting on their work with serverless infrastructure.</p>
-<p>GISRUK awards prizes, and this year I managed to actually see most of the winners – parallel sessions makes this a challenge, and there have been years I haven’t seen any of the winners! This years winners were:</p>
-<ul>
-<li><strong>Best Long Paper</strong>: 23 Naturally Urban? Tackling Inequalities in Urban Greenspace and Wellbeing, by Victoria Houlden</li>
-<li><strong>Best Short Paper</strong>: 53 Georeferencing historical telephone directories to understand innovation diffusion and social change, by Nikki Tanu, Maurizio Gibin and Paul Longley</li>
-<li><strong>Best ECR Paper</strong>: 65 Do we need legends? An eye tracking study, by Jess Hepburn, David Fairbairn, Philip James and Alistair Ford</li>
-<li><strong>Best ECR Paper</strong>: 48 Geo-information tools for stakeholder engagement in environmental decision-making: “best practice” recommendations from a UK case study, by Caitlin Hafferty, Robert Berry and Scott Orford</li>
-<li><strong>CASA Prize</strong>: in the memory of Sinesio Alves Junior Prize, 38 Profiling the Dynamic Pattern of Bike-sharing Stations: a case study of Citi Bike in New York City, by Yunzhe Liu, Meixu Chen, Daniel Arribas-Bel and Alex Singleton</li>
-</ul>
-<p>The papers from GISRUK are also now available on Zonodo, a long term repository where all GISRUK papers will now be kept. The presentations were also videoed, and the recordings are now available. Next year University of Liverpool are hosting GISRUK, and hopefully we will be back to an in person conference then! Looking forward to seeing you there!</p>
-
-
-
- ]]></description>
-  <category>GISRUK</category>
-  <category>GIS</category>
-  <category>conference</category>
-  <category>online</category>
-  <guid>https://nickbearman.github.io/blog/2021-06-gisruk-2021-online-ii/</guid>
-  <pubDate>Wed, 02 Jun 2021 23:00:00 GMT</pubDate>
-  <media:content url="https://nickbearman.github.io/blog/2021-06-gisruk-2021-online-ii/no-names.png" medium="image" type="image/png" height="83" width="144"/>
 </item>
 </channel>
 </rss>
