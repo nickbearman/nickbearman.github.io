@@ -7,7 +7,7 @@ We will be setting up QGIS. Follow the instructions below, depending on your ope
 ## Windows 
 
 - Open a web browser and go to [http://www.qgis.org](http://www.qgis.org).  
-- Click **Download** on the top right.  
+- Click **Download** on the bottom left.  
 
 ![](images/qgis-download-button.png)
 
@@ -23,7 +23,7 @@ We will be setting up QGIS. Follow the instructions below, depending on your ope
 ## OSX
 
 - Open a web browser and go to [http://www.qgis.org](http://www.qgis.org).  
-- Click **Download** on the top right.  
+- Click **Download** on the bottom left.  
 
 ![](images/qgis-download-button.png)
 
@@ -33,7 +33,7 @@ We will be setting up QGIS. Follow the instructions below, depending on your ope
 
 ![](images/qgis-skip-button.png)
 
-- Download **Long Term Version for Mac OS (3.40 LTR)**.
+- Download **Long Term Version for macOS**.
 - Follow through the installation wizard.  
 
 **Tips for first launch** *After installing QGIS, the first launch attempt may fail due to Apple’s security framework.*
@@ -45,7 +45,7 @@ We will be setting up QGIS. Follow the instructions below, depending on your ope
 ## Linux
 
 - Open a web browser and go to [http://www.qgis.org](http://www.qgis.org).  
-- Click **Download** on the top right.  
+- Click **Download** on the bottom left.  
 
 ![](images/qgis-download-button.png)
 
