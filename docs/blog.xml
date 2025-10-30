@@ -9,7 +9,7 @@
 <link>https://nickbearman.github.io/blog.html</link>
 <atom:link href="https://nickbearman.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>A blog on my teaching, open source GIS, travel and life</description>
-<generator>quarto-1.7.31</generator>
+<generator>quarto-1.5.57</generator>
 <lastBuildDate>Sun, 05 Oct 2025 23:00:00 GMT</lastBuildDate>
 <item>
   <title>FOSS4G:UK 2025 Leeds - It’s all about the people</title>
