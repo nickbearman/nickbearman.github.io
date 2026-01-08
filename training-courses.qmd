@@ -119,7 +119,7 @@ In this two part introductory course we will give you an overview on how GIS wor
 
 ### Advanced QGIS: Spatial Analysis
 
-This advanced two part course will develop your skills of using spatial data, including collating data from a variety of sources including XY coordinate data and address or postcode based data. We will also cover using spatial overlays, point-in-polygon analysis and spatial joins. *[More details](files/confident-spatial-analysis-promo.pdf).*
+This advanced two part course will develop your skills of using spatial data, including collating data from a variety of sources including XY coordinate data and address or postcode based data. We will also cover using spatial overlays, point-in-polygon analysis and spatial joins. *[More details](files/advanced-qgis-promo.pdf).*
 
 *This course can follow-on from the Introduction to QGIS course above, or be run independently if the participants have some previous knowledge of QGIS and spatial data.*
 
