@@ -6,7 +6,7 @@ categories: ["GISRUK", "GIS", "conference", "online"]
 image: "no-names.png"
 ---
 
-We had a great GISRUK conference this year. We were online again (as we were in [2020](../2020-07-gisruk-a-brave-new-world/index.html)), because of Covid-19, with Scott Orford at Cardiff University hosting, we had a really smooth running online conference. There was a very strong field of submissions, with 24 short papers and 43 long papers being presented, with a significant proportion being presented by Early Career Researchers. The papers themselves and the recordings are all available on the [GISRUK website](http://cardiff.gisruk.org/). Attendance was also very good, with typically >100 people attending the keynotes and >50 people in each of the presentation sessions.
+We had a great GISRUK conference this year. We were online again (as we were in [2020](../2020-07-gisruk-a-brave-new-world/index.html)), because of Covid-19, with Scott Orford at Cardiff University hosting, we had a really smooth running online conference. There was a very strong field of submissions, with 24 short papers and 43 long papers being presented, with a significant proportion being presented by Early Career Researchers. The papers available on [Zenodo](https://zenodo.org/communities/gisruk_2021/records). Attendance was also very good, with typically >100 people attending the keynotes and >50 people in each of the presentation sessions.
 
 ![Attendance at GISRUK was very good](no-names.png)
 
