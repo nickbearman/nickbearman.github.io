@@ -89,6 +89,11 @@ In this two part course we will show you how to prepare and conduct spatial anal
 
 *You can also access this course in an On-Demand format via InStats: [Advanced R for Spatial Analysis](https://instats.org/seminar/advanced-r-for-spatial-analysis) and [Spatial Statistics in R](https://instats.org/seminar/spatial-statistics-in-r). This gives you access to training materials, the recordings, and a discussion forum if you have questions, for 30 days.*
 
+:::{.callout-tip}
+## "I really enjoyed Nick's GIS class and learned a ton. My new skills are already coming in handy in preparing maps to visualize my research findings for a conference presentation."
+*Laura Kettel, PhD, Postdoc, Dept. of Political Science, Aarhus University*
+:::
+
 ----
 
 ### Introduction to QGIS: Understanding and Presenting Spatial Data
