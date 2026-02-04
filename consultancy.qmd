@@ -11,14 +11,15 @@ I have worked with academics, universities, private sector and public sector org
 
 ----
 
-### Yeo Valley
+### Project Minerva
 
-"I liked how it was tailored to our needs and accessible. Thank you so much! Very friendly and patient."
+"Nick’s expertise helped turn a complicated technical challenge into a clear, actionable plan. He was able to identify several viable pathways, and review the trade‑offs between cost, complexity, and analytical capability to guide decisions for future deployment of our [Minerva](https://science.police.uk/delivery/case-studies/project-minerva/) project with Essex Police.
 
-*Melissa Harrold, Project Assistant, Yeo Valley*
+Nick has an exceptional ability to break down highly technical geospatial and analytical issues into clear, accessible guidance. His work enabled me to choose the right path with confidence."
+
+*[Professor Andy Newton](https://www.ntu.ac.uk/staff-profiles/social-sciences/andy-newton), Professor of Criminology and Policing, Nottingham Trent University*
 
 ----
-
 
 ::: columns
 :::: {.column width="55%"}
@@ -41,6 +42,14 @@ I recently completed a 1-to-1 online QGIS mapping course with Nick Bearman. I wa
 
 ::::
 :::
+
+----
+
+### Yeo Valley
+
+"I liked how (the course) it was tailored to our needs and accessible. Thank you so much! Very friendly and patient."
+
+*Melissa Harrold, Project Assistant, Yeo Valley*
 
 ----
 
@@ -87,7 +96,8 @@ I recently completed a 1-to-1 online QGIS mapping course with Nick Bearman. I wa
 ### Protected Landscapes Partnership
 
 "Our team organised a bespoke GIS training course with Nick, and it was incredibly helpful. Nick asked us about our experience and what we hoped to use GIS for and designed a bespoke training course to suit our needs. During the training we were able to ask questions and use examples specific to our work area. Nick was able to guide us through a real example of a project we wanted to develop, and teach us how best to go about completing it.  Nick’s training has given us all much more confidence to use GIS in our work."
-<br>*Dr Harriet Knafler, Evidence Coordinator, Protected Landscapes Partnership*
+
+*Dr Harriet Knafler, Evidence Coordinator, Protected Landscapes Partnership*
 
 ----
 
@@ -111,7 +121,7 @@ I recently completed a 1-to-1 online QGIS mapping course with Nick Bearman. I wa
 ### National Trails UK
 
 "Nick provided the Team with an introductory GIS session and an advanced training session. The introductory session was a great refresher for members of the team that had GIS experience and a fantastic introduction for those that were new to GIS. The advanced training session was tailored to the teams needs and provided us with a really good understanding of how we can use GIS to pull out our data requirements. Nick provided us all with the confidence to progress and develop our spatial analysis skills and was communicative and engaging throughout. I’d highly recommend working with Nick."
-<br>
+
 *Jennifer Manning, Policy and Research Officer, National Trails UK*
 
 
