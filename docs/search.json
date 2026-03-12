@@ -578,14 +578,14 @@
     "href": "installing-software/r-rstudio-library-troubleshooting.html#install-sf",
     "title": "Installing R & RStudio Libraries - Troubleshooting",
     "section": "Install sf",
-    "text": "Install sf\nR uses libraries to add features and different tools, such as GIS and spatial analysis. We need to install some libraries we will be using. Follow these instructions to install the sf library. Note the terms library and package are interchangeable.\n\nOpen RStudio.\nIn the Console type in install.packages(\"sf\") and press enter.\n\nThis is (approximately) the output you should get (click the link for the full image):\n\n\nThen load the library by running library(sf).\nCheck the output you get - red text does not always mean an error!\nThe first time you load sf you will probably get this message:\n\n\n\nThis is fine. If you get some other text, it may also be fine. Read the text and see what it says. Do ask if you have questions."
+    "text": "Install sf\nR uses libraries to add features and different tools, such as GIS and spatial analysis. We need to install some libraries we will be using. Follow these instructions to install the sf library. Note the terms library and package are interchangeable.\n\nOpen RStudio.\nIn the Console type in install.packages(\"sf\") and press enter.\n\nThis is (approximately) the output you should get:\n\n\nIn some versions of R, the text may be in Red - do not worry, red text does not always mean an error!\nThen load the library by running library(sf).\nThe first time you load sf you will probably get this message:\n\n\n\nThis is fine. If you get some other text, it may also be fine. Read the text and see what it says. Do ask if you have questions."
   },
   {
     "objectID": "installing-software/r-rstudio-library-troubleshooting.html#install-tmap",
     "href": "installing-software/r-rstudio-library-troubleshooting.html#install-tmap",
     "title": "Installing R & RStudio Libraries - Troubleshooting",
     "section": "Install tmap",
-    "text": "Install tmap\n\nRepeat the process for the tmap package.\nIn the Console type in install.packages(\"tmap\").\n\nThis is (approximately) the output you should get (I’ve not included the full version because it is so long!):\n\n\nThe load the library by running library(tmap).\n\n\n\nThis is fine. If you get some text, it may also be fine. Read the text and see what it says. Do ask if you have questions."
+    "text": "Install tmap\n\nRepeat the process for the tmap package.\nIn the Console type in install.packages(\"tmap\").\n\nThis is (approximately) the output you should get (I’ve not included the full version because it is so long!):\n\n\nThen load the library by running library(tmap) it may take 5-10 seconds to load before the &gt; on the next line appears.\n\n\n\nThis is fine. If you get some text, it may also be fine. Read the text and see what it says. Do ask if you have questions."
   },
   {
     "objectID": "installing-software/r-rstudio-library-troubleshooting.html#problems",

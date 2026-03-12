@@ -12,13 +12,13 @@ R uses libraries to add features and different tools, such as GIS and spatial an
 - Open **RStudio**.
 - In the **Console** type in `install.packages("sf")` and press enter.
 
-This is (approximately) the output you should get (click the link for the full image):
+This is (approximately) the output you should get:
 
-[![](images/r-install-packages-sf-success-cut.png)](images/r-install-packages-sf-success-full.png)
+![](images/r-install-packages-sf-success.png)
+
+- In some versions of R, the text may be in Red - do not worry, red text does not always mean an error!
 
 - Then load the library by running `library(sf)`.
-
-- Check the output you get - red text does not always mean an error!
 
 - The first time you load `sf` you will probably get this message:
 
@@ -33,9 +33,9 @@ This is (approximately) the output you should get (click the link for the full i
 
 This is (approximately) the output you should get (*I've not included the full version because it is so long!*):
 
-![](images/r-install-packages-tmap-success-cut.png)
+![](images/r-install-packages-tmap-success.png)
 
-- The load the library by running `library(tmap)`. 
+- Then load the library by running `library(tmap)` *it may take 5-10 seconds to load before the `>` on the next line appears*. 
 
 ![](images/r-install-packages-tmap-success-load.png)
 
