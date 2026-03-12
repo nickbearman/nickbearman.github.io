@@ -16,7 +16,7 @@ This is (approximately) the output you should get:
 
 ![](images/r-install-packages-sf-success.png)
 
-- In some versions of R, the text may be in Red - do not worry, red text does not always mean an error!
+- In some versions of R, the text may be in red - do not worry, red text does not always mean an error!
 
 - Then load the library by running `library(sf)`.
 
