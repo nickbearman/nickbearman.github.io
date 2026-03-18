@@ -10,7 +10,111 @@
 <atom:link href="https://nickbearman.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>A blog on my teaching, open source GIS, travel and life</description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Sun, 05 Oct 2025 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Mar 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>QGIS 4.0 is now available - but don’t upgrade….. yet!</title>
+  <dc:creator>Nick Bearman</dc:creator>
+  <link>https://nickbearman.github.io/blog/2026-03-qgis-4-is-out/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://nickbearman.github.io/blog/2026-03-qgis-4-is-out/qgis-4-0-norrkoping.png" class="img-fluid"></p>
+<p>QGIS 4.0 is now available! But yes, you have read my title correctly - I would recommend many people don’t upgrade…. yet.</p>
+<p>QGIS 4.0 is an ‘Early Adopter’ version - which means that there are new things in there that may break. I would also say for many basic users (and some intermediate users) there isn’t much new that’s changed, so you are not missing out on much (see below for some new things coming up).</p>
+<p>Many of the changes for 4.0 are under the hood, so that’s why you won’t see many differences. These changes are important - and will make the software more reliable and easier to maintain.</p>
+<p>Rather than upgrading now, I would recommend waiting until 4.2 is released (about July 2026) and by this point QGIS will be more stable, and it will be fine to upgrade then.</p>
+<section id="but-i-really-want-to-upgrade-now" class="level2">
+<h2 class="anchored" data-anchor-id="but-i-really-want-to-upgrade-now">But I really want to upgrade now</h2>
+<p>If you are really keen, and if you have used the <a href="https://qgis.org/resources/installation-guide/#online-osgeo4w-installer">OSGeo4W</a> installer on Windows, then you have the ability to install two versions of QGIS at once. This is the approach I use, to keep both the latest LTR (long term release) and the latest version available on my desktop. I currently have QGIS 4.0 and QGIS 3.44.8 on my computer. To get this, run the installer and choose from the options below. Cycle through the versions by clicking on the version number until you get 4.0.0-1. or similar under “qgis: QGIS Desktop”.</p>
+<p><img src="https://nickbearman.github.io/blog/2026-03-qgis-4-is-out/osgeo4w-setup.png" class="img-fluid"></p>
+<p>If you have already installed QGIS with the normal installer, and want to switch to the OSGeo4W installer, then you will need to uninstall QGIS first, and then install the OSGeo4W installer. See the <a href="https://qgis.org/resources/installation-guide/#online-osgeo4w-installer">guide</a> for more information.</p>
+<p><strong>DO NOT do this if you have a big deadline coming up. It may break your installation of QGIS!</strong></p>
+</section>
+<section id="whats-new-in-qgis-4.0" class="level2">
+<h2 class="anchored" data-anchor-id="whats-new-in-qgis-4.0">What’s new in QGIS 4.0?</h2>
+<p>There is a great <a href="https://blog.qgis.org/2026/03/09/qgis-4-0-norrkoping-is-released/">blog post</a> on the ins and outs of QGIS version 4.0.</p>
+<p>I would say the most important change is moving from Qt5 to Qt6. What is Qt you ask? Qt is the software that is used to make software - in this case QGIS. It provides a framework for the buttons, windows and interfaces that you see. It also allows the software to be cross-platform - so QGIS will run on Windows, macOS or Unix - with minimal changes.</p>
+<p>Qt is widely used and helps create programmes as diverse as Adobe Photoshop Elements, Audacity, FreeCAD, Google Earth, OBS, Teamviewer, Telegram and VLC media player according to <a href="https://en.wikipedia.org/wiki/Qt_(software)"><em>Wikipedia</em></a>. Qt5 is being retired and Qt6 will now be supported until 2029.</p>
+<p>Hopefully this will allow a few underlying bugs in QGIS to be fixed, including some related to macOS, but unfortunately apparently the <a href="https://github.com/qgis/QGIS/issues/49351#issuecomment-4046576171">bug of saving layers inside a geopackage on a Mac</a> has not changed, yet.</p>
+<p>You can check out the <a href="https://qgis.org/project/visual-changelogs/visualchangelog40/">Visual Changelog</a> to see all the new features, but one caught my eye - you can now <a href="https://qgis.org/project/visual-changelogs/visualchangelog40/#feature-attribute-table-double-click-zoom">double click an entry in the attribute table, and QGIS will zoom to it</a>:</p>
+<p><img src="https://nickbearman.github.io/blog/2026-03-qgis-4-is-out/double-click-zoom.gif" class="img-fluid"></p>
+<p><em>Thanks to <a href="https://github.com/lanckmann">Nass</a> for implementing this.</em></p>
+</section>
+<section id="plugins" class="level2">
+<h2 class="anchored" data-anchor-id="plugins">Plugins</h2>
+<p>It is also worth mentioning that if you use plugins in QGIS, these will need to be updated to work with QGIS 4.0. Many plugin authors have updated their plugins to work with QGIS 4.0, and out of the <a href="https://plugins.qgis.org/metabase/public/dashboard/7ecd345f-7321-423d-9844-71e526a454a9">top 10 plugins</a>, 7 are fully compatible, and 1 - qgis2web - is compatible but has out of date <a href="https://github.com/qgis2web/qgis2web/issues/1122">metadata</a>:</p>
+<p><strong>Top 10 QGIS plugins (as of 18/02/2026):</strong></p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Plugin</th>
+<th>Compatible</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>QuickMapServices</td>
+<td><span style="color:green">✓</span></td>
+</tr>
+<tr class="even">
+<td>OpenLayers Plugin</td>
+<td><span style="color:red">✘</span> <em>QGIS 4.0 not supported, and the plugin is now deprecated, I would suggest you use XYZ Maps in QGIS the browser panel instead</em></td>
+</tr>
+<tr class="odd">
+<td>QuickOSM</td>
+<td><span style="color:green">✓</span></td>
+</tr>
+<tr class="even">
+<td>Semi-Automatic Classification Plugin</td>
+<td><span style="color:green">✓</span></td>
+</tr>
+<tr class="odd">
+<td>HCMGIS</td>
+<td><span style="color:green">✓</span></td>
+</tr>
+<tr class="even">
+<td>mmqgis</td>
+<td><span style="color:green">✓</span></td>
+</tr>
+<tr class="odd">
+<td>Lat Lon Tools</td>
+<td><span style="color:red">✘</span></td>
+</tr>
+<tr class="even">
+<td>Profile tool</td>
+<td><span style="color:green">✓</span></td>
+</tr>
+<tr class="odd">
+<td>qgis2web</td>
+<td><span style="color:red">✘</span> <em>compatible, but <a href="https://github.com/qgis2web/qgis2web/issues/1122">metadata to be updated</a> </em></td>
+</tr>
+<tr class="even">
+<td>Qgis2threejs</td>
+<td><span style="color:green">✓</span></td>
+</tr>
+</tbody>
+</table>
+<p>Plugins are updated all the time - this is the list at the time of writing, 18/03/2026. If you have a plugin that doesn’t work yet - do keep checking back. If you spot anything wrong with my list, <a href="https://nickbearman.com">let me know</a>.</p>
+</section>
+<section id="qgis-4.2" class="level2">
+<h2 class="anchored" data-anchor-id="qgis-4.2">QGIS 4.2</h2>
+<p>So, I said wait for QGIS 4.2 earlier, so when will it be out? The plan is for 4.2 to be released in July 2026, so not too long to wait. Check out the <a href="https://qgis.org/resources/roadmap/">roadmap</a> for more info.</p>
+<p>Thanks for reading, and if you need advice with QGIS, I offer group training, one to one training and consultancy, please <a href="https://nickbearman.com">contact me</a> for more details!</p>
+<p>Happy GIS-ing!</p>
+
+
+</section>
+
+ ]]></description>
+  <category>QGIS</category>
+  <category>teaching</category>
+  <category>open source</category>
+  <guid>https://nickbearman.github.io/blog/2026-03-qgis-4-is-out/</guid>
+  <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://nickbearman.github.io/blog/2026-03-qgis-4-is-out/qgis-4-0-norrkoping-header.png" medium="image" type="image/png" height="76" width="144"/>
+</item>
 <item>
   <title>FOSS4G:UK 2025 Leeds - It’s all about the people</title>
   <dc:creator>Nick Bearman</dc:creator>
@@ -80,6 +184,11 @@
 </section>
 
  ]]></description>
+  <category>conference</category>
+  <category>in person</category>
+  <category>FOSS4G:UK</category>
+  <category>GIS</category>
+  <category>open source</category>
   <guid>https://nickbearman.github.io/blog/2025-10-foss4guk-2025-leeds/</guid>
   <pubDate>Sun, 05 Oct 2025 23:00:00 GMT</pubDate>
   <media:content url="https://nickbearman.github.io/blog/2025-10-foss4guk-2025-leeds/people.jpeg" medium="image" type="image/jpeg"/>
@@ -117,6 +226,9 @@
 
 
  ]]></description>
+  <category>conference</category>
+  <category>in person</category>
+  <category>CPD</category>
   <guid>https://nickbearman.github.io/blog/2025-09-rgs-conference/</guid>
   <pubDate>Sun, 31 Aug 2025 23:00:00 GMT</pubDate>
   <media:content url="https://nickbearman.github.io/blog/2025-09-rgs-conference/uob.jpeg" medium="image" type="image/jpeg"/>
@@ -203,6 +315,7 @@
 </section>
 
  ]]></description>
+  <category>in person</category>
   <guid>https://nickbearman.github.io/blog/2025-06-becoming-a-dad/</guid>
   <pubDate>Fri, 20 Jun 2025 23:00:00 GMT</pubDate>
   <media:content url="https://nickbearman.github.io/blog/2025-06-becoming-a-dad/holding-baby-header.png" medium="image" type="image/png" height="94" width="144"/>
@@ -1380,65 +1493,6 @@ font-style: inherit;">"Total Population of Liverpool, 2021"</span>)</span></code
   <guid>https://nickbearman.github.io/blog/2021-09-matrix/</guid>
   <pubDate>Sat, 11 Sep 2021 23:00:00 GMT</pubDate>
   <media:content url="https://nickbearman.github.io/blog/2021-09-matrix/chat_systems.png" medium="image" type="image/png" height="104" width="144"/>
-</item>
-<item>
-  <title>To video, or not to video</title>
-  <dc:creator>Nick Bearman</dc:creator>
-  <link>https://nickbearman.github.io/blog/2021-07-video/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>“That is the question.”</p>
-<p><em>(Apologies to anyone who has studied English Literature, at any level!)</em></p>
-<p>With nearly everyone participating in more and move video calls, “to share video or not to share video” is, indeed, the question. When participating in an online conference, should the audience members share their video?</p>
-<p>We have all attended loads of video conferencing calls over the last 15 months, and I’ve been no expectation to this. I attended two conferences recently, and one thing that struck me was whether the audience members have their cameras on.</p>
-<p>When I’m running a training course or presenting, I really love to be able to see people’s faces – so I can see who I am talking to. Of course, I realise this isn’t always possible or something the participants want to do (either because of bandwidth limitations, not having a suitable home environment [although this is less of an issue with virtual backgrounds now] or many other reasons). Therefore when I am running a course I explicitly say at the beginning:</p>
-<p><em>“If you can have your video on and would like to, please do. I really like to be able to see people. However if you have limited bandwidth, or another reason why you don’t want to share your video, that is fine as well.”</em></p>
-<p>With this approach 9 out of 10 people usually put their video on and it makes it a much better experience for me (and, I think for them).</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://nickbearman.github.io/blog/2021-07-video/screenshot-participants-1536x610.png" class="img-fluid figure-img"></p>
-<figcaption>Participants in one of my training courses sharing their videos</figcaption>
-</figure>
-</div>
-<p>I recently attended two conferences (<a href="https://agile-gi.eu/past-conferences/agile-conferences/agile-2021-virtual">AGILE 2021</a> and <a href="https://codingedi.github.io/">Coding in the Open</a>), where only the people presenting shared their video, and the attendees did not. There have been many conferences like this, and at some conferences attendees do not have a choice (e.g.&nbsp;if you are using Zoom Webinar, the audience can not share their video).</p>
-<p>However for these conferences, there was a choice (AGILE used a standard <a href="https://zoom.us/">Zoom</a> room, and Coding in the Open used <a href="https://bluejeans.com/">Bluejeans</a>). For AGILE, the organisers asked participants to turn on their cameras for a group photo! About two-thirds or so of people did turn their cameras on the for <a href="https://agile2021.senselab.tuc.gr/social-events/">photo</a>. However as soon as the photo was done, people turned their cameras off again.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://nickbearman.github.io/blog/2021-07-video/Agile2021groupphoto1-1030x579-1.jpg" class="img-fluid figure-img"></p>
-<figcaption>Our AGILE group photo (1 of 2)</figcaption>
-</figure>
-</div>
-<p>There seems to be an unwritten rule that the audience have their cameras off, and I have seen this is many other conferences as well.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://nickbearman.github.io/blog/2021-07-video/Screenshot-2021-06-17-132224-Copy-1536x879.png" class="img-fluid figure-img"></p>
-<figcaption>The blank boxes (with names and initials removed)</figcaption>
-</figure>
-</div>
-<p>Personally, I don’t really like this, as all you get to see of the other people on the call are black boxes. Yes, you can turn off the blank boxes, but if I am presenting, I like to be able to see who I am presenting to, and if I am in the audience, I also like to see who the audience are.</p>
-<p>The other conference I attended was Coding in the Open, and this was run on <a href="https://www.bluejeans.com/">Bluejeans</a>. Here the attendees were asked to turn of their video because of bandwidth. This is often a worrying concern, and here around 150 had signed up for the free conference, and the organisers were very worried that 150 people joining the call with video might stretch the limits of the platform. In the end, typically we had 40-50 people in each session, so wouldn’t have been an issue.</p>
-<p>This is a very common concern for organisers, and compounded by the fact that for free events, often only one third or one half of the people who sign up actually appear. The question then is how much capacity do you need for this event, with additional capacity often costing more money. This is a discussion for another time though.</p>
-<p>I did a rough show of hands in the session, and it seems most people would prefer to see the audience, whether they are in the audience or the presenter. Additionally, most programs have the option of hiding the video of other participants, if that is what you prefer.</p>
-<p>As an aside, it is worth mentioning that you can turn your own video off in most platforms, and apparently this has been shown to reduce tiredness. I’m not sure it makes a lot of different for me, but for some people it clearly does:</p>
-<p><em>Now that you can remove the icon video of yourself in Google Meet I am finding online meetings far less stressful. Seeing myself (however small on the screen) for the last 15 months has been horrible. I am happy to have my video on + be seen, but not as a mirror back onto myself</em> <br> <em>— prof jenny pickerill (<span class="citation" data-cites="JennyPickerill">@JennyPickerill</span>) June 9, 2021</em></p>
-<p>So if you think it might help you, give it a try!</p>
-<p>I guess as we work out what the ‘new normal’ is, we will be creating new social rules and expectations for how we work, including in video calls. I would say please do share your video if you can – whether you are in a call of 2, class of 25 or lecture hall of 200. I think it makes all the difference to the person presenting!</p>
-<p>Do share your experiences in the comments below and let me know what you think.</p>
-
-
-
- ]]></description>
-  <category>GIS</category>
-  <category>GISRUK</category>
-  <category>conference</category>
-  <category>online</category>
-  <category>remote</category>
-  <guid>https://nickbearman.github.io/blog/2021-07-video/</guid>
-  <pubDate>Thu, 01 Jul 2021 23:00:00 GMT</pubDate>
-  <media:content url="https://nickbearman.github.io/blog/2021-07-video/Screenshot-2021-06-17-132224-Copy-1536x879.png" medium="image" type="image/png" height="82" width="144"/>
 </item>
 </channel>
 </rss>

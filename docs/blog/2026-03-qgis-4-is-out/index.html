@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Nick Bearman">
-<meta name="dcterms.date" content="2025-10-06">
+<meta name="dcterms.date" content="2026-03-18">
 
-<title>FOSS4G:UK 2025 Leeds - It’s all about the people – Nick Bearman</title>
+<title>QGIS 4.0 is now available - but don’t upgrade….. yet! – Nick Bearman</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -141,9 +141,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#the-people-workshops-and-talks" id="toc-the-people-workshops-and-talks" class="nav-link active" data-scroll-target="#the-people-workshops-and-talks">The people, workshops and talks</a></li>
-  <li><a href="#keynote-presentations" id="toc-keynote-presentations" class="nav-link" data-scroll-target="#keynote-presentations">Keynote presentations</a></li>
-  <li><a href="#thank-you---and-the-future" id="toc-thank-you---and-the-future" class="nav-link" data-scroll-target="#thank-you---and-the-future">Thank you :-) and the future…</a></li>
+  <li><a href="#but-i-really-want-to-upgrade-now" id="toc-but-i-really-want-to-upgrade-now" class="nav-link active" data-scroll-target="#but-i-really-want-to-upgrade-now">But I really want to upgrade now</a></li>
+  <li><a href="#whats-new-in-qgis-4.0" id="toc-whats-new-in-qgis-4.0" class="nav-link" data-scroll-target="#whats-new-in-qgis-4.0">What’s new in QGIS 4.0?</a></li>
+  <li><a href="#plugins" id="toc-plugins" class="nav-link" data-scroll-target="#plugins">Plugins</a></li>
+  <li><a href="#qgis-4.2" id="toc-qgis-4.2" class="nav-link" data-scroll-target="#qgis-4.2">QGIS 4.2</a></li>
   </ul>
 </nav>
     </div>
@@ -152,12 +153,10 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">FOSS4G:UK 2025 Leeds - It’s all about the people</h1>
+<h1 class="title">QGIS 4.0 is now available - but don’t upgrade….. yet!</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">conference</div>
-    <div class="quarto-category">in person</div>
-    <div class="quarto-category">FOSS4G:UK</div>
-    <div class="quarto-category">GIS</div>
+    <div class="quarto-category">QGIS</div>
+    <div class="quarto-category">teaching</div>
     <div class="quarto-category">open source</div>
   </div>
   </div>
@@ -176,7 +175,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">October 6, 2025</p>
+      <p class="date">March 18, 2026</p>
     </div>
   </div>
   
@@ -188,61 +187,89 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>I’ve just returned from a fantastic 2 days in Leeds for FOSS4G:UK 2025. FOSS4G is an amazing group, and I am so proud to be part of the fantastic team that ran FOSS4G:UK 2025 Leeds on 1st and 2nd October 2025. We were in the great venue <a href="https://horizonleeds.co.uk/">Horizon Leeds</a>, with two days of workshops and talks.</p>
-<section id="the-people-workshops-and-talks" class="level2">
-<h2 class="anchored" data-anchor-id="the-people-workshops-and-talks">The people, workshops and talks</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="people.jpeg" class="img-fluid figure-img"></p>
-<figcaption>FOSS4G is all about the people</figcaption>
-</figure>
-</div>
-<p>I always love the fact that for many of these conferences you can have the choice of going to talks or going to workshops for the whole two days. People have so many things they want to share, we can provide so much content! One workshop was enough for me, and I learnt a great deal about <a href="https://talks.osgeo.org/foss4g-uk-2025/talk/9HHT8Q/">QGIS Model Builder from Ant Scott</a> - a great way of automating procedures if you don’t want to learn how to code. <em>Of course, if you do want to learn to code, I would recommend <a href="https://nickbearman.com/training-courses">R</a>!</em></p>
-<p>There is also the range of content - some highly technical talks, for example the one on Mesh datasets, which I didn’t catch myself, but I heard was brain melting! <a href="https://talks.osgeo.org/foss4g-uk-2025/talk/QKV9ZY/">All Datasets are Meshes: Towards a new Ontology for 3D GIS</a> - to some fascinating insights on running a commercial business using open source software from both <a href="https://talks.osgeo.org/foss4g-uk-2025/talk/ZGEVTN/">Alex Wrottesley at Idox Geospatial</a> and <a href="https://talks.osgeo.org/foss4g-uk-2025/talk/DZVYFH/">Mike Saunt from Astun</a> and some great hints and tips including <a href="https://talks.osgeo.org/foss4g-uk-2025/talk/3WBLMF/">Tom Armitage on QGIS Blend Modes</a>.</p>
+<p><img src="qgis-4-0-norrkoping.png" class="img-fluid"></p>
+<p>QGIS 4.0 is now available! But yes, you have read my title correctly - I would recommend many people don’t upgrade…. yet.</p>
+<p>QGIS 4.0 is an ‘Early Adopter’ version - which means that there are new things in there that may break. I would also say for many basic users (and some intermediate users) there isn’t much new that’s changed, so you are not missing out on much (see below for some new things coming up).</p>
+<p>Many of the changes for 4.0 are under the hood, so that’s why you won’t see many differences. These changes are important - and will make the software more reliable and easier to maintain.</p>
+<p>Rather than upgrading now, I would recommend waiting until 4.2 is released (about July 2026) and by this point QGIS will be more stable, and it will be fine to upgrade then.</p>
+<section id="but-i-really-want-to-upgrade-now" class="level2">
+<h2 class="anchored" data-anchor-id="but-i-really-want-to-upgrade-now">But I really want to upgrade now</h2>
+<p>If you are really keen, and if you have used the <a href="https://qgis.org/resources/installation-guide/#online-osgeo4w-installer">OSGeo4W</a> installer on Windows, then you have the ability to install two versions of QGIS at once. This is the approach I use, to keep both the latest LTR (long term release) and the latest version available on my desktop. I currently have QGIS 4.0 and QGIS 3.44.8 on my computer. To get this, run the installer and choose from the options below. Cycle through the versions by clicking on the version number until you get 4.0.0-1. or similar under “qgis: QGIS Desktop”.</p>
+<p><img src="osgeo4w-setup.png" class="img-fluid"></p>
+<p>If you have already installed QGIS with the normal installer, and want to switch to the OSGeo4W installer, then you will need to uninstall QGIS first, and then install the OSGeo4W installer. See the <a href="https://qgis.org/resources/installation-guide/#online-osgeo4w-installer">guide</a> for more information.</p>
+<p><strong>DO NOT do this if you have a big deadline coming up. It may break your installation of QGIS!</strong></p>
 </section>
-<section id="keynote-presentations" class="level2">
-<h2 class="anchored" data-anchor-id="keynote-presentations">Keynote presentations</h2>
-<p>We had three fantastic keynotes: first up was <a href="https://talks.osgeo.org/foss4g-uk-2025/talk/EQNXHG/">Kathryn Berger, Lead Data Scientist from UK Department for Science, Innovation and Technology (DSIT)</a>. She talked about how she first came across GIS through an initiative providing free Landsat images for schools in New Hampshire, USA in the 1990s (at this point, access to Landsat images was chargable). These formed part of a project getting school children (including her) out into nature to measure trees, calculate biomass and correlate this with the Landsat images. It lit her excitement for GIS and she has been working with GIS ever since.</p>
-<p>She also provided a great example of some of the limitations of AI. One fascinating application of AI is to digitise building footprints - a very tedious job to do by hand, which would be great if we could automate it and speed it up. In some areas this works very well, but in other areas it does not.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="ai-buildings.png" class="img-fluid figure-img"></p>
-<figcaption>Left in white - buildings digitised by the local community. Right in yellow - buildings digitised by Ai. Spot the difference!</figcaption>
-</figure>
-</div>
-<p><a href="https://www.geoversity.io/stories/1268210/how-can-machine-learning-bias-affect-gis-applications/">How can machine learning bias affect GIS applications? Geoversity</a></p>
-<p><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10584113">Auditing Geospatial Datasets for Biases: Using Global Building Datasets for Disaster Risk Management</a></p>
-<p>In the image above, on the left the buildings highlighted with a white outline have been digitised by the local population. On the right, the same buildings have been digitised by AI. You can spot the missing buildings in the middle easily - these types of building were clearly not considered to be buildings by this AI. However, if we then use this data to calculate how many vaccinations an area might need, how much aid might be needed, how much support might be needed after a natural disaster, then if we use the AI (yellow) version, quite a lot of people are going short!</p>
-<p>If you are interested how many buildings might be missing, <a href="https://claude.ai/">Claude.ai</a> says: “There appear to be approximately 60-70 buildings highlighted in white. There appear to be approximately 80-100 buildings highlighted in yellow.” So a potential difference of ~30%-40%. <em><a href="https://claude.ai/share/f4957014-117e-4501-b1f1-d25973614df0">Source</a></em></p>
-<p>She also mentioned the <a href="https://civicus.org/index.php/media-resources/news/interviews/6534-ai-the-biggest-challenges-are-the-biases-and-lack-of-transparency-of-algorithms">HOT (Humantarian OpenStreetMap Team) approach to AI</a> which is a great one to use:</p>
-<p>The problem:</p>
-<ul>
-<li>Most current AI models are closed, unclear how and on what data the model was trained (most often with built in biases)</li>
-</ul>
-<p>Their solution:</p>
-<ul>
-<li>Tackle biases by localising models, (don’t use a general model that works everywhere)</li>
-<li>Use fully open-source AI models for transparency (so it’s clear how AI systems are trained and who is training them)</li>
-<li>Use local knowledge, human-in-the-loop, to validate and provide feedback</li>
-</ul>
-<p>Our second keynote was <a href="https://talks.osgeo.org/foss4g-uk-2025/talk/BJF3RX/">Mariam Crichton</a> who is a big fan of thinking about how our work connects to the world as a whole. She said ‘all data is global data’ and was keen for us to know, that even if we are working in a very country or local focused way, our work is part of something much bigger - and can have some much bigger impacts.</p>
-<p>She also highlighted some really interesting priorities for open data from her experience in the sustainability market, and other highly regulated fields - they are not what you might expect:</p>
-<p><img src="sustainability-market.png" class="img-fluid"></p>
-<p>Finally, <a href="https://talks.osgeo.org/foss4g-uk-2025/talk/WXV9JW/">Alasdair Rae</a> talked about getting to the point and what drives us as geospatial professionals. Open source has many many strengths - including collaboration. He had a whole slide on this (which now I can’t find a picture of!) but his key message was that collaboration is key to success and we need to remember this. He also had this gem:</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="rae.jfif" class="img-fluid figure-img"></p>
-<figcaption>If I know what’s in it then I will trust it more, <em>unless it’s haggis</em></figcaption>
-</figure>
-</div>
+<section id="whats-new-in-qgis-4.0" class="level2">
+<h2 class="anchored" data-anchor-id="whats-new-in-qgis-4.0">What’s new in QGIS 4.0?</h2>
+<p>There is a great <a href="https://blog.qgis.org/2026/03/09/qgis-4-0-norrkoping-is-released/">blog post</a> on the ins and outs of QGIS version 4.0.</p>
+<p>I would say the most important change is moving from Qt5 to Qt6. What is Qt you ask? Qt is the software that is used to make software - in this case QGIS. It provides a framework for the buttons, windows and interfaces that you see. It also allows the software to be cross-platform - so QGIS will run on Windows, macOS or Unix - with minimal changes.</p>
+<p>Qt is widely used and helps create programmes as diverse as Adobe Photoshop Elements, Audacity, FreeCAD, Google Earth, OBS, Teamviewer, Telegram and VLC media player according to <a href="https://en.wikipedia.org/wiki/Qt_(software)"><em>Wikipedia</em></a>. Qt5 is being retired and Qt6 will now be supported until 2029.</p>
+<p>Hopefully this will allow a few underlying bugs in QGIS to be fixed, including some related to macOS, but unfortunately apparently the <a href="https://github.com/qgis/QGIS/issues/49351#issuecomment-4046576171">bug of saving layers inside a geopackage on a Mac</a> has not changed, yet.</p>
+<p>You can check out the <a href="https://qgis.org/project/visual-changelogs/visualchangelog40/">Visual Changelog</a> to see all the new features, but one caught my eye - you can now <a href="https://qgis.org/project/visual-changelogs/visualchangelog40/#feature-attribute-table-double-click-zoom">double click an entry in the attribute table, and QGIS will zoom to it</a>:</p>
+<p><img src="double-click-zoom.gif" class="img-fluid"></p>
+<p><em>Thanks to <a href="https://github.com/lanckmann">Nass</a> for implementing this.</em></p>
 </section>
-<section id="thank-you---and-the-future" class="level2">
-<h2 class="anchored" data-anchor-id="thank-you---and-the-future">Thank you :-) and the future…</h2>
-<p>I volunteered to be on the Local Organising Committee (LOC) and the conference would not have happened without the rest of the committee - thank you so much to <a href="https://www.linkedin.com/posts/dennis-bauszus-45b55760_foss4guk-foss4g-foss4g2027-activity-7379618896456134656-7a5W?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAASXC6wBRv0w74LkW4jBxSVP-9ldgbYpLRk">Dennis</a>, <a href="https://www.linkedin.com/posts/antscott_foss4guk-osgeouk-activity-7379954237247483904-arg5?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAASXC6wBRv0w74LkW4jBxSVP-9ldgbYpLRk">Ant</a>, <a href="https://www.linkedin.com/posts/jsonsingh_foss4guk-gis-foss4g-ugcPost-7380520354793885696-T0qE?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAASXC6wBRv0w74LkW4jBxSVP-9ldgbYpLRk">Json</a>, <a href="https://www.linkedin.com/posts/clairelouisebirnie_foss4guk-foss4g-ugcPost-7379804246151438336-1TdQ?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAASXC6wBRv0w74LkW4jBxSVP-9ldgbYpLRk">Claire</a> and <a href="https://www.linkedin.com/in/weiming-huang-bb0073152/">Weiming</a>. I’d also like to say a special thank you to <a href="https://www.linkedin.com/in/matt-travis-6a609321/">Matt</a>, who did a lot of work as Treasurer behind the scenes getting money from sponsors, but couldn’t be there for the event!</p>
-<p>I would also not hesitate to recommend the venue, <a href="https://horizonleeds.co.uk/">Horizon Leeds</a>. It is a lovely space, and with 180 people we filled it nicely. There were also no queues for coffee or lunch, which I think is a first for me! Coffee (&amp; tea) were available on demand from two stations any time, and lunch was a grab and go ‘bento box’ split over two stations, which meant no queues either. We also had a lovely selection of 4 different lunches.</p>
-<p>Lastly, we also had a discussion on the potential of the UK to bid for (and hopefully host) the FOSS4G International conference, most likely in 2027 in Bristol. Watch this space for details, and if you want to help out, join the OSGeo:UK mailing list for details.</p>
-<p>All three keynotes, and all the talks in Create 1 and Create 2 were videoed (including the <a href="https://uk.osgeo.org/agm/agm2025.html">AGM</a> which was extra fun with no slides!) so they will be on our YouTube channel in a month or two - watch our social media for details.</p>
-<p>If you have any questions, please <a href="https://nickbearman.github.io">contact me</a>.</p>
+<section id="plugins" class="level2">
+<h2 class="anchored" data-anchor-id="plugins">Plugins</h2>
+<p>It is also worth mentioning that if you use plugins in QGIS, these will need to be updated to work with QGIS 4.0. Many plugin authors have updated their plugins to work with QGIS 4.0, and out of the <a href="https://plugins.qgis.org/metabase/public/dashboard/7ecd345f-7321-423d-9844-71e526a454a9">top 10 plugins</a>, 7 are fully compatible, and 1 - qgis2web - is compatible but has out of date <a href="https://github.com/qgis2web/qgis2web/issues/1122">metadata</a>:</p>
+<p><strong>Top 10 QGIS plugins (as of 18/02/2026):</strong></p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Plugin</th>
+<th>Compatible</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>QuickMapServices</td>
+<td><span style="color:green">✓</span></td>
+</tr>
+<tr class="even">
+<td>OpenLayers Plugin</td>
+<td><span style="color:red">✘</span> <em>QGIS 4.0 not supported, and the plugin is now deprecated, I would suggest you use XYZ Maps in QGIS the browser panel instead</em></td>
+</tr>
+<tr class="odd">
+<td>QuickOSM</td>
+<td><span style="color:green">✓</span></td>
+</tr>
+<tr class="even">
+<td>Semi-Automatic Classification Plugin</td>
+<td><span style="color:green">✓</span></td>
+</tr>
+<tr class="odd">
+<td>HCMGIS</td>
+<td><span style="color:green">✓</span></td>
+</tr>
+<tr class="even">
+<td>mmqgis</td>
+<td><span style="color:green">✓</span></td>
+</tr>
+<tr class="odd">
+<td>Lat Lon Tools</td>
+<td><span style="color:red">✘</span></td>
+</tr>
+<tr class="even">
+<td>Profile tool</td>
+<td><span style="color:green">✓</span></td>
+</tr>
+<tr class="odd">
+<td>qgis2web</td>
+<td><span style="color:red">✘</span> <em>compatible, but <a href="https://github.com/qgis2web/qgis2web/issues/1122">metadata to be updated</a> </em></td>
+</tr>
+<tr class="even">
+<td>Qgis2threejs</td>
+<td><span style="color:green">✓</span></td>
+</tr>
+</tbody>
+</table>
+<p>Plugins are updated all the time - this is the list at the time of writing, 18/03/2026. If you have a plugin that doesn’t work yet - do keep checking back. If you spot anything wrong with my list, <a href="https://nickbearman.com">let me know</a>.</p>
+</section>
+<section id="qgis-4.2" class="level2">
+<h2 class="anchored" data-anchor-id="qgis-4.2">QGIS 4.2</h2>
+<p>So, I said wait for QGIS 4.2 earlier, so when will it be out? The plan is for 4.2 to be released in July 2026, so not too long to wait. Check out the <a href="https://qgis.org/resources/roadmap/">roadmap</a> for more info.</p>
+<p>Thanks for reading, and if you need advice with QGIS, I offer group training, one to one training and consultancy, please <a href="https://nickbearman.com">contact me</a> for more details!</p>
+<p>Happy GIS-ing!</p>
 
 
 </section>

@@ -2,7 +2,7 @@
 title: "Becoming a Dad"
 author: "Nick Bearman"
 date: "2025-06-21"
-categories: []
+categories: [in person]
 image: "holding-baby-header.png"
 ---
 

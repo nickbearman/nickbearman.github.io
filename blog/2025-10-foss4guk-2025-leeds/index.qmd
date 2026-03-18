@@ -2,7 +2,7 @@
 title: "FOSS4G:UK 2025 Leeds - It's all about the people"
 author: "Nick Bearman"
 date: "2025-10-06"
-categories: []
+categories: [conference, in person, FOSS4G:UK, GIS, open source]
 image: "people.jpeg"
 ---
 

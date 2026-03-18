@@ -2,7 +2,7 @@
 title: "RGS AIC 2025 in Birmingham"
 author: "Nick Bearman"
 date: "2025-09-01"
-categories: []
+categories: [conference, in person, CPD]
 image: "uob.jpeg"
 ---
 
