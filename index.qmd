@@ -7,6 +7,9 @@ about:
     - icon: envelope
       text: Email
       href: mailto:nick@nickbearman.com
+    - icon: envelope
+      text: Alt Email
+      href: mailto:nick.bearman@ucl.ac.uk
     - icon: telephone
       text: "+44 (0)1209 808910"
     - icon: envelope-fill
