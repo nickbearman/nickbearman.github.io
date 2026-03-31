@@ -92,6 +92,27 @@ I recently completed a 1-to-1 online QGIS mapping course with Nick Bearman. I wa
 
 ----
 
+### Public Health Medicine, HSE Ireland
+
+::: columns
+:::: {.column width="50%"}
+[![](images/hse-ireland.png)](images/hse-ireland.png)
+
+::::
+:::: {.column width="5%"}
+
+::::
+:::: {.column width="45%"}
+
+
+"Nick provided a good balance of the background to GIS and practical work. He was very flexible and helpful, particularly by using examples with our data so we could see how it could help in our work."
+
+*Naomi Petty-Saphon, Consultant in Public Health Medicine, HSE Ireland*
+
+::::
+:::
+
+---
 
 ### Protected Landscapes Partnership
 

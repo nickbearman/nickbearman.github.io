@@ -169,9 +169,15 @@ In this week long (17.5 hours) course at the Essex Summer School, you will gain 
 
 ### Other Courses
 
-I have also run a number of other courses, based around the four courses above and tweaked for a bespoke audience. I have delivered bespoke courses to a wide variety of clients including Public Health Wales, Red Bull, National Trails UK and UEA International Development. 
+I have also run a number of other courses, based around the four courses above and tweaked for a bespoke audience. I have delivered bespoke courses to a wide variety of clients including Public Health Wales, Red Bull, National Trails UK, Orkney Council and UEA International Development. 
 
 I also deliver bespoke GIS training one-to-one and small groups on a [consultancy](consultancy.html) basis. 
+
+:::{.callout-tip}
+## "Nick provided a really informative one to one session with plenty of handouts, slides and examples for me to learn. Using GIS can be straightforward at times, but can also be complicated, and Nick gets the balance just right in the way he teaches."
+*Jonny Wood - Director - Hawksmoor Property Services, UK*
+
+:::
 
 If you are interested in a bespoke course, please [contact me](index.html) for a discussion and a quote.
 
