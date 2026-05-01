@@ -19,7 +19,7 @@ My courses are constantly being developed to take advantage of the latest change
 
 |              | Introductory         | Advanced                               |
 |--------------|-----------------------------------|-----------------------|
-| **R** | [Intro to R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis) *Apr 2026*   | [Advanced R and Spatial Statistics](#advanced-R-as-a-gis-spatial-analysis-and-statistics)  *May 2026* |  
+| **R** | [Intro to R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis) <!-- *Apr 2026* -->   | [Advanced R and Spatial Statistics](#advanced-R-as-a-gis-spatial-analysis-and-statistics)  *May 2026* |  
 | **QGIS**     |  [Intro to QGIS](#introduction-to-qgis-understanding-and-presenting-spatial-data)  <!--*Feb 2026*-->            | [Advanced QGIS](#advanced-qgis-spatial-analysis) <!--*Mar 2026*-->    |
 
 If you would like a course run for a group of you, or have any questions, then please do [contact me](index.html) or email [nick\@nickbearman.com](mailto:nick\@nickbearman.com) to discuss your needs and get a quote.
@@ -38,13 +38,13 @@ No previous experience of coding is required, although participants would benefi
 
 <!-- [Tue 11th and Wed 12th Nov 2025, 1pm - 4pm (UK/London), online, InStats](https://instats.org/seminar/introduction-to-spatial-data-and-r-as-a-1) -->
 
-[Tue 28th and Wed 29th Apr 2026, 10am – 1pm (UK/London), online, NCRM](https://www.ncrm.ac.uk/training/show.php?article=14372) 
+<!-- [Tue 28th and Wed 29th Apr 2026, 10am – 1pm (UK/London), online, NCRM](https://www.ncrm.ac.uk/training/show.php?article=14372) -->
 
 <!-- [No dates currently scheduled, please join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
 
 *[You can also access this course in an On-Demand format via InStats](https://instats.org/seminar/introduction-to-spatial-data-and-r-as-a-3).* *This gives you access to training materials, the recordings, and a discussion forum if you have questions, for 30 days.*
 
-<!-- *I run this course regularly, so if you would like to attend a live, version please [join my mailing list to hear when new dates are confirmed.](mailing-list.html)* -->
+*I run this course regularly, so if you would like to attend a live, version please [join my mailing list to hear when new dates are confirmed.](mailing-list.html)*
 ::::
 :::: {.column width="42%"}
 
