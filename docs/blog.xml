@@ -10,7 +10,100 @@
 <atom:link href="https://nickbearman.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>A blog on my teaching, open source GIS, travel and life</description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Tue, 07 Apr 2026 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 12 May 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>GISRUK 2026: GIS that makes a difference</title>
+  <dc:creator>Nick Bearman</dc:creator>
+  <link>https://nickbearman.github.io/blog/2026-05-gisruk-2026/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="columns">
+<div class="column" style="width:70%;">
+<p>From 14th - 17th April, I was fortunate to be able to attend GISRUK 2026, at the University of Birmingham. GISRUK is a regular feature in my calendar and it’s a great opportunity to see what is happening in the world of GIS Research, catch-up with old colleagues and make new connections.</p>
+<p>For me, this conference was quite application focused, which I really enjoyed. It’s great to see what GIS can do, as well as learning about new methods and techniques.</p>
+</div><div class="column" style="width:5%;">
+
+</div><div class="column" style="width:25%;">
+<p><img src="https://nickbearman.github.io/blog/2026-05-gisruk-2026/welcome-to-gisruk.jpg" class="img-fluid"></p>
+</div>
+</div>
+<p>Ed Parsons kicked-off the conference with a great keynote, talking about how we, as geographers, can make a difference. He got us thinking about what are the real world problems we can solve - a useful reminder that while the research is important, application is important too.</p>
+<p>I also really loved his Russian Doll AI explanation - while Generative AI is “the new big thing”, it is all just statistics and many of these terms (Deep Learning, Neural Networks, Machine Learning and Artificial Intelligence) are all part of Data Analytics - which we have been working with in GIS for many many years.</p>
+<p><img src="https://nickbearman.github.io/blog/2026-05-gisruk-2026/russian-dolls-ai.jpg" class="img-fluid"></p>
+<p>We also heard from the conference chairs, Emma Ferranti and Sarah Greenham about their work with <a href="https://www.birmingham.ac.uk/research/centres-institutes/urban-wellbeing/projects/wm-adapt-maximising-adaptation-to-climate-change-in-the-west-midland-beyond">WM Adapt</a> and wider applications in their current research projects.</p>
+<p>This was followed by two great presentations from <a href="https://www.linkedin.com/in/adam-nudds-01a091106/">Adam Nudds</a> and <a href="https://www.linkedin.com/in/sichunlam/">Si Chan Lam</a> at the West Midlands Combined Authority (WMCA). Adam is a graduate of Uni of Birmingham, and part of the great links the university has with local government. Si reflected on how his many hundreds of hours playing Sim City 2000 prepared him for a role in Local Government (!)</p>
+<p><img src="https://nickbearman.github.io/blog/2026-05-gisruk-2026/sim-city-2000.jpg" class="img-fluid"></p>
+<p>With Adam, he provided some great food for thought on how we as GIS Researchers can make GIS more accessible and useful to decision makers. Often they want two sentences - but they also want confidence in the research behind those two sentences. PowerBI as a business tool also cropped up a couple of times with the tension of decision makers and non geospatial analysts wanting to use PowerBI, and the GIS experts wanting to use a more full featured GIS. I would say both tools can be useful and it’s worth seeing how we can bridge the two. Si and Adam are trying to make a showcase of GIS tools to show what we can do with GIS for the decision makers in WMCA.</p>
+<p>It was also great to hear critical thinking mentioned several times, when using data, particularly IMD. Many many studies use IMD, particularly when they are looking at impacts on people. However, not many critically evaluate their use of it. Fortunately, Emma Ferranti reminded us in her presentation that when they use it, they ask - does it provide enough information and does it identify the people it needs to? Also <a href="https://doi.org/10.5281/zenodo.19367359">Luc Wilson</a> reminded us that IMD is often treated like fact, but it isn’t necessarily fact - remember the <a href="https://navigatinggis.gitbook.io/home/spatial-analysis/ecological-fallacy">Ecological Fallacy</a>!</p>
+<p>The discussion also went beyond IMD, and <a href="https://doi.org/10.5281/zenodo.19367437">Alex Singleton</a> reminded us that while we have to define many aspects to be able to analyse them - he was looking at vulnerability and cash access - the definition of vulnerability is subjective so no one measure captures everything.</p>
+<p>Bivariate maps are also now in! They were featured in at least three presentations including <a href="https://doi.org/10.5281/zenodo.19420782">Fulvio Lopane</a> and <a href="https://doi.org/10.5281/zenodo.19367628">Johara Meyer</a>, who did a great visualisation of picking out just certain groups in her presentation and highlighting them both on the map and in the legend.</p>
+<div class="columns">
+<div class="column" style="width:60%;">
+<p><img src="https://nickbearman.github.io/blog/2026-05-gisruk-2026/bivariate-map-2.jpg" class="img-fluid"></p>
+</div><div class="column" style="width:5%;">
+
+</div><div class="column" style="width:35%;">
+<p><img src="https://nickbearman.github.io/blog/2026-05-gisruk-2026/bivariate-maps.png" class="img-fluid"></p>
+</div>
+</div>
+<p>The second keynote was a fantastic presentation from Gemma Davis and Claudia Offner from MapAction. MapAction provides mapping for humanitarian emergencies, often sending small teams to provide on the ground support directly after humanitarian emergencies. Gemma and Claudia shared their experiences providing support on the ground, highlighting how important maps are as a common communication tool in this setting. For me, a big highlight was that printed maps are still key - part of their kit is a plotter to create bigger than A3 maps, which form a key part of the planning and operations aspect of any aid response.</p>
+<p>While printed maps are key, mobile phones are a massively useful tool too. They also highlighted two key tools they often used. Firstly, <a href="https://www.kobotoolbox.org/">KoboToolbox</a> as a geospatial enabled survey app, allowing responders to collect data in the field (without a data connection) and easily upload that data when they have connectivity. They also highlighted the ubiquity of WhatsApp, with local communities using it to coordinate their response. This is great, but it’s hard to integrate this with knowing what is happening where on a map. A new tool, <a href="https://chatmap.hotosm.org/">Hot ChatMap</a>, enables anyone to import a WhatsApp (or Telegram, Signal, etc.) chat and create a basic map showing all the locations shared and any related images. This is really helpful to work out what is happening where, and to share that data.</p>
+<p><img src="https://nickbearman.github.io/blog/2026-05-gisruk-2026/mapaction.jpg" class="img-fluid"></p>
+<p>Another aspect I picked up from the conference is the importance of making the application of your work clear. Some presentations did this very very well, making technical aspects and applications clear to those in the audience who are not necessarily experts in that particular field.</p>
+<p>While in some years at GISRUK we have been inundated with papers using social media data, this year there was only one - Nurwatik Nurwatik presenting - Incorporating Topology on GPT-Based Geoparsing Model for Finer Geocoding Locations from Social Media Texts. This was a fascinating discussion on using GPT-based technology to improve geoparsing - i.e.&nbsp;understanding how people talk about location in social media text.</p>
+<p>Similarly there have been previous years where you could more-or-less follow the whole conference on Twitter - pre Elon Musk of course - but now, the conference only had a few mentions on LinkedIn during the conference - and nothing I could see on Twitter (X), Bluesky or Mastodon. There were a few nice summary posts after the conference, including these ones from <a href="https://www.linkedin.com/posts/activity-7452019857987887104-wHqt?utm_source=social_share_send&amp;utm_medium=member_desktop_web&amp;rcm=ACoAAASXC6wBRv0w74LkW4jBxSVP-9ldgbYpLRk">Emma Ferranti</a>, <a href="https://www.linkedin.com/posts/harry-kirby-a9aa14265_had-a-lot-of-fun-at-gisruk-this-week-was-activity-7450928216233369600-5jIr?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAASXC6wBRv0w74LkW4jBxSVP-9ldgbYpLRk">Harry Kirby</a>, <a href="https://www.linkedin.com/posts/lenka-ha%C5%A1ov%C3%A1-88340a88_another-successful-gisrukbehind-big-thanks-activity-7450998448989962240-wkW5?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAASXC6wBRv0w74LkW4jBxSVP-9ldgbYpLRk">Lenka Hasova</a>, <a href="https://www.linkedin.com/posts/ferdous-rababa-320487175_gisruk-activity-7450843987755757568-VyJb?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAASXC6wBRv0w74LkW4jBxSVP-9ldgbYpLRk">Ferdous Rababa</a> and many others.</p>
+<p>We had a great conference dinner at The Exchange in central Birmingham, a venue owned by the university. There is currently an exhibition called Helios, about the Sun, with a giant model sun hanging from the ceiling - quite a stunning setup. Alongside a variety of public engagement spaces (including one on WM Adapt featuring Emma Ferranti!) The Exchange is also an old bank, and you can tour the vaults downstairs. No gold left unfortunately! But some quite spectacular vault doors:</p>
+<p><img src="https://nickbearman.github.io/blog/2026-05-gisruk-2026/the-exchange.jpg" class="img-fluid"></p>
+<p>I was also attending as a judge for the <a href="https://2026.gisruk.org/osgeo/">GISRUK &amp; OSGeo:UK GoFundGeo Award</a>, presented a GISRUK presenter who presents a tool or technique that has potential for wide uptake in the open source geospatial (OSGeo) community. We had a great selection of entries, and the final decision was hard. We finally settled on Chenrui Xiao who presented <a href="https://doi.org/10.5281/zenodo.19390693">Wheely Easy: Creating a Wheelability Network for Bradford</a>. Thanks to all those on the judging panel who helped me.</p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://nickbearman.github.io/blog/2026-05-gisruk-2026/prize-winners.jpg" class="img-fluid figure-img"></p>
+<figcaption>The GISRUK Prize Winners, thanks to Emma Ferranti for the photo</figcaption>
+</figure>
+</div>
+</div><div class="column" style="width:5%;">
+
+</div><div class="column" style="width:45%;">
+<p>Finally, I’d also like to say well done to the other GISRUK prize winners:</p>
+<ul>
+<li>Best poster presentation:
+<ul>
+<li><strong>Mohammed Almousa</strong> <a href="https://doi.org/10.5281/zenodo.19452565">Measuring safe walking access to public transport in Riyadh using the SOLWEIG tool and the PHS model under extreme hot conditions</a></li>
+</ul></li>
+<li>Best paper, student registration
+<ul>
+<li><strong>Zihao Chen</strong> <a href="https://doi.org/10.5281/zenodo.19420832">Measuring the dynamics of service accessibility by bus in England: a comparison of scheduled and observed travel time variability</a></li>
+</ul></li>
+<li>Best paper, standard registration
+<ul>
+<li><strong>Huanfa Chen</strong> <a href="https://doi.org/10.5281/zenodo.19367485">How far are we from keeping everyone warm in cost-of-living crisis? Measuring geographic accessibility to UK warm spaces</a></li>
+</ul></li>
+<li>Best Paper in Spatial Analysis
+<ul>
+<li><strong>Johara Meyer</strong> <a href="https://doi.org/10.5281/zenodo.19367628">Towards a Dynamic View of UK Deprivation: Harmonising the IMD Using Claimant Count Data</a></li>
+</ul></li>
+</ul>
+</div>
+</div>
+<p>GISRUK was a great opportunity to meet GIS academics and researchers, and anyone interested in the developing field of GIS. Next year we will be in Nottingham and I hope to see some of you there.</p>
+<p>If you ever want to talk about GIS Training, or whether GIS could be used in your project, I’m always open to a discussion. Please <a href="https://nickbearman.com">contact me</a> to find out more!</p>
+
+
+
+ ]]></description>
+  <category>CPD</category>
+  <category>conference</category>
+  <category>in person</category>
+  <category>GISRUK</category>
+  <guid>https://nickbearman.github.io/blog/2026-05-gisruk-2026/</guid>
+  <pubDate>Tue, 12 May 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://nickbearman.github.io/blog/2026-05-gisruk-2026/tram.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Generative AI Tools for Mapping</title>
   <dc:creator>Nick Bearman</dc:creator>
@@ -1505,49 +1598,6 @@ font-style: inherit;">"Total Population of Liverpool, 2021"</span>)</span></code
   <guid>https://nickbearman.github.io/blog/2022-05-digital-twins/</guid>
   <pubDate>Sun, 22 May 2022 23:00:00 GMT</pubDate>
   <media:content url="https://nickbearman.github.io/blog/2022-05-digital-twins/2022-05-17-10.13.05-Copy-660x445.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Spatial R – Time to move from sp to sf</title>
-  <dc:creator>Nick Bearman</dc:creator>
-  <link>https://nickbearman.github.io/blog/2022-02-spatial-r/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>It was about three years ago (2019) when I last wrote about the <a href="http://www.geospatialtrainingsolutions.co.uk/spatial-r-moving-from-sp-to-sf/">sp and sf libraries in R</a>. The R Spatial world has moved on since then, with sp heading close to retirement now. Since 2019 I have run Introduction to Spatial Data &amp; Using R as a GIS, and its companion course, Confident Spatial Analysis and Statistics in R &amp; GeoDa, around 12 times teaching over 150 students. At some point I needed to make the transition from sp to sf – the question was, when?</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://nickbearman.github.io/blog/2022-02-spatial-r/2019-06-13-12.26.53-students-at-desk_linkedin-1024x535.jpg" class="img-fluid figure-img"></p>
-<figcaption>Students at work, learning how to use R as a GIS</figcaption>
-</figure>
-</div>
-<p>Students at work, learning how to use R as a GIS A quick recap before we get into the details – there are two main libraries that allow us to handle spatial data in R – sp and sf. sp has been around for nearly 20 years now (it first came out in 2005) and is now entering retirement. sf is much newer – it initially came out in 2016, and ever since has been gaining new functions and new users.</p>
-<p>sp and sf work in fundamentally different ways, specifically revolving around how they store spatial data within R. sp uses something called S4 classes, where the different elements of spatial data (coordinates/geometry, attribute table, coordinate system, etc.) are split up into different ‘slots’ and accessed using the @ symbol. sf uses S3 classes and stores spatial data all within a standard data frame, with some extra header information and a geometry column.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://nickbearman.github.io/blog/2022-02-spatial-r/FGP1MWJWUAQYhWG-1024x571.jpg" class="img-fluid figure-img"></p>
-<figcaption>A great table summarising the differences between sp and sf, from <a href="https://twitter.com/WeAreRLadies/status/1469287613060292613">WeAreRLadies</a> on Twitter.</figcaption>
-</figure>
-</div>
-<p>The practical upshot of all of this is that I have to choose which one to teach in my courses. Pre 2019, I taught everything in sp because that was the most well used library. In March 2019 (three years ago) I moved the first part of my course from sp to sf and introduced the tmap library. This actually made R much easier to teach – because it was quicker and easier to create a map, primarily as a result of the great tmap library and the simplicity that using sf brought.</p>
-<p>At this point sf was still developing, and I struggled to be able to do a point-in-polygon analysis in sf – see my <a href="http://www.geospatialtrainingsolutions.co.uk/spatial-r-moving-from-sp-to-sf/">previous blog post</a> for more details! Additionally, there were still many many examples of sp code on the web, and relatively few sf examples. Therefore I decided to keep my more advanced practical 3: point in polygon analysis in sp.</p>
-<p>By the time we got to Dec 2021 (last year) sf had come along way since 2019, and point in polygon analysis was now possible – so I updated my <a href="https://github.com/nickbearman/intro-r-spatial-analysis/commit/de56e5df9bee67c25c468eeb74b63ae132a0f9f9">practical to reflect this</a>. I’ve still kept the sp example, and in the introductory course I still mention sp in passing as I think it is important for any R spatial users to be aware of sp, even if they don’t actually use it. This is because I think for at least the next couple of years, there will be lots of sp examples still on Stack Exchange and elsewhere on the web, and when people find these examples, they need to be able to understand what they are any why they are different.</p>
-<p>Moving forward from now (2022) most of the packages that support sp (rgdal, rgeos, maptools) are being retired from the end of 2023, and everyone is being advised to move to sf. sp itself is still getting some maintenance updates, but this will only be for a limited period of time, and now everyone should be moving from sp to sf for new work. In addition, if you work with raster data, the raster library (which has many of the same dependents as sp) is transitioning to terra.</p>
-<p>The We Are R Ladies group on Twitter did a very good Twitter thread about these changes – do check it out at <a href="https://twitter.com/WeAreRLadies/status/1469286521874300939" class="uri">https://twitter.com/WeAreRLadies/status/1469286521874300939</a>.</p>
-<p><img src="https://nickbearman.github.io/blog/2022-02-spatial-r/twitter.png" class="img-fluid"></p>
-<p>My introductory course is now fully transitioned to sf, and the practical is available under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license at <a href="https://github.com/nickbearman/intro-r-spatial-analysis" class="uri">https://github.com/nickbearman/intro-r-spatial-analysis</a>. I will next be running this course as part of the <a href="https://nickbearman.github.io/training-courses.html">GeoIgnite conference in Canada, on 9th March</a>. I will also be running this course again the future, please sign up to my mailing list to find out when I have confirmed more dates.</p>
-<p>Next on the list is updating the Advanced course, Confident Spatial Analysis and Statistics in R &amp; GeoDa and moving this from sp to sf, which is going to be quite a job. A summer project, perhaps….!</p>
-
-
-
- ]]></description>
-  <category>open source</category>
-  <category>R spatial</category>
-  <category>teaching</category>
-  <guid>https://nickbearman.github.io/blog/2022-02-spatial-r/</guid>
-  <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://nickbearman.github.io/blog/2022-02-spatial-r/2019-06-13-12.26.53-students-at-desk_linkedin-1024x535.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
