@@ -54,6 +54,8 @@ Check out the first chapters of my books (for free) for more details:
 - [GIS: Research Methods ](gis-research-methods.html) 
 - [Using R as a GIS](rgis.html)
 
+Watch my free seminar ["What is GIS?" (60 min)](https://instats.org/seminar/what-is-gis-free-seminar) to find out more.  
+
 :::
 
 :::{.callout-note}

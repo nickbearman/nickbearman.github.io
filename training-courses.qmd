@@ -19,11 +19,43 @@ My courses are constantly being developed to take advantage of the latest change
 
 |              | Introductory         | Advanced                               |
 |--------------|-----------------------------------|-----------------------|
-| **R** | [Intro to R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis) <!-- *Apr 2026* -->   | [Advanced R and Spatial Statistics](#advanced-R-as-a-gis-spatial-analysis-and-statistics)  *May 2026* |  
-| **QGIS**     |  [Intro to QGIS](#introduction-to-qgis-understanding-and-presenting-spatial-data)  <!--*Feb 2026*-->            | [Advanced QGIS](#advanced-qgis-spatial-analysis) <!--*Mar 2026*-->    |
+| **R** | [Intro to R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis)  *Aug 2026*   | [Advanced R and Spatial Statistics](#advanced-R-as-a-gis-spatial-analysis-and-statistics)  *May 2026 & Aug 2026* |  
+| **QGIS**     |  [Intro to QGIS](#introduction-to-qgis-understanding-and-presenting-spatial-data)  *Aug 2026*            | [Advanced QGIS](#advanced-qgis-spatial-analysis) *Aug 2026*    |
 
 If you would like a course run for a group of you, or have any questions, then please do [contact me](index.html) or email [nick\@nickbearman.com](mailto:nick\@nickbearman.com) to discuss your needs and get a quote.
 
+----
+
+### What is GIS? (Free Seminar)
+
+::: columns
+:::: {.column width="53%"}
+
+A free seminar (60min) from InStats providing a comprehensive introduction to geospatial information systems (GIS). 
+
+This seminar provides a comprehensive introduction to geospatial information systems (GIS), exploring fundamental concepts, spatial data sources, and software tools applicable across various research fields. Participants will gain skills in spatial analysis and data visualization, empowering them to integrate GIS into their academic research and enhance their analytical capabilities.
+
+[Wed 8th Jul 2026, 4pm - 5pm (UK/London), online, InStats](https://instats.org/seminar/what-is-gis-20-free-seminar)
+
+*[A recording of a previous version is available as well.](https://instats.org/seminar/what-is-gis-free-seminar)*
+
+
+::::
+:::: {.column width="5%"}
+
+::::
+:::: {.column width="42%"}
+
+![](images/census-2021-liverpool.png)
+
+::::
+:::
+
+:::{.callout-tip}
+## "This short, but free seminar was quite good to get a general overview of GIS. It was a good introduction to see how GIS could be useful to your research and what courses and resources might be useful to acquire GIS-related skills that you can use for your own projects. "
+*Lukas S, University of Bologna*
+
+:::
 
 ----
 
@@ -36,7 +68,7 @@ In this two half day course we will explore how to use R to import, manage and p
 
 No previous experience of coding is required, although participants would benefit from some experience of using spatial data (e.g. Google Maps).
 
-<!-- [Tue 11th and Wed 12th Nov 2025, 1pm - 4pm (UK/London), online, InStats](https://instats.org/seminar/introduction-to-spatial-data-and-r-as-a-1) -->
+[Tue 18th and Wed 19th Aug 2026, 2pm - 5pm (UK/London), online, InStats](https://instats.org/seminar/introduction-to-spatial-data-and-r-as-a-4)
 
 <!-- [Tue 28th and Wed 29th Apr 2026, 10am – 1pm (UK/London), online, NCRM](https://www.ncrm.ac.uk/training/show.php?article=14372) -->
 
@@ -44,7 +76,8 @@ No previous experience of coding is required, although participants would benefi
 
 *[You can also access this course in an On-Demand format via InStats](https://instats.org/seminar/introduction-to-spatial-data-and-r-as-a-3).* *This gives you access to training materials, the recordings, and a discussion forum if you have questions, for 30 days.*
 
-*I run this course regularly, so if you would like to attend a live, version please [join my mailing list to hear when new dates are confirmed.](mailing-list.html)*
+*I run this course regularly, so if you would like to attend a live version please [join my mailing list to hear when new dates are confirmed.](mailing-list.html)*
+
 ::::
 :::: {.column width="42%"}
 
@@ -79,15 +112,17 @@ In this two part course we will show you how to prepare and conduct spatial anal
 ::::
 :::
 
-<!-- [*Advanced R for Spatial Analysis:* Tue 25th and Wed 26th Nov 2025, 1pm - 4pm (UK/London), online, InStats](https://instats.org/seminar/advanced-r-for-spatial-analysis) -->
+[Tue 19th and Wed 20th May 2026, 10am – 1pm (UK/London), online, NCRM](https://www.ncrm.ac.uk/training/show.php?article=14377)
+
+[*Advanced R for Spatial Analysis:* Tue 25th and Wed 26th Aug 2026, 2pm - 5pm (UK/London), online, InStats](https://instats.org/seminar/advanced-r-for-spatial-analysis-20)
 
 <!-- [*Spatial Statistics in R:* Tue 2nd Dec 2025, 1pm - 4pm (UK/London), online, InStats](https://instats.org/seminar/spatial-statistics-in-r) -->
-
-[Tue 19th and Wed 20th May 2026, 10am – 1pm (UK/London), online, NCRM](https://www.ncrm.ac.uk/training/show.php?article=14377)
 
 <!-- [No dates currently scheduled, please join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
 
 *You can also access this course in an On-Demand format via InStats: [Advanced R for Spatial Analysis](https://instats.org/seminar/advanced-r-for-spatial-analysis) and [Spatial Statistics in R](https://instats.org/seminar/spatial-statistics-in-r). This gives you access to training materials, the recordings, and a discussion forum if you have questions, for 30 days.*
+
+*I run this course regularly, so if you would like to attend a live version please [join my mailing list to hear when new dates are confirmed.](mailing-list.html)*
 
 :::{.callout-tip}
 ## "I really enjoyed Nick's GIS class and learned a ton. My new skills are already coming in handy in preparing maps to visualize my research findings for a conference presentation."
@@ -104,13 +139,15 @@ In this two part introductory course we will give you an overview on how GIS wor
 
 *Attendees on this course can choose to receive a [Certificate of Completion](https://www.qgis.org/community/certification/), certified by QGIS for a donation of €20. [Geospatial Training Solutions / Nick Bearman](https://changelog.qgis.org/en/qgis/certifyingorganisation/geospatial-training-solutions/) is a QGIS approved training organisation, and a donation of €20 for each participant will be made to the QGIS Foundation, supporting the development of QGIS.*
 
-<!-- [Tue 21st and Wed 22nd Oct 2025, 1pm - 4pm (UK/London), online, InStats](https://instats.org/seminar/introduction-to-qgis-and-spatial-data) -->
+[Tue 4th and Wed 5th Aug 2026, 2pm - 5pm (UK/London), online, InStats](https://instats.org/seminar/introduction-to-qgis-and-spatial-data-20)
 
 <!-- [Tue 24th and Wed 25th Feb 2026, 10am – 1pm (UK/London), online, NCRM](https://www.ncrm.ac.uk/training/show.php?article=14368) -->
 
-[No dates currently scheduled, please join my mailing list to hear when new dates are confirmed.](mailing-list.html)
+<!-- [No dates currently scheduled, please join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
 
 *[You can also access this course in an On-Demand format via InStats.](https://instats.org/seminar/introduction-to-qgis-and-spatial-data-1) This gives you access to training materials, the recordings, and a discussion forum if you have questions, for 30 days.*
+
+*I run this course regularly, so if you would like to attend a live version please [join my mailing list to hear when new dates are confirmed.](mailing-list.html)*
 
 ![](images/qgis-screenshot.png)
 
@@ -130,13 +167,15 @@ This advanced two part course will develop your skills of using spatial data, in
 
 *Attendees on this course can choose to receive a [Certificate of Completion](https://www.qgis.org/community/certification/), certified by QGIS for a donation of €20. [Geospatial Training Solutions / Nick Bearman](https://changelog.qgis.org/en/qgis/certifyingorganisation/geospatial-training-solutions/) is a QGIS approved training organisation, and a donation of €20 for each participant will be made to the QGIS Foundation, supporting the development of QGIS.*
 
-<!-- [Tue 28th and Wed 29th Oct 2025, 1pm - 4pm (UK/London), online, InStats](https://instats.org/seminar/advanced-qgis-spatial-analysis) -->
+[Tue 11th and Wed 12th Aug 2026, 2pm - 5pm (UK/London), online, InStats](https://instats.org/seminar/advanced-qgis-spatial-analysis-20)
 
 <!-- [Tue 3rd and Wed 4th Mar 2026, 10am – 1pm (UK/London), online, NCRM](https://www.ncrm.ac.uk/training/show.php?article=14369) -->
 
-[No dates currently scheduled, please join my mailing list to hear when new dates are confirmed.](mailing-list.html)
+<!-- [No dates currently scheduled, please join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
 
 *[You can also access this course in an On-Demand format via InStats.](https://instats.org/seminar/advanced-qgis-spatial-analysis-1) This gives you access to training materials, the recordings, and a discussion forum if you have questions, for 30 days.*
+
+*I run this course regularly, so if you would like to attend a live version please [join my mailing list to hear when new dates are confirmed.](mailing-list.html)*
 
 <!-- *This course used to be called **Confident Spatial Analysis in QGIS**, and is the same material with a new, better name!* -->
 
