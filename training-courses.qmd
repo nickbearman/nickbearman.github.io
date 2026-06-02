@@ -19,8 +19,8 @@ My courses are constantly being developed to take advantage of the latest change
 
 |              | Introductory         | Advanced                               |
 |--------------|-----------------------------------|-----------------------|
-| **R** | [Intro to R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis)  *Aug 2026*   | [Advanced R and Spatial Statistics](#advanced-R-as-a-gis-spatial-analysis-and-statistics)  *May 2026 & Aug 2026* |  
-| **QGIS**     |  [Intro to QGIS](#introduction-to-qgis-understanding-and-presenting-spatial-data)  *May 2026 & Aug 2026*            | [Advanced QGIS](#advanced-qgis-spatial-analysis) *Aug 2026*    |
+| **R** | [Intro to R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis)  *Aug 2026*   | [Advanced R and Spatial Statistics](#advanced-R-as-a-gis-spatial-analysis-and-statistics)  *Aug 2026* |  
+| **QGIS**     |  [Intro to QGIS](#introduction-to-qgis-understanding-and-presenting-spatial-data)  *Aug 2026*            | [Advanced QGIS](#advanced-qgis-spatial-analysis) *Aug 2026*    |
 
 If you would like a course run for a group of you, or have any questions, then please do [contact me](index.html) or email [nick\@nickbearman.com](mailto:nick\@nickbearman.com) to discuss your needs and get a quote.
 
@@ -138,8 +138,6 @@ In this two part introductory course we will give you an overview on how GIS wor
 *This course requires no prior knowledge of GIS or spatial data. A level of basic computer experience is required; such as using websites, Word and saving & moving files.*
 
 *Attendees on this course can choose to receive a [Certificate of Completion](https://www.qgis.org/community/certification/), certified by QGIS for a donation of €20. [Geospatial Training Solutions / Nick Bearman](https://changelog.qgis.org/en/qgis/certifyingorganisation/geospatial-training-solutions/) is a QGIS approved training organisation, and a donation of €20 for each participant will be made to the QGIS Foundation, supporting the development of QGIS.*
-
-[Tue 26th May and Mon 1st June 2026, 2pm - 5pm (UK/London), online](https://forms.gle/7CAPubhH9nc7s67SA)
 
 [Tue 4th and Wed 5th Aug 2026, 2pm - 5pm (UK/London), online, InStats](https://instats.org/seminar/introduction-to-qgis-and-spatial-data-20)
 
