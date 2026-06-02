@@ -218,7 +218,7 @@ I have also run a number of other courses, based around the four courses above a
 I also deliver bespoke GIS training one-to-one and small groups on a [consultancy](consultancy.html) basis. 
 
 :::{.callout-tip}
-## Jonny Wood - Director - Hawksmoor Property Services, UK
+## Jonny Wood, Director, Hawksmoor Property Services, UK
 "Nick provided a really informative one to one session with plenty of handouts, slides and examples for me to learn. Using GIS can be straightforward at times, but can also be complicated, and Nick gets the balance just right in the way he teaches."
 :::
 
