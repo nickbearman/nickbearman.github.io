@@ -52,9 +52,8 @@ This seminar provides a comprehensive introduction to geospatial information sys
 :::
 
 :::{.callout-tip}
-## "This short, but free seminar was quite good to get a general overview of GIS. It was a good introduction to see how GIS could be useful to your research and what courses and resources might be useful to acquire GIS-related skills that you can use for your own projects. "
-*Lukas S, University of Bologna*
-
+## Lukas S, University of Bologna
+"This short, but free seminar was quite good to get a general overview of GIS. It was a good introduction to see how GIS could be useful to your research and what courses and resources might be useful to acquire GIS-related skills that you can use for your own projects."
 :::
 
 ----
@@ -86,9 +85,8 @@ No previous experience of coding is required, although participants would benefi
 :::
 
 :::{.callout-tip}
-## "Nice balance of theory and practice. Also useful to learn what to look for if things go wrong. Content was flexible to include what might be useful for our work."
-*Vickie, Analyst, Public Health Wales*
-
+## Vickie, Analyst, Public Health Wales
+"Nice balance of theory and practice. Also useful to learn what to look for if things go wrong. Content was flexible to include what might be useful for our work."
 :::
 
 ----
@@ -125,8 +123,8 @@ In this two part course we will show you how to prepare and conduct spatial anal
 *I run this course regularly, so if you would like to attend a live version please [join my mailing list to hear when new dates are confirmed.](mailing-list.html)*
 
 :::{.callout-tip}
-## "I really enjoyed Nick's GIS class and learned a ton. My new skills are already coming in handy in preparing maps to visualize my research findings for a conference presentation."
-*Laura Kettel, PhD, Postdoc, Dept. of Political Science, Aarhus University*
+## Laura Kettel, PhD, Postdoc, Dept. of Political Science, Aarhus University
+"I really enjoyed Nick's GIS class and learned a ton. My new skills are already coming in handy in preparing maps to visualize my research findings for a conference presentation."
 :::
 
 ----
@@ -149,13 +147,21 @@ In this two part introductory course we will give you an overview on how GIS wor
 
 *I run this course regularly, so if you would like to attend a live version please [join my mailing list to hear when new dates are confirmed.](mailing-list.html)*
 
+:::{.callout-tip}
+## Will, Senior Policy and Research Officer, CoMoUK
+"Thank you very much Nick! The training helped to set a great foundation and I look forward to applying the learnings to my work context! The mix of taught content and practical worked examples was fantastic."
+:::
+
+
 ![](images/qgis-screenshot.png)
 
 :::{.callout-tip}
-## "I love having a workbook to go through, it's how I learn best. Also, perfect balance between presentation and practical work."
-*Harriet Ann Patrick, PhD Researcher, University of Sheffield*
-
+## Harriet Ann Patrick, PhD Researcher, University of Sheffield
+"I love having a workbook to go through, it's how I learn best. Also, perfect balance between presentation and practical work."
 :::
+
+
+
 
 ----
 
@@ -183,9 +189,8 @@ This advanced two part course will develop your skills of using spatial data, in
 ![](images/pip-spatial-overlays.png)
 
 :::{.callout-tip}
-## "The whole course has been fantastic, thanks for making it so engaging and accessible."
-*Dr Caitriona Dowd, Assistant Professor, School of Politics and International Relations, University College Dublin*
-
+## Dr Caitriona Dowd, Assistant Professor, School of Politics and International Relations, University College Dublin
+"The whole course has been fantastic, thanks for making it so engaging and accessible."
 :::
 
 ----
@@ -213,9 +218,8 @@ I have also run a number of other courses, based around the four courses above a
 I also deliver bespoke GIS training one-to-one and small groups on a [consultancy](consultancy.html) basis. 
 
 :::{.callout-tip}
-## "Nick provided a really informative one to one session with plenty of handouts, slides and examples for me to learn. Using GIS can be straightforward at times, but can also be complicated, and Nick gets the balance just right in the way he teaches."
-*Jonny Wood - Director - Hawksmoor Property Services, UK*
-
+## Jonny Wood - Director - Hawksmoor Property Services, UK
+"Nick provided a really informative one to one session with plenty of handouts, slides and examples for me to learn. Using GIS can be straightforward at times, but can also be complicated, and Nick gets the balance just right in the way he teaches."
 :::
 
 If you are interested in a bespoke course, please [contact me](index.html) for a discussion and a quote.
