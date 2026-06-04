@@ -19,8 +19,8 @@ My courses are constantly being developed to take advantage of the latest change
 
 |              | Introductory         | Advanced                               |
 |--------------|-----------------------------------|-----------------------|
-| **R** | [Intro to R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis)  *Aug 2026*   | [Advanced R and Spatial Statistics](#advanced-R-as-a-gis-spatial-analysis-and-statistics)  *Aug 2026* |  
-| **QGIS**     |  [Intro to QGIS](#introduction-to-qgis-understanding-and-presenting-spatial-data)  *Aug 2026*            | [Advanced QGIS](#advanced-qgis-spatial-analysis) *Aug 2026*    |
+| **R** | [Intro to R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis)  *Aug 2026* & *Nov 2026*   | [Advanced R and Spatial Statistics](#advanced-R-as-a-gis-spatial-analysis-and-statistics)  *Aug 2026* & *Nov 2026* |  
+| **QGIS**     |  [Intro to QGIS](#introduction-to-qgis-understanding-and-presenting-spatial-data)  *Aug 2026* & *Oct 2026*            | [Advanced QGIS](#advanced-qgis-spatial-analysis) *Aug 2026* & *Oct 2026*    |
 
 If you would like a course run for a group of you, or have any questions, then please do [contact me](index.html) or email [nick\@nickbearman.com](mailto:nick\@nickbearman.com) to discuss your needs and get a quote.
 
@@ -69,6 +69,8 @@ No previous experience of coding is required, although participants would benefi
 
 [Tue 18th and Wed 19th Aug 2026, 2pm - 5pm (UK/London), online, InStats](https://instats.org/seminar/introduction-to-spatial-data-and-r-as-a-4)
 
+[Tue 17th and Wed 18th Nov 2026, 2pm - 5pm (UK/London), online, PR Stats](https://prstats.org/course/introduction-to-spatial-data-analysis-and-gis-workflows-in-r-irgi01/)
+
 <!-- [Tue 28th and Wed 29th Apr 2026, 10am – 1pm (UK/London), online, NCRM](https://www.ncrm.ac.uk/training/show.php?article=14372) -->
 
 <!-- [No dates currently scheduled, please join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
@@ -110,9 +112,12 @@ In this two part course we will show you how to prepare and conduct spatial anal
 ::::
 :::
 
-[Tue 19th and Wed 20th May 2026, 10am – 1pm (UK/London), online, NCRM](https://www.ncrm.ac.uk/training/show.php?article=14377)
+<!-- [Tue 19th and Wed 20th May 2026, 10am – 1pm (UK/London), online, NCRM](https://www.ncrm.ac.uk/training/show.php?article=14377) -->
 
 [*Advanced R for Spatial Analysis:* Tue 25th and Wed 26th Aug 2026, 2pm - 5pm (UK/London), online, InStats](https://instats.org/seminar/advanced-r-for-spatial-analysis-20)
+
+[Tue 24th and Wed 25th Nov 2026, 2pm - 5pm (UK/London), online, PR Stats](https://prstats.org/course/advanced-r-for-spatial-analysis-argi01/)
+
 
 <!-- [*Spatial Statistics in R:* Tue 2nd Dec 2025, 1pm - 4pm (UK/London), online, InStats](https://instats.org/seminar/spatial-statistics-in-r) -->
 
@@ -138,6 +143,9 @@ In this two part introductory course we will give you an overview on how GIS wor
 *Attendees on this course can choose to receive a [Certificate of Completion](https://www.qgis.org/community/certification/), certified by QGIS for a donation of €20. [Geospatial Training Solutions / Nick Bearman](https://changelog.qgis.org/en/qgis/certifyingorganisation/geospatial-training-solutions/) is a QGIS approved training organisation, and a donation of €20 for each participant will be made to the QGIS Foundation, supporting the development of QGIS.*
 
 [Tue 4th and Wed 5th Aug 2026, 2pm - 5pm (UK/London), online, InStats](https://instats.org/seminar/introduction-to-qgis-and-spatial-data-20)
+
+[Tue 20th and Wed 21st Oct 2026, 2pm - 5pm (UK/London), online, PR Stats](https://prstats.org/course/introduction-to-qgis-and-spatial-data-analysis-workflows-iqgi01/)
+
 
 <!-- [Tue 24th and Wed 25th Feb 2026, 10am – 1pm (UK/London), online, NCRM](https://www.ncrm.ac.uk/training/show.php?article=14368) -->
 
@@ -174,6 +182,8 @@ This advanced two part course will develop your skills of using spatial data, in
 *Attendees on this course can choose to receive a [Certificate of Completion](https://www.qgis.org/community/certification/), certified by QGIS for a donation of €20. [Geospatial Training Solutions / Nick Bearman](https://changelog.qgis.org/en/qgis/certifyingorganisation/geospatial-training-solutions/) is a QGIS approved training organisation, and a donation of €20 for each participant will be made to the QGIS Foundation, supporting the development of QGIS.*
 
 [Tue 11th and Wed 12th Aug 2026, 2pm - 5pm (UK/London), online, InStats](https://instats.org/seminar/advanced-qgis-spatial-analysis-20)
+
+[Tue 27th and Wed 28th Oct 2026, 2pm - 5pm (UK/London), online, PR Stats](https://prstats.org/course/advanced-qgis-and-spatial-data-analysis-workflows-aqgi01/)
 
 <!-- [Tue 3rd and Wed 4th Mar 2026, 10am – 1pm (UK/London), online, NCRM](https://www.ncrm.ac.uk/training/show.php?article=14369) -->
 
