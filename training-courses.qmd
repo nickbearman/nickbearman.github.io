@@ -114,7 +114,7 @@ In this two part course we will show you how to prepare and conduct spatial anal
 
 <!-- [Tue 19th and Wed 20th May 2026, 10am – 1pm (UK/London), online, NCRM](https://www.ncrm.ac.uk/training/show.php?article=14377) -->
 
-[*Advanced R for Spatial Analysis:* Tue 25th and Wed 26th Aug 2026, 2pm - 5pm (UK/London), online, InStats](https://instats.org/seminar/advanced-r-for-spatial-analysis-20)
+[Tue 25th and Wed 26th Aug 2026, 2pm - 5pm (UK/London), online, InStats](https://instats.org/seminar/advanced-r-for-spatial-analysis-20)
 
 [Tue 24th and Wed 25th Nov 2026, 2pm - 5pm (UK/London), online, PR Stats](https://prstats.org/course/advanced-r-for-spatial-analysis-argi01/)
 
