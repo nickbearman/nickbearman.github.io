@@ -18,6 +18,7 @@ website:
       - training-courses.qmd
       - training-materials.qmd
       - consultancy.qmd
+      - gis-support.qmd
       - writing-presentations.qmd
       - blog.qmd
     right:
