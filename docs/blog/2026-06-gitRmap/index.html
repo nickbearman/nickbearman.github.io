@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Nick Bearman">
+<meta name="dcterms.date" content="2026-06-24">
 
-<title>GIS Support – Nick Bearman</title>
+<title>Introducing: gitRmap / “Guitar Map” – Nick Bearman</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,22 +25,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-985aa47af68dae11cd4d235c71fb941e.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-255bb9699565efef3b08de918ab85faf.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-985aa47af68dae11cd4d235c71fb941e.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-255bb9699565efef3b08de918ab85faf.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,7 +70,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -78,7 +80,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Nick Bearman</span>
     </a>
   </div>
@@ -89,41 +91,41 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./why-learn-gis.html"> 
+    <a class="nav-link" href="../../why-learn-gis.html"> 
 <span class="menu-text">Why Learn GIS?</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./training-courses.html"> 
+    <a class="nav-link" href="../../training-courses.html"> 
 <span class="menu-text">Training Courses</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./training-materials.html"> 
+    <a class="nav-link" href="../../training-materials.html"> 
 <span class="menu-text">Training Materials</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./consultancy.html"> 
+    <a class="nav-link" href="../../consultancy.html"> 
 <span class="menu-text">Consultancy</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./gis-support.html" aria-current="page"> 
+    <a class="nav-link" href="../../gis-support.html"> 
 <span class="menu-text">GIS Support</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./writing-presentations.html"> 
+    <a class="nav-link" href="../../writing-presentations.html"> 
 <span class="menu-text">Writing &amp; Presentations</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./blog.html"> 
+    <a class="nav-link" href="../../blog.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="./blog.xml"> <i class="bi bi-rss" role="img">
+    <a class="nav-link" href="../../blog.xml"> <i class="bi bi-rss" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -143,9 +145,14 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#ad-hoc-support" id="toc-ad-hoc-support" class="nav-link active" data-scroll-target="#ad-hoc-support">Ad-hoc Support</a></li>
-  <li><a href="#ongoing-support" id="toc-ongoing-support" class="nav-link" data-scroll-target="#ongoing-support">Ongoing Support</a></li>
-  <li><a href="#how-it-works" id="toc-how-it-works" class="nav-link" data-scroll-target="#how-it-works">How it works</a></li>
+  <li><a href="#what-is-gitrmap" id="toc-what-is-gitrmap" class="nav-link active" data-scroll-target="#what-is-gitrmap">What is gitRmap?</a></li>
+  <li><a href="#where-did-gitrmap-come-from" id="toc-where-did-gitrmap-come-from" class="nav-link" data-scroll-target="#where-did-gitrmap-come-from">Where did gitRmap come from?</a></li>
+  <li><a href="#how-do-i-use-it" id="toc-how-do-i-use-it" class="nav-link" data-scroll-target="#how-do-i-use-it">How do I use it?</a>
+  <ul class="collapse">
+  <li><a href="#what-about-different-attributes-removing-the-popups-adding-images-or-links" id="toc-what-about-different-attributes-removing-the-popups-adding-images-or-links" class="nav-link" data-scroll-target="#what-about-different-attributes-removing-the-popups-adding-images-or-links">What about different attributes, removing the popups, adding images or links?</a></li>
+  <li><a href="#can-i-add-polygons-multiple-layers-or-something-else-that-isnt-supported" id="toc-can-i-add-polygons-multiple-layers-or-something-else-that-isnt-supported" class="nav-link" data-scroll-target="#can-i-add-polygons-multiple-layers-or-something-else-that-isnt-supported">Can I add polygons, multiple layers, or something else that isn’t supported?</a></li>
+  </ul></li>
+  <li><a href="#got-stuck-or-have-a-question" id="toc-got-stuck-or-have-a-question" class="nav-link" data-scroll-target="#got-stuck-or-have-a-question">Got stuck or have a question?</a></li>
   </ul>
 </nav>
     </div>
@@ -154,14 +161,32 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">GIS Support</h1>
-</div>
+<h1 class="title">Introducing: gitRmap / “Guitar Map”</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">communication</div>
+    <div class="quarto-category">GIS</div>
+    <div class="quarto-category">maps</div>
+    <div class="quarto-category">open source</div>
+  </div>
+  </div>
 
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Nick Bearman </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">June 24, 2026</p>
+    </div>
+  </div>
   
     
   </div>
@@ -171,94 +196,46 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>I offer ongoing GIS support for individuals and teams working with <strong>QGIS</strong> and <strong>R</strong>, so you have someone to turn to when things don’t go to plan or you want a second pair of eyes on your approach.</p>
-<p><em>I help you get unstuck, work efficiently, and build confidence in your own GIS skills along the way.</em></p>
-<p>Whether you need a one-off fix for a tricky problem or ongoing help as you work through a project, I can offer support that fits around your needs.</p>
-<hr>
-<div class="columns">
-<div class="column" style="width:45%;">
-<p><img src="images/qgis-3-44-splashscreen.png" class="img-fluid"></p>
-</div><div class="column" style="width:10%;">
-
-</div><div class="column" style="width:45%;">
-<p><img src="images/r-studio-splash-screen.png" class="img-fluid"></p>
-</div>
-</div>
-<hr>
-<section id="ad-hoc-support" class="level3">
-<h3 class="anchored" data-anchor-id="ad-hoc-support">Ad-hoc Support</h3>
-<p>Sometimes you just need a quick answer or a second opinion. This could be:</p>
-<ul>
-<li><strong>Troubleshooting</strong> — your map won’t render, a script throws an error, a join isn’t matching or something else.</li>
-<li><strong>Workflow review</strong> — checking whether your approach in QGIS or R is sound before you commit hours to it.</li>
-<li><strong>Quick questions</strong> — a short call or email exchange to point you in the right direction.</li>
-</ul>
-<p>This works well if you have a specific problem to solve and want it resolved without committing to a longer engagement.</p>
-<hr>
+<p>I’d like to introduce <strong>gitRmap</strong>: a semi-automated map of locations that you can add your own points to. It’s designed for people who are new to GIS, but who know a little bit of Git.</p>
+<p>You can create a map like the one below, with your own pins on it, just by following the quick start at <a href="https://nickbearman.com/gitRmap/">nickbearman.com/gitRmap</a>.</p>
+<p><img src="gitRmap.png" class="img-fluid"></p>
+<p>If you get stuck, I want to know! Message me, email me or <a href="https://github.com/nickbearman/gitRmap/issues/new">open an issue on GitHub</a>.</p>
+<section id="what-is-gitrmap" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-gitrmap">What is gitRmap?</h2>
+<p>I wanted to create a tool that made it easier for more people to make maps. There are plenty of tools out there for creating a web map, but for someone new to GIS they can be pretty intimidating.</p>
+<p>I was inspired by Michele Tobias’s <a href="https://github.com/MicheleTobias/traveling-gis-chat-book">Travelling GIS Chat Book map</a>, set up in 2023. The structure of gitRmap is much the same, and I’ve hopefully made it a easier to pick up and use.</p>
 </section>
-<section id="ongoing-support" class="level3">
-<h3 class="anchored" data-anchor-id="ongoing-support">Ongoing Support</h3>
-<p>For more involved or long-running projects, I can provide support on a regular basis, for example:</p>
-<ul>
-<li>A standing arrangement (e.g.&nbsp;a few hours per month) so you always have someone to call on when you need to.</li>
-<li>Support throughout your project, from initial data wrangling through to final map production or analysis.</li>
-<li>Help building and refining reproducible R workflows, or using Model Designer in QGIS.</li>
-<li>Developing more advanced QGIS or R skills within a team.</li>
-</ul>
-<p>This suits teams or individuals who want continuity, rather than starting from scratch with someone new each time they get stuck.</p>
-<div class="callout callout-style-default callout-tip callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-West Dorset Wilding
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>“Everyone in the team really enjoyed working with Nick and has really appreciated his prompt responses and the clear and efficient communication he provided. He was a great help when completing a complicated and time restricted project. We speak very highly of Nick here in the office!” <br> <em>Anna Wiscombe, Project Administrator</em> <br> <em>Nick Gray, Landscape Recovery Project Officer - Land</em> <br> <em>Dr Sam Rose, Executive Director</em></p>
-</div>
-</div>
-<hr>
+<section id="where-did-gitrmap-come-from" class="level2">
+<h2 class="anchored" data-anchor-id="where-did-gitrmap-come-from">Where did gitRmap come from?</h2>
+<p>In April 2025, I was at the <a href="https://open.science-retreat.org/">Open Science Retreat</a>, where I was asked to create a web map showing a series of points with some pop-up text. That’s a simple task for a GIS user — but the people asking weren’t GIS users. They did, however, know Git. Rather than just making the map for them, I wanted to give them the tools to make it themselves. I tweaked the Travelling GIS Chat Book map to create the <a href="https://nickbearman.com/open-science-activism-map/">Open Science Activism Map</a>.</p>
+<p>That did the job, but it wasn’t really complete, and I didn’t have time at the retreat to set everything up properly. So in December 2025, I applied for £500 from <a href="https://uk.osgeo.org/gofundgeo.html">OSGeo:UK’s GoFundGeo</a> to make it happen — and it was funded. Thanks, OSGeo:UK!</p>
+<p>It’s now all up and running, and I’d love for people to use it. Please spread the word!</p>
 </section>
-<section id="how-it-works" class="level3">
-<h3 class="anchored" data-anchor-id="how-it-works">How it works</h3>
-<p>Support can be delivered remotely by <strong>email</strong>, <strong>video call</strong>, or <strong>screen-sharing session</strong>, whatever suits the problem and how you like to work. I can also work directly with your data (subject to a data sharing agreement where needed).</p>
-<p>As with my <a href="https://nickbearman.com/consultancy.html">consultancy</a> work, pricing depends on the nature and length of support required. Please <a href="https://nickbearman.com/index.html">contact me</a> to discuss what you need and get a quote.</p>
-<hr>
-<div class="callout callout-style-default callout-tip callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Melissa Harrold, Project Assistant, Yeo Valley
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>“I liked how (the session) was tailored to our needs and accessible. Thank you so much! Very friendly and patient.”</p>
-</div>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="blog/2025-01-foss4g-belem-brazil/code-sprint-felipe.jpeg" class="img-fluid figure-img"></p>
-<figcaption>Working at the <a href="https://nickbearman.com/blog/2025-01-foss4g-belem-brazil/index.html">FOSS4G 2024</a> Code Sprint, thanks to Felipe Barros for the photo</figcaption>
-</figure>
-</div>
-<hr>
-<p>I have also previously worked with a wide range of organisations including National Trails UK, Red Bull, and the University of Portsmouth — see <a href="https://nickbearman.com/consultancy.html">consultancy</a> for more details and feedback from these projects.</p>
-<hr>
-<div class="columns">
-<div class="column" style="width:45%;">
-<p><img src="images/NTUK_Primary Logo_Black.png" class="img-fluid"></p>
-</div><div class="column" style="width:10%;">
-
-</div><div class="column" style="width:45%;">
-<p><img src="images/portsmouth-logo.png" class="img-fluid"></p>
-</div>
-</div>
-<hr>
-<p>If you’re looking for structured teaching rather than problem-solving support, take a look at my <a href="https://nickbearman.com/training-courses.html">training courses</a> and <a href="https://nickbearman.com/training-materials.html">training materials</a>. If you have a larger project you’d like help designing or delivering, see my <a href="https://nickbearman.com/consultancy.html">consultancy</a> page. If you are not sure <a href="https://nickbearman.com/index.html">reach out</a> and I will see how I can help you.</p>
+<section id="how-do-i-use-it" class="level2">
+<h2 class="anchored" data-anchor-id="how-do-i-use-it">How do I use it?</h2>
+<p>In brief:</p>
+<ul>
+<li>Go to the <a href="https://github.com/nickbearman/gitRmap/">gitRmap repo</a>.</li>
+<li><strong>Fork</strong> it.</li>
+<li>Setup <strong>GitHub Pages</strong>.</li>
+<li>Add the points you want on your map to <code>data/locations.csv</code> - you don’t need any coordinates, only a City and Country.</li>
+<li>Click <strong>Commit</strong>. GitHub Actions will <em>auto-magically</em> add coordinates to <code>locations.csv</code> and create the map - it will take about a minute.</li>
+<li>Go to <code>https://(username).github.io/gitRmap/</code> to see your map</li>
+</ul>
+<p>There’s more detail in the <a href="https://nickbearman.com/gitRmap/">quick start</a>, the <a href="https://nickbearman.com/gitRmap-docs/">full tutorial</a>, and a <a href="https://youtu.be/4L0VEnqRvwQ">setup video on YouTube</a>.</p>
+<section id="what-about-different-attributes-removing-the-popups-adding-images-or-links" class="level3">
+<h3 class="anchored" data-anchor-id="what-about-different-attributes-removing-the-popups-adding-images-or-links">What about different attributes, removing the popups, adding images or links?</h3>
+<p>All of this is doable — check out the <a href="https://nickbearman.com/gitRmap-docs">tutorial</a> and the <a href="https://nickbearman.com/gitRmap-docs/options.html">options page</a> for the details.</p>
+</section>
+<section id="can-i-add-polygons-multiple-layers-or-something-else-that-isnt-supported" class="level3">
+<h3 class="anchored" data-anchor-id="can-i-add-polygons-multiple-layers-or-something-else-that-isnt-supported">Can I add polygons, multiple layers, or something else that isn’t supported?</h3>
+<p>This tool is designed to keep things as simple as possible. I’m not planning to add multiple layers or polygons at this time.</p>
+</section>
+</section>
+<section id="got-stuck-or-have-a-question" class="level2">
+<h2 class="anchored" data-anchor-id="got-stuck-or-have-a-question">Got stuck or have a question?</h2>
+<p>Check out the <a href="https://nickbearman.com/gitRmap/">FAQ section</a>, or drop me a <a href="https://nickbearman.com">line</a>.</p>
+<p>If you ever want to talk about mapping or learning more about GIS, I’m always open to a discussion. Please <a href="https://nickbearman.com">contact me</a> to find out more!</p>
 
 
 </section>
