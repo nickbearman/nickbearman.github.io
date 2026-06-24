@@ -711,7 +711,7 @@
     "href": "blog/2026-06-gitRmap/index.html#what-is-gitrmap",
     "title": "Introducing: gitRmap / “Guitar Map”",
     "section": "What is gitRmap?",
-    "text": "What is gitRmap?\nI wanted to create a tool that made it easier for more people to make maps. There are plenty of tools out there for creating a web map, but for someone new to GIS they can be pretty intimidating.\nI was inspired by Michele Tobias’s Travelling GIS Chat Book map, set up in 2023. The structure of gitRmap is much the same, and I’ve hopefully made it a easier to pick up and use."
+    "text": "What is gitRmap?\nI wanted to create a tool that made it easier for more people to make maps. There are plenty of tools out there for creating a web map, but for someone new to GIS they can be pretty intimidating.\nI was inspired by Michele Tobias’s Travelling GIS Chat Book map, set up in 2023. The structure of gitRmap is much the same, and I’ve hopefully made it easier to pick up and use."
   },
   {
     "objectID": "blog/2026-06-gitRmap/index.html#where-did-gitrmap-come-from",

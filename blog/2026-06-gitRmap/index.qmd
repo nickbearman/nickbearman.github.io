@@ -3,7 +3,7 @@ title: 'Introducing: gitRmap / "Guitar Map"'
 author: "Nick Bearman"
 date: "2026-06-24"
 categories: [communication, GIS, maps, open source]
-image: "gitRmap.png"
+image: "gitRmap-header.png"
 ---
 
 I'd like to introduce **gitRmap**: a semi-automated map of locations that you can add your own points to. It's designed for people who are new to GIS, but who know a little bit of Git.

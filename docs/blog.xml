@@ -27,7 +27,7 @@
 <section id="what-is-gitrmap" class="level2">
 <h2 class="anchored" data-anchor-id="what-is-gitrmap">What is gitRmap?</h2>
 <p>I wanted to create a tool that made it easier for more people to make maps. There are plenty of tools out there for creating a web map, but for someone new to GIS they can be pretty intimidating.</p>
-<p>I was inspired by Michele Tobias’s <a href="https://github.com/MicheleTobias/traveling-gis-chat-book">Travelling GIS Chat Book map</a>, set up in 2023. The structure of gitRmap is much the same, and I’ve hopefully made it a easier to pick up and use.</p>
+<p>I was inspired by Michele Tobias’s <a href="https://github.com/MicheleTobias/traveling-gis-chat-book">Travelling GIS Chat Book map</a>, set up in 2023. The structure of gitRmap is much the same, and I’ve hopefully made it easier to pick up and use.</p>
 </section>
 <section id="where-did-gitrmap-come-from" class="level2">
 <h2 class="anchored" data-anchor-id="where-did-gitrmap-come-from">Where did gitRmap come from?</h2>
@@ -71,7 +71,7 @@
   <category>open source</category>
   <guid>https://nickbearman.github.io/blog/2026-06-gitRmap/</guid>
   <pubDate>Tue, 23 Jun 2026 23:00:00 GMT</pubDate>
-  <media:content url="https://nickbearman.github.io/blog/2026-06-gitRmap/gitRmap.png" medium="image" type="image/png" height="96" width="144"/>
+  <media:content url="https://nickbearman.github.io/blog/2026-06-gitRmap/gitRmap-header.png" medium="image" type="image/png" height="75" width="144"/>
 </item>
 <item>
   <title>GISRUK 2026: GIS that makes a difference</title>
