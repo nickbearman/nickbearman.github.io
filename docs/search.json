@@ -760,7 +760,7 @@
     "href": "installing-software/qgis.html#macos---apple-desktop",
     "title": "Installing Software - QGIS",
     "section": "macOS - Apple Desktop",
-    "text": "macOS - Apple Desktop\n\nOpen a web browser and go to http://www.qgis.org.\n\nClick Download on the bottom left.\n\n\n\nRead the information about how QGIS is funded - if you are taking a course through me, you can support QGIS by donating €20 and getting a QGIS certificate.\nClick Skip it and go to download.\n\n\n\n** Download LTR 3.44**.\nFollow through the installation wizard."
+    "text": "macOS - Apple Desktop\n\nOpen a web browser and go to http://www.qgis.org.\n\nClick Download on the bottom left.\n\n\n\nRead the information about how QGIS is funded - if you are taking a course through me, you can support QGIS by donating €20 and getting a QGIS certificate.\nClick Skip it and go to download.\n\n\n\nDownload LTR 3.44.\nFollow through the installation wizard."
   },
   {
     "objectID": "installing-software/qgis.html#linux---open-source-os",
