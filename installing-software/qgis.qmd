@@ -4,7 +4,7 @@
 
 We will be setting up QGIS. Follow the instructions below, depending on your operating system. Be aware that the installation can take a little bit of time - between 15 and 45 minutes, depending on your computer. 
 
-## Windows 
+## Windows - Desktop OS
 
 - Open a web browser and go to [http://www.qgis.org](http://www.qgis.org).  
 - Click **Download** on the bottom left.  
@@ -17,10 +17,10 @@ We will be setting up QGIS. Follow the instructions below, depending on your ope
 
 ![](images/qgis-skip-button.png)
 
-- Download **Long Term Version for Windows (3.40 LTR)**.
+- **Download LTR 3.44**.
 - Run through the program installation process.  
 
-## OSX
+## macOS - Apple Desktop
 
 - Open a web browser and go to [http://www.qgis.org](http://www.qgis.org).  
 - Click **Download** on the bottom left.  
@@ -33,7 +33,7 @@ We will be setting up QGIS. Follow the instructions below, depending on your ope
 
 ![](images/qgis-skip-button.png)
 
-- Download **Regular Version for macOS**.
+- **Download LTR 3.44**.
 - Follow through the installation wizard.  
 
 <!-- QGIS Mac should now be signed, so don't need the below as at 2026-02-11 
@@ -46,7 +46,7 @@ We will be setting up QGIS. Follow the instructions below, depending on your ope
 
 -->
 
-## Linux
+## Linux - Open Source OS
 
 - Open a web browser and go to [http://www.qgis.org](http://www.qgis.org).  
 - Click **Download** on the bottom left.  
@@ -59,7 +59,7 @@ We will be setting up QGIS. Follow the instructions below, depending on your ope
 
 ![](images/qgis-skip-button.png)
 
-- Follow the instructions for the appropriate Linux distribution to install the latest long term release version (currently 3.40).  
+- Follow the instructions for the appropriate Linux distribution to install the latest long term release version (currently 3.44).  
 
 
 You are good to go!

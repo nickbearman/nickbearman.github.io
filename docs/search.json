@@ -747,5 +747,26 @@
     "title": "Introducing: gitRmap / “Guitar Map”",
     "section": "Got stuck or have a question?",
     "text": "Got stuck or have a question?\nCheck out the FAQ section, or drop me a line.\nIf you ever want to talk about mapping or learning more about GIS, I’m always open to a discussion. Please contact me to find out more!"
+  },
+  {
+    "objectID": "installing-software/qgis.html#windows---desktop-os",
+    "href": "installing-software/qgis.html#windows---desktop-os",
+    "title": "Installing Software - QGIS",
+    "section": "Windows - Desktop OS",
+    "text": "Windows - Desktop OS\n\nOpen a web browser and go to http://www.qgis.org.\n\nClick Download on the bottom left.\n\n\n\nRead the information about how QGIS is funded - if you are taking a course through me, you can support QGIS by donating €20 and getting a QGIS certificate.\nClick Skip it and go to download.\n\n\n\nDownload LTR 3.44.\nRun through the program installation process."
+  },
+  {
+    "objectID": "installing-software/qgis.html#macos---apple-desktop",
+    "href": "installing-software/qgis.html#macos---apple-desktop",
+    "title": "Installing Software - QGIS",
+    "section": "macOS - Apple Desktop",
+    "text": "macOS - Apple Desktop\n\nOpen a web browser and go to http://www.qgis.org.\n\nClick Download on the bottom left.\n\n\n\nRead the information about how QGIS is funded - if you are taking a course through me, you can support QGIS by donating €20 and getting a QGIS certificate.\nClick Skip it and go to download.\n\n\n\n** Download LTR 3.44**.\nFollow through the installation wizard."
+  },
+  {
+    "objectID": "installing-software/qgis.html#linux---open-source-os",
+    "href": "installing-software/qgis.html#linux---open-source-os",
+    "title": "Installing Software - QGIS",
+    "section": "Linux - Open Source OS",
+    "text": "Linux - Open Source OS\n\nOpen a web browser and go to http://www.qgis.org.\n\nClick Download on the bottom left.\n\n\n\nRead the information about how QGIS is funded - if you are taking a course through me, you can support QGIS by donating €20 and getting a QGIS certificate.\nClick Skip it and go to download.\n\n\n\nFollow the instructions for the appropriate Linux distribution to install the latest long term release version (currently 3.44).\n\nYou are good to go!\nThis work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/deed.en. The latest version of this is available from https://nickbearman.github.io/installing-software/qgis."
   }
 ]
