@@ -19,7 +19,7 @@ My courses are constantly being developed to take advantage of the latest change
 
 |              | Introductory         | Advanced                               |
 |--------------|-----------------------------------|-----------------------|
-| **R** | [Intro to R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis)  *Aug 2026* & *Nov 2026*   | [Advanced R and Spatial Statistics](#advanced-R-as-a-gis-spatial-analysis-and-statistics)  *Aug 2026* & *Nov 2026* |  
+| **R** | [Intro to R as a GIS](#introduction-to-spatial-data-using-r-as-a-gis)   *Nov 2026*   | [Advanced R and Spatial Statistics](#advanced-R-as-a-gis-spatial-analysis-and-statistics)   *Nov 2026* |  
 | **QGIS**     |  [Intro to QGIS](#introduction-to-qgis-understanding-and-presenting-spatial-data)  *Oct 2026*            | [Advanced QGIS](#advanced-qgis-spatial-analysis) *Oct 2026*    |
 
 If you would like a course run for a group of you, or have any questions, then please do [contact me](index.html) or email [nick\@nickbearman.com](mailto:nick\@nickbearman.com) to discuss your needs and get a quote.
@@ -67,7 +67,7 @@ In this two half day course we will explore how to use R to import, manage and p
 
 No previous experience of coding is required, although participants would benefit from some experience of using spatial data (e.g. Google Maps).
 
-[Tue 18th and Wed 19th Aug 2026, 2pm - 5pm (UK/London), online, InStats](https://instats.org/seminar/introduction-to-spatial-data-and-r-as-a-4)
+<!-- [Tue 18th and Wed 19th Aug 2026, 2pm - 5pm (UK/London), online, InStats](https://instats.org/seminar/introduction-to-spatial-data-and-r-as-a-4) -->
 
 [Tue 17th and Wed 18th Nov 2026, 2pm - 5pm (UK/London), online, PR Stats](https://prstats.org/course/introduction-to-spatial-data-analysis-and-gis-workflows-in-r-irgi01/)
 
@@ -75,7 +75,7 @@ No previous experience of coding is required, although participants would benefi
 
 <!-- [No dates currently scheduled, please join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
 
-*[You can also access this course in an On-Demand format via InStats](https://instats.org/seminar/introduction-to-spatial-data-and-r-as-a-3).* *This gives you access to training materials, the recordings, and a discussion forum if you have questions, for 30 days.*
+*[You can also access this course in an On-Demand format via InStats](https://instats.org/seminar/introduction-to-spatial-data-and-r-as-a-5).* *This gives you access to training materials, the recordings, and a discussion forum if you have questions, for 30 days.*
 
 *I run this course regularly, so if you would like to attend a live version please [join my mailing list to hear when new dates are confirmed.](mailing-list.html)*
 
@@ -114,7 +114,7 @@ In this two part course we will show you how to prepare and conduct spatial anal
 
 <!-- [Tue 19th and Wed 20th May 2026, 10am – 1pm (UK/London), online, NCRM](https://www.ncrm.ac.uk/training/show.php?article=14377) -->
 
-[Tue 25th and Wed 26th Aug 2026, 2pm - 5pm (UK/London), online, InStats](https://instats.org/seminar/advanced-r-for-spatial-analysis-20)
+<!-- [Tue 25th and Wed 26th Aug 2026, 2pm - 5pm (UK/London), online, InStats](https://instats.org/seminar/advanced-r-for-spatial-analysis-20) -->
 
 [Tue 24th and Wed 25th Nov 2026, 2pm - 5pm (UK/London), online, PR Stats](https://prstats.org/course/advanced-r-for-spatial-analysis-argi01/)
 
@@ -123,7 +123,7 @@ In this two part course we will show you how to prepare and conduct spatial anal
 
 <!-- [No dates currently scheduled, please join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
 
-*You can also access this course in an On-Demand format via InStats: [Advanced R for Spatial Analysis](https://instats.org/seminar/advanced-r-for-spatial-analysis) and [Spatial Statistics in R](https://instats.org/seminar/spatial-statistics-in-r). This gives you access to training materials, the recordings, and a discussion forum if you have questions, for 30 days.*
+*[You can also access this course in an On-Demand format via InStats](https://instats.org/seminar/advanced-r-for-spatial-analysis-20-1). This gives you access to training materials, the recordings, and a discussion forum if you have questions, for 30 days.*
 
 *I run this course regularly, so if you would like to attend a live version please [join my mailing list to hear when new dates are confirmed.](mailing-list.html)*
 
@@ -150,7 +150,7 @@ In this two part introductory course we will give you an overview on how GIS wor
 
 <!-- [No dates currently scheduled, please join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
 
-*[You can also access this course in an On-Demand format via InStats.](https://instats.org/seminar/introduction-to-qgis-and-spatial-data-20) This gives you access to training materials, the recordings, and a discussion forum if you have questions, for 30 days.*
+*[You can also access this course in an On-Demand format via InStats.](https://instats.org/seminar/introduction-to-qgis-and-spatial-data-20-1) This gives you access to training materials, the recordings, and a discussion forum if you have questions, for 30 days.*
 
 *I run this course regularly, so if you would like to attend a live version please [join my mailing list to hear when new dates are confirmed.](mailing-list.html)*
 
@@ -188,7 +188,7 @@ This advanced two part course will develop your skills of using spatial data, in
 
 <!-- [No dates currently scheduled, please join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
 
-*[You can also access this course in an On-Demand format via InStats.](https://instats.org/seminar/advanced-qgis-spatial-analysis-20) This gives you access to training materials, the recordings, and a discussion forum if you have questions, for 30 days.*
+*[You can also access this course in an On-Demand format via InStats.](https://instats.org/seminar/advanced-qgis-spatial-analysis-1) This gives you access to training materials, the recordings, and a discussion forum if you have questions, for 30 days.*
 
 *I run this course regularly, so if you would like to attend a live version please [join my mailing list to hear when new dates are confirmed.](mailing-list.html)*
 
