@@ -8,6 +8,17 @@ image: "qgis-4-0-norrkoping-header.png"
 
 ![](qgis-4-0-norrkoping.png)
 
+:::{.callout-important}
+## Update 12th Oct 2026 - next LTR will be QGIS 4.4, released 5th March 2027
+
+QGIS 4.2 is now out, but it is not the new LTR version. 
+
+This is a change to the original plan, as QGIS 4.x is not as stable as the PSC (Project Steering Committee) would like, so they have decided to release 4.2 a normal, but not change the LTR until 4.4 
+
+See this [blog post](https://blog.qgis.org/2026/10/03/release-schedule-changes-for-next-qgis-ltr/) for more details, and if you are interested in how this decision took place, as QGIS is an open project, you can see the discussions on the [QGIS Developer](https://lists.osgeo.org/mailman/listinfo/qgis-developer) mailing list, specifically the thread [here](https://lists.osgeo.org/pipermail/qgis-developer/2026-September/068511.html). 
+
+:::
+
 QGIS 4.0 is now available! But yes, you have read my title correctly - I would recommend many people don't upgrade.... yet. 
 
 QGIS 4.0 is an 'Early Adopter' version - which means that there are new things in there that may break. I would also say for many basic users (and some intermediate users) there isn't much new that's changed, so you are not missing out on much (see below for some new things coming up).
