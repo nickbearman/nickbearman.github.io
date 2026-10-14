@@ -188,7 +188,7 @@ This advanced two part course will develop your skills of using spatial data, in
 
 <!-- [No dates currently scheduled, please join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
 
-*[You can also access this course in an On-Demand format via InStats.](https://instats.org/seminar/advanced-qgis-spatial-analysis-1) This gives you access to training materials, the recordings, and a discussion forum if you have questions, for 30 days.*
+*[You can also access this course in an On-Demand format via InStats.](https://instats.org/seminar/advanced-qgis-spatial-analysis-20-1) This gives you access to training materials, the recordings, and a discussion forum if you have questions, for 30 days.*
 
 *I run this course regularly, so if you would like to attend a live version please [join my mailing list to hear when new dates are confirmed.](mailing-list.html)*
 
