@@ -9,8 +9,119 @@
 <link>https://nickbearman.github.io/blog.html</link>
 <atom:link href="https://nickbearman.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>A blog on my teaching, open source GIS, travel and life</description>
-<generator>quarto-1.7.27</generator>
-<lastBuildDate>Tue, 23 Jun 2026 23:00:00 GMT</lastBuildDate>
+<generator>quarto-1.7.31</generator>
+<lastBuildDate>Tue, 29 Sep 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>FOSS4G 2026, Hiroshioma, Japan - All About the People!</title>
+  <dc:creator>Nick Bearman</dc:creator>
+  <link>https://nickbearman.github.io/blog/2026-09-foss4g-2026/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I was fortunate enough to be able to attend FOSS4G in Hiroshima, Japan, my third international FOSS4G conference. Japan is an amazing country - I have included some extra photos at the bottom if you are interested, and also a practical tip about booking trains!</p>
+<p>Hiroshima is a fantastic setting, and we were based in the International Conference Centre, right next to the Peace Memorial Park commemorating lives lost when the nuclear weapon was dropped on Hiroshima during World War II, and their continuing campaign for nuclear disarmament and wider peace. The museum is well worth a visit if you ever have the opportunity, a thought provoking and humbling experience.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://nickbearman.github.io/blog/2026-09-foss4g-2026/hiroshima_dome.jpg" class="img-fluid figure-img"></p>
+<figcaption>The Hiroshima Bomb Dome, the only structure left standing in the area where the first atomic bomb exploded on 6 August 1945.</figcaption>
+</figure>
+</div>
+<section id="foss4g-2026" class="level3">
+<h3 class="anchored" data-anchor-id="foss4g-2026">FOSS4G 2026</h3>
+<p>The FOSS4G conference was excellent and an amazing opportunity to meet people, make new friends and refresh existing friendships. This year 828 people met together to talk about open source geospatial software, share their work and get comments and feedback.</p>
+<p>One big topic (but not the only topic!) was AI, or more specifically Generative AI and Large Language Models. Many people are using them - and there were some really interesting presentations about the benefits of them, and new ideas of how we might work with them. One great presentation was <a href="https://talks.osgeo.org/foss4g-2026/talk/RT8SMH/">Teaching AI to Contribute to Open Source: Lessons from MapLibre Agent Skills</a> where Stephanie May shared the experience of MapLibre working with AI agents. There was also a significant amount of discussion about not using AI, for a number of different reasons.</p>
+<p>There is a larger discussion going on in the OSGeo and QGIS communities about the impact of these tools. A number of PRs have been submitted, particularly for QGIS, which are very hard to review and result in the core contributors wasting a lot of time trying to understand these changes. As a result, there is discussion about banning AI use with the QGIS codebase. This is still under active discussion, and as QGIS is an open project, you can see (and take part in if you want to) the discussions - for example via the <a href="https://lists.osgeo.org/pipermail/qgis-developer/">QGIS Developer list</a> and QEPs on the QGIS GitHub page <a href="https://github.com/qgis/QGIS-Enhancement-Proposals/pull/388">here</a> and <a href="https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387">here</a>.</p>
+<p>OSGeo made a statement that they are not taking a view on LLM usage and that it is for the individual projects to decide. This was mentioned in the opening ceremony and in the <a href="https://wiki.osgeo.org/wiki/Board_Meeting_2026-07-28#AI_policy_discussion">OSGeo Board meeting minutes</a>. Since this has been adopted, there has been a motion put forward to change this. It is a rapidly moving field, and sometimes I find it quite hard to keep up with developments.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://nickbearman.github.io/blog/2026-09-foss4g-2026/osgeo-ai.jpg" class="img-fluid figure-img"></p>
+<figcaption>The OSGeo statement on AI, on 1st Sept 2026.</figcaption>
+</figure>
+</div>
+<p>There was also a great <a href="https://talks.osgeo.org/foss4g-2026/talk/P9XGVU/">AMA (Ask Me Anything)</a> session on QGIS run by Marco Bernasocchi where people could ask anything they wanted to. I discovered the difference between a CRS (Coordinate Reference System) and a SRS (Spatial Reference System) - CRS is usual in QGIS, but SRS appears occasionally. A SRS includes a geoid, a CRS does not. Also one of the many limitations of the shapefile format is that you cannot reorder columns in it - in other formats, like geopackage, you can.</p>
+<p>During the main conference, I also presented <a href="https://talks.osgeo.org/foss4g-2026/talk/UYL89P/">gitRmap</a> as a lightning talk - it was great to share this tool with the world and get some useful feedback. One of the highlights for me was one of the keynote presentations <a href="https://talks.osgeo.org/foss4g-2026/talk/S9RDGB/">Sustaining Open Source: What We Can Learn from the Cooperative Model</a> where Ela Kagel discussed elements from the Cooperative Model that might be useful for the Open Source community, and I also learnt about <a href="https://coopcycle.org/en/">Coop Cycle</a>, a group of cooperative based cycle couriers.</p>
+</section>
+<section id="workshops" class="level3">
+<h3 class="anchored" data-anchor-id="workshops">Workshops</h3>
+<p>This year I had the opportunity to present a workshop at the conference. It was a great opportunity to share some R and GIS code with enthusiastic folks, and I also managed to sell a copy of my book, <a href="https://nickbearman.com/rgis.html">Using R as a GIS</a>, which is always a lovely feeling.</p>
+<p>We also explored the inner workings of GDAL Virtual File Systems and after a bit of experimenting managed to be able to download, extract and read in a shapefile in one line. I probably won’t be using it in the course - there’s a lot going on in that one line - but it’s a cool bit of code! Thanks! Check out <a href="https://gdal.org/en/stable/user/virtual_file_systems.html">https://gdal.org/en/stable/user/virtual_file_systems.html</a> for more details.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1">sthelens <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">st_read</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"/vsizip//vsicurl/http://www.nickbearman.com/files/sthelens_lsoa_2021.zip"</span>)</span></code></pre></div>
+</div>
+<p>I also attended three other workshops over the two days, including <a href="https://talks.osgeo.org/foss4g-2026-workshop/talk/SSQZQ3/">Discovering PostGIS: An Introduction for QGIS Users</a>, <a href="https://talks.osgeo.org/foss4g-2026-workshop/talk/UA8G9H/">30 Maps in 3 Hours</a> and <a href="https://talks.osgeo.org/foss4g-2026-workshop/talk/YVR8DV/">NextGIS Web for QGIS teams: from deployment to collaboration</a>. They were all really good workshops and one consistent thing across all of the workshops is people’s passion about the tools they are talking about and willingness to share this knowledge with others. I find the workshops some of the most interesting bits of the conference - and I couldn’t attend all that I wanted to. Fortunately most of the workshop convenors share their materials via <a href="https://talks.osgeo.org/foss4g-2026-workshop/schedule/">talks.osgeo.org</a> so the material is available to work through later on.</p>
+<p>The final day of the conference featured the code sprint, where I spent a bit of time working on gitRmap. I also received my first <a href="https://github.com/nickbearman/gitRmap/pull/6">PR</a> for this from <a href="https://github.com/yutannihilation">Hiroaki Yutani</a> working with me, so that was cool! I also managed to submit the first <a href="https://github.com/yutannihilation/ggplot2qgis/pull/23">PR</a> to his project ggplot2qgis as well, so a great day for collaboration!</p>
+<p>The conference is also a great time and place to meet people - I met a wide range of users and developers, some who I had heard of before and many who I had not. Everyone there is enthusiastic about open source geospatial and it is a special place to be. As usual, we had a group photo which is a great memory of the week:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://nickbearman.github.io/blog/2026-09-foss4g-2026/foss4g-2026-group-photo.jpg" class="img-fluid figure-img"></p>
+<figcaption>FOSS4G 2026 group photo - it’s all about the people!</figcaption>
+</figure>
+</div>
+</section>
+<section id="cagis-st-louis-usa" class="level3">
+<h3 class="anchored" data-anchor-id="cagis-st-louis-usa">CaGIS, St Louis, USA</h3>
+<p>The following week I was also fortunate to be able to attend the CaGIS (Cartography and Geographic Information Society) conference in St Louis, MO, USA. I work as Cartographic Editor for CaGIS so it was a great opportunity to meet colleagues and authors who I exchange many emails with but rarely meet in person. This conference has a much more academic flavour than FOSS4G, and is also much smaller - about 120 people. We had two days of conference and one day of workshops, and also there was Geo-Resolution as well, which is a one day conference for the Geospatial Intelligence and Defence communities, which have a large presence in St.&nbsp;Louis and the surrounding areas. It’s a very different flavour again and always interesting to see how different people use geospatial.</p>
+</section>
+<section id="booking-trains-in-japan" class="level3">
+<h3 class="anchored" data-anchor-id="booking-trains-in-japan">Booking Trains in Japan</h3>
+<p>My travel plans included getting the train from Tokyo to Hiroshima. While Hiroshima does have an airport, my flight into Japan came in to Tokyo. The Japanese train service has a very good reputation, and the journey from Tokyo to Hiroshima is ~4.5 hours, so I decided to take the train instead.</p>
+<p>In fact, the conference venue travel page explicitly states “There is no air service between Hiroshima and Osaka, Nagoya or Fukuoka. The JR railway lines provide convenient access instead.”</p>
+<p>Thanks to <a href="https://www.seat61.com/Japan.htm">Seat61</a>, I found the train information via <a href="https://booking.baolau.com/en/">Baolau</a>. Japanese trains don’t have advanced tickets - it is a flat fare whether you buy 1 month before or on the day. If you book ahead, you can reserve a seat, but for the journeys I’m making there are 2 or more trains an hour. So I booked the first one ahead of time (Tokyo to Hiroshima) but for the return journey, breaking in Kyoto, I will buy on the day.</p>
+<p><em>In the end I missed my scheduled train from Tokyo to Hiroshima - but you can just catch the next one, even with an advanced ticket. You just don’t get a reserved seat.</em></p>
+<div class="columns">
+<div class="column" style="width:45%;">
+<p>I also particularly liked this graphic from the ICC website, about how to travel to the conference centre:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://nickbearman.github.io/blog/2026-09-foss4g-2026/icc-hiroshima-e-access.png" class="img-fluid figure-img"></p>
+<figcaption>From https://www.pcf.city.hiroshima.jp/icch/location.html</figcaption>
+</figure>
+</div>
+</div><div class="column" style="width:45%;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://nickbearman.github.io/blog/2026-09-foss4g-2026/travelling-on-a-bullet-train.jpg" class="img-fluid figure-img"></p>
+<figcaption>Travelling on a Bullet Train</figcaption>
+</figure>
+</div>
+<hr>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://nickbearman.github.io/blog/2026-09-foss4g-2026/bento-boxes-lunch.jpg" class="img-fluid figure-img"></p>
+<figcaption>Lunch at the conference - Bento Boxes!</figcaption>
+</figure>
+</div>
+<hr>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://nickbearman.github.io/blog/2026-09-foss4g-2026/hiroshima_peace_park_night.jpg" class="img-fluid figure-img"></p>
+<figcaption>Hiroshima Peace Park at night</figcaption>
+</figure>
+</div>
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>conference</category>
+  <category>FOSS4G</category>
+  <category>in person</category>
+  <category>open source</category>
+  <category>train</category>
+  <guid>https://nickbearman.github.io/blog/2026-09-foss4g-2026/</guid>
+  <pubDate>Tue, 29 Sep 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://nickbearman.github.io/blog/2026-09-foss4g-2026/hiroshima_dome_header.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Introducing: gitRmap / “Guitar Map”</title>
   <dc:creator>Nick Bearman</dc:creator>
@@ -1590,43 +1701,6 @@ font-style: inherit;">"Total Population of Liverpool, 2021"</span>)</span></code
   <guid>https://nickbearman.github.io/blog/2022-11-foss4g-2022/</guid>
   <pubDate>Thu, 24 Nov 2022 00:00:00 GMT</pubDate>
   <media:content url="https://nickbearman.github.io/blog/2022-11-foss4g-2022/scnf-small.png" medium="image" type="image/png" height="143" width="144"/>
-</item>
-<item>
-  <title>FOSS4G:UK Local 2022</title>
-  <dc:creator>Nick Bearman</dc:creator>
-  <link>https://nickbearman.github.io/blog/2022-11-foss4guklocal2022/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>On PostGIS day last week, Thurs 17th Nov, we ran <a href="https://uk.osgeo.org/foss4guk2022local/">FOSS4G:UK Local 2022</a>. We were trying out a new model, with the conference distributed over 9 different physical venues (and online). I chaired three amazing keynotes, which were streamed to all the venues and on the internet. We then had 38 local presentations across the nine venues, with most of them streamed and recorded.</p>
-<p><img src="https://nickbearman.github.io/blog/2022-11-foss4guklocal2022/twitter.png" class="img-fluid"></p>
-<p>Overall the day went really well, and we had some great feedback from participants and presenters. One great aspect was once the presentations were completed, they were available on YouTube more or less instantly.</p>
-<p>We had 246 people attending in person, and I think reached about another 50 online. Anyone could watch the streams online so it’s tricky to know exactly, but the first keynote had about 100 views as it finished, so assuming some double counting (people in the rooms who were on the YouTube stream) I think we can say we reached about 300 people. This is much greater than our usual in person conferences so I’m pleased to say we managed to increase our reach and get more people involved in FOSS4G:UK.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://nickbearman.github.io/blog/2022-11-foss4guklocal2022/screenshot.png" class="img-fluid figure-img"></p>
-<figcaption>(Some of) the local venues, including Keyworth, Glasgow, Leeds, London, Cardiff and Southampton (we also had Bovey Tracy, Bristol and Manchester, not shown)</figcaption>
-</figure>
-</div>
-<p>Our multi venue streaming didn’t quite work out as planned initially – our first session had some technical problems so a number of the talks didn’t stream. But everyone was very forgiving, so thanks to all the good will in the community.</p>
-<p>For the keynotes, we had a Jitsi meeting which each of the venues and presentors joined. We could then share cameras as usual in a video conferencing meeting, and it was great to see all of the venues share their cameras in the welcome section:</p>
-<p>The Jitsi call was then streamed to YouTube. We then collated questions via the YouTube chat and the Matrix room we had running. Theoretically we people could have asked questions in the room (relayed via the Admin WhatsApp group we were running) but it was easier for people to type directly in the Matrix room or YouTube chat, even if they were physically in the room. See this post (coming soon, I will circulate to the OSGeo:UK mailing list when published) for some more technical details, and lessons learned.</p>
-<p>We’re very much looking forward to the next one, and I hope you can be involved – join the <a href="https://lists.osgeo.org/mailman/listinfo/uk">OSGeo:UK mailing list</a> to stay up to date.</p>
-
-
-
- ]]></description>
-  <category>conference</category>
-  <category>FOSS4G:UK</category>
-  <category>GIS</category>
-  <category>in person</category>
-  <category>open source</category>
-  <category>remote</category>
-  <guid>https://nickbearman.github.io/blog/2022-11-foss4guklocal2022/</guid>
-  <pubDate>Tue, 22 Nov 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://nickbearman.github.io/blog/2022-11-foss4guklocal2022/screenshot.png" medium="image" type="image/png" height="77" width="144"/>
 </item>
 </channel>
 </rss>

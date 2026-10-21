@@ -34,7 +34,7 @@
   </url>
   <url>
     <loc>https://nickbearman.github.io/blog.html</loc>
-    <lastmod>2024-09-20T08:45:30.000Z</lastmod>
+    <lastmod>2024-09-20T08:45:28.966Z</lastmod>
   </url>
   <url>
     <loc>https://nickbearman.github.io/blog/2026-04-genai-r-maps/index.html</loc>
@@ -183,5 +183,9 @@
   <url>
     <loc>https://nickbearman.github.io/blog/2026-06-gitRmap/index.html</loc>
     <lastmod>2026-06-24T11:46:17.568Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nickbearman.github.io/blog/2026-09-foss4g-2026/index.html</loc>
+    <lastmod>2026-10-21T16:12:59.411Z</lastmod>
   </url>
 </urlset>
