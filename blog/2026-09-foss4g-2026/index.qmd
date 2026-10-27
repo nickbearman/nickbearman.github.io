@@ -67,7 +67,7 @@ Thanks to [Seat61](https://www.seat61.com/Japan.htm), I found the train informat
 
 I also particularly liked this graphic from the ICC website, about how to travel to the conference centre:
 
-![From https://www.pcf.city.hiroshima.jp/icch/location.html](icc-hiroshima-e-access.png)
+![From [https://www.pcf.city.hiroshima.jp/icch/location.html](https://www.pcf.city.hiroshima.jp/icch/location.html)](icc-hiroshima-e-access.png)
 
 ::::
 :::: {.column width="45%"}
