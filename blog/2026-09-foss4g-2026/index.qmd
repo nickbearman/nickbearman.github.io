@@ -1,5 +1,5 @@
 ---
-title: 'FOSS4G 2026, Hiroshioma, Japan - All About the People!'
+title: 'FOSS4G 2026, Hiroshima, Japan - All About the People!'
 author: "Nick Bearman"
 date: "2026-09-30"
 categories: [conference, FOSS4G, in person, open source, train]
