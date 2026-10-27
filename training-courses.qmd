@@ -146,7 +146,7 @@ In this two part introductory course we will give you an overview on how GIS wor
 
 <!-- [Tue 20th and Wed 21st Oct 2026, 2pm - 5pm (UK/London), online, PR Stats](https://prstats.org/course/introduction-to-qgis-and-spatial-data-analysis-workflows-iqgi01/) -->
 
-[Tue 27th and Wed 28th Apr 2027, 10am – 1pm (UK/London), online, NCRM](https://www.ncrm.ac.uk/training/show.php?article=14368)
+[Tue 27th and Wed 28th Apr 2027, 10am – 1pm (UK/London), online, NCRM](https://www.ncrm.ac.uk/training/show.php?article=14921)
 
 <!-- [No dates currently scheduled, please join my mailing list to hear when new dates are confirmed.](mailing-list.html) -->
 
